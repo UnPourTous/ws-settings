@@ -191,4 +191,53 @@
 
 
 
+  <!--flexWrap-->
+  <template name="flexWrap_wrap" value="flexWrap: 'wrap',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="flexWrap_nowrap" value="flexWrap: 'nowrap',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+
+  <!--direction-->
+  <template name="direction_inherit" value="direction: 'inherit',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="direction_ltr" value="direction: 'ltr',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="direction_rtl" value="direction: 'rtl',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+
+
+  <!--display-->
+  <template name="display_none" value="display: 'none',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="display_flex" value="display: 'flex',&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+
+
+  <!--flex-->
+  <template name="flex_1" value="flex: 1,&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
