@@ -92,8 +92,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548164209674">
-        <mark key="'" line="6" column="13" />
+      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548164892577">
+        <mark key="'" line="173" column="0" />
+        <mark key="[" line="185" column="26" />
+        <mark key="]" line="185" column="26" />
+        <mark key="^" line="185" column="26" />
+        <mark key="." line="185" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/actionsReducer.js" timestamp="1548144914725">
         <mark key="'" line="12" column="19" />
@@ -140,14 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="21" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableMask.js" />
-      <jump line="65" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
-      <jump line="10" column="2" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
-      <jump line="25" column="17" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
-      <jump line="30" column="7" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableHighlight.js" />
-      <jump line="36" column="19" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
-      <jump line="11" column="17" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" />
       <jump line="1" column="44" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/README.md" />
       <jump line="169" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/README.md" />
@@ -239,7 +235,15 @@
       <jump line="485" column="24" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="490" column="39" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="488" column="10" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
-      <jump line="6" column="13" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="6" column="14" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="20" column="2" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="30" column="1" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="34" column="2" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="33" column="3" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="65" column="12" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="71" column="36" filename="$USER_HOME$/tmp/react-native.xml" />
+      <jump line="173" column="0" filename="$USER_HOME$/tmp/react-native.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -267,8 +271,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>scroll</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1042,13 +1046,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>scroll</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWRVJTSU9OX1BBVEhcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>appRouterPath</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8dGVtcGxhdGUgbmFtZT0ib3ZlcmZsb3dfc2Nyb2xsIiB2YWx1ZT0ib3ZlcmZsb3c6ICdzY3JvbGwnLCYjMTA7IiBkZXNjcmlwdGlvbj0iIiB0b1JlZm9ybWF0PSJmYWxzZSIgdG9TaG9ydGVuRlFOYW1lcz0idHJ1ZSI+CiAgICA8Y29udGV4dD4KICAgICAgPG9wdGlvbiBuYW1lPSJKQVZBX1NDUklQVCIgdmFsdWU9InRydWUiIC8+CiAgICA8L2NvbnRleHQ+CiAgPC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1070,19 +1074,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMj5oGi5aSN5p6E5bu66L+H56iL55qE5paH5Lu2IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCiMgZWNobyAi5oGi5aSN5p6E5bu66L+H56iL55qE5paH5Lu2Li4uIgojIGVjaG8gImdpdCBjaGVja291dCAkQkFTRV9ESVIvd3d3L2FuZHJvaWQtaDUtdmVyc2lvbi5qc29uICRCQVNFX0RJUi9hbmRyb2lkLWNmZy5qc29uIgojIGVjaG8gImdpdCBjaGVja291dCB3d3cvanMvYXBwLWNvbmZpZy5qcyBwbGF0Zm9ybXMvYW5kcm9pZC9zcmMvY29tL3dlYmFuay93ZW1vbmV5L2xvZ2ljL0FwcENvbmZpZy5qYXZhIHBsYXRmb3Jtcy9hbmRyb2lkL3Jlcy92YWx1ZXMvc3RyaW5ncy54bWwgcGxhdGZvcm1zL2FuZHJvaWQvYXNzZXRzL2FuZHJvaWQtaDUtdmVyc2lvbi5qc29uIgojIGdpdCBjaGVja291dCAkQkFTRV9ESVIvd3d3L2FuZHJvaWQtaDUtdmVyc2lvbi5qc29uICRCQVNFX0RJUi9hbmRyb2lkLWNmZy5qc29uCiMgZ2l0IGNoZWNrb3V0IHd3dy9qcy9hcHAtY29uZmlnLmpzIHBsYXRmb3Jtcy9hbmRyb2lkL3NyYy9jb20vd2ViYW5rL3dlbW9uZXkvbG9naWMvQXBwQ29uZmlnLmphdmEgcGxhdGZvcm1zL2FuZHJvaWQvcmVzL3ZhbHVlcy9zdHJpbmdzLnhtbCBwbGF0Zm9ybXMvYW5kcm9pZC9hc3NldHMvYW5kcm9pZC1oNS12ZXJzaW9uLmpzb24KIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMj5oGi5aSN5p6E5bu66L+H56iL55qE5paH5Lu2IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiAqL3JlcXVpcmUoJy4vRVNjZW5lJykuZGVmYXVsdCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjcmVlbjogcmVxdWlyZSgnLi8ke3NjZW5lTmFtZX0vYWN0aW9uc1JlZHVjZXInKS5kZWZhdWx0KHJlcXVpcmUoJy4vJHtzY2VuZU5hbWV9JykuZGVmYXVsdCksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lyoge3smaW5zZXJ0Um91dGVySXRlbX19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1121,7 +1125,6 @@
         <entry encoding="base64">XDxWRVJTSU9OX1BBVEhcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>288</entry>
         <entry>W</entry>
         <entry>17</entry>
         <entry>50</entry>
@@ -1140,6 +1143,7 @@
         <entry>510</entry>
         <entry>101</entry>
         <entry>we</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
