@@ -92,6 +92,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548164209674">
+        <mark key="'" line="6" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/actionsReducer.js" timestamp="1548144914725">
         <mark key="'" line="12" column="19" />
         <mark key="[" line="3" column="36" />
@@ -137,7 +140,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="28" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
       <jump line="11" column="21" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableMask.js" />
       <jump line="65" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
       <jump line="10" column="2" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
@@ -237,6 +239,7 @@
       <jump line="485" column="24" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="490" column="39" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="488" column="10" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
+      <jump line="6" column="13" filename="$USER_HOME$/tmp/react-native.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
