@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8571d84e-d3b7-4a36-bf72-4ab818d6c28e" name="hk.23lab.com" url="http://hk.23lab.com/">
+        <fileTransfer host="hk.23lab.com" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/erichua/app/parse" accessType="SFTP" keyPair="true" username="23lab" password="dfc2dfdfdfcbdfdedfc3dfc4dfcddf92df98df99df98df92df98df92">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

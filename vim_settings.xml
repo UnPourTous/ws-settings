@@ -1,0 +1,1520 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/node_modules/react-navigation/src/views/CardStack/CardStack.js" timestamp="1543991259283">
+        <mark key="[" line="345" column="12" />
+        <mark key="]" line="345" column="11" />
+        <mark key="^" line="345" column="11" />
+        <mark key="." line="345" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/routers.js" timestamp="1547812516441">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/Tplus1MoreInfoScene/Tplus1MoreInfoScene.js" timestamp="1547521133306">
+        <mark key="[" line="54" column="97" />
+        <mark key="]" line="54" column="96" />
+        <mark key="^" line="54" column="96" />
+        <mark key="." line="54" column="96" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/utils/URLUtils.js" timestamp="1548041648770">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/actionsReducer.js" timestamp="1548071669240">
+        <mark key="'" line="19" column="11" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="47" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/BannerService.js" timestamp="1544067221823">
+        <mark key="[" line="36" column="133" />
+        <mark key="]" line="36" column="132" />
+        <mark key="^" line="36" column="132" />
+        <mark key="." line="36" column="132" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/node_modules/react-navigation/src/navigators/StackNavigator.js" timestamp="1543991156680">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="7" />
+        <mark key="^" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/navigation/dynamic/dyRouterRequire.js" timestamp="1547811485971">
+        <mark key="[" line="2" column="70" />
+        <mark key="]" line="2" column="68" />
+        <mark key="." line="2" column="68" />
+        <mark key="^" line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1547101137353">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/ProductDetailScene/ProductDetailScene.js" timestamp="1547605848767">
+        <mark key="'" line="1020" column="34" />
+        <mark key="[" line="778" column="12" />
+        <mark key="]" line="778" column="11" />
+        <mark key="^" line="778" column="11" />
+        <mark key="." line="778" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/index.js" timestamp="1548072244336">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="59" column="26" />
+        <mark key="]" line="59" column="24" />
+        <mark key="." line="59" column="24" />
+        <mark key="^" line="59" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" timestamp="1546412897759">
+        <mark key="[" line="206" column="89" />
+        <mark key="]" line="206" column="88" />
+        <mark key="^" line="206" column="88" />
+        <mark key="." line="206" column="88" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/constants/GrayBiz.js" timestamp="1547446626368">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="35" column="36" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/netWorth/services/NetWorthProdInfoService.js" timestamp="1547520982132">
+        <mark key="[" line="1072" column="55" />
+        <mark key="]" line="1072" column="54" />
+        <mark key="." line="1072" column="54" />
+        <mark key="^" line="1072" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/container/AppContainer.js" timestamp="1547798404332">
+        <mark key="'" line="11" column="2" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/utils/index.js" timestamp="1547812332748">
+        <mark key="'" line="34" column="10" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/PlanService.js" timestamp="1547557315443">
+        <mark key="[" line="83" column="5" />
+        <mark key="]" line="85" column="4" />
+        <mark key="^" line="85" column="4" />
+        <mark key="." line="85" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/api/index.js" timestamp="1548071659462">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/actionsReducer.js" timestamp="1547090241551">
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="35" />
+        <mark key="^" line="51" column="35" />
+        <mark key="." line="51" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/reducer.js" timestamp="1547730605652">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548041569567">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/index.js" timestamp="1547730352703">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshi/app/src/network/core/CookieInterceptor.js" timestamp="1547176920687">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="30" column="1" />
+        <mark key="^" line="30" column="1" />
+        <mark key="." line="30" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" timestamp="1548138348650">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/fund/services/FundProdInfoService.js" timestamp="1547520103037">
+        <mark key="[" line="626" column="63" />
+        <mark key="]" line="626" column="62" />
+        <mark key="^" line="626" column="62" />
+        <mark key="." line="626" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/values/colors.js" timestamp="1548139902285">
+        <mark key="'" line="24" column="27" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" timestamp="1548067415126">
+        <mark key="'" line="1" column="44" />
+        <mark key="[" line="44" column="74" />
+        <mark key="]" line="44" column="73" />
+        <mark key="^" line="44" column="73" />
+        <mark key="." line="44" column="73" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/node_modules/redux-logger/src/diff.js" timestamp="1545623438098">
+        <mark key="[" line="61" column="6" />
+        <mark key="]" line="61" column="5" />
+        <mark key="^" line="61" column="5" />
+        <mark key="." line="61" column="5" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/GuestTabs/unLoginHome/UnLoginHomeTab.js" timestamp="1543398100425">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="33" />
+        <mark key="." line="76" column="28" />
+        <mark key="^" line="76" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/actionsReducer.js" timestamp="1546593161632">
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="7" />
+        <mark key="^" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1548053761165">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="17" column="2" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1547520040311">
+        <mark key="[" line="633" column="158" />
+        <mark key="]" line="633" column="157" />
+        <mark key="^" line="633" column="157" />
+        <mark key="." line="633" column="157" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/fund/cgi/index.js" timestamp="1548055931539">
+        <mark key="[" line="30" column="6" />
+        <mark key="]" line="30" column="5" />
+        <mark key="^" line="30" column="5" />
+        <mark key="." line="30" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/scripts/gulpfile.js" timestamp="1548138024565">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/navigation/AppNavigator.js" timestamp="1547811650690">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/values/dimens.js" timestamp="1547811935917">
+        <mark key="'" line="49" column="35" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/index.js" timestamp="1547438028762">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="64" />
+        <mark key="^" line="7" column="64" />
+        <mark key="." line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/completeUserInfo/OcrResultScene/OcrResultScene.js" timestamp="1543991778177">
+        <mark key="[" line="194" column="4" />
+        <mark key="]" line="194" column="3" />
+        <mark key="^" line="194" column="3" />
+        <mark key="." line="194" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/bizComponents/index.js" timestamp="1547732009558">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1547178215499">
+        <mark key="[" line="178" column="8" />
+        <mark key="]" line="178" column="7" />
+        <mark key="^" line="178" column="7" />
+        <mark key="." line="178" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/index.js" timestamp="1547728642506">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/HomeScene/components/HistoryTab.js" timestamp="1546413688678">
+        <mark key="[" line="81" column="30" />
+        <mark key="]" line="81" column="29" />
+        <mark key="^" line="81" column="29" />
+        <mark key="." line="81" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" timestamp="1548042972512">
+        <mark key="'" line="132" column="21" />
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="132" column="21" />
+        <mark key="^" line="132" column="21" />
+        <mark key="." line="132" column="21" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1547101252001">
+        <mark key="[" line="100" column="6" />
+        <mark key="]" line="100" column="5" />
+        <mark key="^" line="100" column="5" />
+        <mark key="." line="100" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/container/components/RetryDialog.js" timestamp="1548071326128">
+        <mark key="'" line="59" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/README.md" timestamp="1548068066508">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="0" column="50" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/FinancialV2Tab.js" timestamp="1547540528573">
+        <mark key="[" line="252" column="13" />
+        <mark key="]" line="253" column="14" />
+        <mark key="." line="253" column="14" />
+        <mark key="^" line="253" column="14" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/services/Tplus1AssetService.js" timestamp="1545806746871">
+        <mark key="[" line="79" column="71" />
+        <mark key="]" line="79" column="71" />
+        <mark key="^" line="79" column="71" />
+        <mark key="." line="79" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/utils/filters/index.js" timestamp="1547731731636">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/App.js" timestamp="1548140626535">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableMask.js" timestamp="1548067174407">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="58" column="20" />
+        <mark key="^" line="58" column="20" />
+        <mark key="." line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" timestamp="1548067270933">
+        <mark key="'" line="36" column="19" />
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="15" />
+        <mark key="." line="26" column="15" />
+        <mark key="^" line="25" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/container/actionsReducer.js" timestamp="1547811627844">
+        <mark key="'" line="7" column="30" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableOpacity.js" timestamp="1548057353870">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/.gitignore" timestamp="1548057678377">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="61" column="11" />
+        <mark key="^" line="61" column="11" />
+        <mark key="." line="61" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" timestamp="1548041529520">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/uiComponents/index.js" timestamp="1548071492835">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshi/server/lab/xg-test.js" timestamp="1545989740647">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/navigation/dynamic/dyReducerRequire.js" timestamp="1547811466291">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/GrayService.js" timestamp="1547534641687">
+        <mark key="[" line="99" column="61" />
+        <mark key="]" line="100" column="14" />
+        <mark key="^" line="100" column="14" />
+        <mark key="." line="100" column="14" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/gulpfile.js" timestamp="1548138180248">
+        <mark key="[" line="234" column="34" />
+        <mark key="]" line="234" column="33" />
+        <mark key="." line="234" column="33" />
+        <mark key="^" line="234" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/gulpfile.js" timestamp="1548138969473">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="44" column="6" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/equity/EquityTab.js" timestamp="1547540641134">
+        <mark key="[" line="503" column="4" />
+        <mark key="]" line="503" column="9" />
+        <mark key="^" line="503" column="9" />
+        <mark key="." line="503" column="9" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/MyProductDetailScene/MyProductDetailScene.js" timestamp="1544099052453">
+        <mark key="[" line="338" column="16" />
+        <mark key="]" line="338" column="15" />
+        <mark key="^" line="338" column="15" />
+        <mark key="." line="338" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableHighlight.js" timestamp="1548058007295">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="32" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/Tplus1PurchaseResultScene/Tplus1PurchaseResultScene.js" timestamp="1545805632552">
+        <mark key="[" line="178" column="54" />
+        <mark key="]" line="178" column="53" />
+        <mark key="^" line="178" column="53" />
+        <mark key="." line="178" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/package.json" timestamp="1548068749313">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/uiComponents/ext/index.js" timestamp="1548071434903">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="60" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+        <mark key="^" line="0" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" timestamp="1548041955257">
+        <mark key="'" line="100" column="49" />
+        <mark key="[" line="14" column="35" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" timestamp="1548057992508">
+        <mark key="'" line="30" column="7" />
+        <mark key="[" line="80" column="2" />
+        <mark key="]" line="80" column="1" />
+        <mark key="." line="80" column="1" />
+        <mark key="^" line="80" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" timestamp="1548139752916">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/services/Tplus1Service.js" timestamp="1547521004745">
+        <mark key="[" line="13" column="109" />
+        <mark key="]" line="13" column="108" />
+        <mark key="^" line="13" column="108" />
+        <mark key="." line="13" column="108" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/container/cgi/index.js" timestamp="1548072297867">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/plugins/index.js" timestamp="1547811824052">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/constants/DisplayAreaType.js" timestamp="1547519905104">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="444" column="2" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="14" column="9" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="160" column="9" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="140" column="36" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="145" column="20" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="12" column="11" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="132" column="21" filename="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="9" column="38" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/actionsReducer.js" />
+      <jump line="26" column="28" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="109" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="58" column="6" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="107" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="92" column="4" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="65" column="35" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="64" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" />
+      <jump line="20" column="4" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="8" column="9" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="9" column="7" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="94" column="7" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="18" column="14" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/utils/URLUtils.js" />
+      <jump line="16" column="12" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="116" column="9" filename="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" />
+      <jump line="102" column="22" filename="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" />
+      <jump line="82" column="14" filename="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" />
+      <jump line="101" column="5" filename="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" />
+      <jump line="100" column="49" filename="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/index.js" />
+      <jump line="13" column="21" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableHighlight.js" />
+      <jump line="79" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="31" column="17" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="23" column="15" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="22" column="15" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="21" column="21" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="20" column="13" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="19" column="19" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="52" column="69" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="4" column="7" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="73" column="8" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
+      <jump line="89" column="11" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
+      <jump line="24" column="21" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
+      <jump line="17" column="16" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="18" column="14" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="21" column="26" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
+      <jump line="90" column="28" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="11" column="21" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableMask.js" />
+      <jump line="65" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="25" column="17" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="30" column="7" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableHighlight.js" />
+      <jump line="36" column="19" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" />
+      <jump line="11" column="17" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" />
+      <jump line="1" column="44" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/README.md" />
+      <jump line="169" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/README.md" />
+      <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/README.md" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/soga/src/uiComponents/ext/index.js" />
+      <jump line="59" column="25" filename="$USER_HOME$/Projects/soga/src/core/container/components/RetryDialog.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/Projects/soga/src/uiComponents/index.js" />
+      <jump line="21" column="11" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/actionsReducer.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/soga/src/core/index.js" />
+      <jump line="61" column="17" filename="$USER_HOME$/Projects/soga/src/core/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/soga/src/core/index.js" />
+      <jump line="774" column="34" filename="$USER_HOME$/Projects/soga/src/core/container/cgi/index.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/soga/src/core/container/cgi/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulpfile.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulpfile.js" />
+      <jump line="196" column="2" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
+      <jump line="247" column="0" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
+      <jump line="23" column="6" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" />
+      <jump line="15" column="1" filename="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" />
+      <jump line="4" column="21" filename="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="51" column="17" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="18" column="21" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="20" column="28" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="133" column="53" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="134" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="210" column="24" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="12" column="31" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
+      <jump line="175" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="170" column="13" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
+      <jump line="24" column="27" filename="$USER_HOME$/Projects/soga/src/core/values/colors.js" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="38" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+      </register>
+      <register name="b" type="4">
+        <keys>
+          <key char="94" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="c" type="4">
+        <text>^f_x~f_</text>
+      </register>
+      <register name="j" type="4">
+        <keys>
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="59" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="123" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="82" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="69" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="89" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="65535" code="8" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="41" code="0" mods="0" />
+          <key char="46" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="84" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="42" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="68" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="86" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="120" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="104" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="61" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="45" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="10" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>config.basePath + '.tpl/' + config.appName + '/moduleTpl'</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxkeVJvdXRlclw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBzY2VuZVRlc3RUcGxQYXRoID0gY29uZmlnLnNjZW5lVGVzdEZpbGVQYXRoCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <keys>
+          <key char="98" code="0" mods="0" />
+          <key char="94" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17ewogICAgICAgICAgZmxleDogMSwKICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgIGFsaWduU2VsZjogJ3N0cmV0Y2gnLAogICAgICAgIH19Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFzX3N0cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFsaWduU2VsZjogJ3N0cmV0Y2gnLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGp1c3QK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxkeVJvdXRlclw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxkeVJvdXRlclw+</last-pattern>
+      <last-replace>\r</last-replace>
+      <last-substitute encoding="base64">XDxyZXF1ZXN0UGxlZGdlTG9hbkluZm9cPg==</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
+        <entry encoding="base64">XDxaaWxlYW5cPg==</entry>
+        <entry encoding="base64">XDxXZUJhc2VTY2VuZVw+</entry>
+        <entry encoding="base64">XDxDaGFydFZpZXdcPg==</entry>
+        <entry encoding="base64">XDxhZGRMaXN0ZW5lclw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVSZWFjdE5hdmlnYXRpb25SZWR1eE1pZGRsZXdhcmVcPg==</entry>
+        <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxpc0VxdWFsXD4=</entry>
+        <entry encoding="base64">XDxfaXNFcXVhbFw+</entry>
+        <entry encoding="base64">XDxQcm9wVHlwZXNcPg==</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry encoding="base64">XDxoaWdobGlnaHRcPg==</entry>
+        <entry encoding="base64">XDxDSElMRF9SRUZcPg==</entry>
+        <entry encoding="base64">XDxTZXJ2ZXJFbnZcPg==</entry>
+        <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
+        <entry encoding="base64">XDxnZXRBbGxGaWxlVW5kZXJEaXJcPg==</entry>
+        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
+        <entry encoding="base64">XDx0cGxcPg==</entry>
+        <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
+        <entry encoding="base64">XDxkeVJvdXRlclw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>52</entry>
+        <entry>288</entry>
+        <entry>W</entry>
+        <entry>17</entry>
+        <entry>50</entry>
+        <entry>70</entry>
+        <entry>224</entry>
+        <entry>662</entry>
+        <entry>206</entry>
+        <entry>77</entry>
+        <entry>12</entry>
+        <entry>161</entry>
+        <entry>352</entry>
+        <entry>599</entry>
+        <entry>420</entry>
+        <entry>500</entry>
+        <entry>708</entry>
+        <entry>510</entry>
+        <entry>101</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

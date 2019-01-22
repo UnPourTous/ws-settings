@@ -1,0 +1,66 @@
+<templateSet group="werich_rn">
+  <template name="importWeApi" value="import WeApi from '../../network/api/WeApi'&#10;import CGI from '../../network/api/CGI'" description="import WeApi and CGI" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="act" value="export const $actionName$ = () =&gt; {&#10;  return {&#10;    type: '$TYPE$',&#10;    payload: {&#10;      $KEY$: '$VALUE$'&#10;    }&#10;  } &#10;}" description="simple action template" toReformat="false" toShortenFQNames="true">
+    <variable name="actionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reqGet" value="WeApi.get(CGI.$CGI$, {$PARAM$}).then(response =&gt; {&#10;  $END$&#10;}, error =&gt; {&#10;  console.log(error)&#10;})" description="request with weapi" toReformat="false" toShortenFQNames="true">
+    <variable name="CGI" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reqPost" value="WeApi.post(CGI.$CGI$, {$PARAM$}).then(response =&gt; {&#10;  $END$&#10;}, error =&gt; {&#10;  console.log(error)&#10;})" description="request with weapi" toReformat="false" toShortenFQNames="true">
+    <variable name="CGI" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="then" value="then(response =&gt; {&#10;  $END$&#10;}, error =&gt; {&#10;  console.log(error)&#10;})" description="promise then" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cgi" value="  $requestKey$: {&#10;    path: '$path$',&#10;    desc: '$desc$',&#10;    method: METHOD.$method$,&#10;    request: {$request$},&#10;    response: {$response$}&#10;  }," description="" toReformat="false" toShortenFQNames="true">
+    <variable name="requestKey" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="request" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="response" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="reqRequest" value="WeApi.request(CGI.$CGI$, {$PARAM$}).then(response =&gt; {&#10;  $END$&#10;}, error =&gt; {&#10;  console.log(error)&#10;})" description="request with weapi" toReformat="false" toShortenFQNames="true">
+    <variable name="CGI" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="actReq" value="export const $actionName$ = (namespace) =&gt; {&#10;  return (dispatch) =&gt; {&#10;    return WeApi.request(CGI.$actionName$, {}).then(response =&gt; {&#10;      if (!response || !response.ret_data) {&#10;        console.log('response is null')&#10;        return&#10;      }&#10;      const $storeKey$ = response.ret_data&#10;      dispatch({&#10;        type: '$actionName$Success',&#10;        namespace,&#10;        payload: {&#10;          $storeKey$&#10;        }&#10;      })&#10;      return response&#10;    }, error =&gt; {&#10;      console.log(error)&#10;      dispatch({&#10;        type: '$actionName$Fail',&#10;        namespace,&#10;        payload: {&#10;           &#10;        }&#10;      })&#10;      return error&#10;    })&#10;  }&#10;}" description="simple action template" toReformat="false" toShortenFQNames="true">
+    <variable name="actionName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="storeKey" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="cpnt" value="class $name$ extends Component {&#10;  static propTypes = {&#10;    style: View.propTypes.style&#10;  }&#10;&#10;  render () {&#10;    return (&#10;      &lt;View style={[this.props.style]}&gt;&#10;        &#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="新的component" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
