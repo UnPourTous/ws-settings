@@ -68,11 +68,11 @@
         <mark key="." line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/soga/node_modules/@unpourtous/react-native-touchable/library/WeTouchable.js" timestamp="1548142971196" />
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" timestamp="1548147284489">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" timestamp="1548151866415">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/ProductDetailScene/ProductDetailScene.js" timestamp="1547605848767">
         <mark key="'" line="1020" column="34" />
@@ -505,7 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
       <jump line="31" column="17" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
       <jump line="23" column="15" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
       <jump line="22" column="15" filename="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" />
@@ -605,6 +604,7 @@
       <jump line="16" column="2" filename="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" />
       <jump line="21" column="14" filename="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" />
       <jump line="7" column="13" filename="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -632,8 +632,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'ChartExampleScene'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvKiAqL3JlcXVpcmUoJy4vRVNjZW5lJykuZGVmYXVsdCwK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1416,7 +1416,7 @@
         <text>appRouterPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAvKiAqL3JlcXVpcmUoJy4vRVNjZW5lJykuZGVmYXVsdCwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1426,30 +1426,30 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNjcmVlbjogcmVxdWlyZSgnLi8ke3NjZW5lTmFtZX0vYWN0aW9uc1JlZHVjZXInKS5kZWZhdWx0KHJlcXVpcmUoJy4vJHtzY2VuZU5hbWV9JykuZGVmYXVsdCksCg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lyoge3smaW5zZXJ0Um91dGVySXRlbX19Cg==</text>
+        <text encoding="base64">ICAgIHNjcmVlbjogcmVxdWlyZSgnLi8ke3NjZW5lTmFtZX0vYWN0aW9uc1JlZHVjZXInKS5kZWZhdWx0KHJlcXVpcmUoJy4vJHtzY2VuZU5hbWV9JykuZGVmYXVsdCksCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Lyoge3smaW5zZXJ0Um91dGVySXRlbX19Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAubWFwKChpdGVtID0+ICh7CiAgICBbaXRlbV06CiAgfSkpKQoK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
       screen: item
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Li4uCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uOiAoKSA9PiAoewogICAgICB0aXRsZTogJycKICAgIH0pCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
