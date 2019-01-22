@@ -1,0 +1,7 @@
+<templateSet group="react-native">
+  <template name="test" value="test asd f s" description="test" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
