@@ -14,11 +14,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" timestamp="1548142931523">
-        <mark key="'" line="25" column="3" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" timestamp="1548144602085">
+        <mark key="'" line="19" column="3" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="3" />
+        <mark key="." line="21" column="3" />
+        <mark key="^" line="21" column="3" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/Tplus1MoreInfoScene/Tplus1MoreInfoScene.js" timestamp="1547521133306">
         <mark key="[" line="54" column="97" />
@@ -108,6 +109,12 @@
       <file name="$USER_HOME$/Projects/soga/src/utils/index.js" timestamp="1547812332748">
         <mark key="'" line="34" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548144546390">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/PlanService.js" timestamp="1547557315443">
         <mark key="[" line="83" column="5" />
         <mark key="]" line="85" column="4" />
@@ -194,7 +201,7 @@
         <mark key="^" line="64" column="7" />
         <mark key="." line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1548143344983">
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1548144178594">
         <mark key="'" line="10" column="68" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -343,6 +350,13 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="61" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/actionsReducer.js" timestamp="1548144671215">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" timestamp="1548041529520">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -468,12 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
-      <jump line="58" column="6" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
-      <jump line="107" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
-      <jump line="92" column="4" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
-      <jump line="65" column="35" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
       <jump line="64" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
       <jump line="62" column="0" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" />
@@ -568,6 +576,12 @@
       <jump line="20" column="39" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
       <jump line="18" column="12" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
       <jump line="9" column="68" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="30" column="31" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="43" column="4" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="19" column="3" filename="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" />
+      <jump line="12" column="19" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/actionsReducer.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -596,7 +610,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1379,7 +1393,7 @@
         <text>appRouterPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1389,28 +1403,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQVBwCg==</text>
+        <text encoding="base64">Ly8gVE9ETyDov5nkuKpjb25ubmV05piv5LiN5piv5Lmf5Y+v5Lul56e75Ye66L+Z5Liq5paH5Lu2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFdlVG91Y2hhYmxlIGZyb20gJ0B1bnBvdXJ0b3VzL3JlYWN0LW5hdGl2ZS10b3VjaGFibGUvbGlicmFyeS9XZVRvdWNoYWJsZScKCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY29ubmVjdChBU2NlbmUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogKi9pbXBvcnQgQlNjZW5lIGZyb20gJy4vQlNjZW5lJwovKiAqL2ltcG9ydCBDU2NlbmUgZnJvbSAnLi9DU2NlbmUnCg==</text>
+        <text encoding="base64">ICBXZUJhc2VTY2VuZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKiAqL1tCU2NlbmVdOiB7CiAgICBzY3JlZW46IEJTY2VuZSwKICAgIG5hdmlnYXRpb25PcHRpb25zOiAoKSA9PiAoewogICAgICB0aXRsZTogJ0JTY2VuZScKICAgIH0pCiAgfSwKICAvKiAqL1tDU2NlbmVdOiB7CiAgICBzY3JlZW46IENTY2VuZSwKICAgIG5hdmlnYXRpb25PcHRpb25zOiAoKSA9PiAoewogICAgICB0aXRsZTogJ0NTY2VuZScKICAgIH0pCiAgfSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiAqL1tCU2NlbmVdOiBCU2NlbmUucmVkdWNlciwKICAvKiAqL1tDU2NlbmVdOiBDU2NlbmUucmVkdWNlciwK</text>
+        <text encoding="base64">ICAgICAgQVBwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogKi9pbXBvcnQgQlNjZW5lIGZyb20gJy4vQlNjZW5lJwovKiAqL2ltcG9ydCBDU2NlbmUgZnJvbSAnLi9DU2NlbmUnCg==</text>
+        <text encoding="base64">aW1wb3J0IFdlVG91Y2hhYmxlIGZyb20gJ0B1bnBvdXJ0b3VzL3JlYWN0LW5hdGl2ZS10b3VjaGFibGUvbGlicmFyeS9XZVRvdWNoYWJsZScKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHBOYW1lOiAnLicsCg==</text>
+        <text encoding="base64">LyogKi9pbXBvcnQgQlNjZW5lIGZyb20gJy4vQlNjZW5lJwovKiAqL2ltcG9ydCBDU2NlbmUgZnJvbSAnLi9DU2NlbmUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAvKiAqL1tCU2NlbmVdOiB7CiAgICBzY3JlZW46IEJTY2VuZSwKICAgIG5hdmlnYXRpb25PcHRpb25zOiAoKSA9PiAoewogICAgICB0aXRsZTogJ0JTY2VuZScKICAgIH0pCiAgfSwKICAvKiAqL1tDU2NlbmVdOiB7CiAgICBzY3JlZW46IENTY2VuZSwKICAgIG5hdmlnYXRpb25PcHRpb25zOiAoKSA9PiAoewogICAgICB0aXRsZTogJ0NTY2VuZScKICAgIH0pCiAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
