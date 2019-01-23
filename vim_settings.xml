@@ -16,11 +16,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1548234438199">
-        <mark key="[" line="182" column="12" />
-        <mark key="]" line="182" column="13" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1548236965364">
+        <mark key="'" line="107" column="40" />
+        <mark key="[" line="180" column="22" />
+        <mark key="]" line="180" column="22" />
         <mark key="^" line="182" column="13" />
-        <mark key="." line="182" column="13" />
+        <mark key="." line="180" column="22" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/scripts/dyLoad/astTransformRouter.1.js" timestamp="1548231422052">
         <mark key="'" line="99" column="3" />
@@ -53,6 +54,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1548237663870">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
+        <mark key="^" line="51" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
@@ -88,9 +95,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548211223186">
-        <mark key="'" line="1" column="4" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/reducer.js" timestamp="1548231793568" />
       <file name="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" timestamp="1548041529520">
         <mark key="[" line="4" column="0" />
@@ -119,9 +123,6 @@
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/transfer/routers.js" timestamp="1548231952033" />
     </filemarks>
     <jumps>
-      <jump line="20" column="28" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
-      <jump line="133" column="53" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
       <jump line="134" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
       <jump line="210" column="24" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
       <jump line="12" column="31" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
@@ -219,6 +220,9 @@
       <jump line="536" column="4" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
       <jump line="351" column="8" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
       <jump line="10" column="44" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" />
+      <jump line="209" column="10" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" />
+      <jump line="107" column="40" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -246,8 +250,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>50</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1021,16 +1025,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0R5TG9hZFw+</text>
+        <text encoding="base64">XDxvblNjcm9sbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAnNTAnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRvdGFsQXNzZXRDYXJkCiAgICAgICAgICAgICAgdG90YWxBc3NldD17dG90YWxQYXJhbXMudG90YWxBbW91bnR9CiAgICAgICAgICAgICAgeWVzdGVyZGF5UHJvZml0PXt0b3RhbFBhcmFtcy55ZXN0ZXJkYXlUb3RhbEluY29tZX0KICAgICAgICAgICAgICB0b3RhbEVhcm5pbmdzPXt0b3RhbFBhcmFtcy50b3RhbEVhcm5pbmdzfQogICAgICAgICAgICAgIHRvdGFsTGlhYmlsaXR5PXt0b3RhbFBhcmFtcy50b3RhbExpYWJpbGl0eX0KICAgICAgICAgICAgICBzaG93TGlhYmlsaXR5PXt0b3RhbFBhcmFtcy5zaG93TGlhYmlsaXR5fQogICAgICAgICAgICAgIGlzU2hvd0Fzc2V0cz17aXNTaG93QXNzZXRzfQogICAgICAgICAgICAgIG9uVG9nZ2xlQXNzZXRzPXsoKSA9PiB0aGlzLm9uVG9nZ2xlQXNzZXRzKCl9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0R5TG9hZCkgewo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1040,37 +1044,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0R5TG9hZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmlsZXNXaXRoQm9tPSQoZ3JlcCAtciAtSSAtbCAkJ15ceEVGXHhCQlx4QkYnIGBmaW5kIHd3dyAtbmFtZSAqLmNzcyB8IHhhcmdzIC1MIDFgIHwgd2MgLWwpCmlmIFsgJGZpbGVzV2l0aEJvbSAtZ3QgMCBdO3RoZW4KICBlY2hvICIhISEhISEhISEhISHkuIvliJfmlofku7blkKvmnIlCT03lpLQsIOivt+S/ruaUueWQjue7p+e7reaJk+WMhSEhISEhISEhISEhISIKICBncmVwIC1yIC1JIC1sICQnXlx4RUZceEJCXHhCRicgYGZpbmQgd3d3IC1uYW1lICouY3NzIHwgeGFyZ3MgLUwgMWAKICBleGl0IC0xCmZpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmlsZXNXaXRoQm9tPSQoZ3JlcCAtciAtSSAtbCAkJ15ceEVGXHhCQlx4QkYnIGBmaW5kIHd3dyAtbmFtZSAqLmNzcyB8IHhhcmdzIC1MIDFgIHwgd2MgLWwpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0IHJldCA9IHRoaXMucHJvcHMucmVmcmVzaFVzZXJXZWFsdGgoKQogICAgICAgICAgICB3ZWJhbmtDYXJkTm8gJiYgdGhpcy5wcm9wcy5yZXF1ZXN0SW5jb21lRGF0YSh3ZWJhbmtDYXJkTm8sIHRydWUpCiAgICAgICAgICAgIHRoaXMucHJvcHMucmVxdWVzdEZpbmFuY2VMaXN0KHRydWUpCiAgICAgICAgICAgIHRoaXMucHJvcHMucmVxdWVzdEludmVzdG1lbnRMaXN0KG51bGwsIHRydWUpCiAgICAgICAgICAgIHRoaXMucHJvcHMucmVxdWVzdEJhbm5lcnModHJ1ZSkKICAgICAgICAgICAgcmV0dXJuIHJldAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgo8VmlldyBzdHlsZT17ewogIGZsZXg6IDEsCiAgICBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywKICAgIGFsaWduQ29udGVudDogJ3N0cmV0Y2gnLAogICAgYWxpZ25TZWxmOiAnc3RyZXRjaCcsCiAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICBmbGV4V3JhcDogJ25vd3JhcCcsCn19Pgo8VmlldyBzdHlsZT17W3sKCiAgfSwgdGhpcy5wcm9wcy5zdHlsZV19Pgo8L1ZpZXc+CjxUZXh0PkFTY2VuZTwvVGV4dD4KPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgIGlmIChpc0R5TG9hZCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Vmlldz4KICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0R5TG9hZCkgewo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHN0eWxlPXt7CiAgICAgICAgfX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0R5TG9hZFw+</last-search>
+      <last-search encoding="base64">XDxvblNjcm9sbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0R5TG9hZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvblNjcm9sbFw+</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">XDxyZXF1ZXN0UGxlZGdlTG9hbkluZm9cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1078,7 +1082,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBbGxGaWxlVW5kZXJEaXJcPg==</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
         <entry encoding="base64">XDx0cGxcPg==</entry>
         <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
@@ -1098,6 +1101,7 @@
         <entry encoding="base64">XDxzaW5lc1w+</entry>
         <entry encoding="base64">XDxmaWxlc1dpdGhCb21cPg==</entry>
         <entry encoding="base64">XDxpc0R5TG9hZFw+</entry>
+        <entry encoding="base64">XDxvblNjcm9sbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
