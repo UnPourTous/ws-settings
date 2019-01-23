@@ -112,10 +112,11 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548211331821">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548211207214">
+        <mark key="[" line="43" column="29" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548211223186">
         <mark key="'" line="1" column="4" />
@@ -386,7 +387,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvX2FsaQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvX2FjZgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1169,7 +1170,7 @@
         <text encoding="base64">ZGlzcGxheTogJ25vbmUnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvX2FsaQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxvX2FjZgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1179,28 +1180,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxvX2FjZgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIGxvX2FsaW4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICdyb3ctcmV2ZXJzZScsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGFpYwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGFsaWduSQo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIGFpOgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICA8Vmlldy8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
