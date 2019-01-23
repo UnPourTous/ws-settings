@@ -16,6 +16,12 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1548234438199">
+        <mark key="[" line="182" column="12" />
+        <mark key="]" line="182" column="13" />
+        <mark key="^" line="182" column="13" />
+        <mark key="." line="182" column="13" />
+      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/scripts/dyLoad/astTransformRouter.1.js" timestamp="1548231422052">
         <mark key="'" line="99" column="3" />
       </file>
@@ -24,12 +30,6 @@
         <mark key="]" line="9" column="35" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" timestamp="1548151866415">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548231126475">
         <mark key="[" line="43" column="0" />
@@ -41,24 +41,18 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1548234108475">
+        <mark key="[" line="210" column="73" />
+        <mark key="]" line="210" column="72" />
+        <mark key="^" line="210" column="72" />
+        <mark key="." line="210" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548212165817">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/BScene/BScene.js" timestamp="1548145484231">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/values/colors.js" timestamp="1548139902285">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
@@ -103,12 +97,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/uiComponents/index.js" timestamp="1548071492835">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/navigation/dynamic/dyReducerRequire.js" timestamp="1547811466291">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -121,7 +109,7 @@
         <mark key="." line="490" column="3" />
         <mark key="^" line="490" column="3" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1548232894042" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1548234016089" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/routers.js" timestamp="1548231913357" />
       <file name="$USER_HOME$/Projects/soga/src/plugins/index.js" timestamp="1547811824052">
         <mark key="[" line="0" column="0" />
@@ -258,8 +246,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0R5TG9hZCkgewo=</text>
+      <register name="&quot;" type="4">
+        <text>50</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1033,13 +1021,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXtbeyB9LCB0aGlzLnByb3BzLnN0eWxlXX0=</text>
+        <text>50</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0R5TG9hZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICBmbGV4OiAxLAogICAgICAgIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogICAgICAgIGFsaWduQ29udGVudDogJ3N0cmV0Y2gnLAogICAgICAgIGFsaWduU2VsZjogJ3N0cmV0Y2gnLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICBmbGV4V3JhcDogJ25vd3JhcCcsCiAgICAgIH19PgogICAgICAgIDxWaWV3IHN0eWxlPXtbewogICAgICAgICAgCiAgICAgICAgfSwgdGhpcy5wcm9wcy5zdHlsZV19PgogICAgICAgIDwvVmlldz4KICAgICAgICA8VGV4dD5BU2NlbmU8L1RleHQ+CiAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAnNTAnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIChpc0R5TG9hZCkgewo=</text>
