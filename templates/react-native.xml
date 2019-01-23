@@ -1,202 +1,243 @@
 <templateSet group="react-native">
-  <template name="alignItems_center" value="alignItems: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_alignItems_center" value="alignItems: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignItems_flex-start" value="alignItems: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignItems_flex-start" value="alignItems: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignItems_flex-end" value="alignItems: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignItems_flex-end" value="alignItems: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignItems_stretch" value="alignItems: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignItems_stretch" value="alignItems: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignItems_baseline" value="alignItems: 'baseline',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignItems_baseline" value="alignItems: 'baseline',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignSelf_center" value="alignSelf: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+
+
+  <template name="lo_alignSelf_center" value="alignSelf: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignSelf_flex-start" value="alignSelf: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignSelf_flex-start" value="alignSelf: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignSelf_flex-end" value="alignSelf: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignSelf_flex-end" value="alignSelf: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignSelf_stretch" value="alignSelf: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignSelf_stretch" value="alignSelf: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignSelf_baseline" value="alignSelf: 'baseline',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignSelf_baseline" value="alignSelf: 'baseline',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignContentCenter" value="alignContent: 'center',&#10;" description="alignContent_center" toReformat="false" toShortenFQNames="true">
+
+
+
+  <template name="lo_alignContent_center" value="alignContent: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignContent_flex-start" value="alignContent: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignContent_flex-start" value="alignContent: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
+
   <template name="lo_alignContent_flex-end" value="alignContent: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignContent_stretch" value="alignContent: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignContent_stretch" value="alignContent: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignContent_space-between" value="alignContent: 'space-between',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignContent_space-between" value="alignContent: 'space-between',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignContent_space-around" value="alignContent: 'space-around',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <template name="lo_alignContent_space-around" value="alignContent: 'space-around',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_center" value="justifyContent: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <!--justifyContent-->
+  <template name="lo_justifyContent_center" value="justifyContent: 'center',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_flex-start" value="justifyContent: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_justifyContent_flex-start" value="justifyContent: 'flex-start',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_flex-end" value="justifyContent: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_justifyContent_flex-end" value="justifyContent: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_stretch" value="justifyContent: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_justifyContent_stretch" value="justifyContent: 'stretch',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_space-between" value="justifyContent: 'space-between',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_justifyContent_space-between" value="justifyContent: 'space-between',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_space-around" value="justifyContent: 'space-around',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_justifyContent_space-around" value="justifyContent: 'space-around',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="justifyContent_space-evenly" value="justifyContent: 'space-evenly',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_justifyContent_space-evenly" value="justifyContent: 'space-evenly',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flexDirection_row" value="flexDirection: 'row',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+
+  <!--flexDirection-->
+  <template name="lo_flexDirection_row" value="flexDirection: 'row',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flexDirection_row-reverse" value="flexDirection: 'row-reverse',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_flexDirection_row-reverse" value="flexDirection: 'row-reverse',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flexDirection_column-reverse" value="flexDirection: 'column-reverse',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_flexDirection_column-reverse" value="flexDirection: 'column-reverse',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flexDirection_column" value="flexDirection: 'column',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_flexDirection_column" value="flexDirection: 'column',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="overflow_visible" value="overflow: 'visible',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+
+  <!--overflow-->
+  <template name="lo_overflow_visible" value="overflow: 'visible',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="overflow_hidden" value="overflow: 'hidden',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_overflow_hidden" value="overflow: 'hidden',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="overflow_scroll" value="overflow: 'scroll',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_overflow_scroll" value="overflow: 'scroll',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="position_absolute" value="position: 'absolute',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <!--position-->
+  <template name="lo_position_absolute" value="position: 'absolute',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="position_relative" value="position: 'relative',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_position_relative" value="position: 'relative',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flexWrap_wrap" value="flexWrap: 'wrap',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+
+
+  <!--flexWrap-->
+  <template name="lo_flexWrap_wrap" value="flexWrap: 'wrap',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flexWrap_nowrap" value="flexWrap: 'nowrap',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_flexWrap_nowrap" value="flexWrap: 'nowrap',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="direction_inherit" value="direction: 'inherit',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+  <!--direction-->
+  <template name="lo_direction_inherit" value="direction: 'inherit',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="direction_ltr" value="direction: 'ltr',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_direction_ltr" value="direction: 'ltr',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="direction_rtl" value="direction: 'rtl',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_direction_rtl" value="direction: 'rtl',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="display_none" value="display: 'none',&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+
+  <!--display-->
+  <template name="lo_display_none" value="display: 'none',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="display_flex" value="display: 'flex',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_display_flex" value="display: 'flex',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="flex_1" value="flex: 1,&#10;" description="" toReformat="false" toShortenFQNames="true">
+
+
+  <!--flex-->
+  <template name="lo_flex_1" value="flex: 1,&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_SCRIPT" value="true" />
+      <option name="lo_JAVA_SCRIPT" value="true" />
     </context>
   </template>
 </templateSet>
