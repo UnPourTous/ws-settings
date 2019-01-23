@@ -57,10 +57,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548213809991">
-        <mark key="]" line="35" column="14" />
-        <mark key="." line="35" column="14" />
-        <mark key="^" line="35" column="14" />
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548230111014">
+        <mark key="'" line="71" column="1" />
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+        <mark key="^" line="46" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548212165817">
         <mark key="'" line="5" column="0" />
@@ -232,10 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/soga/src/core/container/cgi/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulpfile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulpfile.js" />
-      <jump line="196" column="2" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
       <jump line="247" column="0" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
       <jump line="23" column="6" filename="$USER_HOME$/Projects/soga/gulpfile.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
@@ -332,6 +330,10 @@
       <jump line="42" column="24" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
       <jump line="69" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AA.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="35" column="11" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="60" column="1" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -360,7 +362,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1134,16 +1136,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lo_style</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaW5lc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGlzcGxheTogJ25vbmUnLAo=</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICBmbGV4OiAxLAogICAgICAgIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogICAgICAgIGFsaWduQ29udGVudDogJ3N0cmV0Y2gnLAogICAgICAgIGFsaWduU2VsZjogJ3N0cmV0Y2gnLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICBmbGV4V3JhcDogJ25vd3JhcCcsCiAgICAgIH19PgogICAgICAgIDxWaWV3IHN0eWxlPXtbewogICAgICAgICAgCiAgICAgICAgfSwgdGhpcy5wcm9wcy5zdHlsZV19PgogICAgICAgIDwvVmlldz4KICAgICAgICA8VGV4dD5BU2NlbmU8L1RleHQ+CiAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1153,28 +1155,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsaWduQ29udGVudDogJ2ZsZXgtZW5kJywKICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IHN0eWxlPXt7CiAgICAgICAgfX0=</text>
+        <text encoding="base64">IHN0eWxlPXtbewogICAgICAgIGZsZXg6IDEsCiAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogICAgICAgIGZsZXhXcmFwOiAnbm93cmFwJywKICAgICAgfSwgdGhpcy5wcm9wcy5zdHlsZV19</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICBhbGlnblNlbGY6ICdzdHJldGNoJywKICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHN0eWxlPXtbewogICAgICB9LCB0aGlzLnByb3BzLnN0eWxlXX0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsaWduU2VsZjogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsaWduU2VsZjogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICBsb19mbGV4Sgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHN0eWxlPXtbewogICAgICAgIGZsZXg6IDEsCiAgICAgICAgbG9fZmwKICAgICAgfSwgdGhpcy5wcm9wcy5zdHlsZV19</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JwoKZXhwb3J0IGRlZmF1bHQgY2xhc3MgZXh0ZW5kcyBDb21wb25lbnQgewogIGNvbnN0cnVjdG9yKCkgewogICAgc3VwZXIoLi4uYXJndW1lbnRzKQogIH0KICAKICByZW5kZXIgKCkgewogICAgcmV0dXJuICgKICAgICAgPFZpZXc+CiAgICAKICAgICAgPC9WaWV3PgogICAgKQogIH0KfQ==</text>
+        <text encoding="base64">IHN0eWxlPXtbewogICAgICB9LCB0aGlzLnByb3BzLnN0eWxlXX0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
