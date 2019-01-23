@@ -15,6 +15,25 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/navigation/AppNavigator.js" timestamp="1547811650690">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/values/dimens.js" timestamp="1547811935917">
+        <mark key="'" line="49" column="35" />
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="23" />
+        <mark key="." line="21" column="23" />
+        <mark key="^" line="21" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/bizComponents/index.js" timestamp="1547732009558">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/actionsReducer.js" timestamp="1548071669240">
         <mark key="'" line="19" column="11" />
         <mark key="[" line="4" column="0" />
@@ -22,19 +41,31 @@
         <mark key="^" line="3" column="47" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/Env.h" timestamp="1548159719833" />
+      <file name="$USER_HOME$/Projects/soga/src/index.js" timestamp="1547728642506">
+        <mark key="'" line="43" column="28" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="23" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="43" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/combineReducers.js" timestamp="1548146604895">
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="35" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/node_modules/@unpourtous/react-native-touchable/library/WeTouchable.js" timestamp="1548142971196" />
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" timestamp="1548151866415">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" timestamp="1548042972512">
+        <mark key="'" line="132" column="21" />
+        <mark key="[" line="132" column="20" />
+        <mark key="]" line="132" column="21" />
+        <mark key="^" line="132" column="21" />
+        <mark key="." line="132" column="21" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/ProductDetailScene/ProductDetailScene.js" timestamp="1547605848767">
         <mark key="'" line="1020" column="34" />
@@ -56,101 +87,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548165943843">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="42" column="26" />
-        <mark key="]" line="42" column="24" />
-        <mark key="." line="42" column="24" />
-        <mark key="^" line="42" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/TestScene/TestScene.js" timestamp="1548142607844" />
-      <file name="$USER_HOME$/Projects/soga/src/core/api/index.js" timestamp="1548071659462">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548146266466">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="47" />
-        <mark key="^" line="0" column="47" />
-        <mark key="." line="0" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/BScene/BScene.js" timestamp="1548145484231">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" timestamp="1548138348650">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-      </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/rewardPoint/routers.js" timestamp="1548147027260" />
-      <file name="$USER_HOME$/Projects/soga/scripts/gulp/codeTemplate/sceneTpl/Scene.js" timestamp="1548145422890">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/values/colors.js" timestamp="1548139902285">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/CHANGELOG.md" timestamp="1548159696472" />
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" timestamp="1548067415126">
-        <mark key="'" line="1" column="44" />
-        <mark key="[" line="44" column="74" />
-        <mark key="]" line="44" column="73" />
-        <mark key="^" line="44" column="73" />
-        <mark key="." line="44" column="73" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1548147255599">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/navigation/AppNavigator.js" timestamp="1547811650690">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/values/dimens.js" timestamp="1547811935917">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/bizComponents/index.js" timestamp="1547732009558">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/index.js" timestamp="1547728642506">
-        <mark key="'" line="43" column="28" />
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="23" />
-        <mark key="^" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" timestamp="1548042972512">
-        <mark key="'" line="132" column="21" />
-        <mark key="[" line="132" column="20" />
-        <mark key="]" line="132" column="21" />
-        <mark key="^" line="132" column="21" />
-        <mark key="." line="132" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/utils/filters/index.js" timestamp="1547731731636">
         <mark key="[" line="0" column="0" />
@@ -176,6 +112,12 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548209374415">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="42" column="24" />
+      </file>
       <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548165290926">
         <mark key="'" line="239" column="4" />
         <mark key="[" line="229" column="49" />
@@ -190,12 +132,30 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/api/index.js" timestamp="1548071659462">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/actionsReducer.js" timestamp="1548144914725">
         <mark key="'" line="12" column="19" />
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="44" />
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548146266466">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="47" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/BScene/BScene.js" timestamp="1548145484231">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/navigation/reducer.js" timestamp="1548041529520">
         <mark key="[" line="4" column="0" />
@@ -208,7 +168,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/index.js" timestamp="1548146624236" />
       <file name="$USER_HOME$/Projects/soga/src/core/navigation/dynamic/dyReducerRequire.js" timestamp="1547811466291">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -228,6 +187,13 @@
         <mark key="." line="490" column="3" />
         <mark key="^" line="490" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" timestamp="1548138348650">
+        <mark key="'" line="4" column="21" />
+        <mark key="[" line="17" column="17" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableHighlight.js" timestamp="1548058007295">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="8" column="23" />
@@ -235,12 +201,32 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/scripts/gulp/codeTemplate/sceneTpl/Scene.js" timestamp="1548145422890">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/uiComponents/ext/index.js" timestamp="1548071434903">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="60" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/values/colors.js" timestamp="1548139902285">
+        <mark key="'" line="24" column="27" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" timestamp="1548067415126">
+        <mark key="'" line="1" column="44" />
+        <mark key="[" line="44" column="74" />
+        <mark key="]" line="44" column="73" />
+        <mark key="^" line="44" column="73" />
+        <mark key="." line="44" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" timestamp="1548041955257">
         <mark key="'" line="100" column="49" />
@@ -263,6 +249,13 @@
         <mark key="^" line="172" column="75" />
         <mark key="." line="172" column="75" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1548147255599">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/plugins/index.js" timestamp="1547811824052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -270,8 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="17" filename="$USER_HOME$/Projects/soga/src/core/index.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/soga/src/core/index.js" />
       <jump line="774" column="34" filename="$USER_HOME$/Projects/soga/src/core/container/cgi/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/soga/src/core/container/cgi/index.js" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/soga/scripts/gulpfile.js" />
@@ -370,6 +361,8 @@
       <jump line="71" column="1" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
       <jump line="38" column="17" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="42" column="24" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -398,7 +391,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCmZsZXg6IDEsCmZsZXhEaXJlY3Rpb246ICdyb3cnLAphbGlnbkNvbnRlbnQ6ICdjZW50ZXInLApqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCmRpc3BsYXk6ICdub25lJywKCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1181,7 +1174,7 @@
         <text encoding="base64">ZGlzcGxheTogJ25vbmUnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">CgoKCgoKCgoKCgoKCgoKCgoKCmZsZXg6IDEsCmZsZXhEaXJlY3Rpb246ICdyb3cnLAphbGlnbkNvbnRlbnQ6ICdjZW50ZXInLApqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCmRpc3BsYXk6ICdub25lJywKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1191,28 +1184,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgICAgICAgIGFsaWduQ29udGVudDogJ2NlbnRlcicsCiAgICAgICAgICBqdXMK</text>
+        <text encoding="base64">ICAgICAgICAgIGFjZgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduSXRlbXM6ICdmbGV4LXN0YXJ0JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgICAgICAgIGFsaWduU2VsZjogJ3N0cmV0Y2gnLAogICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBmbGV4V3JhcDogJ25vd3JhcCcsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXh3cmFwXwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiAnbm9uZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduQ2VuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
