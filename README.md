@@ -5,6 +5,7 @@
 2. Live templates
 
 支持下面这些值为枚举类型的layout props
+
 ![image](https://user-images.githubusercontent.com/1309744/51580669-40d9fe00-1f00-11e9-9cac-acf3f7b09166.png)
 
 ## TODO 
