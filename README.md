@@ -4,7 +4,6 @@
 1. File templates
 2. Live templates
 
-## TODO 
-1. 标签空格配置
-2. ESLint支持StandardJS配置
-3. 组件模板配置(组件/常用函数)
+
+## 配置方法
+![image](https://user-images.githubusercontent.com/1309744/51590570-64636f80-1f25-11e9-8aaf-3816f4c68384.png)
