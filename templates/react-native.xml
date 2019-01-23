@@ -49,7 +49,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="acc" value="alignContent: 'center',&#10;" description="alignContent_center" toReformat="false" toShortenFQNames="true">
+  <template name="alignContentCenter" value="alignContent: 'center',&#10;" description="alignContent_center" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
@@ -59,7 +59,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="alignContent_flex-end" value="alignContent: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="lo_alignContent_flex-end" value="alignContent: 'flex-end',&#10;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
