@@ -112,13 +112,13 @@
         <mark key="." line="26" column="15" />
         <mark key="^" line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548211207214">
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" timestamp="1548211540402">
         <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="27" />
-        <mark key="." line="43" column="27" />
-        <mark key="^" line="43" column="27" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="15" />
       </file>
-      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548211223186">
+      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548211590055">
         <mark key="'" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/container/actionsReducer.js" timestamp="1547811627844">
