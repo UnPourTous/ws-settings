@@ -4,6 +4,10 @@
 1. File templates
 2. Live templates
 
+支持下面这些值为枚举类型的layout props
+![image](https://user-images.githubusercontent.com/1309744/51579580-72e96100-1efc-11e9-9155-500bfa1adc9a.png)
+
+
 ## TODO 
 1. 标签空格配置
 2. ESLint支持StandardJS配置
