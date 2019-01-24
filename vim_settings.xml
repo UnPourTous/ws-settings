@@ -66,11 +66,21 @@
         <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/dyIndex.js" timestamp="1548316169885" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/completeUserInfo/index.js" timestamp="1548317326457">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="6" />
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/index.js" timestamp="1548317330657">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/bizComponents/index.js" timestamp="1547732009558">
         <mark key="[" line="6" column="0" />
@@ -85,6 +95,11 @@
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/Test.js" timestamp="1548212142086" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/calendar/index.js" timestamp="1548317291187">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/register/index.js" timestamp="1548317321094">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -302,7 +317,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByb3V0ZXJzLAo=</text>
+        <text encoding="base64">aW1wb3J0IHJvdXRlcnMgZnJvbSAnLi9yb3V0ZXJzJwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1085,7 +1100,7 @@
         <text encoding="base64">ICAgICAgICAgICAgPFRvdGFsQXNzZXRDYXJkCiAgICAgICAgICAgICAgdG90YWxBc3NldD17dG90YWxQYXJhbXMudG90YWxBbW91bnR9CiAgICAgICAgICAgICAgeWVzdGVyZGF5UHJvZml0PXt0b3RhbFBhcmFtcy55ZXN0ZXJkYXlUb3RhbEluY29tZX0KICAgICAgICAgICAgICB0b3RhbEVhcm5pbmdzPXt0b3RhbFBhcmFtcy50b3RhbEVhcm5pbmdzfQogICAgICAgICAgICAgIHRvdGFsTGlhYmlsaXR5PXt0b3RhbFBhcmFtcy50b3RhbExpYWJpbGl0eX0KICAgICAgICAgICAgICBzaG93TGlhYmlsaXR5PXt0b3RhbFBhcmFtcy5zaG93TGlhYmlsaXR5fQogICAgICAgICAgICAgIGlzU2hvd0Fzc2V0cz17aXNTaG93QXNzZXRzfQogICAgICAgICAgICAgIG9uVG9nZ2xlQXNzZXRzPXsoKSA9PiB0aGlzLm9uVG9nZ2xlQXNzZXRzKCl9CiAgICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByb3V0ZXJzLAo=</text>
+        <text encoding="base64">aW1wb3J0IHJvdXRlcnMgZnJvbSAnLi9yb3V0ZXJzJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1095,13 +1110,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJvdXRlcnMgZnJvbSAnLi9yb3V0ZXJzJwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICByb3V0ZXJzLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IHJvdXRlcnMgZnJvbSAnLi9yb3V0ZXJzJwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByb3V0ZXJzLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICByb3V0ZXJzLAo=</text>
