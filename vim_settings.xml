@@ -11,6 +11,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/dyConfig.json" timestamp="1548314552225" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1548236965364">
         <mark key="'" line="107" column="40" />
         <mark key="^" line="178" column="13" />
@@ -44,27 +45,28 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/LittlePageService.js" timestamp="1548302408013">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/LittlePageService.js" timestamp="1548314508933">
         <mark key="'" line="3" column="4" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1548237663870">
         <mark key="[" line="50" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/Test.js" timestamp="1548212142086" />
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1548232116038">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1548314581379">
         <mark key="'" line="10" column="44" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
+        <mark key="[" line="572" column="0" />
+        <mark key="]" line="572" column="0" />
+        <mark key="." line="572" column="0" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/scripts/build-ios.sh" timestamp="1548231624057">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548211223186">
-        <mark key="'" line="1" column="4" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/reducer.js" timestamp="1548231793568" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" timestamp="1548231717705">
@@ -74,14 +76,20 @@
         <mark key="." line="490" column="3" />
         <mark key="^" line="490" column="3" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1548234016089" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1548314617627">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1548314591832" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/routers.js" timestamp="1548231913357" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/services/Tplus1Service.js" timestamp="1548296393354" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/revenue/RevenueProductIntroductionScene/RevenueProductIntroductionScene.js" timestamp="1548295526759" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/transfer/routers.js" timestamp="1548231952033" />
     </filemarks>
     <jumps>
-      <jump line="24" column="27" filename="$USER_HOME$/Projects/soga/src/core/values/colors.js" />
       <jump line="18" column="2" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
       <jump line="26" column="56" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
       <jump line="107" column="14" filename="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" />
@@ -181,6 +189,7 @@
       <jump line="83" column="6" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" />
       <jump line="11" column="45" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/LittlePageService.js" />
       <jump line="3" column="4" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/LittlePageService.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -986,7 +995,7 @@
         <text encoding="base64">IDogbnVsbH0=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93VGlhbllhblw+</text>
+        <text encoding="base64">XDxNeVN0YWNrTmF2aWdhdG9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPFRvdGFsQXNzZXRDYXJkCiAgICAgICAgICAgICAgdG90YWxBc3NldD17dG90YWxQYXJhbXMudG90YWxBbW91bnR9CiAgICAgICAgICAgICAgeWVzdGVyZGF5UHJvZml0PXt0b3RhbFBhcmFtcy55ZXN0ZXJkYXlUb3RhbEluY29tZX0KICAgICAgICAgICAgICB0b3RhbEVhcm5pbmdzPXt0b3RhbFBhcmFtcy50b3RhbEVhcm5pbmdzfQogICAgICAgICAgICAgIHRvdGFsTGlhYmlsaXR5PXt0b3RhbFBhcmFtcy50b3RhbExpYWJpbGl0eX0KICAgICAgICAgICAgICBzaG93TGlhYmlsaXR5PXt0b3RhbFBhcmFtcy5zaG93TGlhYmlsaXR5fQogICAgICAgICAgICAgIGlzU2hvd0Fzc2V0cz17aXNTaG93QXNzZXRzfQogICAgICAgICAgICAgIG9uVG9nZ2xlQXNzZXRzPXsoKSA9PiB0aGlzLm9uVG9nZ2xlQXNzZXRzKCl9CiAgICAgICAgICAgIC8+Cg==</text>
@@ -1030,17 +1039,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93VGlhbllhblw+</last-search>
+      <last-search encoding="base64">XDxNeVN0YWNrTmF2aWdhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93VGlhbllhblw+</last-pattern>
+      <last-pattern encoding="base64">XDxNeVN0YWNrTmF2aWdhdG9yXD4=</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">XDxyZXF1ZXN0UGxlZGdlTG9hbkluZm9cPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cGxcPg==</entry>
         <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
         <entry encoding="base64">XDxkeVJvdXRlclw+</entry>
         <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
@@ -1060,6 +1068,7 @@
         <entry encoding="base64">XDxpc0R5TG9hZFw+</entry>
         <entry encoding="base64">XDxvblNjcm9sbFw+</entry>
         <entry encoding="base64">XDxzaG93VGlhbllhblw+</entry>
+        <entry encoding="base64">XDxNeVN0YWNrTmF2aWdhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
