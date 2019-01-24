@@ -8,17 +8,24 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" timestamp="1548147438326">
-        <mark key="'" line="7" column="13" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="28" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/installmentLoan/index.js" timestamp="1548317311362">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AA.js" timestamp="1548212880268">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1548296208645">
+        <mark key="'" line="83" column="6" />
+        <mark key="[" line="748" column="13" />
+        <mark key="]" line="748" column="13" />
+        <mark key="^" line="732" column="5" />
+        <mark key="." line="748" column="13" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/about/index.js" timestamp="1548319935131">
         <mark key="[" line="5" column="0" />
@@ -29,13 +36,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/container/AppContainer.js" timestamp="1547798404332">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/constants/Enviroment.js" timestamp="1548295491184" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/revenue/services/RevenueService.js" timestamp="1548295511498" />
@@ -69,20 +69,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/scripts/gulp/codeTemplate/sceneTpl/Scene.js" timestamp="1548145422890">
-        <mark key="'" line="35" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="7" column="23" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/package.json" timestamp="1548067415126">
-        <mark key="'" line="1" column="44" />
-        <mark key="[" line="44" column="74" />
-        <mark key="]" line="44" column="73" />
-        <mark key="^" line="44" column="73" />
-        <mark key="." line="44" column="73" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/structure/index.js" timestamp="1548319841121">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -98,20 +84,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/navigation/AppNavigator.js" timestamp="1547811650690">
-        <mark key="'" line="20" column="15" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/values/dimens.js" timestamp="1547811935917">
-        <mark key="'" line="49" column="35" />
-        <mark key="[" line="21" column="23" />
-        <mark key="]" line="21" column="23" />
-        <mark key="." line="21" column="23" />
-        <mark key="^" line="21" column="41" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/assurance/index.js" timestamp="1548319837219">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -122,24 +94,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/index.js" timestamp="1547728642506">
-        <mark key="'" line="43" column="28" />
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="23" />
-        <mark key="^" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/setting/index.js" timestamp="1548319970324">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/utils/reduxUtil.js" timestamp="1548042972512">
-        <mark key="'" line="132" column="21" />
-        <mark key="[" line="132" column="20" />
-        <mark key="]" line="132" column="21" />
-        <mark key="^" line="132" column="21" />
-        <mark key="." line="132" column="21" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/register/index.js" timestamp="1548317321094">
         <mark key="[" line="9" column="0" />
@@ -167,13 +125,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/entry.js" timestamp="1548067270933">
-        <mark key="'" line="36" column="19" />
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="15" />
-        <mark key="." line="26" column="15" />
-        <mark key="^" line="25" column="9" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/transfer/index.js" timestamp="1548319829059">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -193,13 +144,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/actionsReducer.js" timestamp="1548144914725">
-        <mark key="'" line="12" column="19" />
-        <mark key="[" line="3" column="36" />
-        <mark key="]" line="3" column="44" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/faq/index.js" timestamp="1548319915636">
         <mark key="[" line="5" column="0" />
@@ -221,17 +165,17 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableHighlight.js" timestamp="1548058007295">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="8" column="23" />
-        <mark key="]" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/deposit/index.js" timestamp="1548319966581">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1548315897984">
+        <mark key="'" line="17" column="57" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/routers.js" timestamp="1548231913357" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/services/Tplus1Service.js" timestamp="1548296393354" />
@@ -246,27 +190,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/actionsReducer.js" timestamp="1548071669240">
-        <mark key="'" line="19" column="11" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="47" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/ProductDetailScene/ProductDetailScene.js" timestamp="1547605848767">
-        <mark key="'" line="1020" column="34" />
-        <mark key="[" line="778" column="12" />
-        <mark key="]" line="778" column="11" />
-        <mark key="^" line="778" column="11" />
-        <mark key="." line="778" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/index.js" timestamp="1548072244336">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="59" column="26" />
-        <mark key="]" line="59" column="24" />
-        <mark key="." line="59" column="24" />
-        <mark key="^" line="59" column="24" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/webankCard/index.js" timestamp="1548319852199">
         <mark key="[" line="5" column="0" />
@@ -289,6 +212,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548212165817">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="11" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/index.js" timestamp="1548319893508">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -310,12 +240,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/scripts/gulp/utils.js" timestamp="1548138348650">
-        <mark key="'" line="4" column="21" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/LittlePageService.js" timestamp="1548314508933">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="14" column="2" />
+        <mark key="]" line="14" column="1" />
+        <mark key="^" line="14" column="1" />
+        <mark key="." line="14" column="1" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/dyIndex.js" timestamp="1548320311325" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/plan/index.js" timestamp="1548319927438">
@@ -337,13 +267,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1548147255599">
-        <mark key="'" line="19" column="27" />
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
-        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/index2.js" timestamp="1548319897016">
         <mark key="[" line="4" column="0" />
@@ -371,21 +294,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchableMask.js" timestamp="1548067174407">
-        <mark key="'" line="11" column="21" />
-        <mark key="[" line="58" column="20" />
-        <mark key="]" line="58" column="20" />
-        <mark key="^" line="58" column="20" />
-        <mark key="." line="58" column="20" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/reducer.js" timestamp="1548231793568" />
-      <file name="$USER_HOME$/Projects/soga/src/core/container/actionsReducer.js" timestamp="1547811627844">
-        <mark key="'" line="7" column="30" />
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="42" />
-        <mark key="." line="0" column="42" />
-        <mark key="^" line="0" column="42" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/viewer/index.js" timestamp="1548319953559">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -421,14 +330,14 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/gulpfile.js" timestamp="1548138969473">
-        <mark key="'" line="12" column="31" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="44" column="6" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" timestamp="1548231717705">
+        <mark key="'" line="24" column="24" />
+        <mark key="[" line="490" column="2" />
+        <mark key="]" line="490" column="3" />
+        <mark key="." line="490" column="3" />
+        <mark key="^" line="490" column="3" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1548323857909">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1548338102005">
         <mark key="'" line="73" column="45" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -440,33 +349,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/uiComponents/ext/index.js" timestamp="1548071434903">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="60" />
-        <mark key="]" line="0" column="59" />
-        <mark key="." line="0" column="59" />
-        <mark key="^" line="0" column="59" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/navigation/WeNavigator.js" timestamp="1548041955257">
-        <mark key="'" line="100" column="49" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="45" />
-        <mark key="." line="14" column="45" />
-        <mark key="^" line="14" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-touchable/library/WeTouchable.js" timestamp="1548057992508">
-        <mark key="'" line="30" column="7" />
-        <mark key="[" line="80" column="2" />
-        <mark key="]" line="80" column="1" />
-        <mark key="." line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/scripts/gulp/generator.js" timestamp="1548147282331">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="172" column="75" />
-        <mark key="]" line="172" column="75" />
-        <mark key="^" line="172" column="75" />
-        <mark key="." line="172" column="75" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/index.js" timestamp="1548315597702">
+        <mark key="'" line="47" column="7" />
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="94" column="3" />
+        <mark key="^" line="94" column="3" />
+        <mark key="." line="94" column="3" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/revenue/RevenueProductIntroductionScene/RevenueProductIntroductionScene.js" timestamp="1548315252500" />
       <file name="$USER_HOME$/Projects/soga/src/plugins/index.js" timestamp="1547811824052">
