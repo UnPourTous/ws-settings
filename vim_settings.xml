@@ -381,6 +381,7 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/TplusnPurchaseScene/actionsReducer.js" timestamp="1548727518453" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/about/dyRouters.js" timestamp="1548414288167">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -530,6 +531,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/TplusnPurchaseScene/TplusnPurchaseScene.js" timestamp="1548727601650" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/carLoan/index.js" timestamp="1548319961095">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -661,6 +663,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/TPlusNService.js" timestamp="1548727622550">
+        <mark key="'" line="48" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/plugins/index.js" timestamp="1547811824052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -673,8 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="27" filename="$USER_HOME$/Projects/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/AScene/AScene.js" />
       <jump line="10" column="24" filename="$USER_HOME$/Projects/soga/src/core/modules/example/combineReducers.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/soga/src/core/modules/example/routers.js" />
@@ -773,6 +776,8 @@
       <jump line="507" column="21" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
       <jump line="251" column="54" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
       <jump line="519" column="54" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
+      <jump line="49" column="6" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/TPlusNService.js" />
+      <jump line="48" column="6" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/services/TPlusNService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1578,7 +1583,7 @@
         <text>homeB</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIT01FX0JSSUVGX0RBVEFcPg==</text>
+        <text encoding="base64">XDxtaW5BbW91bnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLyDmj5LlhaXot6/nlLEgKOayoeaciXJvdXRlcnPnmoTkvJrlpLHotKUpCg==</text>
@@ -1622,9 +1627,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIT01FX0JSSUVGX0RBVEFcPg==</last-search>
+      <last-search encoding="base64">XDxtaW5BbW91bnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIT01FX0JSSUVGX0RBVEFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtaW5BbW91bnRcPg==</last-pattern>
       <last-replace>\r</last-replace>
       <last-substitute encoding="base64">XDxyZXF1ZXN0UGxlZGdlTG9hbkluZm9cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1632,8 +1637,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21wb25lbnRcPg==</entry>
-        <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxXcml0ZVJOTW9kdWxlVmVyc2lvblw+</entry>
         <entry encoding="base64">XDxSTldXV1w+</entry>
         <entry encoding="base64">XDxXcml0ZVJOUmVzb3VyY2VWZXJzaW9uXD4=</entry>
@@ -1652,6 +1655,8 @@
         <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
         <entry encoding="base64">XDxicmllZkRhdGFcPg==</entry>
         <entry encoding="base64">XDxIT01FX0JSSUVGX0RBVEFcPg==</entry>
+        <entry encoding="base64">XDxpbmNBbW91bnRcPg==</entry>
+        <entry encoding="base64">XDxtaW5BbW91bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>50</entry>
