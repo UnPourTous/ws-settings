@@ -116,11 +116,11 @@
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/container/cgi/index.js" timestamp="1548732270309">
         <mark key="'" line="107" column="2" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTabService.js" timestamp="1548733553837">
-        <mark key="'" line="316" column="8" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="407" column="0" />
-        <mark key="." line="407" column="0" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTabService.js" timestamp="1548753438098">
+        <mark key="'" line="351" column="82" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="407" column="36" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/tplusn/TplusnPurchaseScene/TplusnPurchaseScene.js" timestamp="1548727601650" />
@@ -161,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="480" column="2" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="485" column="24" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="490" column="39" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
       <jump line="488" column="10" filename="$USER_HOME$/HJProj/webank_hj_app/scripts/build-android.sh" />
@@ -261,6 +260,7 @@
       <jump line="819" column="2" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
       <jump line="527" column="24" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
       <jump line="259" column="24" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
+      <jump line="351" column="82" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTabService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -289,7 +289,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEdyYXlTZXJ2aWNlIGZyb20gJ2FwcHMvd2ViYW5rUHJvL3NlcnZpY2VzL0dyYXlTZXJ2aWNlJwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1072,7 +1072,7 @@
         <text encoding="base64">ICAgIHRoaXMucHJvcHMucmVxdWVzdEhvbWVTY2VuZURhdGEoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEdyYXlTZXJ2aWNlIGZyb20gJ2FwcHMvd2ViYW5rUHJvL3NlcnZpY2VzL0dyYXlTZXJ2aWNlJwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1082,28 +1082,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVwb3J0S2V5cyB9IGZyb20gJy4uLy4uL2NvbnN0YW50cy9pbmRleCcgaW1wb3J0IEdyYXlTZXJ2aWNlIGZyb20gJ2FwcHMvd2ViYW5rUHJvL3NlcnZpY2VzL0dyYXlTZXJ2aWNlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZERvdCA9IHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGxhbkRhdGE6IHsKICAgICAgdmFsaWRMaXN0OiB2YWxpZFBsYW5MaXN0ID0gW10KICAgIH0sCiAgICB3ZWxmYXJlOiB7CiAgICAgIGNhcmRfY29udGVudDogewogICAgICAgIG51bTogd2VsZmFyZVF1YW50aXR5ID0gMAogICAgICB9ID0ge30KICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
+        <text encoding="base64">ICAgIHJlZERvdCA9IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaG9tZUJyaWVmRGF0YTogX2dldChhY3Rpb24sICdwYXlsb2FkLmhvbWVCcmllZkRhdGEnLCAwKQo=</text>
+        <text encoding="base64">ICAgICAgcGxhbkRhdGE6IHsKICAgICAgdmFsaWRMaXN0OiB2YWxpZFBsYW5MaXN0ID0gW10KICAgIH0sCiAgICB3ZWxmYXJlOiB7CiAgICAgIGNhcmRfY29udGVudDogewogICAgICAgIG51bTogd2VsZmFyZVF1YW50aXR5ID0gMAogICAgICB9ID0ge30KICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZUhvbWVTY2VuZUJyaWVmRGF0YTogeyhzdGF0ZSwgYWN0aW9uKSA9PiAoewogICAgICAuLi5zdGF0ZSwKICAgICAgaG9tZUJyaWVmRGF0YTogYWN0aW9uLnBheWxvYWQKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGVuZGluZ0N1cnJlbnRHb2xkOiBfZ2V0KGFjdGlvbiwgJ3BheWxvYWQucGVuZGluZ0N1cnJlbnRHb2xkJywgdW5kZWZpbmVkKSwKICAgICAgc2NoZWR1bGVkQ3VycmVudEdvbGQ6IF9nZXQoYWN0aW9uLCAncGF5bG9hZC5zY2hlZHVsZWRDdXJyZW50R29sZCcsIHVuZGVmaW5lZCksCiAgICAgIC4uLl9nZXQoYWN0aW9uLCAncGF5bG9hZC53ZVByb2R1Y3RMaXN0Jywge30pLAogICAgICBndWFyYW50ZWVMaXN0TnVtOiBfZ2V0KGFjdGlvbiwgJ3BheWxvYWQuZ3VhcmFudGVlTGlzdE51bScsIDApLAoKICAgICAgaXNTaG93QXNzZXRzOiBfZ2V0KGFjdGlvbiwgJ3BheWxvYWQuaXNTaG93QXNzZXRzJywgdHJ1ZSksCiAgICAgIGhhc0ludGVsbGlEZXBvc2l0UGx1czogX2dldChhY3Rpb24sICdwYXlsb2FkLmhhc0ludGVsbGlEZXBvc2l0UGx1cycsIGZhbHNlKSwKICAgICAgLi4uX2dldChhY3Rpb24sICdwYXlsb2FkLnJlc2VydmF0aW9uTGlzdFN0YXR1cycsIDApLAo=</text>
+        <text encoding="base64">ICAgICAgaG9tZUJyaWVmRGF0YTogX2dldChhY3Rpb24sICdwYXlsb2FkLmhvbWVCcmllZkRhdGEnLCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
