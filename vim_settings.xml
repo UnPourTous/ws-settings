@@ -28,12 +28,12 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1548990670785">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1549036862772">
         <mark key="'" line="59" column="5" />
-        <mark key="[" line="67" column="36" />
-        <mark key="]" line="67" column="36" />
-        <mark key="." line="72" column="62" />
-        <mark key="^" line="67" column="36" />
+        <mark key="[" line="67" column="21" />
+        <mark key="]" line="67" column="34" />
+        <mark key="." line="67" column="34" />
+        <mark key="^" line="67" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/lodash/find.js" timestamp="1548990868411">
         <mark key="'" line="39" column="11" />
@@ -116,12 +116,12 @@
         <mark key="." line="29" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/package.json" timestamp="1548849090692" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1547898543631">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1549037481823">
         <mark key="'" line="14" column="8" />
-        <mark key="[" line="48" column="37" />
-        <mark key="]" line="48" column="37" />
-        <mark key="^" line="48" column="37" />
-        <mark key="." line="48" column="37" />
+        <mark key="[" line="34" column="33" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/button/SimpleButton.js" timestamp="1549004619413">
         <mark key="[" line="40" column="47" />
@@ -149,10 +149,13 @@
         <mark key="." line="63" column="20" />
         <mark key="^" line="63" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1549004137859">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1549037522674">
         <mark key="'" line="40" column="6" />
-        <mark key="k" line="93" column="36" />
-        <mark key="^" line="71" column="49" />
+        <mark key="k" line="94" column="36" />
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="40" />
+        <mark key="^" line="50" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-calendars/src/calendar/day/custom/style.js" timestamp="1547972220465">
         <mark key="[" line="9" column="13" />
@@ -261,13 +264,13 @@
         <mark key="^" line="52" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HistoryScene/HistoryScene.js" timestamp="1548836007209" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1549009363905">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1549036695056">
         <mark key="a" line="33" column="60" />
         <mark key="'" line="13" column="2" />
-        <mark key="[" line="121" column="43" />
-        <mark key="]" line="121" column="47" />
-        <mark key="." line="121" column="47" />
-        <mark key="^" line="121" column="47" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -374,37 +377,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>Large</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>Large</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9udFNpemU6IFRoZW1lLlNpemUuZm9udFhYWExhcmdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlckxlZnQ6IChpbmRleCAlIG1heENvbHVtbnMgPT09IDApID8gYm9yZGVyU2l6ZSA6IDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJvcmRlckNvbG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxJbWFnZSBzdHlsZT17eyovfQogICAgICAgICAgICAgICAgICAgICAgICB7Lyp3aWR0aDogVGhlbWUuU2l6ZS5pY29uTWlkZGxlLCovfQogICAgICAgICAgICAgICAgICAgICAgICB7LypoZWlnaHQ6IFRoZW1lLlNpemUuaWNvbk1pZGRsZSwqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKn19IHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2ljb25zL3RpX3pob25nLnBuZycpfSAvPiovfQo=</text>
+        <text encoding="base64">ICAgIGxldCB3ZWlnaHRCeURhdGUgPSB3ZWlnaHRSZWNvcmRMaXN0Lm1hcChpdGVtID0+ICh7CiAgICAgIFtpdGVtLmRhdGUuZm9ybWF0KCdZWVlZLU1NLUREJyldOiBpdGVtLndlaWdodAogICAgfSkpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luTGVmdDogVGhlbWUuU2l6ZS5zcGFjZU1pZGRsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxJbWFnZSBzdHlsZT17eyovfQogICAgICAgICAgICAgICAgICAgICAgICB7Lyp3aWR0aDogVGhlbWUuU2l6ZS5pY29uTWlkZGxlLCovfQogICAgICAgICAgICAgICAgICAgICAgICB7LypoZWlnaHQ6IFRoZW1lLlNpemUuaWNvbk1pZGRsZSwqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKn19IHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2ljb25zL3RpX3pob25nLnBuZycpfSAvPiovfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnbGYnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHsvKjxJbWFnZSBzdHlsZT17eyovfQogICAgICAgICAgICAgICAgICAgICAgICB7Lyp3aWR0aDogVGhlbWUuU2l6ZS5pY29uTWlkZGxlLCovfQogICAgICAgICAgICAgICAgICAgICAgICB7LypoZWlnaHQ6IFRoZW1lLlNpemUuaWNvbk1pZGRsZSwqL30KICAgICAgICAgICAgICAgICAgICAgIHsvKn19IHNvdXJjZT17cmVxdWlyZSgnLi4vLi4vaW1hZ2VzL2ljb25zL3RpX3pob25nLnBuZycpfSAvPiovfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8848,10 +8851,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnbGYnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luTGVmdDogVGhlbWUuU2l6ZS5zcGFjZU1pZGRsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFyZ2luCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8902,11 +8905,11 @@
         <entry>Lw</entry>
         <entry>w'</entry>
         <entry>216</entry>
-        <entry>we</entry>
         <entry>w:w</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
