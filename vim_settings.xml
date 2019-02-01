@@ -129,12 +129,12 @@
         <mark key="." line="40" column="46" />
         <mark key="^" line="40" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1549004504191">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1549006902846">
         <mark key="'" line="109" column="11" />
-        <mark key="[" line="111" column="38" />
-        <mark key="]" line="111" column="48" />
-        <mark key="^" line="111" column="48" />
-        <mark key="." line="111" column="48" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="25" />
+        <mark key="^" line="58" column="43" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailService.js" timestamp="1548992826757">
         <mark key="'" line="45" column="19" />
@@ -143,11 +143,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="45" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Theme.js" timestamp="1549004624851">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Theme.js" timestamp="1549006517957">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="20" />
+        <mark key="." line="63" column="20" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1549004137859">
         <mark key="'" line="40" column="6" />
@@ -194,11 +194,11 @@
         <mark key="^" line="32" column="30" />
         <mark key="." line="50" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/base/WeSceneView.js" timestamp="1547894086764">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="9" />
-        <mark key="." line="18" column="9" />
-        <mark key="^" line="18" column="9" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/base/WeSceneView.js" timestamp="1549006281832">
+        <mark key="[" line="18" column="35" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="40" />
+        <mark key="^" line="18" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" timestamp="1548848712524">
         <mark key="[" line="32" column="75" />
@@ -227,12 +227,12 @@
         <mark key="^" line="98" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/PetTab.js" timestamp="1548995349374" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1549005384594">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1549006224118">
         <mark key="'" line="34" column="9" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="126" column="50" />
+        <mark key="[" line="127" column="33" />
+        <mark key="]" line="127" column="43" />
+        <mark key="." line="127" column="33" />
+        <mark key="^" line="126" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1549005208441">
         <mark key="'" line="89" column="15" />
@@ -261,13 +261,12 @@
         <mark key="^" line="52" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HistoryScene/HistoryScene.js" timestamp="1548836007209" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1548991674094">
-        <mark key="a" line="28" column="60" />
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="80" column="30" />
-        <mark key="^" line="80" column="61" />
-        <mark key="." line="80" column="30" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1549007131768">
+        <mark key="a" line="32" column="60" />
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -374,25 +373,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1ZlcnRpY2FsOiBUaGVtZS5TaXplLnNwYWNlTGFyZ2UsCiAgICAgICAgICAgIHBhZGRpbmdIb3Jpem9udGFsOiBUaGVtZS5TaXplLnNwYWNlTWlkZGxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwK</text>
       </register>
       <register name="-" type="4">
-        <text>paddingVertica</text>
+        <text>CacheImage</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmdIb3Jpem9udGFsOiBUaGVtZS5TaXplLnNwYWNlU21hbGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ1ZlcnRpY2FsOiBUaGVtZS5TaXplLnNwYWNlTGFyZ2UsCiAgICAgICAgICAgIHBhZGRpbmdIb3Jpem9udGFsOiBUaGVtZS5TaXplLnNwYWNlTWlkZGxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFBldENhcmQgZnJvbSAnLi4vY29tcG9uZW50cy9QZXRDYXJkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYmV0d2VlbicsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -401,10 +400,11 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e1tUaGVtZS5zdHlsZS5jb2x1bW4sIHsgZmxleDogMSB9XX0+CiAgICAgICAgICAgICAgey8qPEhlYWRlciB7Li4udGhpcy5wcm9wc30gLz4qL30KICAgICAgICAgICAgICA8VmlldyBzdHlsZT17W1RoZW1lLnN0eWxlLnJvdywgeyBmbGV4OiAxLCBhbGlnbkl0ZW1zOiAnY2VudGVyJyB9XX0+CiAgICAgICAgICAgICAgICB7Lyo8SW5mb0l0ZW0qL30KICAgICAgICAgICAgICAgICAgey8qbGFiZWw9eyflt7LpmarkvLQnfSovfQogICAgICAgICAgICAgICAgICB7Lyp2YWx1ZT17dG9nZXRoZXJEYXlzfSovfQogICAgICAgICAgICAgICAgICB7Lyp1bml0PXsn5aSpJ30gLz4qL30KICAgICAgICAgICAgICA8L1ZpZXc+CiAgICAgICAgICAgIDwvVmlldz4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>, {
+          }</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8848,10 +8848,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8UGV0Q2FyZAogICAgICAgICAgY2FyZFN0eWxlPXt7CiAgICAgICAgICAgIHBhZGRpbmdWZXJ0aWNhbDogVGhlbWUuU2l6ZS5zcGFjZUxhcmdlLAogICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogVGhlbWUuU2l6ZS5zcGFjZU1pZGRsZSwKICAgICAgICAgICAgbWFyZ2luQm90dG9tOiAwLAogICAgICAgICAgfX0KICAgICAgICAgIHBldD17cGV0fSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdmbGV4LXN0YXJ0JywKICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZ0hvcml6b250YWw6IFRoZW1lLlNpemUuc3BhY2VNaWRkbGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8900,13 +8900,13 @@
         <entry>:w</entry>
         <entry>W</entry>
         <entry>Lw</entry>
-        <entry>qw</entry>
         <entry>w'</entry>
         <entry>216</entry>
         <entry>we</entry>
         <entry>w:w</entry>
         <entry>.w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
