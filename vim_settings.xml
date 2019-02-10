@@ -29,12 +29,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1549829786957">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1549832011146">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="93" column="57" />
-        <mark key="]" line="93" column="62" />
-        <mark key="." line="93" column="62" />
-        <mark key="^" line="93" column="62" />
+        <mark key="[" line="86" column="32" />
+        <mark key="]" line="86" column="33" />
+        <mark key="." line="86" column="33" />
+        <mark key="^" line="86" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/RecordType.js" timestamp="1549376144378">
         <mark key="[" line="3" column="1" />
@@ -267,10 +267,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PetDetail</text>
+        <text>醒</text>
       </register>
       <register name="-" type="4">
-        <text>PetDetail</text>
+        <text>醒</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wb25lbnRXaWxsVW5tb3VudFw+</text>
