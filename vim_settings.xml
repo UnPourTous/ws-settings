@@ -22,12 +22,6 @@
         <mark key="^" line="191" column="10" />
         <mark key="." line="191" column="10" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1548401313471">
-        <mark key="'" line="746" column="30" />
-        <mark key="[" line="717" column="0" />
-        <mark key="]" line="717" column="0" />
-        <mark key="." line="717" column="0" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/plan/PlanResultScene/PlanResultScene.js" timestamp="1548779389479">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="34" />
@@ -36,12 +30,6 @@
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/scripts/dyLoad/astTransformRouter.1.js" timestamp="1548231422052">
         <mark key="'" line="99" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/sceneList.js" timestamp="1548151866415">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/combineReducers.js" timestamp="1548146604895">
         <mark key="[" line="9" column="28" />
@@ -74,6 +62,11 @@
         <mark key="^" line="210" column="72" />
         <mark key="." line="210" column="72" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1549876482140">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/actionsReducer.js" timestamp="1548212165817">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="22" column="0" />
@@ -87,18 +80,6 @@
         <mark key="]" line="148" column="32" />
         <mark key="^" line="168" column="29" />
         <mark key="." line="148" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/modules/example/BScene/BScene.js" timestamp="1548145484231">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/weProduct/index.js" timestamp="1548319844937">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/netWorth/dyRouters.js" timestamp="1548414429320">
         <mark key="[" line="4" column="0" />
@@ -129,18 +110,12 @@
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1548237663870">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1548779361089">
-        <mark key="'" line="510" column="2" />
-        <mark key="[" line="584" column="23" />
-        <mark key="]" line="584" column="21" />
-        <mark key="." line="584" column="21" />
-        <mark key="^" line="584" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/soga/src/core/values/colors.js" timestamp="1548139902285">
-        <mark key="'" line="24" column="27" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549878097829">
+        <mark key="'" line="513" column="2" />
+        <mark key="[" line="151" column="71" />
+        <mark key="]" line="151" column="71" />
+        <mark key="." line="151" column="71" />
+        <mark key="^" line="151" column="96" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
@@ -194,7 +169,7 @@
       <file name="$USER_HOME$/tmp/react-native.xml" timestamp="1548211223186">
         <mark key="'" line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1548658584581">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1549877999874">
         <mark key="'" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/node_modules/redux/index.d.ts" timestamp="1548315592725">
@@ -221,23 +196,11 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/soga/src/uiComponents/index.js" timestamp="1548071492835">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1548779695499">
         <mark key="[" line="3732" column="4" />
         <mark key="]" line="3732" column="2" />
         <mark key="^" line="3732" column="2" />
         <mark key="." line="3732" column="2" />
-      </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/GrayService.js" timestamp="1548778803778">
-        <mark key="'" line="171" column="9" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/example/combineReducers.js" timestamp="1548640833538">
         <mark key="[" line="17" column="2" />
@@ -250,13 +213,14 @@
         <mark key="." line="29" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1549869926038" />
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" timestamp="1548779904623">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" timestamp="1549876637061">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="206" column="6" />
         <mark key="]" line="206" column="5" />
         <mark key="^" line="206" column="5" />
         <mark key="." line="206" column="5" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/gold/CurrentGoldPurchaseScene/components/ScheduledPurchaseTab.js" timestamp="1549877105194" />
       <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1549872368922" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/index.js" timestamp="1548755325591">
         <mark key="'" line="95" column="6" />
@@ -403,8 +367,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvYWRpbmcuaGlkZSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>oldTopSceneState.</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1178,7 +1142,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>oldTopSceneState.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
@@ -1187,7 +1151,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvYWRpbmcuaGlkZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmcgZnJvbSAnYXBwcy9tYWluL2JpekNvbXBvbmVudHMvcG9wdXAvTG9hZGluZycK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1197,28 +1161,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGhpc3RvcnlRdWVyeS5maW5kKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZUhvbWVTY2VuZUJyaWVmRGF0YTogKHN0YXRlLCBhY3Rpb24pID0+ICh7CiAgICAgIC4uLnN0YXRlLAogICAgICBicmllZkRhdGE6IGFjdGlvbi5wYXlsb2FkCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uOiAoKSA9PiB0aGlzLnByb3BzLnJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfbWF0Y2hSZWZlciA9ICgpID0+IHsKICAgIAogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXF1ZXN0SG9tZVBhZ2VCcmllZkRhdGE6IHsKICAgIC8vIGNnaVByZWZpeDogU2VydmVyUHJlZml4VHlwZS5XRUJBTkssCiAgICAvLyBtb2NrYWJsZTogdHJ1ZSwKICAgIHBhdGg6ICdob21lX3BhZ2UvcXVlcnknLAogICAgbWV0aG9kOiBNRVRIT0QuR0VULAogICAgZGVzYzogJ+mmlumhteWFpeWPo+S/oeaBrycsCiAgICByZXF1ZXN0OiB7CiAgICAgICdpdGVtTGlzdCc6IFt7J2snOiAnSk9CJ30sIHsnayc6ICdQT0lOVCd9LCB7J2snOiAnR09MRF9KT0InfSwgeydrJzogJ0xBUkdFX1RQTFVTX1JFREVFTSd9LCB7J2snOiAnRlVORF9KT0InfSwgeydrJzogJ1dFUEFZX0xPQU4nfSwgeydrJzogJ1BST1RFQ1RJVkVfSU5TVVJBTkNFJ30sIHsnayc6ICdERVBPU0lUX0FQUE9JTlRNRU5UJ30sIHsnayc6ICdHT0xEX09SREVSJ30sIHsnayc6ICd0ZXN0J31dCiAgICB9LAogICAgcmVzcG9uc2U6IHsKICAgICAgaXRlbUxpc3Q6IFsKICAgICAgICB7J2tleSc6ICdXRVBBWV9MT0FOJywgJ3JzcCc6ICd7InN0YXR1cyI6IjIifSd9LAogICAgICAgIHsKICAgICAgICAgICdrZXknOiAnREVQT1NJVF9BUFBPSU5UTUVOVCcsCiAgICAgICAgICAncnNwJzogJ3siaGFzX2FwcG9pbnQiOmZhbHNlfScKICAgICAgICB9LAogICAgICAgIHsna2V5JzogJ0xBUkdFX1RQTFVTX1JFREVFTScsICdyc3AnOiAneyJ2YWxpZF9udW0iOjB9J30sCiAgICAgICAgewogICAgICAgICAgJ2tleSc6ICdHT0xEX0pPQicsCiAgICAgICAgICAncnNwJzogJ3siaGFzX2pvYiI6IHRydWV9JwogICAgICAgIH0sCiAgICAgICAgeydrZXknOiAnRlVORF9KT0InLCAncnNwJzogJ3siaGFzX2pvYiI6dHJ1ZX0nfSwKICAgICAgICB7CiAgICAgICAgICAna2V5JzogJ1BPSU5UJywKICAgICAgICAgICdyc3AnOiAneyJ0b3RhbF9wb2ludCI6IDEwMDB9JwogICAgICAgIH0sCiAgICAgICAgeydrZXknOiAnSk9CJywgJ3JzcCc6ICd7InZhbGlkX2pvYl9udW0iOiAxMX0nfV0KICAgIH0KICB9LAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
