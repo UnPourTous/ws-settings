@@ -117,12 +117,12 @@
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1548237663870">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549879672608">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549880479923">
         <mark key="'" line="513" column="2" />
-        <mark key="[" line="150" column="29" />
-        <mark key="]" line="150" column="29" />
-        <mark key="." line="150" column="29" />
-        <mark key="^" line="150" column="29" />
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="142" column="3" />
+        <mark key="." line="142" column="3" />
+        <mark key="^" line="142" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
@@ -375,7 +375,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1149,7 +1149,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
