@@ -22,12 +22,13 @@
         <mark key="." line="104" column="32" />
         <mark key="^" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1549829960791">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1549885944177">
+        <mark key="'" line="23" column="23" />
+        <mark key="[" line="109" column="60" />
+        <mark key="k" line="109" column="60" />
+        <mark key="]" line="109" column="60" />
+        <mark key="^" line="109" column="59" />
+        <mark key="." line="109" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1549832011146">
         <mark key="'" line="43" column="0" />
@@ -61,19 +62,12 @@
         <mark key="]" line="62" column="3" />
         <mark key="." line="62" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/FloatActionButton.js" timestamp="1549832613132">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="58" />
-        <mark key="." line="25" column="58" />
-        <mark key="^" line="25" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1549827259874">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1549885960429">
         <mark key="'" line="39" column="0" />
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="12" />
-        <mark key="^" line="69" column="12" />
-        <mark key="." line="69" column="12" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="68" column="12" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/utils/TDEventEmit.js" timestamp="1549825637939">
         <mark key="[" line="0" column="0" />
@@ -126,13 +120,6 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1549830130466">
-        <mark key="k" line="147" column="36" />
-        <mark key="[" line="104" column="44" />
-        <mark key="]" line="104" column="43" />
-        <mark key="." line="104" column="43" />
-        <mark key="^" line="104" column="43" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/actionsReducer.js" timestamp="1549512290509">
         <mark key="'" line="4" column="32" />
         <mark key="[" line="23" column="4" />
@@ -164,8 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="24" column="12" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
       <jump line="27" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
       <jump line="35" column="11" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
       <jump line="15" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
@@ -264,40 +249,42 @@
       <jump line="56" column="30" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="60" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="107" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
+      <jump line="107" column="13" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" />
+      <jump line="23" column="23" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>highlight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGhpc3RvcnlRdWVyeS5maW5kKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>highlight</text>
+        <text>.png</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb25lbnRXaWxsVW5tb3VudFw+</text>
+        <text encoding="base64">XDzlj5Hmg4VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogVGhlbWUuQ29sb3IucGFnZUJhY2tncm91bmRDb2xvciwK</text>
+      <register name="0" type="4">
+        <text>FaQing</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGhpc3RvcnlRdWVyeS5maW5kKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuZmV0Y2hEYXRhCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCAoKTogdm9pZCB7CiAgICBUREV2ZW50RW1pdC5yZW1vdmVMaXN0ZW5lcignUGV0RGV0YWlsU2NlbmU6b25SZXN1bWUnLCB0aGlzLnJlZnJlc2hQZXREZXRhaWxEYXRhKQogIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVW5tb3VudCAoKTogdm9pZCB7CiAgICBUREV2ZW50RW1pdC5yZW1vdmVMaXN0ZW5lcignUGV0RGV0YWlsU2NlbmU6b25SZXN1bWUnLCB0aGlzLnJlZnJlc2hQZXREZXRhaWxEYXRhKQogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDEK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8741,25 +8728,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb25lbnRXaWxsVW5tb3VudFw+</last-search>
+      <last-search encoding="base64">XDzlj5Hmg4VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb25lbnRXaWxsVW5tb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDzlj5Hmg4VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVDdXN0b21SZWNvcmRCeVBldFw+</entry>
         <entry encoding="base64">XDxjdXN0b21SZWNvcmRMaXN0XD4=</entry>
         <entry encoding="base64">XDxBZGRSZWNvcmRTZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxQZXRTZXJ2aWNlXD4=</entry>
@@ -8779,6 +8765,7 @@
         <entry encoding="base64">XDxXZWlnaHRJbnB1dFw+</entry>
         <entry encoding="base64">XDxzZWN0aW9uRGF0YU9ialw+</entry>
         <entry encoding="base64">XDxjb21wb25lbnRXaWxsVW5tb3VudFw+</entry>
+        <entry encoding="base64">XDzlj5Hmg4VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
