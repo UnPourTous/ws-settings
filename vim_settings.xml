@@ -15,6 +15,13 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/rn-cli.config.js" timestamp="1549879371993">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1548408247465">
         <mark key="'" line="107" column="40" />
         <mark key="[" line="191" column="12" />
@@ -110,12 +117,12 @@
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1548237663870">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549878097829">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549879672608">
         <mark key="'" line="513" column="2" />
-        <mark key="[" line="151" column="71" />
-        <mark key="]" line="151" column="71" />
-        <mark key="." line="151" column="71" />
-        <mark key="^" line="151" column="96" />
+        <mark key="[" line="150" column="29" />
+        <mark key="]" line="150" column="29" />
+        <mark key="." line="150" column="29" />
+        <mark key="^" line="150" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
@@ -240,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="48" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
       <jump line="39" column="27" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
       <jump line="225" column="6" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
       <jump line="21" column="4" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
@@ -340,6 +346,7 @@
       <jump line="598" column="14" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" />
       <jump line="25" column="14" filename="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/components/FloatActionButton.js" />
       <jump line="141" column="16" filename="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/HJProj/webank_hj_app/pro/rn-cli.config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -368,7 +375,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>oldTopSceneState.</text>
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1142,16 +1149,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>oldTopSceneState.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvYWRpbmcuaGlkZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1161,28 +1168,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWN0aW9uOiAoKSA9PiB0aGlzLnByb3BzLnJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYWN0aW9uOiAoKSA9PiB0aGlzLnByb3BzLnJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBfbWF0Y2hSZWZlciA9ICgpID0+IHsKICAgIAogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgpIAo=</text>
+        <text encoding="base64">ICBfbWF0Y2hSZWZlciA9ICgpID0+IHsKICAgIAogIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICgpIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
