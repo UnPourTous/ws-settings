@@ -1,23 +1,16 @@
 <code_scheme name="Default" version="173">
-  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-  <option name="HTML_QUOTE_STYLE" value="None" />
   <HTMLCodeStyleSettings>
     <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
-    <option name="HTML_QUOTE_STYLE" value="None" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="SPACE_BEFORE_GENERATOR_MULT" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
-    <option name="IMPORTS_WRAP" value="2" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
-  <TypeScriptCodeStyleSettings>
-    <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
-  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="SPACE_BEFORE_METHOD_PARENTHESES" value="true" />
