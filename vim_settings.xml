@@ -120,12 +120,12 @@
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1548237663870">
         <mark key="[" line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549880479923">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1549939873526">
         <mark key="'" line="513" column="2" />
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="142" column="3" />
-        <mark key="." line="142" column="3" />
-        <mark key="^" line="142" column="3" />
+        <mark key="[" line="147" column="57" />
+        <mark key="]" line="147" column="56" />
+        <mark key="^" line="147" column="56" />
+        <mark key="." line="147" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/soga/src/core/modules/example/ds.http" timestamp="1548212532874">
         <mark key="[" line="6" column="0" />
@@ -133,7 +133,6 @@
         <mark key="^" line="8" column="6" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1549870575034" />
       <file name="vim_settings.xml" timestamp="1549937314841">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,7 +165,6 @@
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/actionsReducer.js" timestamp="1549873875165" />
       <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1549873761493">
         <mark key="[" line="50" column="30" />
         <mark key="]" line="50" column="30" />
@@ -225,16 +223,13 @@
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1549869926038" />
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" timestamp="1549876637061">
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" timestamp="1549939889113">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="206" column="6" />
         <mark key="]" line="206" column="5" />
         <mark key="^" line="206" column="5" />
         <mark key="." line="206" column="5" />
       </file>
-      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/gold/CurrentGoldPurchaseScene/components/ScheduledPurchaseTab.js" timestamp="1549877105194" />
-      <file name="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1549872368922" />
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/index.js" timestamp="1548755325591">
         <mark key="'" line="95" column="6" />
       </file>
@@ -380,8 +375,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1161,10 +1156,10 @@
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCksCg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1174,28 +1169,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWN0aW9uOiAoKSA9PiB0aGlzLnByb3BzLnJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmUK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYWN0aW9uOiAoKSA9PiB0aGlzLnByb3BzLnJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfbWF0Y2hSZWZlciA9ICgpID0+IHsKICAgIAogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICgpIAo=</text>
+        <text encoding="base64">ICBfbWF0Y2hSZWZlciA9ICgpID0+IHsKICAgIAogIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
