@@ -51,6 +51,13 @@
         <mark key="." line="51" column="22" />
         <mark key="^" line="51" column="22" />
       </file>
+      <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/HomeDataRefreshService.js" timestamp="1550137103722">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+      </file>
       <file name="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/plan/PlanResultScene/PlanResultScene.js" timestamp="1548779389479">
         <mark key="[" line="58" column="36" />
         <mark key="]" line="58" column="34" />
@@ -249,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="6" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
       <jump line="21" column="4" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
       <jump line="257" column="19" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
       <jump line="525" column="38" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
@@ -349,6 +355,7 @@
       <jump line="141" column="16" filename="$USER_HOME$/Projects/chanshi/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
       <jump line="15" column="2" filename="$USER_HOME$/HJProj/webank_hj_app/pro/rn-cli.config.js" />
       <jump line="156" column="28" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
+      <jump line="8" column="27" filename="$USER_HOME$/HJProj/webank_hj_app/pro/src/apps/webankPro/services/HomeDataRefreshService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -376,8 +383,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1151,16 +1158,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FkaW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">ICAgIHBlbmRpbmdSZWZyZXNoVGFzay5wdXNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1170,28 +1177,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">cmVmcmVzaEtleQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWN0aW9uOiAoKSA9PiB0aGlzLnByb3BzLnJlcXVlc3RIb21lU2NlbmVCcmllZkRhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBBcHBOYXZpZ2F0b3IuZ29sZC5DdXJyZW50R29sZFJlc3VsdFNjZW5lLnRvU3RyaW5nKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBfbWF0Y2hSZWZlciA9ICgpID0+IHsKICAgIAogIH0KCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
