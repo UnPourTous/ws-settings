@@ -9,8 +9,7 @@
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-store-review/src/index.ios.js" timestamp="1550074960016" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1550070349104" />
+      <file name="$USER_HOME$/Projects/chanshila/server/cloud/schedule/tasks/dailyPushTaskGenTask.js" timestamp="1550289360258" />
       <file name="vm:2024" timestamp="1550071737061">
         <mark key="[" line="0" column="0" />
       </file>
@@ -73,6 +72,12 @@
         <mark key="." line="80" column="30" />
         <mark key="^" line="80" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/server/cloud/PushManager.js" timestamp="1550289400884">
+        <mark key="[" line="31" column="153" />
+        <mark key="]" line="31" column="155" />
+        <mark key="." line="31" column="155" />
+        <mark key="^" line="31" column="155" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1550069517946">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="43" column="0" />
@@ -80,7 +85,6 @@
         <mark key="^" line="68" column="12" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1550069703874" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1549810805892">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="51" column="32" />
@@ -95,7 +99,6 @@
         <mark key="^" line="71" column="43" />
         <mark key="." line="71" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-store-review/index.d.ts" timestamp="1550074942567" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1549830770676">
         <mark key="'" line="50" column="25" />
         <mark key="[" line="103" column="48" />
@@ -110,7 +113,6 @@
         <mark key="." line="18" column="63" />
         <mark key="^" line="19" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/spec/ParseGeoPoint.spec.js" timestamp="1550070441143" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/actionsReducer.js" timestamp="1549512290509">
         <mark key="'" line="4" column="32" />
         <mark key="[" line="23" column="4" />
@@ -245,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, result: ...</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>, result: ...</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEZXZpY2VJbmZvXD4=</text>
