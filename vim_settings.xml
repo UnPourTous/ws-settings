@@ -9,6 +9,9 @@
         <mark key="^" line="35" column="13" />
         <mark key="." line="35" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Polygon.js" timestamp="1550929282239">
+        <mark key="'" line="24" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/server/cloud/schedule/tasks/dailyPushTaskGenTask.js" timestamp="1550289360258" />
       <file name="vm:2024" timestamp="1550071737061">
         <mark key="[" line="0" column="0" />
@@ -36,20 +39,19 @@
       <file name="/JavaScript Console" timestamp="1550072356151">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" timestamp="1550929846735">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1549831363744">
         <mark key="'" line="107" column="2" />
         <mark key="[" line="104" column="29" />
         <mark key="]" line="104" column="32" />
         <mark key="." line="104" column="32" />
         <mark key="^" line="104" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1549885944177">
-        <mark key="'" line="23" column="23" />
-        <mark key="[" line="109" column="60" />
-        <mark key="k" line="109" column="60" />
-        <mark key="]" line="109" column="60" />
-        <mark key="^" line="109" column="59" />
-        <mark key="." line="109" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1549832011146">
         <mark key="'" line="43" column="0" />
@@ -65,7 +67,7 @@
         <mark key="." line="120" column="23" />
         <mark key="^" line="120" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1549831100435">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1550929183175">
         <mark key="'" line="34" column="46" />
         <mark key="[" line="80" column="16" />
         <mark key="]" line="80" column="30" />
@@ -85,6 +87,14 @@
         <mark key="^" line="68" column="12" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" timestamp="1550931383553">
+        <mark key="'" line="83" column="12" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="76" column="3" />
+        <mark key="^" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/package.json" timestamp="1550929402975" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1549810805892">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="51" column="32" />
@@ -106,6 +116,7 @@
         <mark key="." line="105" column="13" />
         <mark key="^" line="105" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/line-chart.js" timestamp="1550930910544" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1550069844534">
         <mark key="'" line="35" column="11" />
         <mark key="[" line="19" column="29" />
@@ -120,13 +131,19 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1549830829696">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1550930573005">
         <mark key="a" line="32" column="60" />
-        <mark key="'" line="60" column="6" />
-        <mark key="[" line="115" column="50" />
-        <mark key="]" line="117" column="25" />
-        <mark key="." line="117" column="25" />
-        <mark key="^" line="117" column="25" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="44" column="5" />
+        <mark key="." line="44" column="5" />
+        <mark key="^" line="44" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/index.js" timestamp="1550929425453">
+        <mark key="'" line="24" column="7" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/actionsReducer.js" timestamp="1549823149034">
         <mark key="'" line="23" column="0" />
@@ -144,16 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="106" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="42" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="117" column="12" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="45" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" />
-      <jump line="13" column="15" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" />
-      <jump line="5" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" />
-      <jump line="35" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" />
       <jump line="103" column="32" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
       <jump line="105" column="44" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
@@ -244,40 +251,50 @@
       <jump line="0" column="4" filename="$USER_HOME$/Projects/chanshila/server/cloud/functions/requestShouldShowStoreReview.js" />
       <jump line="213" column="83" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" />
       <jump line="17" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" />
+      <jump line="24" column="12" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Polygon.js" />
+      <jump line="24" column="7" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/index.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" />
+      <jump line="40" column="62" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" />
+      <jump line="116" column="25" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
+      <jump line="73" column="13" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
+      <jump line="76" column="4" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
+      <jump line="78" column="32" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
+      <jump line="83" column="12" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>error</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEZXZpY2VJbmZvXD4=</text>
+        <text encoding="base64">XDxvcGFjaXR5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UGFyc2UuQ2xvdWQuZGVmaW5lKCdyZXF1ZXN0UmVjZW50UmVtaW5kTGlzdCcsIHJlcXVpcmUoJy4vZnVuY3Rpb25zL3JlcXVlc3RSZWNlbnRSZW1pbmRMaXN0JykpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWVzdFNob3VsZFNob3dTdG9yZVJldmlldwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHNlY3Rpb25EYXRhT2JqID0gW10KICAgIC8vIHdlaWdodFJlY29yZExpc3QuZm9yRWFjaChpdGVtID0+IHsKICAgIC8vICAgY29uc3QgbW9udGggPSBtb21lbnQoaXRlbS5maW5pc2hEYXRlKS5mb3JtYXQoJ1lZWVktTU0nKQogICAgLy8gICBzZWN0aW9uRGF0YU9ialttb250aF0gPSBzZWN0aW9uRGF0YU9ialttb250aF0gfHwgewogICAgLy8gICAgIHRpdGxlOiBtb21lbnQoaXRlbS5maW5pc2hEYXRlKS5mb3JtYXQoJ1lZWVnlubRNTeaciCcpLAogICAgLy8gICAgIGRhdGE6IFtdCiAgICAvLyAgIH0KICAgIC8vICAgc2VjdGlvbkRhdGFPYmpbbW9udGhdLmRhdGEucHVzaChpdGVtKQogICAgLy8gfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVxdWVzdFNob3VsZFNob3dTdG9yZVJldmlldwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIHJlc3BvbnNlLnN1Y2Nlc3MoKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3UmV2aWV3U3RvcmUgPSBuZXcgUGFyc2UuUXVlcnkoJ1BsYW4nKQo=</text>
+        <text encoding="base64">CiAgICAgIHJlc3BvbnNlLnN1Y2Nlc3MoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUGFyc2UuT2JqZWN0LnNhdmVBbGwoW29iajEsIG9iajIsIG9iajNdKS50aGVuKCgpID0+IHsKCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbmV3UmV2aWV3U3RvcmUgPSBuZXcgUGFyc2UuUXVlcnkoJ1BsYW4nKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8721,29 +8738,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3QXBwU3RvcmVSZXZpZXcuc2V0KCcnLCByZXF1ZXN0LnVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgUGFyc2UuT2JqZWN0LnNhdmVBbGwoW29iajEsIG9iajIsIG9iajNdKS50aGVuKCgpID0+IHsKCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3QXBwU3RvcmVSZXZpZXcuc2V0KCcnLCByZXF1ZXN0LnVzZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEZXZpY2VJbmZvXD4=</last-search>
+      <last-search encoding="base64">XDxvcGFjaXR5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEZXZpY2VJbmZvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcGFjaXR5XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXZVByb3BUeXBlc1w+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0UmVjZW50UmVtaW5kTGlzdFw+</entry>
-        <entry encoding="base64">XDxyZWNlbnRSZW1pbmRMaXN0XD4=</entry>
-        <entry encoding="base64">XDxDdXN0b21SZWNvcmRcPg==</entry>
-        <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxfcmVuZGVySXRlbVw+</entry>
         <entry encoding="base64">XDxfcmVuZGVySGlzdG9yeUl0ZW1cPg==</entry>
         <entry encoding="base64">XDxncm93VHlwZVZhbHVlXD4=</entry>
@@ -8759,6 +8771,11 @@
         <entry encoding="base64">XDxQYXJzZVw+</entry>
         <entry encoding="base64">XDxQbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxEZXZpY2VJbmZvXD4=</entry>
+        <entry encoding="base64">XDxjYWxjU2NhbGVyXD4=</entry>
+        <entry encoding="base64">XDxyZW5kZXJIb3Jpem9udGFsTGFiZWxzXD4=</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry encoding="base64">XDx0b0RhdGFVUkxcPg==</entry>
+        <entry encoding="base64">XDxvcGFjaXR5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
