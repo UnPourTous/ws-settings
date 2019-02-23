@@ -26,6 +26,12 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/package.json" timestamp="1550933473942">
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="12" />
+        <mark key="^" line="41" column="12" />
+        <mark key="." line="41" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" timestamp="1550070946181">
         <mark key="'" line="17" column="7" />
         <mark key="[" line="213" column="125" />
@@ -46,12 +52,13 @@
         <mark key="^" line="31" column="1" />
         <mark key="." line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1549831363744">
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/G.js" timestamp="1550932521494" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1550934591121">
         <mark key="'" line="107" column="2" />
-        <mark key="[" line="104" column="29" />
-        <mark key="]" line="104" column="32" />
-        <mark key="." line="104" column="32" />
-        <mark key="^" line="104" column="32" />
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1549832011146">
         <mark key="'" line="43" column="0" />
@@ -67,12 +74,12 @@
         <mark key="." line="120" column="23" />
         <mark key="^" line="120" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1550929183175">
-        <mark key="'" line="34" column="46" />
-        <mark key="[" line="80" column="16" />
-        <mark key="]" line="80" column="30" />
-        <mark key="." line="80" column="30" />
-        <mark key="^" line="80" column="30" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1550934361301">
+        <mark key="'" line="192" column="30" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="13" />
+        <mark key="." line="44" column="13" />
+        <mark key="^" line="44" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/server/cloud/PushManager.js" timestamp="1550289400884">
         <mark key="[" line="31" column="153" />
@@ -87,7 +94,7 @@
         <mark key="^" line="68" column="12" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" timestamp="1550931383553">
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" timestamp="1550932535985">
         <mark key="'" line="83" column="12" />
         <mark key="[" line="76" column="4" />
         <mark key="]" line="76" column="3" />
@@ -108,6 +115,9 @@
         <mark key="]" line="71" column="43" />
         <mark key="^" line="71" column="43" />
         <mark key="." line="71" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1550934063550">
+        <mark key="'" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1549830770676">
         <mark key="'" line="50" column="25" />
@@ -131,12 +141,13 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1550930573005">
-        <mark key="a" line="32" column="60" />
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="44" column="5" />
-        <mark key="^" line="44" column="5" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1550938031215">
+        <mark key="a" line="33" column="60" />
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="52" column="21" />
+        <mark key="]" line="52" column="19" />
+        <mark key="." line="52" column="19" />
+        <mark key="^" line="52" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/index.js" timestamp="1550929425453">
         <mark key="'" line="24" column="7" />
@@ -161,16 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" />
-      <jump line="103" column="32" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="105" column="44" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="26" column="40" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/CustomRecordType.js" />
-      <jump line="108" column="27" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="97" column="34" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="80" column="30" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="76" column="20" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
-      <jump line="52" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
       <jump line="36" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
       <jump line="47" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
       <jump line="78" column="24" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
@@ -261,40 +262,50 @@
       <jump line="76" column="4" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
       <jump line="78" column="32" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
       <jump line="83" column="12" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" />
+      <jump line="160" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" />
+      <jump line="38" column="7" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" />
+      <jump line="149" column="123" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" />
+      <jump line="165" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
+      <jump line="192" column="30" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
+      <jump line="242" column="12" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
+      <jump line="239" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
+      <jump line="54" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcGFjaXR5XD4=</text>
+        <text encoding="base64">XDx3ZWlnaHREYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UGFyc2UuQ2xvdWQuZGVmaW5lKCdyZXF1ZXN0UmVjZW50UmVtaW5kTGlzdCcsIHJlcXVpcmUoJy4vZnVuY3Rpb25zL3JlcXVlc3RSZWNlbnRSZW1pbmRMaXN0JykpCg==</text>
+        <text encoding="base64">ICAgICAgICBsYWJlbHM6IHsKICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgIGNvbG9yOiAnI0ZGRkZGRicKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHNlY3Rpb25EYXRhT2JqID0gW10KICAgIC8vIHdlaWdodFJlY29yZExpc3QuZm9yRWFjaChpdGVtID0+IHsKICAgIC8vICAgY29uc3QgbW9udGggPSBtb21lbnQoaXRlbS5maW5pc2hEYXRlKS5mb3JtYXQoJ1lZWVktTU0nKQogICAgLy8gICBzZWN0aW9uRGF0YU9ialttb250aF0gPSBzZWN0aW9uRGF0YU9ialttb250aF0gfHwgewogICAgLy8gICAgIHRpdGxlOiBtb21lbnQoaXRlbS5maW5pc2hEYXRlKS5mb3JtYXQoJ1lZWVnlubRNTeaciCcpLAogICAgLy8gICAgIGRhdGE6IFtdCiAgICAvLyAgIH0KICAgIC8vICAgc2VjdGlvbkRhdGFPYmpbbW9udGhdLmRhdGEucHVzaChpdGVtKQogICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgLi5saXRlbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWVzdFNob3VsZFNob3dTdG9yZVJldmlldwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2VpZ2h0RGF0YS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb250V2VpZ2h0OiAnbGlnaHQnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyV2lkdGg6IDAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgIHJlc3BvbnNlLnN1Y2Nlc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyQ29sb3I6ICdyZWQnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbmV3UmV2aWV3U3RvcmUgPSBuZXcgUGFyc2UuUXVlcnkoJ1BsYW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8738,29 +8749,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgUGFyc2UuT2JqZWN0LnNhdmVBbGwoW29iajEsIG9iajIsIG9iajNdKS50aGVuKCgpID0+IHsKCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5hYmxlTW91c2VUcmFja2luZzogZmFsc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3QXBwU3RvcmVSZXZpZXcuc2V0KCcnLCByZXF1ZXN0LnVzZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpbmU6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcGFjaXR5XD4=</last-search>
+      <last-search encoding="base64">XDx3ZWlnaHREYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcGFjaXR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWlnaHREYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVuZGVySXRlbVw+</entry>
-        <entry encoding="base64">XDxfcmVuZGVySGlzdG9yeUl0ZW1cPg==</entry>
-        <entry encoding="base64">XDxncm93VHlwZVZhbHVlXD4=</entry>
-        <entry encoding="base64">XDxyZWZyZXNoUGV0RGV0YWlsRGF0YVw+</entry>
-        <entry encoding="base64">XDxUREV2ZW50RW1pdFw+</entry>
         <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
         <entry encoding="base64">XDxzaG93RGV0YWlsXD4=</entry>
         <entry encoding="base64">XDx3ZWlnaHRcPg==</entry>
@@ -8776,6 +8782,11 @@
         <entry encoding="base64">XDxyb290XD4=</entry>
         <entry encoding="base64">XDx0b0RhdGFVUkxcPg==</entry>
         <entry encoding="base64">XDxvcGFjaXR5XD4=</entry>
+        <entry encoding="base64">XDxfcmVuZGVyTGluZUNoYXJ0XD4=</entry>
+        <entry encoding="base64">XDxsaWJzVXJpXD4=</entry>
+        <entry encoding="base64">XDxjb25mXD4=</entry>
+        <entry encoding="base64">XDxib3JkZXJSYWRpdXNcPg==</entry>
+        <entry encoding="base64">XDx3ZWlnaHREYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -8791,12 +8802,12 @@
         <entry>w'</entry>
         <entry>216</entry>
         <entry>w:w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>Lw</entry>
         <entry>.w</entry>
         <entry>Pw</entry>
         <entry>we</entry>
         <entry>qw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
