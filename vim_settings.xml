@@ -3,17 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" timestamp="1551787579403">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" timestamp="1551778345945">
-        <mark key="[" line="287" column="6" />
-        <mark key="]" line="287" column="5" />
-        <mark key="." line="287" column="5" />
-        <mark key="^" line="287" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1551774231237" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/modules/example/AScene/actionsReducer.js" timestamp="1551787286131" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1549826890344">
         <mark key="'" line="57" column="5" />
         <mark key="[" line="11" column="0" />
@@ -21,42 +10,10 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" timestamp="1550070946181">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="213" column="125" />
-        <mark key="]" line="213" column="124" />
-        <mark key="." line="213" column="124" />
-        <mark key="^" line="213" column="124" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" timestamp="1550929846735">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1550948282060">
-        <mark key="'" line="107" column="2" />
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1550948231980">
-        <mark key="'" line="113" column="32" />
-        <mark key="k" line="109" column="60" />
-        <mark key="[" line="112" column="14" />
-        <mark key="]" line="112" column="16" />
-        <mark key="." line="112" column="16" />
-        <mark key="^" line="112" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/index.js" timestamp="1551787303468">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-image-crop-picker/index.js" timestamp="1551786632093">
-        <mark key="j" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/RecordEditBody.js" timestamp="1550947588324">
         <mark key="'" line="138" column="40" />
@@ -65,32 +22,11 @@
         <mark key="^" line="138" column="48" />
         <mark key="." line="138" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1550948289797">
-        <mark key="'" line="89" column="17" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="13" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/utils/index.js" timestamp="1551784343465">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1550947820213">
-        <mark key="'" line="84" column="19" />
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="50" column="18" />
-        <mark key="." line="50" column="18" />
-        <mark key="^" line="50" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" timestamp="1550932535985">
-        <mark key="'" line="83" column="12" />
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="3" />
-        <mark key="^" line="76" column="3" />
-        <mark key="." line="76" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/modules/example/index.js" timestamp="1551787279575">
         <mark key="[" line="4" column="36" />
@@ -105,35 +41,12 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1549827769101">
-        <mark key="'" line="91" column="15" />
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="71" column="43" />
-        <mark key="^" line="71" column="43" />
-        <mark key="." line="71" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1550934063550">
-        <mark key="'" line="15" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1550948210765">
         <mark key="'" line="164" column="2" />
         <mark key="[" line="122" column="48" />
         <mark key="]" line="122" column="48" />
         <mark key="." line="122" column="48" />
         <mark key="^" line="166" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/index.js" timestamp="1551787249229">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="4" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="3" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1550069844534">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="18" column="63" />
-        <mark key="^" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/recordBox/TitleInput.js" timestamp="1550947310561">
         <mark key="'" line="23" column="21" />
@@ -142,8 +55,6 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1551785345781" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/src/network/core/CookieInterceptor.js" timestamp="1551784964888" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/container/actionsReducer.js" timestamp="1551787282834" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" timestamp="1551787513500">
         <mark key="'" line="11" column="0" />
@@ -151,13 +62,6 @@
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/actionsReducer.js" timestamp="1549512290509">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" timestamp="1550945656484">
         <mark key="'" line="61" column="42" />
@@ -173,12 +77,6 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/fastlane/Fastfile" timestamp="1551784972486">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/actionsReducer.js" timestamp="1549823149034">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="4" column="0" />
@@ -192,6 +90,109 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/react-native/local-cli/cliEntry.js" timestamp="1551788776274" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" timestamp="1551787579403">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" timestamp="1551778345945">
+        <mark key="[" line="287" column="6" />
+        <mark key="]" line="287" column="5" />
+        <mark key="." line="287" column="5" />
+        <mark key="^" line="287" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1551774231237" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/modules/example/AScene/actionsReducer.js" timestamp="1551787286131" />
+      <file name="internal/async_hooks.js" timestamp="1551788593193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" timestamp="1550070946181">
+        <mark key="'" line="17" column="7" />
+        <mark key="[" line="213" column="125" />
+        <mark key="]" line="213" column="124" />
+        <mark key="." line="213" column="124" />
+        <mark key="^" line="213" column="124" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" timestamp="1550929846735">
+        <mark key="'" line="31" column="2" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1551788647559">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1550948282060">
+        <mark key="'" line="107" column="2" />
+        <mark key="[" line="53" column="26" />
+        <mark key="]" line="53" column="26" />
+        <mark key="." line="53" column="26" />
+        <mark key="^" line="53" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/react-native/local-cli/cli.js" timestamp="1551788574938" />
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-image-crop-picker/index.js" timestamp="1551786632093">
+        <mark key="j" line="2" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1550948289797">
+        <mark key="'" line="89" column="17" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="13" />
+        <mark key="." line="44" column="13" />
+        <mark key="^" line="44" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1550947820213">
+        <mark key="'" line="84" column="19" />
+        <mark key="[" line="49" column="10" />
+        <mark key="]" line="50" column="18" />
+        <mark key="." line="50" column="18" />
+        <mark key="^" line="50" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" timestamp="1550932535985">
+        <mark key="'" line="83" column="12" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="76" column="3" />
+        <mark key="^" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1549827769101">
+        <mark key="'" line="91" column="15" />
+        <mark key="[" line="71" column="44" />
+        <mark key="]" line="71" column="43" />
+        <mark key="^" line="71" column="43" />
+        <mark key="." line="71" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1550934063550">
+        <mark key="'" line="15" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/index.js" timestamp="1551787249229">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1550069844534">
+        <mark key="'" line="35" column="11" />
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="37" />
+        <mark key="." line="18" column="63" />
+        <mark key="^" line="19" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/react-native/local-cli/core/index.js" timestamp="1551788786597" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1551785345781" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/src/network/core/CookieInterceptor.js" timestamp="1551784964888" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/actionsReducer.js" timestamp="1549512290509">
+        <mark key="'" line="4" column="32" />
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/fastlane/Fastfile" timestamp="1551784972486">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
