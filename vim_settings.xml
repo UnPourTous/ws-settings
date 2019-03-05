@@ -3,24 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1549826890344">
-        <mark key="'" line="57" column="5" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/node_modules/jest-haste-map/build/haste_fs.js" timestamp="1551795100419" />
+      <file name="/fragment.js" timestamp="1551795492185">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/Server.js" timestamp="1551792751138" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/index.js" timestamp="1551787303468">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/RecordEditBody.js" timestamp="1550947588324">
-        <mark key="'" line="138" column="40" />
-        <mark key="[" line="138" column="40" />
-        <mark key="]" line="138" column="48" />
-        <mark key="^" line="138" column="48" />
-        <mark key="." line="138" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/utils/index.js" timestamp="1551784343465">
         <mark key="[" line="1" column="0" />
@@ -34,160 +25,61 @@
         <mark key="." line="4" column="59" />
         <mark key="^" line="4" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1549810805892">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="30" />
-        <mark key="^" line="51" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1550948210765">
-        <mark key="'" line="164" column="2" />
-        <mark key="[" line="122" column="48" />
-        <mark key="]" line="122" column="48" />
-        <mark key="." line="122" column="48" />
-        <mark key="^" line="166" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/recordBox/TitleInput.js" timestamp="1550947310561">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="25" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/index.js" timestamp="1551795678730" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/Bundler.js" timestamp="1551795534209" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/container/actionsReducer.js" timestamp="1551787282834" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" timestamp="1551787513500">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" timestamp="1551794232116">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="16" />
         <mark key="." line="9" column="16" />
         <mark key="^" line="9" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" timestamp="1550945656484">
-        <mark key="'" line="61" column="42" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="32" column="12" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/index.js" timestamp="1550929425453">
-        <mark key="'" line="24" column="7" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/actionsReducer.js" timestamp="1549823149034">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="37" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/CustomRecord.js" timestamp="1549510927758">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="33" column="13" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/node-haste/DependencyGraph.js" timestamp="1551795867847">
+        <mark key="'" line="144" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/react-native/local-cli/cliEntry.js" timestamp="1551788776274" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" timestamp="1551787579403">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" timestamp="1551794952499">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="10" column="6" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/node_modules/jest-haste-map/build/index.js" timestamp="1551796133981" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" timestamp="1551778345945">
         <mark key="[" line="287" column="6" />
         <mark key="]" line="287" column="5" />
         <mark key="." line="287" column="5" />
         <mark key="^" line="287" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro-config/src/oldConfig.js" timestamp="1551794817360" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1551774231237" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/modules/example/AScene/actionsReducer.js" timestamp="1551787286131" />
-      <file name="internal/async_hooks.js" timestamp="1551788593193">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/ModuleGraph/node-haste/node-haste.js" timestamp="1551795332811">
+        <mark key="[" line="98" column="2" />
+        <mark key="]" line="98" column="1" />
+        <mark key="^" line="98" column="1" />
+        <mark key="." line="98" column="1" />
+      </file>
+      <file name="internal/async_hooks.js" timestamp="1551795723231">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" timestamp="1550070946181">
-        <mark key="'" line="17" column="7" />
-        <mark key="[" line="213" column="125" />
-        <mark key="]" line="213" column="124" />
-        <mark key="." line="213" column="124" />
-        <mark key="^" line="213" column="124" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-chart-kit/src/abstract-chart.js" timestamp="1550929846735">
-        <mark key="'" line="31" column="2" />
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1551788794404">
+      <file name="/JavaScript Console" timestamp="1551796136679">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1550948282060">
-        <mark key="'" line="107" column="2" />
-        <mark key="[" line="53" column="26" />
-        <mark key="]" line="53" column="26" />
-        <mark key="." line="53" column="26" />
-        <mark key="^" line="53" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/react-native/local-cli/cli.js" timestamp="1551788574938" />
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-image-crop-picker/index.js" timestamp="1551786632093">
-        <mark key="j" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1550948289797">
-        <mark key="'" line="89" column="17" />
-        <mark key="[" line="44" column="13" />
-        <mark key="]" line="44" column="13" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" timestamp="1550947820213">
-        <mark key="'" line="84" column="19" />
-        <mark key="[" line="49" column="10" />
-        <mark key="]" line="50" column="18" />
-        <mark key="." line="50" column="18" />
-        <mark key="^" line="50" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/elements/Svg.js" timestamp="1550932535985">
-        <mark key="'" line="83" column="12" />
-        <mark key="[" line="76" column="4" />
-        <mark key="]" line="76" column="3" />
-        <mark key="^" line="76" column="3" />
-        <mark key="." line="76" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1549827769101">
-        <mark key="'" line="91" column="15" />
-        <mark key="[" line="71" column="44" />
-        <mark key="]" line="71" column="43" />
-        <mark key="^" line="71" column="43" />
-        <mark key="." line="71" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1550934063550">
-        <mark key="'" line="15" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/index.js" timestamp="1551787249229">
         <mark key="[" line="3" column="2" />
         <mark key="]" line="3" column="4" />
         <mark key="^" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1550069844534">
-        <mark key="'" line="35" column="11" />
-        <mark key="[" line="19" column="29" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="18" column="63" />
-        <mark key="^" line="19" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/react-native/local-cli/core/index.js" timestamp="1551788786597" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1551785345781" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/network/core/CookieInterceptor.js" timestamp="1551784964888" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/actionsReducer.js" timestamp="1549512290509">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/ModuleGraph/node-haste/HasteFS.js" timestamp="1551795368544" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro-resolver/src/resolve.js" timestamp="1551795046664" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/fastlane/Fastfile" timestamp="1551784972486">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -196,10 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" />
-      <jump line="185" column="39" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
-      <jump line="188" column="39" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
-      <jump line="74" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="77" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="147" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="94" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
@@ -295,71 +183,45 @@
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" />
+      <jump line="171" column="26" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/node-haste/DependencyGraph.js" />
+      <jump line="144" column="25" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/node-haste/DependencyGraph.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,
-  getProjectRoots() {
-    /**
-     * Add our workspace roots so that react native can find the source code for the included packages
-     * in the monorepo
-     */
-    const projectPath = path.resolve(__dirname);
-    const componentsPath = path.resolve(__dirname, &quot;../../components&quot;);
-    const rootModulesPath = path.resolve(__dirname, &quot;../../node_modules&quot;);
-
-    return [
-      projectPath,
-      componentsPath,
-      rootModulesPath
-    ];
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZXRQcm9qZWN0Um9vdCgpIHsKICAgIC8qKgogICAgICogQWRkIG91ciB3b3Jrc3BhY2Ugcm9vdHMgc28gdGhhdCByZWFjdCBuYXRpdmUgY2FuIGZpbmQgdGhlIHNvdXJjZSBjb2RlIGZvciB0aGUgaW5jbHVkZWQgcGFja2FnZXMKICAgICAqIGluIHRoZSBtb25vcmVwbwogICAgICovCiAgICBjb25zdCBwcm9qZWN0UGF0aCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUpCiAgICBjb25zdCB0cmlkZW50Q29yZURldk1vZHVsZXNQYXRoID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIi4uL3RyaWRlbnQtY29yZSIpOwoKICAgIHJldHVybiBbCiAgICAgIHByb2plY3RQYXRoLAogICAgICB0cmlkZW50Q29yZURldk1vZHVsZXNQYXRoCiAgICBdOwogIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>node_modules/react-native</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0VGl0bGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>reduxUtils</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcHJvamVjdFBhdGgsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-  getProjectRoots() {
-    /**
-     * Add our workspace roots so that react native can find the source code for the included packages
-     * in the monorepo
-     */
-    const projectPath = path.resolve(__dirname);
-    const componentsPath = path.resolve(__dirname, &quot;../../components&quot;);
-    const rootModulesPath = path.resolve(__dirname, &quot;../../node_modules&quot;);
-
-    return [
-      projectPath,
-      componentsPath,
-      rootModulesPath
-    ];
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBnZXRQcm9qZWN0Um9vdCgpIHsKICAgIC8qKgogICAgICogQWRkIG91ciB3b3Jrc3BhY2Ugcm9vdHMgc28gdGhhdCByZWFjdCBuYXRpdmUgY2FuIGZpbmQgdGhlIHNvdXJjZSBjb2RlIGZvciB0aGUgaW5jbHVkZWQgcGFja2FnZXMKICAgICAqIGluIHRoZSBtb25vcmVwbwogICAgICovCiAgICBjb25zdCBwcm9qZWN0UGF0aCA9IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUpCiAgICBjb25zdCB0cmlkZW50Q29yZURldk1vZHVsZXNQYXRoID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIi4uL3RyaWRlbnQtY29yZSIpOwoKICAgIHJldHVybiBbCiAgICAgIHByb2plY3RQYXRoLAogICAgICB0cmlkZW50Q29yZURldk1vZHVsZXNQYXRoCiAgICBdOwogIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJAc3Rvcnlib29rIjogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIm5vZGVfbW9kdWxlcy9Ac3Rvcnlib29rIikK</text>
+        <text encoding="base64">ICAgICAgcm9vdE1vZHVsZXNQYXRoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlYWN0OiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAibm9kZV9tb2R1bGVzL3JlYWN0IiksCg==</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50c1BhdGgsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFRyaWRlbnRBRFZwcCBmcm9tICdsaWJyYXJ5L1RyaWRlbnRBcHAnCg==</text>
+        <text encoding="base64">ICAgICAgY29tcG9uZW50c1BhdGgsCiAgICAgIHJvb3RNb2R1bGVzUGF0aAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb2plY3RQYXRoID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvbXBvbmVudHNQYXRoID0gcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIi4uLy4uL2NvbXBvbmVudHMiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0ICogZnJvbSAnLi4vbGlicmFyeS9OYXZpZ2F0aW9uJwo=</text>
+        <text encoding="base64">ICAgIHJlc29sdmVyOiB7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8806,7 +8668,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">U2tpcCB0byBjb250ZW50CgpTZWFyY2ggb3IganVtcCB0b+KApgoKUHVsbCByZXF1ZXN0cwpJc3N1ZXMKTWFya2V0cGxhY2UKRXhwbG9yZQpAZXJpY2h1YTIzIFNpZ24gb3V0CjE1CjIwNyA0OSByZWFjdC1uYXRpdmUtY29tbXVuaXR5L3JlYWN0LW5hdGl2ZS1jbGkKQ29kZSAgSXNzdWVzIDQ0ICBQdWxsIHJlcXVlc3RzIDMgIFByb2plY3RzIDEgIFdpa2kgIEluc2lnaHRzCnJlYWN0LW5hdGl2ZS1jbGkvcGFja2FnZXMvZ2xvYmFsLWNsaS9pbmRleC5qcwpAbHVjYXNiZW50byBsdWNhc2JlbnRvIGZlYXQ6IHNob3cgaGVscCB3aGVuIG5vIGFyZ3VtZW50cyBhcmUgcHJvdmlkZWQgKCMxNjApCmZiNjJmOWIgIDIyIGRheXMgYWdvCkB0aHltaWtlZSBAc2lkZmVycmVpcmEgQGx1Y2FzYmVudG8gQEVzZW1lc2VrIEBncmFiYm91CkV4ZWN1dGFibGUgRmlsZSAgMzMwIGxpbmVzICgzMDIgc2xvYykgIDkuNSBLQgo=</text>
+        <text encoding="base64">ICAgICJAdW5wb3VydG91cy90cmlkZW50LWNvcmUiOiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAiLi4vdHJpZGVudC1jb3JlIiksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
