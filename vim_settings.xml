@@ -3,11 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/chanshila/server/cloud/main.js" timestamp="1550070987611">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="35" column="13" />
-        <mark key="^" line="35" column="13" />
-        <mark key="." line="35" column="13" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" timestamp="1551787579403">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" timestamp="1551778345945">
         <mark key="[" line="287" column="6" />
@@ -16,18 +13,13 @@
         <mark key="^" line="287" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1551774231237" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/modules/example/AScene/actionsReducer.js" timestamp="1551787286131" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1549826890344">
         <mark key="'" line="57" column="5" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="41" />
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/package.json" timestamp="1550933473942">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="12" />
-        <mark key="^" line="41" column="12" />
-        <mark key="." line="41" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard.js" timestamp="1550070946181">
         <mark key="'" line="17" column="7" />
@@ -58,20 +50,13 @@
         <mark key="." line="112" column="16" />
         <mark key="^" line="112" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1550946255354">
-        <mark key="'" line="10" column="2" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/index.js" timestamp="1551787303468">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-image-crop-picker/index.js" timestamp="1551786632093">
         <mark key="j" line="2" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" timestamp="1550945470207">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="21" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="36" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/RecordEditBody.js" timestamp="1550947588324">
         <mark key="'" line="138" column="40" />
@@ -86,12 +71,6 @@
         <mark key="]" line="44" column="13" />
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/cloud/PushManager.js" timestamp="1550289400884">
-        <mark key="[" line="31" column="153" />
-        <mark key="]" line="31" column="155" />
-        <mark key="." line="31" column="155" />
-        <mark key="^" line="31" column="155" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/utils/index.js" timestamp="1551784343465">
         <mark key="[" line="1" column="0" />
@@ -113,6 +92,12 @@
         <mark key="^" line="76" column="3" />
         <mark key="." line="76" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/modules/example/index.js" timestamp="1551787279575">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="59" />
+        <mark key="." line="4" column="59" />
+        <mark key="^" line="4" column="59" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1549810805892">
         <mark key="'" line="14" column="8" />
         <mark key="[" line="51" column="32" />
@@ -127,12 +112,21 @@
         <mark key="^" line="71" column="43" />
         <mark key="." line="71" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1550934063550">
+        <mark key="'" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1550948210765">
         <mark key="'" line="164" column="2" />
         <mark key="[" line="122" column="48" />
         <mark key="]" line="122" column="48" />
         <mark key="." line="122" column="48" />
         <mark key="^" line="166" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/index.js" timestamp="1551787249229">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="4" />
+        <mark key="^" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1550069844534">
         <mark key="'" line="35" column="11" />
@@ -149,13 +143,15 @@
         <mark key="^" line="31" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1551785345781" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1550947449334">
-        <mark key="[" line="159" column="63" />
-        <mark key="]" line="159" column="62" />
-        <mark key="^" line="159" column="62" />
-        <mark key="." line="159" column="62" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/src/network/core/CookieInterceptor.js" timestamp="1551784964888" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/src/core/container/actionsReducer.js" timestamp="1551787282834" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" timestamp="1551787513500">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/actionsReducer.js" timestamp="1549512290509">
         <mark key="'" line="4" column="32" />
         <mark key="[" line="23" column="4" />
@@ -169,14 +165,6 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="32" column="12" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1550946322606">
-        <mark key="a" line="33" column="60" />
-        <mark key="'" line="273" column="14" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="51" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-svg/index.js" timestamp="1550929425453">
         <mark key="'" line="24" column="7" />
@@ -207,9 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/PetService.js" />
-      <jump line="70" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
-      <jump line="50" column="25" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
       <jump line="25" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" />
       <jump line="185" column="39" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="188" column="39" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
@@ -307,40 +292,73 @@
       <jump line="347" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="346" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>,
+  getProjectRoots() {
+    /**
+     * Add our workspace roots so that react native can find the source code for the included packages
+     * in the monorepo
+     */
+    const projectPath = path.resolve(__dirname);
+    const componentsPath = path.resolve(__dirname, &quot;../../components&quot;);
+    const rootModulesPath = path.resolve(__dirname, &quot;../../node_modules&quot;);
+
+    return [
+      projectPath,
+      componentsPath,
+      rootModulesPath
+    ];
+  }</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>node_modules/react-native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2V0VGl0bGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdlaWdodCAmJiBjdXN0b21SZWNvcmQuc2V0KCd3ZWlnaHQnLCB3ZWlnaHQpCg==</text>
+      <register name="0" type="4">
+        <text>reduxUtils</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>,
+  getProjectRoots() {
+    /**
+     * Add our workspace roots so that react native can find the source code for the included packages
+     * in the monorepo
+     */
+    const projectPath = path.resolve(__dirname);
+    const componentsPath = path.resolve(__dirname, &quot;../../components&quot;);
+    const rootModulesPath = path.resolve(__dirname, &quot;../../node_modules&quot;);
+
+    return [
+      projectPath,
+      componentsPath,
+      rootModulesPath
+    ];
+  }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAc3Rvcnlib29rIjogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgIm5vZGVfbW9kdWxlcy9Ac3Rvcnlib29rIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZXhwb3J0ICogZnJvbSAnLi4vbGlicmFyeS9OYXZpZ2F0aW9uJwo=</text>
+        <text encoding="base64">ICAgIHJlYWN0OiBwYXRoLnJlc29sdmUoX19kaXJuYW1lLCAibm9kZV9tb2R1bGVzL3JlYWN0IiksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFRyaWRlbnRBRFZwcCBmcm9tICdsaWJyYXJ5L1RyaWRlbnRBcHAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U2tpcCB0byBjb250ZW50CgpTZWFyY2ggb3IganVtcCB0b+KApgoKUHVsbCByZXF1ZXN0cwpJc3N1ZXMKTWFya2V0cGxhY2UKRXhwbG9yZQpAZXJpY2h1YTIzIFNpZ24gb3V0CjE1CjIwNyA0OSByZWFjdC1uYXRpdmUtY29tbXVuaXR5L3JlYWN0LW5hdGl2ZS1jbGkKQ29kZSAgSXNzdWVzIDQ0ICBQdWxsIHJlcXVlc3RzIDMgIFByb2plY3RzIDEgIFdpa2kgIEluc2lnaHRzCnJlYWN0LW5hdGl2ZS1jbGkvcGFja2FnZXMvZ2xvYmFsLWNsaS9pbmRleC5qcwpAbHVjYXNiZW50byBsdWNhc2JlbnRvIGZlYXQ6IHNob3cgaGVscCB3aGVuIG5vIGFyZ3VtZW50cyBhcmUgcHJvdmlkZWQgKCMxNjApCmZiNjJmOWIgIDIyIGRheXMgYWdvCkB0aHltaWtlZSBAc2lkZmVycmVpcmEgQGx1Y2FzYmVudG8gQEVzZW1lc2VrIEBncmFiYm91CkV4ZWN1dGFibGUgRmlsZSAgMzMwIGxpbmVzICgzMDIgc2xvYykgIDkuNSBLQgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U2tpcCB0byBjb250ZW50CgpTZWFyY2ggb3IganVtcCB0b+KApgoKUHVsbCByZXF1ZXN0cwpJc3N1ZXMKTWFya2V0cGxhY2UKRXhwbG9yZQpAZXJpY2h1YTIzIFNpZ24gb3V0CjE1CjIwNyA0OSByZWFjdC1uYXRpdmUtY29tbXVuaXR5L3JlYWN0LW5hdGl2ZS1jbGkKQ29kZSAgSXNzdWVzIDQ0ICBQdWxsIHJlcXVlc3RzIDMgIFByb2plY3RzIDEgIFdpa2kgIEluc2lnaHRzCnJlYWN0LW5hdGl2ZS1jbGkvcGFja2FnZXMvZ2xvYmFsLWNsaS9pbmRleC5qcwpAbHVjYXNiZW50byBsdWNhc2JlbnRvIGZlYXQ6IHNob3cgaGVscCB3aGVuIG5vIGFyZ3VtZW50cyBhcmUgcHJvdmlkZWQgKCMxNjApCmZiNjJmOWIgIDIyIGRheXMgYWdvCkB0aHltaWtlZSBAc2lkZmVycmVpcmEgQGx1Y2FzYmVudG8gQEVzZW1lc2VrIEBncmFiYm91CkV4ZWN1dGFibGUgRmlsZSAgMzMwIGxpbmVzICgzMDIgc2xvYykgIDkuNSBLQgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">wqkgMjAxOSBHaXRIdWIsIEluYy4KICBUZXJtcwpQcml2YWN5ClNlY3VyaXR5ClN0YXR1cwpIZWxwCkNvbnRhY3QgR2l0SHViClByaWNpbmcKQVBJClRyYWluaW5nCkJsb2cKQWJvdXQKU3VwcG9ydCB1cyAg4oCiICBGZWVkYmFjaz8K</text>
+        <text encoding="base64">Ly8gZXhwb3J0ICogZnJvbSAnLi4vbGlicmFyeS9OYXZpZ2F0aW9uJwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8784,10 +8802,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlY29yZENvbmZpZy5sYWJlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID8gJycK</text>
+        <text encoding="base64">U2tpcCB0byBjb250ZW50CgpTZWFyY2ggb3IganVtcCB0b+KApgoKUHVsbCByZXF1ZXN0cwpJc3N1ZXMKTWFya2V0cGxhY2UKRXhwbG9yZQpAZXJpY2h1YTIzIFNpZ24gb3V0CjE1CjIwNyA0OSByZWFjdC1uYXRpdmUtY29tbXVuaXR5L3JlYWN0LW5hdGl2ZS1jbGkKQ29kZSAgSXNzdWVzIDQ0ICBQdWxsIHJlcXVlc3RzIDMgIFByb2plY3RzIDEgIFdpa2kgIEluc2lnaHRzCnJlYWN0LW5hdGl2ZS1jbGkvcGFja2FnZXMvZ2xvYmFsLWNsaS9pbmRleC5qcwpAbHVjYXNiZW50byBsdWNhc2JlbnRvIGZlYXQ6IHNob3cgaGVscCB3aGVuIG5vIGFyZ3VtZW50cyBhcmUgcHJvdmlkZWQgKCMxNjApCmZiNjJmOWIgIDIyIGRheXMgYWdvCkB0aHltaWtlZSBAc2lkZmVycmVpcmEgQGx1Y2FzYmVudG8gQEVzZW1lc2VrIEBncmFiYm91CkV4ZWN1dGFibGUgRmlsZSAgMzMwIGxpbmVzICgzMDIgc2xvYykgIDkuNSBLQgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
