@@ -3,6 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/fastlane/Fastfile" timestamp="1551960922467">
+        <mark key="'" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" timestamp="1551960484807">
+        <mark key="'" line="28" column="65" />
+        <mark key="[" line="28" column="65" />
+        <mark key="]" line="28" column="71" />
+        <mark key="." line="28" column="71" />
+        <mark key="^" line="28" column="71" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1551926531626">
         <mark key="'" line="67" column="0" />
       </file>
@@ -19,7 +29,6 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/testApp/node_modules/@unpourtous/trident/package.json" timestamp="1551873156324" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" timestamp="1551872816747">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="18" />
@@ -38,11 +47,12 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1551957681647">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="109" column="24" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1551960907986">
+        <mark key="'" line="89" column="8" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="135" column="25" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1551944712727">
         <mark key="[" line="8" column="13" />
@@ -50,7 +60,6 @@
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/AScene/actionsReducer.js" timestamp="1551874088962" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/index.js" timestamp="1551932096244">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
@@ -66,15 +75,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="54" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="213" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="218" column="12" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="155" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="159" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="78" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="80" column="13" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="36" column="33" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="186" column="36" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="31" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
@@ -166,40 +166,49 @@
       <jump line="15" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="49" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="83" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="113" column="11" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="93" column="25" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="3" column="38" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="18" column="45" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" />
+      <jump line="19" column="32" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" />
+      <jump line="28" column="65" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/lab/fastlane/Fastfile" />
+      <jump line="111" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="89" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKHJvb3QgKyAnL2lvcycpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>options.name + '.xcodeproj</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb290XD4=</text>
+        <text encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>targetWorkspaceName</text>
-      </register>
-      <register name="1" type="2">
+      <register name="0" type="2">
         <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKHJvb3QgKyAnL2lvcycpCg==</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChidW5kbGVOYW1lKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBvcHRpb25zLm5hbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4ZWNTeW5jKCdtdiB0cmlkZW50Lnhjb2RlcHJvaiAnICsgb3B0aW9ucy5uYW1lICsgJy54Y29kZXByb2onKQo=</text>
+        <text encoding="base64">ICAgIHB1c2hfdG9fZ2l0X3JlbW90ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4ZWNTeW5jKCdtdiB0cmlkZW50Lnhjb2RlcHJvaiAnICsgb3B0aW9ucy5uYW1lICsgJy54Y29kZXByb2onKQo=</text>
+        <text encoding="base64">ICAgIHVwZGF0ZV9pbmZvX3BsaXN0KAogICAgICBwbGlzdF9wYXRoOiAidHJpZGVudC9JbmZvLnBsaXN0IiwKICAgICAgeGNvZGVwcm9qOiAiLi9pb3MvdHJpZGVudC54Y29kZXByb2oiLAogICAgICBkaXNwbGF5X25hbWU6ICJUcmlkZW50IEFwcCBOYW1lIiwKICAgICAgYXBwX2lkZW50aWZpZXI6ICJ0ZXN0LnNvZ2EiCiAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhlY1N5bmMoJ212IHRyaWRlbnQueGNvZGVwcm9qICcgKyBvcHRpb25zLm5hbWUgKyAnLnhjb2RlcHJvaicpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNb2RpZmllZCBmaWxlczonLCBjaGFuZ2VzLmpvaW4oJywgJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4ZWNTeW5jKCdtdiB0cmlkZW50Lnhjd29ya3NwYWNlJyArIG9wdGlvbnMubmFtZSArICcueGN3b3Jrc3BhY2UnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8643,28 +8652,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGV4ZWNTeW5jKCdtdiB0cmlkZW50Lnhjb2RlcHJvaiAnICsgb3B0aW9ucy5uYW1lICsgJy54Y29kZXByb2onKQo=</text>
+        <text encoding="base64">ICAgIC8vIHJlcGxhY2UgYnVuZGxlIGlkCiAgICBjb25zdCBjaGFuZ2VzID0gcmVwbGFjZUluRmlsZS5zeW5jKHsKICAgICAgZmlsZXM6ICcuLycgKyB0YXJnZXRQcm9qZWN0TmFtZSArICcvcHJvamVjdC5wYnhwcm9qJywKICAgICAgZnJvbTogL29yZy5yZWFjdGpzLm5hdGl2ZS5leGFtcGxlL2csCiAgICAgIHRvOiBidW5kbGVOYW1lLAogICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZnMubWtkaXJTeW5jKHJvb3QpCg==</text>
+        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKHJvb3QgKyAnL2lvcycpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb290XD4=</last-search>
+      <last-search encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbmFibGVcPg==</entry>
-        <entry encoding="base64">XDxlbmFibGVkXD4=</entry>
-        <entry encoding="base64">XDxfcmVuZGVyTGluZUNoYXJ0XD4=</entry>
-        <entry encoding="base64">XDx3ZWlnaHRSZWNvcmRMaXN0XD4=</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDx3ZWlnaHREYXRhXD4=</entry>
         <entry encoding="base64">XDxib2R5SGVpZ2h0XD4=</entry>
@@ -8681,6 +8686,10 @@
         <entry encoding="base64">XDxUcmlkZW50QXBwXD4=</entry>
         <entry encoding="base64">XDxjaGRpclw+</entry>
         <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxleGVjXD4=</entry>
+        <entry encoding="base64">XDx0cmlkZW50XD4=</entry>
+        <entry encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -8700,8 +8709,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>.w</entry>
-        <entry>q</entry>
         <entry>qw</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
