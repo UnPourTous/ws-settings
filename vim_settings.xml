@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js" timestamp="1552227208859" />
+      <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1552234372016" />
       <file name="$USER_HOME$/Projects/chanshila/server/cloud/main.js" timestamp="1550070987611">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="13" />
