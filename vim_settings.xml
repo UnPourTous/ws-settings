@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js" timestamp="1552227208859" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/fastlane/Fastfile" timestamp="1552011874113">
         <mark key="'" line="51" column="0" />
       </file>
@@ -13,15 +14,15 @@
         <mark key="." line="28" column="71" />
         <mark key="^" line="28" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchable.js" timestamp="1552227744657" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1551926531626">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1552222316118">
-        <mark key="'" line="14" column="2" />
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="14" column="9" />
-        <mark key="^" line="14" column="9" />
-        <mark key="." line="14" column="9" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1552227252552">
+        <mark key="[" line="142" column="31" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="31" />
+        <mark key="^" line="142" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident/library/index.js" timestamp="1551934750574">
         <mark key="'" line="8" column="16" />
@@ -36,17 +37,14 @@
         <mark key="." line="5" column="47" />
         <mark key="^" line="5" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/testApp/node_modules/@unpourtous/trident/package.json" timestamp="1551873156324" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/package.json" timestamp="1551872816747">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="18" />
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/package.json" timestamp="1551924492524">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchableOpacity.js" timestamp="1552227750736" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/index.js" timestamp="1551944667434">
         <mark key="'" line="5" column="11" />
         <mark key="[" line="0" column="26" />
@@ -61,12 +59,20 @@
         <mark key="^" line="93" column="3" />
         <mark key="." line="93" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1552228227172">
+        <mark key="'" line="224" column="16" />
+        <mark key="[" line="249" column="62" />
+        <mark key="]" line="249" column="62" />
+        <mark key="." line="249" column="62" />
+        <mark key="^" line="249" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1551944712727">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/AScene/actionsReducer.js" timestamp="1551874088962" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/index.js" timestamp="1551932096244">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="5" column="19" />
@@ -82,12 +88,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="36" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="31" column="8" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="37" column="18" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="108" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="173" column="15" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
-      <jump line="42" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="24" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
       <jump line="25" column="37" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
@@ -182,40 +182,46 @@
       <jump line="111" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="89" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="14" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" />
+      <jump line="279" column="21" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" />
+      <jump line="252" column="65" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
+      <jump line="12" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
+      <jump line="224" column="16" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.state</text>
+        <text encoding="base64">ICsgJ2RkZGRkJw==</text>
       </register>
       <register name="-" type="4">
-        <text>this.state</text>
+        <text encoding="base64">ICsgJ2RkZGRkJw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbGF0Zm9ybVw+</text>
+        <text encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKHJvb3QgKyAnL2lvcycpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMTAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2dyZWVuJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChidW5kbGVOYW1lKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMTAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvcHRpb25zLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwcmVzc01vZGU9e1dlVG91Y2hhYmxlLlByZXNzTW9kZS5ub25lfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1c2hfdG9fZ2l0X3JlbW90ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMTAwLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVwZGF0ZV9pbmZvX3BsaXN0KAogICAgICBwbGlzdF9wYXRoOiAidHJpZGVudC9JbmZvLnBsaXN0IiwKICAgICAgeGNvZGVwcm9qOiAiLi9pb3MvdHJpZGVudC54Y29kZXByb2oiLAogICAgICBkaXNwbGF5X25hbWU6ICJUcmlkZW50IEFwcCBOYW1lIiwKICAgICAgYXBwX2lkZW50aWZpZXI6ICJ0ZXN0LnNvZ2EiCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGhlaWdodDogVGhlbWUuU2l6ZS5yb3dIZWlnaHRMYXJnZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdNb2RpZmllZCBmaWxlczonLCBjaGFuZ2VzLmpvaW4oJywgJykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogVGhlbWUuU2l6ZS5yb3dIZWlnaHRTbWFsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDE2Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8659,27 +8665,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHJlcGxhY2UgYnVuZGxlIGlkCiAgICBjb25zdCBjaGFuZ2VzID0gcmVwbGFjZUluRmlsZS5zeW5jKHsKICAgICAgZmlsZXM6ICcuLycgKyB0YXJnZXRQcm9qZWN0TmFtZSArICcvcHJvamVjdC5wYnhwcm9qJywKICAgICAgZnJvbTogL29yZy5yZWFjdGpzLm5hdGl2ZS5leGFtcGxlL2csCiAgICAgIHRvOiBidW5kbGVOYW1lLAogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKHJvb3QgKyAnL2lvcycpCg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbGF0Zm9ybVw+</last-search>
+      <last-search encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbGF0Zm9ybVw+</last-pattern>
+      <last-pattern encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWlnaHREYXRhXD4=</entry>
-        <entry encoding="base64">XDxib2R5SGVpZ2h0XD4=</entry>
-        <entry encoding="base64">XDxfcmVuZGVyU2VjdGlvbkhlYWRlclw+</entry>
         <entry encoding="base64">XDxEaW1lbnNpb25zXD4=</entry>
         <entry encoding="base64">XDxRaVRBXD4=</entry>
         <entry encoding="base64">XDxxaXRhVGl0bGVcPg==</entry>
@@ -8697,6 +8700,9 @@
         <entry encoding="base64">XDx0cmlkZW50XD4=</entry>
         <entry encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxQbGF0Zm9ybVw+</entry>
+        <entry encoding="base64">XDxUb3VjaGFibGVXaXRob3V0RmVlZGJhY2tcPg==</entry>
+        <entry encoding="base64">XDxUZXh0XD4=</entry>
+        <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
