@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native/Libraries/Components/Keyboard/KeyboardAvoidingView.js" timestamp="1552227208859" />
-      <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1552234372016" />
+      <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1552385825189" />
       <file name="$USER_HOME$/Projects/chanshila/server/cloud/main.js" timestamp="1550070987611">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="35" column="13" />
@@ -173,11 +173,12 @@
         <mark key="^" line="67" column="16" />
         <mark key="." line="67" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1552374080455">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1552385312942">
         <mark key="'" line="108" column="31" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
+        <mark key="[" line="136" column="6" />
+        <mark key="]" line="136" column="5" />
+        <mark key="." line="136" column="5" />
+        <mark key="^" line="136" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1552228227172">
         <mark key="'" line="224" column="16" />
