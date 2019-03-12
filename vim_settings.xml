@@ -172,12 +172,12 @@
         <mark key="^" line="67" column="16" />
         <mark key="." line="67" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1552307698574">
-        <mark key="'" line="89" column="8" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1552366557637">
+        <mark key="'" line="125" column="2" />
         <mark key="[" line="93" column="4" />
         <mark key="]" line="93" column="3" />
         <mark key="^" line="93" column="3" />
-        <mark key="." line="93" column="3" />
+        <mark key="." line="85" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1552228227172">
         <mark key="'" line="224" column="16" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="25" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
       <jump line="91" column="16" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
       <jump line="95" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
       <jump line="27" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" />
@@ -353,6 +352,7 @@
       <jump line="4" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/container/AppContainer.js" />
       <jump line="21" column="19" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/container/AppContainer.js" />
       <jump line="11" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/container/AppContainer.js" />
+      <jump line="125" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
