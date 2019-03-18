@@ -227,12 +227,12 @@
       <file name="$USER_HOME$/Projects/lodash/_createCtor.js" timestamp="1552890956319" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/testApp/node_modules/@unpourtous/trident/package.json" timestamp="1551873156324" />
       <file name="$USER_HOME$/Projects/lodash/_getValue.js" timestamp="1552852661009" />
-      <file name="$USER_HOME$/Projects/lodash/curry.js" timestamp="1552883332180">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="75" column="24" />
+      <file name="$USER_HOME$/Projects/lodash/curry.js" timestamp="1552901259603">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="3" />
+        <mark key="." line="87" column="3" />
+        <mark key="^" line="87" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1552231030541" />
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/package.json" timestamp="1550933473942">
@@ -321,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" />
       <jump line="89" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="347" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="346" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
@@ -421,40 +420,41 @@
       <jump line="17" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
       <jump line="22" column="23" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/Projects/lodash/curry.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>curry</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="-" type="4">
-        <text>curry</text>
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmdW5jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY3VycmllZDMgPSBjdXJyaWVkMigzKQo=</text>
+        <text encoding="base64">Y29uc3QgYWJjXzFfMiA9IGN1cnJpZWQoMSkoMikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">566t5aS05Ye95pWw6KGo6L6+5byP55qE6K+t5rOV5q+U5Ye95pWw6KGo6L6+5byP5pu0566A5rSB77yM5bm25LiU5rKh5pyJ6Ieq5bex55qEdGhpc++8jGFyZ3VtZW50c++8jHN1cGVy5oiWIG5ldy50YXJnZXTjgIIK</text>
+        <text encoding="base64">Y3VycmllZCgxKSg0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3JlYXRlQ3VycnkoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3QK</text>
+        <text encoding="base64">dmFyIGN1cnJpZWQgPSBjdXJyeShhYmMpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gcGFydGlhbCBhcHBsaWNhdGlvbgo=</text>
+        <text encoding="base64">YWJjXzFfNCA9IGZ1bmN0aW9uIChjKSB7CiAgcmV0dXJuIGFiYygxLCA0LCBjKQp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWJjCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8901,7 +8901,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBjdXJyeTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -8951,12 +8951,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>.w</entry>
-        <entry>qw</entry>
         <entry>q</entry>
         <entry>w]:w</entry>
         <entry>.e</entry>
         <entry>w:w</entry>
         <entry>we</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
