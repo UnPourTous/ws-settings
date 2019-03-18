@@ -88,17 +88,22 @@
         <mark key="." line="10" column="6" />
         <mark key="^" line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/lodash/_createRecurry.js" timestamp="1552891207967">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="47" column="6" />
-        <mark key="^" line="47" column="6" />
-        <mark key="." line="47" column="6" />
+      <file name="$USER_HOME$/Projects/lodash/_createRecurry.js" timestamp="1552902136599">
+        <mark key="[" line="48" column="50" />
+        <mark key="]" line="48" column="49" />
+        <mark key="^" line="48" column="49" />
+        <mark key="." line="48" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" timestamp="1551778345945">
         <mark key="[" line="287" column="6" />
         <mark key="]" line="287" column="5" />
         <mark key="." line="287" column="5" />
         <mark key="^" line="287" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/package.json" timestamp="1551924492524">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/node_modules/metro/src/ModuleGraph/node-haste/node-haste.js" timestamp="1551795332811">
         <mark key="[" line="98" column="2" />
@@ -139,11 +144,11 @@
         <mark key="." line="31" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1552230443169" />
-      <file name="$USER_HOME$/Projects/lodash/_createCurry.js" timestamp="1552891235040">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="37" column="38" />
-        <mark key="^" line="37" column="38" />
-        <mark key="." line="37" column="38" />
+      <file name="$USER_HOME$/Projects/lodash/_createCurry.js" timestamp="1552902153483">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/trident-core/library/TridentApp.js" timestamp="1551857149834">
         <mark key="[" line="25" column="0" />
@@ -154,12 +159,10 @@
       <file name="module.js" timestamp="1552883320209">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/lodash/myCurry.js" timestamp="1552899284672">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/Projects/lodash/myCurry.js" timestamp="1552902635798">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/android/app/build.gradle" timestamp="1552231922942">
         <mark key="[" line="104" column="21" />
@@ -179,7 +182,7 @@
         <mark key="^" line="0" column="35" />
         <mark key="." line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/lodash/_createWrap.js" timestamp="1552880407721">
+      <file name="$USER_HOME$/Projects/lodash/_createWrap.js" timestamp="1552901697187">
         <mark key="'" line="55" column="27" />
         <mark key="[" line="84" column="2" />
         <mark key="]" line="84" column="1" />
@@ -224,15 +227,14 @@
         <mark key="." line="4" column="59" />
         <mark key="^" line="4" column="59" />
       </file>
-      <file name="$USER_HOME$/Projects/lodash/_createCtor.js" timestamp="1552890956319" />
+      <file name="$USER_HOME$/Projects/lodash/_createCtor.js" timestamp="1552902414068" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/testApp/node_modules/@unpourtous/trident/package.json" timestamp="1551873156324" />
       <file name="$USER_HOME$/Projects/lodash/_getValue.js" timestamp="1552852661009" />
-      <file name="$USER_HOME$/Projects/lodash/curry.js" timestamp="1552901259603">
+      <file name="$USER_HOME$/Projects/lodash/curry.js" timestamp="1552901752880">
         <mark key="'" line="78" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="3" />
-        <mark key="." line="87" column="3" />
-        <mark key="^" line="87" column="3" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1552231030541" />
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/package.json" timestamp="1550933473942">
@@ -286,8 +288,8 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/lodash/_createHybrid.js" timestamp="1552891346594">
-        <mark key="'" line="95" column="12" />
+      <file name="$USER_HOME$/Projects/lodash/_createHybrid.js" timestamp="1552902458644">
+        <mark key="'" line="49" column="8" />
         <mark key="[" line="94" column="22" />
         <mark key="]" line="94" column="41" />
         <mark key="^" line="94" column="41" />
@@ -321,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
-      <jump line="347" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="346" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-cli/init.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/trident-seed/rn-packager-config.js" />
@@ -421,40 +421,42 @@
       <jump line="22" column="23" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/lodash/curry.js" />
+      <jump line="49" column="8" filename="$USER_HOME$/Projects/lodash/_createHybrid.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>curry</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jXD4=</text>
+        <text encoding="base64">XDxhcmdzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgYWJjXzFfMiA9IGN1cnJpZWQoMSkoMikK</text>
+        <text encoding="base64">YWJjKGEsIGIpKGMpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VycmllZCgxKSg0KQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY3VycnkoZm4sIC4uLmFyZ3MpIHsKICByZXR1cm4gKC4uLl9hcmcpID0+IHsKICAgIHJldHVybiBmbiguLi5hcmdzLCAuLi5fYXJnKTsKICB9Cn0K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIGN1cnJpZWQgPSBjdXJyeShhYmMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWJjXzFfNCA9IGZ1bmN0aW9uIChjKSB7CiAgcmV0dXJuIGFiYygxLCA0LCBjKQp9Cg==</text>
+        <text encoding="base64">cGFydGlhbCBhcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWJjCg==</text>
+        <text encoding="base64">YWJjKGEsIGIpKGMpCmFiYyhhKShiLCBjKQoK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8901,22 +8903,21 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBjdXJyeTsK</text>
+        <text encoding="base64">Y3VycmllZCgxKSg0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jXD4=</last-search>
+      <last-search encoding="base64">XDxhcmdzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxhcmdzXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYXZSZWR1eE1pZGRsZXdhcmVcPg==</entry>
         <entry encoding="base64">XDxhZGRMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxucG1cPg==</entry>
         <entry encoding="base64">XDxUcmlkZW50QXBwXD4=</entry>
@@ -8936,6 +8937,7 @@
         <entry encoding="base64">XDxhcml0eVw+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxmdW5jXD4=</entry>
+        <entry encoding="base64">XDxhcmdzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>180</entry>
