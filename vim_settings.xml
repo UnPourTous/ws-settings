@@ -60,7 +60,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchableOpacity.js" timestamp="1552227750736" />
-      <file name="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-03/astTransformRouter.js" timestamp="1553519187728" />
+      <file name="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-03/astTransformRouter.js" timestamp="1553522789387" />
       <file name="internal/async_hooks.js" timestamp="1551795723231">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,7 +109,7 @@
         <mark key="^" line="104" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1552392132003" />
-      <file name="/fragment.js" timestamp="1552892134110">
+      <file name="/fragment.js" timestamp="1553522631107">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native/Libraries/Utilities/Platform.android.js" timestamp="1552230625563" />
@@ -148,12 +148,12 @@
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/constants/ReportKeys.js" timestamp="1553518169348" />
       <file name="$USER_HOME$/Projects/lodash/_createCtor.js" timestamp="1552902414068" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/testApp/node_modules/@unpourtous/trident/package.json" timestamp="1551873156324" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1553519925174">
-        <mark key="'" line="70" column="13" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1553522952517">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="37" />
+        <mark key="." line="34" column="37" />
+        <mark key="^" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/lodash/_getValue.js" timestamp="1552852661009" />
       <file name="$USER_HOME$/Projects/lodash/curry.js" timestamp="1552901752880">
@@ -189,7 +189,7 @@
         <mark key="^" line="182" column="23" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1553519921033">
+      <file name="/JavaScript Console" timestamp="1553522756325">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/AppNavigator.js" timestamp="1552231193375">
@@ -341,22 +341,31 @@
       <jump line="63" column="13" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpc2l0b3I6ICwK</text>
+      <register name="&quot;" type="4">
+        <text>argPath.</text>
       </register>
       <register name="-" type="4">
-        <text>MyVisitor</text>
+        <text>argPath.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcmd2XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICB2YXIgbW9kdWxlc0luZGV4UGF0aCA9IHBhdGguam9pbihjb25maWcuYmFzZVBhdGgsICdjb3JlL21vZHVsZXMvaW5kZXguanMnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBhcmdQYXRoID0gcGF0aC5nZXQoJ2JvZHkuYm9keS4wLmFyZ3VtZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBhcmdQYXRoID0gcGF0aC5nZXQoJ2JvZHkuYm9keS4wLmFyZ3VtZW50Jyk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXRoLm5vZGUua2V5Lm5hbWUgPSAnZ2V0U2NyZWVuJwogICAgICAgIHBhdGgubm9kZS52YWx1ZS5uYW1lID0gJygpID0+IHJlcXVpcmUoXCcuLycgKyBwYXRoLm5vZGUudmFsdWUubmFtZSArICdcJykuZGVmYXVsdCcK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHZpc2l0b3I6ICwK</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>{
       Function(path) {
         const argPath = path.get('body.body.0.argument');
@@ -367,20 +376,11 @@
       }
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB2aXNpdG9yOiB7CiAgICBGdW5jdGlvbihwYXRoKSB7CiAgICAgIGNvbnN0IGFyZ1BhdGggPSBwYXRoLmdldCgnYm9keS5ib2R5LjAuYXJndW1lbnQnKTsKICAgICAgYXJnUGF0aC5wdXNoQ29udGFpbmVyKCdlbGVtZW50cycsIFsKICAgICAgICB0LnN0cmluZ0xpdGVyYWwoJ2QnKSwKICAgICAgICB0LnN0cmluZ0xpdGVyYWwoJ2UnKSwKICAgICAgXSk7CiAgICB9CiAgfSwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwbHVnaW5zOiBbCiAgICAvLyBlbmFibGUganN4IGFuZCBmbG93IHN5bnRheAogICAgJ2pzJywKICAgICdmbG93JwogIF0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZpc2l0b3I6IHsKICAgICAgRnVuY3Rpb24ocGF0aCkgewogICAgICAgIGNvbnN0IGFyZ1BhdGggPSBwYXRoLmdldCgnYm9keS5ib2R5LjAuYXJndW1lbnQnKTsKICAgICAgICBhcmdQYXRoLnB1c2hDb250YWluZXIoJ2VsZW1lbnRzJywgWwogICAgICAgICAgdC5zdHJpbmdMaXRlcmFsKCdkJyksCiAgICAgICAgICB0LnN0cmluZ0xpdGVyYWwoJ2UnKSwKICAgICAgICBdKTsKICAgICAgfQogICAgfQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICBiYXNlUGF0aDogJ3NyYy8nLAo=</text>
+        <text encoding="base64">ICBwbHVnaW5zOiBbCiAgICAvLyBlbmFibGUganN4IGFuZCBmbG93IHN5bnRheAogICAgJ2pzJywKICAgICdmbG93JwogIF0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8824,10 +8824,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25maWcgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25maWcgPQo=</text>
+        <text encoding="base64">ICAgIHZpc2l0b3I6IHsKICAgICAgRnVuY3Rpb24ocGF0aCkgewogICAgICAgIGNvbnN0IGFyZ1BhdGggPSBwYXRoLmdldCgnYm9keS5ib2R5LjAuYXJndW1lbnQnKTsKICAgICAgICBhcmdQYXRoLnB1c2hDb250YWluZXIoJ2VsZW1lbnRzJywgWwogICAgICAgICAgdC5zdHJpbmdMaXRlcmFsKCdkJyksCiAgICAgICAgICB0LnN0cmluZ0xpdGVyYWwoJ2UnKSwKICAgICAgICBdKTsKICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
