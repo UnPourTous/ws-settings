@@ -157,12 +157,12 @@
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/constants/ReportKeys.js" timestamp="1553518169348" />
       <file name="$USER_HOME$/Projects/lodash/_createCtor.js" timestamp="1552902414068" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/testApp/node_modules/@unpourtous/trident/package.json" timestamp="1551873156324" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1553594612344">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="81" column="54" />
-        <mark key="]" line="81" column="54" />
-        <mark key="." line="81" column="54" />
-        <mark key="^" line="81" column="58" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1553598862196">
+        <mark key="'" line="18" column="6" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/lodash/_getValue.js" timestamp="1552852661009" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1552231030541" />
