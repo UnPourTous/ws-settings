@@ -41,11 +41,12 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1555395512757">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-        <mark key="^" line="9" column="5" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1555398706223">
+        <mark key="'" line="35" column="21" />
+        <mark key="[" line="43" column="45" />
+        <mark key="]" line="43" column="51" />
+        <mark key="." line="43" column="51" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555339460092">
         <mark key="'" line="10" column="16" />
@@ -69,7 +70,7 @@
         <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example3/BBBScene/BBBService.js" timestamp="1555336153895" />
-      <file name="$USER_HOME$/tmp/productIntro.json" timestamp="1555397493493">
+      <file name="$USER_HOME$/tmp/productIntro.json" timestamp="1555398187665">
         <mark key="'" line="83" column="0" />
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
@@ -256,7 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="27" filename="$USER_HOME$/Projects/lodash/_createWrap.js" />
       <jump line="95" column="12" filename="$USER_HOME$/Projects/lodash/_createHybrid.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
@@ -356,13 +356,14 @@
       <jump line="26" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
       <jump line="10" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
       <jump line="35" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
+      <jump line="35" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://hjdata.webank.com/querydata/bulletin/</text>
+        <text>React Native</text>
       </register>
       <register name="-" type="4">
-        <text>https://hjdata.webank.com/querydata/bulletin/001666-8-14-64000000155635317159602102792083010000015536747715967553</text>
+        <text>React Native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
