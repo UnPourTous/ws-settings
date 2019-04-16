@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1553572087370">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/index.js" timestamp="1555339090524">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="32" />
@@ -135,9 +132,6 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="internal/async_hooks.js" timestamp="1551795723231">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/form/FormInput.js" timestamp="1552229807860">
         <mark key="[" line="69" column="22" />
         <mark key="]" line="70" column="46" />
@@ -164,9 +158,6 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="/JavaScript Console" timestamp="1555337130902">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/AppNavigator.js" timestamp="1552231193375">
         <mark key="[" line="66" column="53" />
         <mark key="]" line="67" column="16" />
@@ -186,14 +177,17 @@
         <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident/app-seed/android/gradle.properties" timestamp="1555382515624" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1555388166522">
+        <mark key="[" line="57" column="4" />
+        <mark key="]" line="57" column="3" />
+        <mark key="." line="59" column="52" />
+        <mark key="^" line="57" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1551944712727">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552881050710">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/constants/ReportKeys.js" timestamp="1555338925509">
         <mark key="'" line="9" column="0" />
@@ -226,8 +220,11 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
-      <file name="module.js" timestamp="1552883320209">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-native/cli.js" timestamp="1555387821799">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/android/app/build.gradle" timestamp="1552231922942">
         <mark key="[" line="104" column="21" />
@@ -346,8 +343,8 @@
       <jump line="4" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Develop</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vICAgdHJ5IHsKICAgIC8vICAgICBjb25zdCBjaGFuZ2VzID0gcmVwbGFjZUluRmlsZS5zeW5jKHsKICAgIC8vICAgICAgIGZpbGVzOiAnLi90cmlkZW50Lnhjb2RlcHJvai9wcm9qZWN0LnBieHByb2onLAogICAgLy8gICAgICAgZnJvbTogL29yZy5yZWFjdGpzLm5hdGl2ZS5leGFtcGxlL2csCiAgICAvLyAgICAgICB0bzogJ3Rlc3QuZXJpY2h1YS5idW5kbGVpZCcsCiAgICAvLyAgICAgfSkKICAgIC8vICAgICBjb25zb2xlLmxvZygnTW9kaWZpZWQgZmlsZXM6JywgY2hhbmdlcy5qb2luKCcsICcpKQogICAgLy8gICB9IGNhdGNoIChlcnJvcikgewogICAgLy8gICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yIG9jY3VycmVkOicsIGVycm9yKQogICAgLy8gICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Develop</text>
@@ -359,25 +356,25 @@
         <text>fileList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGFyZ2V0ICdEZXZlbG9wJyBkbwogIGRlcHNfcG9kcwplbmQK</text>
+        <text encoding="base64">ICAgIC8vICAgdHJ5IHsKICAgIC8vICAgICBjb25zdCBjaGFuZ2VzID0gcmVwbGFjZUluRmlsZS5zeW5jKHsKICAgIC8vICAgICAgIGZpbGVzOiAnLi90cmlkZW50Lnhjb2RlcHJvai9wcm9qZWN0LnBieHByb2onLAogICAgLy8gICAgICAgZnJvbTogL29yZy5yZWFjdGpzLm5hdGl2ZS5leGFtcGxlL2csCiAgICAvLyAgICAgICB0bzogJ3Rlc3QuZXJpY2h1YS5idW5kbGVpZCcsCiAgICAvLyAgICAgfSkKICAgIC8vICAgICBjb25zb2xlLmxvZygnTW9kaWZpZWQgZmlsZXM6JywgY2hhbmdlcy5qb2luKCcsICcpKQogICAgLy8gICB9IGNhdGNoIChlcnJvcikgewogICAgLy8gICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yIG9jY3VycmVkOicsIGVycm9yKQogICAgLy8gICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFwcENvbnRhaW5lciBmcm9tICcuL2NvbnRhaW5lci9BcHBDb250YWluZXInCg==</text>
+        <text encoding="base64">dGFyZ2V0ICdEZXZlbG9wJyBkbwogIGRlcHNfcG9kcwplbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhY3Rpb25zOiB7CiAgICBhZGRNb2R1bGVDb3VudDogdiA9PiB2CiAgfSwKICBhc3luY0FjdGlvbnM6IGFjdGlvbnMgPT4gKHt9KSwKICByZWR1Y2VyczogewogICAgYWRkTW9kdWxlQ291bnQ6IChzdGF0ZSwgYWN0aW9uKSA9PiAoeyAuLi5zdGF0ZSwKICAgICAgbW9kdWxlQ291bnQ6IHN0YXRlLm1vZHVsZUNvdW50ICsgYWN0aW9uLnBheWxvYWQKICAgIH0pCiAgfQp9Owo=</text>
+        <text encoding="base64">Ly8gaW1wb3J0IEFwcENvbnRhaW5lciBmcm9tICcuL2NvbnRhaW5lci9BcHBDb250YWluZXInCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBhY3Rpb25zOiB7CiAgICBhZGRNb2R1bGVDb3VudDogdiA9PiB2CiAgfSwKICBhc3luY0FjdGlvbnM6IGFjdGlvbnMgPT4gKHt9KSwKICByZWR1Y2VyczogewogICAgYWRkTW9kdWxlQ291bnQ6IChzdGF0ZSwgYWN0aW9uKSA9PiAoeyAuLi5zdGF0ZSwKICAgICAgbW9kdWxlQ291bnQ6IHN0YXRlLm1vZHVsZUNvdW50ICsgYWN0aW9uLnBheWxvYWQKICAgIH0pCiAgfQp9Owo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">LyoqCiAqIOi0n+i0o+WvvOWHuuatpOaooeWdl+eahHJlZHVjZXLlkoxyb3V0ZXLliLBBcHDnuqfliKsKICogQ3JlYXRlZCBieSBzaW5lcyBvbiAyMDE4LTAyLTIzVDEwOjI0OjAzLjM5NFouCiAqL2ltcG9ydCB7IGNyZWF0ZVNjZW5lQ29ubmVjdCB9IGZyb20gJ0B1bnBvdXJ0b3VzL3RyaWRlbnQnOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ewogIG1vZHVsZU5hbWU6IGV4YW1wbGUsCiAgaW5pdGlhbFN0YXRlOiB7CiAgICBtb2R1bGVDb3VudDogMAogIH0sCiAgc2NlbmVMaXN0OiA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8821,10 +8818,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXBsYWNlSW5GaWxlLnN5bmMoeyBmaWxlczogW3NjZW5lUGF0aCwgc2VydmljZVBhdGhdLCBmcm9tOiAve3thdXRob3J9fS9nLCB0bzogYXV0aG9yIH0pCiAgcmVwbGFjZUluRmlsZS5zeW5jKHsgZmlsZXM6IFtzY2VuZVBhdGgsIHNlcnZpY2VQYXRoXSwgZnJvbTogL3t7Y3JlYXRlQXR9fS9nLCB0bzogbmV3IERhdGUoKS50b0lTT1N0cmluZygpIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
