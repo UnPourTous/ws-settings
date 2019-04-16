@@ -69,6 +69,13 @@
         <mark key="." line="21" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example3/BBBScene/BBBService.js" timestamp="1555336153895" />
+      <file name="$USER_HOME$/tmp/productIntro.json" timestamp="1555397493493">
+        <mark key="'" line="83" column="0" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example2/AAScene/AAService.js" timestamp="1555335088574">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="33" />
@@ -132,6 +139,7 @@
         <mark key="^" line="48" column="49" />
         <mark key="." line="48" column="49" />
       </file>
+      <file name="$USER_HOME$/tmp/bulletins.json" timestamp="1555396958050" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" timestamp="1553517959177">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -248,9 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/Projects/lodash/curry.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/lodash/curry.js" />
-      <jump line="52" column="20" filename="$USER_HOME$/Projects/lodash/_createWrap.js" />
       <jump line="55" column="27" filename="$USER_HOME$/Projects/lodash/_createWrap.js" />
       <jump line="95" column="12" filename="$USER_HOME$/Projects/lodash/_createHybrid.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
@@ -348,40 +353,43 @@
       <jump line="25" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="10" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="12" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
+      <jump line="10" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
+      <jump line="35" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>https://hjdata.webank.com/querydata/bulletin/</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>https://hjdata.webank.com/querydata/bulletin/001666-8-14-64000000155635317159602102792083010000015536747715967553</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdub2RlX21vZHVsZXMnLAogICAgJ0B1bnBvdXJ0b3VzJywKICAgICd0cmlkZW50JywKICAgICdsb2NhbC1jbGknLAogICAgJ2luZGV4LmpzJwo=</text>
+      <register name="0" type="4">
+        <text>https://hjdata.webank.com/querydata/bulletin/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdpbmRleC5qcycK</text>
+        <text encoding="base64">CgogICAgICAsCgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdub2RlX21vZHVsZXMnLAogICAgJ0B1bnBvdXJ0b3VzL3RyaWRlbnQnLAogICAgJ3BhY2thZ2UuanNvbicK</text>
+        <text encoding="base64">ICAgICAgLAoKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICd0cmlkZW50JywK</text>
+        <text encoding="base64">ICAgICAgLAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLAoKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgb3B0aW9ucyA9IHJlcXVpcmUoJ21pbmltaXN0JykocHJvY2Vzcy5hcmd2LnNsaWNlKDIpKQoKdmFyIG9wdGlvbnMgPSByZXF1aXJlKCdtaW5pbWlzdCcpKHByb2Nlc3MuYXJndi5zbGljZSgyKSkK</text>
+        <text encoding="base64">ICAgICAg6LSn5biB5biC5Zy65Z+66YeR5omY566h5Y2P6K6uLAogICAgICBodHRwczovL2hqZGF0YS53ZWJhbmsuY29tL3F1ZXJ5ZGF0YS9idWxsZXRpbi8wMDE2NjYtOC0xLTcyMDAwMDAwMTU1NjM1MzQ3MDQ4NzAxNTI0NDE2NDg0MDEwMDAwMDE1NTM2NzUwNzA0ODczODQ5Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBzaGVsbCA9IHJlcXVpcmUoJ3NoZWxsanMnKQo=</text>
+        <text encoding="base64">CgogICAgICAsCiAgICAgIGh0dHBzOi8vaGpkYXRhLndlYmFuay5jb20vcXVlcnlkYXRhL2J1bGxldGluLzAwMTY2Ni04LTEtOTgwMDAwMDAxNTU4MDczMzE4MDg5MDEzODkxNTY3NzMwMTAwMDAwMTU1NTM5NDkxODA4OTkyODgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2cob3B0aW9ucykK</text>
+        <text encoding="base64">ICAgICAgLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8825,10 +8833,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdpbmRleC5qcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdub2RlX21vZHVsZXMnLAogICAgJ0B1bnBvdXJ0b3VzL3RyaWRlbnQnLAogICAgJ3BhY2thZ2UuanNvbicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
