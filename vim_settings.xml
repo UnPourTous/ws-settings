@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1555401531987">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/index.js" timestamp="1555339090524">
         <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="32" />
@@ -41,12 +44,12 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1555398706223">
-        <mark key="'" line="35" column="21" />
-        <mark key="[" line="43" column="45" />
-        <mark key="]" line="43" column="51" />
-        <mark key="." line="43" column="51" />
-        <mark key="^" line="43" column="51" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1555403561769">
+        <mark key="'" line="45" column="10" />
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="32" />
+        <mark key="." line="45" column="32" />
+        <mark key="^" line="45" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555339460092">
         <mark key="'" line="10" column="16" />
@@ -147,6 +150,9 @@
         <mark key="^" line="0" column="25" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="internal/async_hooks.js" timestamp="1551795723231">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/form/FormInput.js" timestamp="1552229807860">
         <mark key="[" line="69" column="22" />
         <mark key="]" line="70" column="46" />
@@ -173,6 +179,9 @@
         <mark key="^" line="3" column="37" />
         <mark key="." line="3" column="37" />
       </file>
+      <file name="/JavaScript Console" timestamp="1555404349225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/AppNavigator.js" timestamp="1552231193375">
         <mark key="[" line="66" column="53" />
         <mark key="]" line="67" column="16" />
@@ -192,18 +201,21 @@
         <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident/app-seed/android/gradle.properties" timestamp="1555382515624" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1555395131905">
-        <mark key="'" line="6" column="6" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="26" column="6" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1555404347586">
+        <mark key="'" line="151" column="3" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="15" />
+        <mark key="." line="60" column="15" />
+        <mark key="^" line="60" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1551944712727">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="11" />
         <mark key="." line="8" column="11" />
         <mark key="^" line="8" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552881050710">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/constants/ReportKeys.js" timestamp="1555338925509">
         <mark key="'" line="9" column="0" />
@@ -236,6 +248,9 @@
         <mark key="^" line="40" column="7" />
         <mark key="." line="40" column="7" />
       </file>
+      <file name="module.js" timestamp="1552883320209">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-native/cli.js" timestamp="1555387821799">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -257,19 +272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="12" filename="$USER_HOME$/Projects/lodash/_createHybrid.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
-      <jump line="22" column="23" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/Projects/lodash/curry.js" />
-      <jump line="49" column="8" filename="$USER_HOME$/Projects/lodash/_createHybrid.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/lodash/myCurry.js" />
-      <jump line="18" column="12" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
-      <jump line="15" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
-      <jump line="1" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
       <jump line="14" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
       <jump line="22" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/Scene.js" />
       <jump line="25" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/Scene.js" />
@@ -357,40 +359,53 @@
       <jump line="10" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
       <jump line="35" column="0" filename="$USER_HOME$/tmp/productIntro.json" />
       <jump line="35" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="84" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="76" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="26" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="40" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="41" column="17" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="45" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="49" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="85" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="15" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/tmp/test/node_modules/@unpourtous/trident/local-cli/index.js" />
+      <jump line="144" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="142" column="3" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="45" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>React Native</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>React Native</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcHRpb25zXD4=</text>
+        <text encoding="base64">XDxyb290XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>https://hjdata.webank.com/querydata/bulletin/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCBjbWQgPSBvcHRpb25zLl9bMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgogICAgICAsCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLAoKCg==</text>
+        <text encoding="base64">ICBjb25zdCBjbWQgPSBvcHRpb25zLl9bMF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLAoKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAg6LSn5biB5biC5Zy65Z+66YeR5omY566h5Y2P6K6uLAogICAgICBodHRwczovL2hqZGF0YS53ZWJhbmsuY29tL3F1ZXJ5ZGF0YS9idWxsZXRpbi8wMDE2NjYtOC0xLTcyMDAwMDAwMTU1NjM1MzQ3MDQ4NzAxNTI0NDE2NDg0MDEwMDAwMDE1NTM2NzUwNzA0ODczODQ5Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgogICAgICAsCiAgICAgIGh0dHBzOi8vaGpkYXRhLndlYmFuay5jb20vcXVlcnlkYXRhL2J1bGxldGluLzAwMTY2Ni04LTEtOTgwMDAwMDAxNTU4MDczMzE4MDg5MDEzODkxNTY3NzMwMTAwMDAwMTU1NTM5NDkxODA4OTkyODgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLAo=</text>
+        <text encoding="base64">Y29uc3QgbWFpbkNtZCA9IG9wdGlvbnMuX1swXQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8834,27 +8849,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdpbmRleC5qcycK</text>
+        <text encoding="base64">Y29uc3Qgcm9vdCA9IG9wdGlvbnMubmFtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdub2RlX21vZHVsZXMnLAogICAgJ0B1bnBvdXJ0b3VzL3RyaWRlbnQnLAogICAgJ3BhY2thZ2UuanNvbicK</text>
+        <text encoding="base64">c3dpdGNoIChtYWluQ21kKSB7CiAgY2FzZSAnaW5pdCc6IHsKICAgIF9pbml0KCkKICAgIGJyZWFrCiAgfQogIGNhc2UgJ2N1c3RvbSc6IHsKICAgIF9jdXN0b20oKQogIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcHRpb25zXD4=</last-search>
+      <last-search encoding="base64">XDxyb290XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcHRpb25zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb290XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</entry>
-        <entry encoding="base64">XDxiYWJlbFRyYXZlcnNlXD4=</entry>
-        <entry encoding="base64">XDxzeW5jU2NlbmVOYW1lXD4=</entry>
         <entry encoding="base64">XDxhdXRob3JcPg==</entry>
         <entry encoding="base64">XDxnZXRBbGxGaWxlVW5kZXJEaXJcPg==</entry>
         <entry encoding="base64">XDxnZXRTY2VuZUxpc3RVbmRlck1vZHVsZVBhdGhcPg==</entry>
@@ -8872,6 +8884,9 @@
         <entry encoding="base64">XDxBcHBDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxzaGVsbFw+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxfY3VzdG9tXD4=</entry>
+        <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ws</entry>
