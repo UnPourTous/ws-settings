@@ -80,6 +80,7 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="12" column="8" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1555643935281" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example2/AAScene/AAService.js" timestamp="1555335088574">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="33" />
@@ -144,6 +145,7 @@
         <mark key="." line="48" column="49" />
       </file>
       <file name="$USER_HOME$/tmp/bulletins.json" timestamp="1555396958050" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" timestamp="1555643948586" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" timestamp="1553517959177">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -201,8 +203,8 @@
         <mark key="^" line="1" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident/app-seed/android/gradle.properties" timestamp="1555382515624" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1555404347586">
-        <mark key="'" line="151" column="3" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1555643876356">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="60" column="12" />
         <mark key="]" line="60" column="15" />
         <mark key="." line="60" column="15" />
@@ -272,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/gulpfile.js" />
       <jump line="22" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/Scene.js" />
       <jump line="25" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/sceneTpl/Scene.js" />
       <jump line="32" column="17" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" />
@@ -372,6 +373,7 @@
       <jump line="8" column="11" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="142" column="3" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="45" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
