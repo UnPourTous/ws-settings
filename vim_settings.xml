@@ -188,12 +188,12 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1555915144954">
-        <mark key="'" line="49" column="10" />
-        <mark key="[" line="24" column="86" />
-        <mark key="]" line="24" column="86" />
-        <mark key="." line="24" column="86" />
-        <mark key="^" line="24" column="85" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1555921521497">
+        <mark key="'" line="44" column="10" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/constants/ReportKeys.js" timestamp="1555338909372">
         <mark key="'" line="7" column="0" />
@@ -416,11 +416,11 @@
       <jump line="54" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>options.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm4gbG9jYWxDbGlQYXRoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>options.</text>
+        <text encoding="base64">Y29uc3QgbG9jYWxDbGlQYXRoID0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290XD4=</text>
@@ -429,25 +429,25 @@
         <text>'/Users/erichua/Projects/UnPourTous/soga/local-cli/index.js'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm9qZWN0TmFtZSA9IHByb2plY3ROYW1lCg==</text>
+        <text encoding="base64">ICByZXR1cm4gbG9jYWxDbGlQYXRoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvcHRpb25zLm5hbWUgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPIOa1i+ivlWdsb2JhbC1jbGkg5omT5byA6L+Z6YeMCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIOa1i+ivlWxvY2FsLWNsaSDmiZPlvIDov5nph4wKICAvLyByZXR1cm4gJy9Vc2Vycy9lcmljaHVhL1Byb2plY3RzL1VuUG91clRvdXMvc29nYS9sb2NhbC1jbGkvaW5kZXguanMnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBwcm9qZWN0TmFtZSA9IHByb2plY3ROYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
+        <text encoding="base64">ICBvcHRpb25zLm5hbWUgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8891,7 +8891,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjbWQgPSBvcHRpb25zLl9bMF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
