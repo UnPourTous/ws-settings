@@ -10,12 +10,17 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555936197078" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" timestamp="1555940547818">
-        <mark key="[" line="40" column="89" />
-        <mark key="]" line="40" column="90" />
-        <mark key="." line="40" column="90" />
-        <mark key="^" line="40" column="90" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555942889438">
+        <mark key="[" line="114" column="12" />
+        <mark key="]" line="114" column="12" />
+        <mark key="." line="114" column="12" />
+        <mark key="^" line="114" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" timestamp="1555942784852">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="40" column="72" />
+        <mark key="." line="40" column="72" />
+        <mark key="^" line="40" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/ios/fastlane/Fastfile" timestamp="1555935760804" />
       <file name="$USER_HOME$/Projects/chanshila/app/__tests__/App.js" timestamp="1555936100336">
@@ -31,7 +36,7 @@
         <text encoding="base64">ICAgIHByb3BlcnRpZXM6IHsKICAgICAgImFuZHJvaWQuaW5qZWN0ZWQuc2lnbmluZy5zdG9yZS5maWxlIiA9PiAiYXBwL2tleXN0b3Jlcy9kZW1vLXJlbGVhc2Uua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLnN0b3JlLnBhc3N3b3JkIiA9PiAiMTIzNDU2NzgiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5hbGlhcyIgPT4gImFuZHJvaWQua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5wYXNzd29yZCIgPT4gIjEyMzQ1Njc4IiwKICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="2" type="8">
         <text encoding="base64">IAogCiAKIAogCiA=</text>
@@ -40,7 +45,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
