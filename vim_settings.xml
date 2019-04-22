@@ -165,6 +165,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" timestamp="1555923044603">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/src/core/modules/example/BScene/BScene.js" timestamp="1555913888265">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -416,11 +422,11 @@
       <jump line="54" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gbG9jYWxDbGlQYXRoCg==</text>
+      <register name="&quot;" type="4">
+        <text>react-native</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgbG9jYWxDbGlQYXRoID0g</text>
+        <text>react-native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyb290XD4=</text>
