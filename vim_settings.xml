@@ -4,6 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1555935699307" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555936197078" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" timestamp="1555936907763">
+        <mark key="[" line="40" column="58" />
+        <mark key="]" line="40" column="58" />
+        <mark key="." line="40" column="58" />
+        <mark key="^" line="40" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/ios/fastlane/Fastfile" timestamp="1555935760804" />
       <file name="$USER_HOME$/Projects/chanshila/app/__tests__/App.js" timestamp="1555936100336">
         <mark key="[" line="2" column="25" />
@@ -14,8 +27,20 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByb3BlcnRpZXM6IHsKICAgICAgImFuZHJvaWQuaW5qZWN0ZWQuc2lnbmluZy5zdG9yZS5maWxlIiA9PiAiYXBwL2tleXN0b3Jlcy9kZW1vLXJlbGVhc2Uua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLnN0b3JlLnBhc3N3b3JkIiA9PiAiMTIzNDU2NzgiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5hbGlhcyIgPT4gImFuZHJvaWQua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5wYXNzd29yZCIgPT4gIjEyMzQ1Njc4IiwKICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>app/</text>
+      </register>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiA=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>app/</text>
       </register>
     </registers>
     <search>
@@ -27,6 +52,10 @@
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
