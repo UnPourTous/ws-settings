@@ -9,6 +9,12 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1555990432868">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1555935699307" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1555945107817">
         <mark key="[" line="40" column="29" />
@@ -16,11 +22,11 @@
         <mark key="." line="40" column="37" />
         <mark key="^" line="40" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555990459355">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" timestamp="1555943730891">
         <mark key="'" line="10" column="3" />
@@ -37,54 +43,112 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1555990073592" />
       <file name="$USER_HOME$/Projects/chanshila/app/ios/fastlane/Fastfile" timestamp="1555935760804" />
-      <file name="$USER_HOME$/Projects/chanshila/app/__tests__/App.js" timestamp="1555936100336">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1555943985416">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="2" />
         <mark key="." line="22" column="2" />
         <mark key="^" line="22" column="2" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/index.js" timestamp="1555989603237" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoService.js" timestamp="1555990215796" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/ddd/DemoScene/DemoScene.js" timestamp="1555991237102">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1555991171725">
+        <mark key="[" line="200" column="41" />
+        <mark key="]" line="200" column="41" />
+        <mark key="^" line="191" column="5" />
+        <mark key="." line="200" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/__tests__/App.js" timestamp="1555936100336">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1555990908288">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="35" />
+        <mark key="." line="12" column="35" />
+        <mark key="^" line="12" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1555991358494">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1555990521948" />
     </filemarks>
     <jumps>
       <jump line="10" column="3" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" />
+      <jump line="17" column="19" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
+      <jump line="19" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
+      <register name="&quot;" type="4">
+        <text>require(&quot;./ddd&quot;).default</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
+      <register name="-" type="4">
+        <text>require(&quot;./ddd&quot;).default</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxXZVRvdWNoYWJsZVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgbW9kdWxlUGF0aCA9IGFwcFBhdGggKyAnL21vZHVsZXMvJyArIG1vZHVsZU5hbWUK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJzaGVsbGpzIjogIl4wLjguMyIK</text>
+        <text encoding="base64">Q2hhcnRFeGFtcGxlU2VydmljZS5qcwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICJzaGVsbGpzIjogIl4wLjguMyIK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByb3BlcnRpZXM6IHsKICAgICAgImFuZHJvaWQuaW5qZWN0ZWQuc2lnbmluZy5zdG9yZS5maWxlIiA9PiAiYXBwL2tleXN0b3Jlcy9kZW1vLXJlbGVhc2Uua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLnN0b3JlLnBhc3N3b3JkIiA9PiAiMTIzNDU2NzgiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5hbGlhcyIgPT4gImFuZHJvaWQua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5wYXNzd29yZCIgPT4gIjEyMzQ1Njc4IiwKICAgIH0K</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>ChartExampleScene</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxXZVRvdWNoYWJsZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxXZVRvdWNoYWJsZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
+      <history-search>
+        <entry encoding="base64">XDxXZVRvdWNoYWJsZVw+</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
