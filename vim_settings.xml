@@ -3,12 +3,27 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1555944582841">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/android/gradle.properties" timestamp="1555935699307" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1555945107817">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" timestamp="1555943730891">
+        <mark key="'" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555942889438">
         <mark key="[" line="114" column="12" />
@@ -29,23 +44,40 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1555943985416">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+      </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="10" column="3" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" />
+    </jumps>
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJzaGVsbGpzIjogIl4wLjguMyIK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByb3BlcnRpZXM6IHsKICAgICAgImFuZHJvaWQuaW5qZWN0ZWQuc2lnbmluZy5zdG9yZS5maWxlIiA9PiAiYXBwL2tleXN0b3Jlcy9kZW1vLXJlbGVhc2Uua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLnN0b3JlLnBhc3N3b3JkIiA9PiAiMTIzNDU2NzgiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5hbGlhcyIgPT4gImFuZHJvaWQua2V5c3RvcmUiLAogICAgICAiYW5kcm9pZC5pbmplY3RlZC5zaWduaW5nLmtleS5wYXNzd29yZCIgPT4gIjEyMzQ1Njc4IiwKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
-      <register name="2" type="8">
+      <register name="5" type="8">
         <text encoding="base64">IAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>ChartExampleScene</text>
       </register>
     </registers>
     <search>
