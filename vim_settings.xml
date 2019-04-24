@@ -38,30 +38,24 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556011177016">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556091551367">
         <mark key="'" line="11" column="10" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="41" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1555990521948" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1555944582841">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1555990432868">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="41" />
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556013624208">
-        <mark key="[" line="44" column="12" />
-        <mark key="]" line="44" column="19" />
-        <mark key="^" line="44" column="19" />
-        <mark key="." line="44" column="19" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556091670463">
+        <mark key="[" line="46" column="39" />
+        <mark key="]" line="46" column="39" />
+        <mark key="^" line="46" column="39" />
+        <mark key="." line="46" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555990459355">
         <mark key="[" line="12" column="34" />
@@ -69,6 +63,7 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" timestamp="1556091930962" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1555990073592" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1555943985416">
         <mark key="[" line="22" column="4" />
@@ -137,10 +132,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>commands[1]</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>commands[1]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfaW5pdFw+</text>
@@ -192,6 +187,7 @@
         <entry encoding="base64">XDxfaW5pdFw+</entry>
       </history-search>
       <history-cmd>
+        <entry>47</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
