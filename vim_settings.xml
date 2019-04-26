@@ -33,11 +33,12 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556091551367">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="41" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556278333695">
+        <mark key="'" line="35" column="5" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="21" />
+        <mark key="^" line="35" column="13" />
+        <mark key="." line="35" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1555990432868">
         <mark key="[" line="12" column="34" />
@@ -45,11 +46,11 @@
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556273160189">
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="1" />
-        <mark key="." line="89" column="1" />
-        <mark key="^" line="89" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556277994761">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="12" column="14" />
+        <mark key="." line="12" column="14" />
+        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555990459355">
         <mark key="[" line="12" column="34" />
@@ -128,46 +129,48 @@
       <jump line="62" column="30" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="148" column="43" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="188" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="21" column="17" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="30" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbml0KGNvbW1hbmRzWzFdLCBvcHRpb25zKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC8vIFRPRE8=</text>
       </register>
       <register name="-" type="4">
-        <text>react-native</text>
+        <text encoding="base64">IC8vIFRPRE8=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRZYXJuVmVyc2lvbklmQXZhaWxhYmxlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyDlpoLmnpzlnKhUcmlkZW506aG555uu5YaF77yM5omA5pyJ5ZG95Luk55SxbG9jYWwtY2xp5o6l566hCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFwcm9jZXNzLmVudi5BTkRST0lEX0hPTUUpIHsKICAgICAgICBlcnJvckxpc3QucHVzaCgnQW5kcm9pZCBlbnZpcm9ubWVudCBub3QgcmVhZHkhJykKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpbml0KGNvbW1hbmRzWzFdLCBvcHRpb25zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFwcm9jZXNzLmVudi5BTkRST0lEX0hPTUUpIHsKICAgICAgICBlcnJvckxpc3QucHVzaCgnQW5kcm9pZCBlbnZpcm9ubWVudCBub3QgcmVhZHkhJykKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSBuYW1lIFByb2plY3QgbmFtZSwgZS5nLiAnQXdlc29tZUFwcCcuCiAqIEBwYXJhbSBvcHRpb25zLnZlcmJvc2UgSWYgdHJ1ZSwgd2lsbCBydW4gJ25wbSBpbnN0YWxsJyBpbiB2ZXJib3NlIG1vZGUgKGZvciBkZWJ1Z2dpbmcpLgogKiBAcGFyYW0gb3B0aW9ucy5ucG0gSWYgdHJ1ZSwgYWx3YXlzIHVzZSB0aGUgbnBtIGNvbW1hbmQgbGluZSBjbGllbnQsCiAqICAgICAgICAgICAgICAgICAgICAgICBkb24ndCB1c2UgeWFybiBldmVuIGlmIGF2YWlsYWJsZS4KICovCmZ1bmN0aW9uIGluaXQgKG5hbWUsIG9wdGlvbnMpIHsKfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG9wdGlvbnMudmVyc2lvbiBWZXJzaW9uIG9mIFJlYWN0IE5hdGl2ZSB0byBpbnN0YWxsLCBlLmcuICcwLjM4LjAnLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gVXNlIFlhcm4gaWYgYXZhaWxhYmxlLCBpdCdzIG11Y2ggZmFzdGVyIHRoYW4gdGhlIG5wbSBjbGllbnQuCi8vIFJldHVybiB0aGUgdmVyc2lvbiBvZiB5YXJuIGluc3RhbGxlZCBvbiB0aGUgc3lzdGVtLCBudWxsIGlmIHlhcm4gaXMgbm90IGF2YWlsYWJsZS4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgVE9ETyAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oJ0FuZHJvaWQgZW52aXJvbm1lbnQgbm90IHJlYWR5IScpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gZWNobyAkQU5EUk9JRF9IT01FCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQW5kcm9pZCBlbnZpcm9ubWVudCBub3QgcmVhZHkhJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCB5YXJuVmVyc2lvbiA9ICghZm9yY2VOcG1DbGllbnQpICYmIGdldFlhcm5WZXJzaW9uSWZBdmFpbGFibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvY2Vzcy5lbnYuQU5EUk9JRF9IT01FKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
