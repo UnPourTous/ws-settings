@@ -9,6 +9,13 @@
         <mark key="^" line="112" column="104" />
         <mark key="." line="112" column="104" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" timestamp="1556511571885">
+        <mark key="'" line="10" column="35" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="12" />
+        <mark key="." line="34" column="12" />
+        <mark key="^" line="34" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1555945107817">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="37" />
@@ -33,11 +40,17 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556282843302">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="64" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556512468792">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" timestamp="1556511822198">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1555990432868">
         <mark key="[" line="12" column="34" />
@@ -48,12 +61,12 @@
       <file name="/Dummy.txt" timestamp="1556281514815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556281784278">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556511915052">
         <mark key="'" line="190" column="0" />
-        <mark key="[" line="59" column="43" />
-        <mark key="]" line="59" column="43" />
-        <mark key="." line="59" column="43" />
-        <mark key="^" line="59" column="1" />
+        <mark key="[" line="51" column="30" />
+        <mark key="]" line="51" column="33" />
+        <mark key="." line="51" column="33" />
+        <mark key="^" line="51" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555990459355">
         <mark key="[" line="12" column="34" />
@@ -73,6 +86,13 @@
         <mark key="]" line="86" column="52" />
         <mark key="^" line="86" column="54" />
         <mark key="." line="86" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" timestamp="1556512337954">
+        <mark key="'" line="0" column="6" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="14" />
+        <mark key="^" line="29" column="10" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/ddd/DemoScene/DemoScene.js" timestamp="1555991237102">
         <mark key="[" line="18" column="29" />
@@ -140,55 +160,70 @@
       <jump line="190" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="12" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
+      <jump line="10" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
+      <jump line="0" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
+      <jump line="37" column="15" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="7" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="26" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="6" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
+      <jump line="28" column="92" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="8" column="35" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
+      <jump line="24" column="24" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
+      <jump line="2" column="23" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBFbnYgKGVycm9yTGlzdCkgewogIGNvbnN0IGNhbkluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICEhaXRlbS5pbnN0YWxsQ21kKQogIGNvbnN0IGNhbk5vdEluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICFpdGVtLmluc3RhbGxDbWQpCgogIC8vIGFzayBmb3IgYXV0byBpbnN0YWxsCiAgY2FuTm90SW5zdGFsbEF1dG8uZm9yRWFjaChpdGVtID0+IGNvbnNvbGUubG9nKGl0ZW0uaW5zdGFsbEd1aWRlKSkKICAvLwp9Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>toString(</text>
+        <text>check</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0TmFtZVw+</text>
+        <text encoding="base64">XDxtaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBjYW5JbnN0YWxsQXV0byA9IGVycm9yTGlzdC5maWx0ZXIoaXRlbSA9PiAhIWl0ZW0uaW5zdGFsbENtZCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGNoZWNrUmVzdWx0ID0gcmVxdWlyZSgnLi9lbnYnKS5jaGVjaygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBFbnYgKGVycm9yTGlzdCkgewogIGNvbnN0IGNhbkluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICEhaXRlbS5pbnN0YWxsQ21kKQogIGNvbnN0IGNhbk5vdEluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICFpdGVtLmluc3RhbGxDbWQpCgogIC8vIGFzayBmb3IgYXV0byBpbnN0YWxsCiAgY2FuTm90SW5zdGFsbEF1dG8uZm9yRWFjaChpdGVtID0+IGNvbnNvbGUubG9nKGl0ZW0uaW5zdGFsbEd1aWRlKSkKICAvLwp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBhc2sgZm9yIGF1dG8gaW5zdGFsbAo=</text>
+        <text encoding="base64">ICAgIGNhc2UgJ3NldHVwRW52JzogewogICAgICAvLyDlronoo4XliJ3lp4vljJbnjq/looMKICAgICAgY29uc3QgZXJyb3JMaXN0ID0gY2hlY2tFbnYoKQogICAgICBpZiAoZXJyb3JMaXN0Lmxlbmd0aCA9PT0gMCkgewogICAgICAgIGNvbnNvbGUubG9nKCdFdmVyeXRoaW5nIGlzIE9LIScpCiAgICAgICAgcmV0dXJuCiAgICAgIH0gZWxzZSB7CiAgICAgICAgc2V0dXBFbnYoZXJyb3JMaXN0KQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjYW5JbnN0YWxsQXV0bwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJzguMC4wJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2V0dXBFbnYoKQo=</text>
+        <text encoding="base64">ICAgICAgJzMuOS4wJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJzEuMi4wJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">ICAgICAgJzUuOC4wJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gVE9ETyBpT1MgZW52IHhjb2RlYnVpbGQKICAgICAgLy8gVE9ETyBwb2QgdmVyc2lvbgogICAgICAvLyBUT0RPIG5wbSB2ZXJzaW9uCiAgICAgIC8vIFRPRE8gZmFzdGxhbmUgZW52Cgo=</text>
+        <text encoding="base64">ICAgICAgJycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0TmFtZVw+</last-search>
+      <last-search encoding="base64">XDxtaW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0TmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxtaW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -202,6 +237,9 @@
         <entry encoding="base64">XDxyZXBsYWNlTmFtZVw+</entry>
         <entry encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0TmFtZVw+</entry>
+        <entry encoding="base64">XDxjaGFsa1w+</entry>
+        <entry encoding="base64">XDxjaGVja0NtZEFuZFZlcnNpb25cPg==</entry>
+        <entry encoding="base64">XDxtaW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
@@ -210,6 +248,8 @@
         <entry>72</entry>
         <entry>187</entry>
         <entry>189</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
