@@ -34,16 +34,18 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1556518793463" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556512468792">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556518373919">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" timestamp="1556511822198">
         <mark key="'" line="2" column="23" />
@@ -112,18 +114,24 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1555990908288">
-        <mark key="'" line="19" column="9" />
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="35" />
-        <mark key="." line="12" column="35" />
-        <mark key="^" line="12" column="35" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1556518747053">
+        <mark key="'" line="23" column="21" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1555991358494">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1556518477716">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556519055023">
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -175,46 +183,47 @@
       <jump line="2" column="23" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" />
       <jump line="0" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" />
+      <jump line="23" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBFbnYgKGVycm9yTGlzdCkgewogIGNvbnN0IGNhbkluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICEhaXRlbS5pbnN0YWxsQ21kKQogIGNvbnN0IGNhbk5vdEluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICFpdGVtLmluc3RhbGxDbWQpCgogIC8vIGFzayBmb3IgYXV0byBpbnN0YWxsCiAgY2FuTm90SW5zdGFsbEF1dG8uZm9yRWFjaChpdGVtID0+IGNvbnNvbGUubG9nKGl0ZW0uaW5zdGFsbEd1aWRlKSkKICAvLwp9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>gray</text>
       </register>
       <register name="-" type="4">
-        <text>check</text>
+        <text>gray</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGNoZWNrUmVzdWx0ID0gcmVxdWlyZSgnLi9lbnYnKS5jaGVjaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiA1MDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBFbnYgKGVycm9yTGlzdCkgewogIGNvbnN0IGNhbkluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICEhaXRlbS5pbnN0YWxsQ21kKQogIGNvbnN0IGNhbk5vdEluc3RhbGxBdXRvID0gZXJyb3JMaXN0LmZpbHRlcihpdGVtID0+ICFpdGVtLmluc3RhbGxDbWQpCgogIC8vIGFzayBmb3IgYXV0byBpbnN0YWxsCiAgY2FuTm90SW5zdGFsbEF1dG8uZm9yRWFjaChpdGVtID0+IGNvbnNvbGUubG9nKGl0ZW0uaW5zdGFsbEd1aWRlKSkKICAvLwp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgJ3NldHVwRW52JzogewogICAgICAvLyDlronoo4XliJ3lp4vljJbnjq/looMKICAgICAgY29uc3QgZXJyb3JMaXN0ID0gY2hlY2tFbnYoKQogICAgICBpZiAoZXJyb3JMaXN0Lmxlbmd0aCA9PT0gMCkgewogICAgICAgIGNvbnNvbGUubG9nKCdFdmVyeXRoaW5nIGlzIE9LIScpCiAgICAgICAgcmV0dXJuCiAgICAgIH0gZWxzZSB7CiAgICAgICAgc2V0dXBFbnYoZXJyb3JMaXN0KQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBGZWVkYmFja0VkaXRTY2VuZTwvVGV4dD4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJzguMC4wJywK</text>
+        <text encoding="base64">ICAgICAgICB3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJzMuOS4wJywK</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBhbGlnblNlbGY6ICdzdHJldGNoJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJzEuMi4wJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJzUuOC4wJywK</text>
+        <text encoding="base64">ICAgICAgICAgIGFsaWduU2VsZjogCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
