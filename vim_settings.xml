@@ -41,7 +41,7 @@
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556518373919">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556520906941">
         <mark key="[" line="17" column="26" />
         <mark key="]" line="17" column="31" />
         <mark key="." line="17" column="31" />
@@ -121,16 +121,17 @@
         <mark key="." line="23" column="16" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1556518477716">
-        <mark key="[" line="0" column="44" />
-        <mark key="]" line="0" column="44" />
-        <mark key="." line="0" column="44" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1556521388801">
+        <mark key="[" line="0" column="67" />
+        <mark key="]" line="0" column="67" />
+        <mark key="." line="0" column="67" />
+        <mark key="^" line="0" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556520301265">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556521180045">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+        <mark key="^" line="19" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -185,11 +186,11 @@
       <jump line="23" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHVucG91cnRvdXMvdHJpZGVudCcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>gray</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaW5cPg==</text>
@@ -198,31 +199,31 @@
         <text encoding="base64">ICAgICAgICAgIHdpZHRoOiA1MDAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHVucG91cnRvdXMvdHJpZGVudCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWxpZGF0ZSgnU05GJywgYXJndW1lbnRzKSAvLyBbYSxiLGNdIGlzIGFsc28gdmFsaWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBGZWVkYmFja0VkaXRTY2VuZTwvVGV4dD4K</text>
+        <text encoding="base64">ICAgIHZhbGlkYXRlKCdTTkYnLCBhcmd1bWVudHMpIC8vIFthLGIsY10gaXMgYWxzbyB2YWxpZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHVucG91cnRvdXMvdHJpZGVudCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRleHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICBhbGlnblNlbGY6ICdzdHJldGNoJwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBGZWVkYmFja0VkaXRTY2VuZTwvVGV4dD4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsaWduU2VsZjogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -251,13 +252,13 @@
       </history-search>
       <history-cmd>
         <entry>47</entry>
-        <entry>Lw</entry>
         <entry>88</entry>
         <entry>72</entry>
         <entry>187</entry>
         <entry>189</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w2</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
