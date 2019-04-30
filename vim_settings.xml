@@ -115,6 +115,12 @@
         <mark key="^" line="35" column="12" />
         <mark key="." line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/src/core/modules/index.js" timestamp="1556605542803">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="^" line="0" column="93" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1556518747053">
         <mark key="'" line="23" column="21" />
         <mark key="[" line="23" column="16" />
@@ -190,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plan.frequency,</text>
+        <text encoding="base64">cmVxdWlyZSgiLi9leGFtcGxlIikuZGVmYXVsdCwg</text>
       </register>
       <register name="-" type="4">
-        <text>plan.frequency,</text>
+        <text encoding="base64">cmVxdWlyZSgiLi9leGFtcGxlIikuZGVmYXVsdCwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQZXRMaXN0XD4=</text>
