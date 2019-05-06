@@ -11,6 +11,13 @@
         <mark key="^" line="34" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/scripts/gulp/docs.js" timestamp="1556550837718" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" timestamp="1557125504194">
+        <mark key="'" line="27" column="52" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1556853434643" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/index.js" timestamp="1556521459206" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" timestamp="1556553297987">
@@ -33,12 +40,12 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1556511915052">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="51" column="30" />
-        <mark key="]" line="51" column="33" />
-        <mark key="." line="51" column="33" />
-        <mark key="^" line="51" column="33" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557125674996">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="72" column="15" />
+        <mark key="]" line="72" column="14" />
+        <mark key="." line="72" column="14" />
+        <mark key="^" line="72" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/actionsReducer.js" timestamp="1556551932384">
         <mark key="[" line="23" column="16" />
@@ -52,6 +59,7 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/package.json" timestamp="1557123744638" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetService.js" timestamp="1556552802294">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="41" />
@@ -71,12 +79,26 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="405" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" timestamp="1557124549740">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1556518793463" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1556520906941">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="31" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/init.js" timestamp="1557125473319">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1557125413303">
+        <mark key="'" line="50" column="28" />
+        <mark key="[" line="61" column="28" />
+        <mark key="]" line="61" column="31" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="61" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/PetTab.js" timestamp="1556553258809" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1556565786924">
@@ -84,18 +106,23 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" timestamp="1557124534990">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1556559514033">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1556282847704">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557124863316">
         <mark key="'" line="12" column="8" />
-        <mark key="[" line="86" column="52" />
-        <mark key="]" line="86" column="52" />
-        <mark key="^" line="86" column="54" />
-        <mark key="." line="86" column="52" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="39" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" timestamp="1556512337954">
         <mark key="'" line="0" column="6" />
@@ -137,6 +164,13 @@
         <mark key="." line="0" column="67" />
         <mark key="^" line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" timestamp="1557125524427">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="57" />
+        <mark key="." line="6" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="10" column="3" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" />
@@ -167,7 +201,6 @@
       <jump line="30" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="54" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="186" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
-      <jump line="11" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="167" column="32" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="190" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="45" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
@@ -197,55 +230,74 @@
       <jump line="95" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="21" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="33" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident-plugin-fb/FeedbackEditScene/FeedbackEditScene.js" />
+      <jump line="49" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
+      <jump line="240" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="28" column="52" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="27" column="52" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" />
+      <jump line="14" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" />
+      <jump line="0" column="18" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" />
+      <jump line="3" column="22" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" />
+      <jump line="5" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" />
+      <jump line="51" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="187" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVxdWlyZSgiLi9leGFtcGxlIikuZGVmYXVsdCwg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWlyZSgiLi9leGFtcGxlIikuZGVmYXVsdCwg</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVQZXRMaXN0XD4=</text>
+        <text encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZ2UgKz0gYCR7bW9udGhOdW0gJSAxMn3kuKrmnIhgCg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIocm9vdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFdlVG91Y2hhYmxlIGZyb20gJy4uLy4uLy4uL2JpekNvbXBvbmVudHMvZXh0L1dlVG91Y2hhYmxlJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgYXV0aG9yID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpLmV4ZWNTeW5jKCd3aG9hbWknKS50b1N0cmluZygpLnRyaW0oKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGl0ZW0K</text>
+        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LmZpbHRlcihpdGVtID0+IHsKICAgICAgY29uc3QgewogICAgICAgIHBldCA9IHt9CiAgICAgIH0gPSB0aGlzLnBhcmFtcwogICAgICBjb25zdCBwZXRUeXBlID0gcGV0LnBldFR5cGUgfHwgJ2NhdCcKICAgICAgcmV0dXJuIAogICAgfSk=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGV0VHlwZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1vbWVudCgpLmRpZmYocGV0LmJpcnRoZGF5LCAnZGF5JykgJSAzMCAhPT0gMCkgewogICAgICAgIGFnZSArPSBgJHttb250aE51bSAlIDEyfeS4quaciGAKICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgeyBpbnNlcnRFbGVtZW50SW5MaXN0IH0gPSByZXF1aXJlKCcuLi91dGlscy9jb2RlRWRpdCcpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gdmFyIGR5Um91dGVyID0gcmVxdWlyZSgnLi4vZHlMb2FkL2FzdFRyYW5zZm9ybVJvdXRlci4xJykKY29uc3QgdCA9IHJlcXVpcmUoJ0BiYWJlbC90eXBlcycpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb250aE51bSAlIDEyCg==</text>
+        <text encoding="base64">dmFyIGNoYWxrID0gcmVxdWlyZSgnY2hhbGsnKQp2YXIgaW5xdWlyZXIgPSByZXF1aXJlKCdpbnF1aXJlcicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICBhZ2UgKz0gYCR7bW9udGhOdW0gJSAxMn3kuKrmnIhgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVQZXRMaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVQZXRMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -257,7 +309,6 @@
         <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxnZXRZYXJuVmVyc2lvbklmQXZhaWxhYmxlXD4=</entry>
         <entry encoding="base64">XDxyZXBsYWNlTmFtZVw+</entry>
-        <entry encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0TmFtZVw+</entry>
         <entry encoding="base64">XDxjaGFsa1w+</entry>
         <entry encoding="base64">XDxjaGVja0NtZEFuZFZlcnNpb25cPg==</entry>
@@ -266,6 +317,10 @@
         <entry encoding="base64">XDxwZXRUeXBlXD4=</entry>
         <entry encoding="base64">XDxvblByZXNzU2F2ZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVQZXRMaXN0XD4=</entry>
+        <entry encoding="base64">XDx0XD4=</entry>
+        <entry encoding="base64">XDxyZXNvbHZlXD4=</entry>
+        <entry encoding="base64">XDxmc1w+</entry>
+        <entry encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
@@ -274,8 +329,8 @@
         <entry>187</entry>
         <entry>189</entry>
         <entry>w2</entry>
-        <entry>Lw</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
