@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-04/new_loginin_page_source.xml" timestamp="1556008088925">
+        <mark key="[" line="112" column="105" />
+        <mark key="]" line="112" column="104" />
+        <mark key="^" line="112" column="104" />
+        <mark key="." line="112" column="104" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" timestamp="1556511571885">
         <mark key="'" line="10" column="35" />
         <mark key="[" line="34" column="11" />
@@ -18,8 +24,26 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555942889438">
+        <mark key="[" line="114" column="12" />
+        <mark key="]" line="114" column="12" />
+        <mark key="." line="114" column="12" />
+        <mark key="^" line="114" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/fastlane/Fastfile" timestamp="1555942784852">
+        <mark key="[" line="40" column="72" />
+        <mark key="]" line="40" column="72" />
+        <mark key="." line="40" column="72" />
+        <mark key="^" line="40" column="72" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1556853434643" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/index.js" timestamp="1556521459206" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident-plugin-fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556607197345">
         <mark key="'" line="33" column="2" />
       </file>
@@ -37,6 +61,12 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1555990432868">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557125674996">
         <mark key="'" line="11" column="4" />
         <mark key="[" line="72" column="15" />
@@ -49,6 +79,12 @@
         <mark key="]" line="23" column="18" />
         <mark key="." line="23" column="18" />
         <mark key="^" line="23" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/codeTemplate/moduleTpl/index.js" timestamp="1555990459355">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="41" />
+        <mark key="^" line="12" column="41" />
+        <mark key="." line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PlanListItem.js" timestamp="1556565998649">
         <mark key="[" line="38" column="32" />
@@ -64,11 +100,23 @@
         <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/cgi/index.js" timestamp="1556566428938" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1556012400976">
+        <mark key="[" line="200" column="41" />
+        <mark key="]" line="200" column="41" />
+        <mark key="^" line="191" column="5" />
+        <mark key="." line="200" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556521180045">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="8" />
         <mark key="." line="19" column="8" />
         <mark key="^" line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/ChartExampleScene/ChartExampleScene.js" timestamp="1555945107817">
+        <mark key="[" line="40" column="29" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="37" />
+        <mark key="^" line="40" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1556565634964">
         <mark key="[" line="404" column="0" />
@@ -118,6 +166,12 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1555943985416">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557124863316">
         <mark key="'" line="12" column="8" />
         <mark key="[" line="55" column="0" />
@@ -145,11 +199,23 @@
         <mark key="^" line="35" column="12" />
         <mark key="." line="35" column="12" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/ddd/DemoScene/DemoScene.js" timestamp="1555991237102">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="29" />
+        <mark key="^" line="18" column="29" />
+        <mark key="." line="18" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/src/core/modules/index.js" timestamp="1556605542803">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="93" />
         <mark key="." line="0" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/__tests__/App.js" timestamp="1555936100336">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1556518747053">
         <mark key="'" line="23" column="21" />
@@ -163,6 +229,12 @@
         <mark key="]" line="0" column="67" />
         <mark key="." line="0" column="67" />
         <mark key="^" line="0" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1557128344938">
+        <mark key="[" line="286" column="37" />
+        <mark key="]" line="286" column="43" />
+        <mark key="^" line="286" column="43" />
+        <mark key="." line="286" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" timestamp="1557125524427">
         <mark key="'" line="9" column="0" />
