@@ -16,13 +16,12 @@
         <mark key="." line="34" column="12" />
         <mark key="^" line="34" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/scripts/gulp/docs.js" timestamp="1556550837718" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" timestamp="1557125504194">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" timestamp="1557236501592">
         <mark key="'" line="27" column="52" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="17" />
+        <mark key="[" line="18" column="50" />
+        <mark key="]" line="18" column="59" />
+        <mark key="." line="18" column="59" />
+        <mark key="^" line="18" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555942889438">
         <mark key="[" line="114" column="12" />
@@ -36,13 +35,29 @@
         <mark key="." line="40" column="72" />
         <mark key="^" line="40" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1556853434643" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/index.js" timestamp="1556521459206" />
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident-plugin-fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1557230465765">
+        <mark key="[" line="15" column="4" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1557230034905">
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/gradle.properties" timestamp="1555936271531">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/index.js" timestamp="1557230636854">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident-plugin-fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556607197345">
         <mark key="'" line="33" column="2" />
@@ -53,7 +68,6 @@
         <mark key="^" line="178" column="20" />
         <mark key="." line="219" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1556565881270" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" timestamp="1556511822198">
         <mark key="'" line="2" column="23" />
         <mark key="[" line="27" column="23" />
@@ -92,14 +106,12 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/package.json" timestamp="1557123744638" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetService.js" timestamp="1556552802294">
         <mark key="[" line="12" column="33" />
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="41" />
         <mark key="^" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/cgi/index.js" timestamp="1556566428938" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/scripts/gulp/generator.js" timestamp="1556012400976">
         <mark key="[" line="200" column="41" />
         <mark key="]" line="200" column="41" />
@@ -124,6 +136,9 @@
         <mark key="." line="404" column="0" />
         <mark key="^" line="405" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxUtils/index.js" timestamp="1557230562236">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" timestamp="1557124549740">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="1" column="2" />
@@ -131,25 +146,18 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1556518793463" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/init.js" timestamp="1557125473319">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1557125413303">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1557236561787">
         <mark key="'" line="50" column="28" />
         <mark key="[" line="61" column="28" />
         <mark key="]" line="61" column="31" />
         <mark key="." line="61" column="31" />
         <mark key="^" line="61" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/PetTab.js" timestamp="1556553258809" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1556565786924">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1557127140876">
         <mark key="[" line="0" column="0" />
@@ -166,11 +174,12 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1555943985416">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="2" />
-        <mark key="." line="22" column="2" />
-        <mark key="^" line="22" column="2" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1557214601633">
+        <mark key="'" line="21" column="31" />
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="2" />
+        <mark key="." line="28" column="2" />
+        <mark key="^" line="28" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557124863316">
         <mark key="'" line="12" column="8" />
@@ -185,6 +194,7 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1557218722517" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1556553104545">
         <mark key="'" line="256" column="2" />
         <mark key="[" line="165" column="19" />
@@ -192,12 +202,17 @@
         <mark key="." line="166" column="11" />
         <mark key="^" line="166" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/manifest.js" timestamp="1556521464917" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/Pet.js" timestamp="1556552781307">
         <mark key="[" line="35" column="6" />
         <mark key="]" line="35" column="12" />
         <mark key="^" line="35" column="12" />
         <mark key="." line="35" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/index.js" timestamp="1557230088622">
+        <mark key="[" line="0" column="54" />
+        <mark key="]" line="0" column="54" />
+        <mark key="." line="0" column="54" />
+        <mark key="^" line="0" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/ddd/DemoScene/DemoScene.js" timestamp="1555991237102">
         <mark key="[" line="18" column="29" />
@@ -242,6 +257,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="7" column="57" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/index.js" timestamp="1557230838215">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -321,13 +342,16 @@
       <jump line="51" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="187" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="11" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="21" column="31" filename="$USER_HOME$/Projects/UnPourTous/soga/package.json" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/example/DemoScene/DemoScene.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxUtils/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, '')</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>, '')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</text>
@@ -336,31 +360,31 @@
         <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIocm9vdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBcHBOYXZpZ2F0b3IK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYXV0aG9yID0gcmVxdWlyZSgnY2hpbGRfcHJvY2VzcycpLmV4ZWNTeW5jKCd3aG9hbWknKS50b1N0cmluZygpLnRyaW0oKQo=</text>
+        <text encoding="base64">ICAuLi5yZWR1eFV0aWxzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKQo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIC4uLnJlZHV4VXRpbHMKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuLi5yZWR1eFV0aWxzLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIGZzID0gcmVxdWlyZSgnZnMnKQo=</text>
+        <text encoding="base64">ICAuLi5yZWR1eFV0aWxzLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgeyBpbnNlcnRFbGVtZW50SW5MaXN0IH0gPSByZXF1aXJlKCcuLi91dGlscy9jb2RlRWRpdCcpCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gdmFyIGR5Um91dGVyID0gcmVxdWlyZSgnLi4vZHlMb2FkL2FzdFRyYW5zZm9ybVJvdXRlci4xJykKY29uc3QgdCA9IHJlcXVpcmUoJ0BiYWJlbC90eXBlcycpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGNoYWxrID0gcmVxdWlyZSgnY2hhbGsnKQp2YXIgaW5xdWlyZXIgPSByZXF1aXJlKCdpbnF1aXJlcicpCg==</text>
+        <text encoding="base64">ICBUcmlkZW50QXBwLAogIEFwcE5hdmlnYXRvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGUpCg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -411,6 +435,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
