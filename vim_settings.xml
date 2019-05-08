@@ -100,11 +100,17 @@
         <mark key="^" line="38" column="30" />
         <mark key="." line="38" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1557300907760" />
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/fb/package.json" timestamp="1557289365951">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.d.ts" timestamp="1557300966862">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetService.js" timestamp="1556552802294">
         <mark key="[" line="12" column="33" />
@@ -118,6 +124,7 @@
         <mark key="^" line="191" column="5" />
         <mark key="." line="200" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/Navigation.js" timestamp="1557301102838" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556521180045">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="8" />
@@ -160,6 +167,20 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1557301463220">
+        <mark key="'" line="26" column="24" />
+        <mark key="[" line="54" column="59" />
+        <mark key="]" line="54" column="58" />
+        <mark key="." line="54" column="58" />
+        <mark key="^" line="54" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/index.js" timestamp="1557302256034">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="29" column="30" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/local-cli/index.js" timestamp="1557289135909">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -171,12 +192,29 @@
         <mark key="^" line="0" column="22" />
         <mark key="." line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/navigation/WeNavigator.js" timestamp="1557301603834">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="56" />
+        <mark key="^" line="17" column="56" />
+        <mark key="." line="17" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/react-navigation/src/views/Header/HeaderBackButton.js" timestamp="1557302167901">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="7" />
+        <mark key="^" line="58" column="7" />
+        <mark key="." line="58" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1557289167704">
         <mark key="'" line="52" column="28" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="24" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="49" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxConfig.js" timestamp="1557301500752">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" timestamp="1557290034218">
         <mark key="'" line="114" column="14" />
@@ -227,11 +265,6 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/fb/index.js" timestamp="1557289355119">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1556522371551">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="67" />
@@ -264,12 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="3" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/package.json" />
-      <jump line="17" column="19" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
-      <jump line="19" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="49" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="28" column="12" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
@@ -364,62 +391,70 @@
       <jump line="22" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" />
       <jump line="114" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" />
       <jump line="25" column="10" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/example/DemoScene/DemoScene.js" />
+      <jump line="27" column="34" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/TridentApp.js" />
+      <jump line="26" column="24" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/TridentApp.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxConfig.js" />
+      <jump line="2" column="15" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxConfig.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/index.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgPFdlVG91Y2hhYmxlIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgIEFwcE5hdmlnYXRvci50ZXN0bS5BQUFBU2NlbmUoKQogICAgICAgIH19PgogICAgICAgICAgPFRleHQ+QXBwTmF2aWdhdG9yLnRlc3RtLkFBQUFTY2VuZTwvVGV4dD4KICAgICAgICA8L1dlVG91Y2hhYmxlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>{
+              color: 'white'
+            }</text>
       </register>
       <register name="-" type="4">
-        <text>, require(&quot;./testm&quot;).default</text>
+        <text>headerT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</text>
+        <text encoding="base64">XDxuYXZpZ2F0aW9uQ29uZmlnXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>AppNavigator.testm.AAAAScene</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyVGl0bGVTdHlsZTogewogICAgICAgICAgICAgIGZvbnRXZWlnaHQ6ICdub3JtYWwnLAogICAgICAgICAgICAgIHRleHRBbGlnbjogJ2NlbnRlcicsCiAgICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywKICAgICAgICAgICAgICBjb2xvcjogJ3doaXRlJwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgPFdlVG91Y2hhYmxlIG9uUHJlc3M9eygpID0+IHsKICAgICAgICAgIEFwcE5hdmlnYXRvci50ZXN0bS5BQUFBU2NlbmUoKQogICAgICAgIH19PgogICAgICAgICAgPFRleHQ+QXBwTmF2aWdhdG9yLnRlc3RtLkFBQUFTY2VuZTwvVGV4dD4KICAgICAgICA8L1dlVG91Y2hhYmxlPgo=</text>
+      <register name="1" type="4">
+        <text>{
+              color: 'white'
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGVTdHlsZTogewogICAgICAgICAgICAgIGNvbG9yOiAnd2hpdGUnCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAxandqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICdyZWQnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJndWxwLW1vZGlmeS1maWxlIjogIl4xLjAuMSIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmb250V2VpZ2h0OiAnbm9ybWFsJywKICAgICAgICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImd1bHAtbW9kaWZ5LWZpbGUiOiAiXjEuMC4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyTGVmdDogewogICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3doaXRlJwogICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiYXNlUGF0aDogJ3NyYy8nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0QmFzZVBhdGg6ICdzcmMvX190ZXN0c19fLycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzY2VuZVRlc3RUcGxQYXRoOiAnLi9zY3JpcHRzL2d1bHAvY29kZVRlbXBsYXRlL3NjZW5lVHBsL1NjZW5lUmVuZGVyLXRlc3QuanMnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWR1eENvbmZpZz17ewogICAgICAgICAgLy8gbG9nZ2VyIGNvbmZpZ3VyYXRpb24KICAgICAgICAgIGxvZ2dlcjogewogICAgICAgICAgICBjb2xsYXBzZWQ6IHRydWUsCiAgICAgICAgICAgIGRpZmY6IGZhbHNlLAogICAgICAgICAgfQogICAgICAgIH19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxuYXZpZ2F0aW9uQ29uZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxuYXZpZ2F0aW9uQ29uZmlnXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBsYWNlTmFtZVw+</entry>
-        <entry encoding="base64">XDxwcm9qZWN0TmFtZVw+</entry>
         <entry encoding="base64">XDxjaGFsa1w+</entry>
         <entry encoding="base64">XDxjaGVja0NtZEFuZFZlcnNpb25cPg==</entry>
         <entry encoding="base64">XDxtaW5cPg==</entry>
@@ -438,6 +473,8 @@
         <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
         <entry encoding="base64">XDxzY2VuZVRwbFBhdGhcPg==</entry>
         <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
+        <entry encoding="base64">XDxyZWR1eENvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxuYXZpZ2F0aW9uQ29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
