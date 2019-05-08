@@ -9,13 +9,6 @@
         <mark key="^" line="112" column="104" />
         <mark key="." line="112" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" timestamp="1556511571885">
-        <mark key="'" line="10" column="35" />
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" timestamp="1557289596107">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -79,20 +72,13 @@
         <mark key="^" line="178" column="20" />
         <mark key="." line="219" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" timestamp="1556511822198">
-        <mark key="'" line="2" column="23" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="28" column="1" />
-        <mark key="." line="28" column="1" />
-        <mark key="^" line="28" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1555990432868">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="41" />
         <mark key="^" line="12" column="41" />
         <mark key="." line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557125674996">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557297776996">
         <mark key="'" line="11" column="4" />
         <mark key="[" line="72" column="15" />
         <mark key="]" line="72" column="14" />
@@ -156,6 +142,11 @@
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxUtils/index.js" timestamp="1557230562236">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/package.json" timestamp="1557297716624">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" timestamp="1557290064272">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="1" column="2" />
@@ -200,32 +191,11 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="116" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/package.json" timestamp="1557214601633">
-        <mark key="'" line="21" column="31" />
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="28" column="2" />
-        <mark key="." line="28" column="2" />
-        <mark key="^" line="28" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" timestamp="1556512337954">
-        <mark key="'" line="0" column="6" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="29" column="10" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1557288905303">
         <mark key="[" line="19" column="27" />
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1556553104545">
-        <mark key="'" line="256" column="2" />
-        <mark key="[" line="165" column="19" />
-        <mark key="]" line="166" column="11" />
-        <mark key="." line="166" column="11" />
-        <mark key="^" line="166" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/Pet.js" timestamp="1556552781307">
         <mark key="[" line="35" column="6" />
@@ -262,13 +232,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1556518747053">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="16" />
-        <mark key="^" line="23" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/index.js" timestamp="1556522371551">
         <mark key="[" line="0" column="67" />
         <mark key="]" line="0" column="67" />
@@ -280,6 +243,11 @@
         <mark key="]" line="286" column="43" />
         <mark key="^" line="286" column="43" />
         <mark key="." line="286" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/yarn-error.log" timestamp="1557297703287">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" timestamp="1557289564421">
         <mark key="'" line="22" column="0" />
@@ -397,8 +365,8 @@
       <jump line="114" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJndWxwLW1vZGlmeS1maWxlIjogIl4xLjAuMSIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -410,31 +378,31 @@
         <text encoding="base64">ICBtb2R1bGVUcGxQYXRoOiAnLi9ub2RlX21vZHVsZXMvQHVucG91cnRvdXMvdHJpZGVudC9sb2NhbC1jbGkvZ2VuL2NvZGVUZW1wbGF0ZS9tb2R1bGVUcGwnLAogIHNjZW5lVHBsUGF0aDogJy4vbm9kZV9tb2R1bGVzL0B1bnBvdXJ0b3VzL3RyaWRlbnQvbG9jYWwtY2xpL2dlbi9jb2RlVGVtcGxhdGUvc2NlbmVUcGwnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYXNlUGF0aDogJ3NyYy8nLAo=</text>
+        <text encoding="base64">ICAgICJndWxwLW1vZGlmeS1maWxlIjogIl4xLjAuMSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0ZXN0QmFzZVBhdGg6ICdzcmMvX190ZXN0c19fLycsCg==</text>
+        <text encoding="base64">ICAgICAgImd1bHAtbW9kaWZ5LWZpbGUiOiAiXjEuMC4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY2VuZVRlc3RUcGxQYXRoOiAnLi9zY3JpcHRzL2d1bHAvY29kZVRlbXBsYXRlL3NjZW5lVHBsL1NjZW5lUmVuZGVyLXRlc3QuanMnCg==</text>
+        <text encoding="base64">ICBiYXNlUGF0aDogJ3NyYy8nLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZXN0QmFzZVBhdGg6ICdzcmMvX190ZXN0c19fLycsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzY2VuZVRlc3RUcGxQYXRoOiAnLi9zY3JpcHRzL2d1bHAvY29kZVRlbXBsYXRlL3NjZW5lVHBsL1NjZW5lUmVuZGVyLXRlc3QuanMnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIGFwcE1vZHVsZXNQYXRoID0gcGF0aC5qb2luKGNvbmZpZy5iYXNlUGF0aCwgJ2NvcmUvbW9kdWxlcycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGFwcFBhdGggPSBjb25maWcuYmFzZVBhdGggKyAnY29yZScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGFwcFRlc3RQYXRoID0gY29uZmlnLnRlc3RCYXNlUGF0aAo=</text>
+        <text encoding="base64">dmFyIGFwcE1vZHVsZXNQYXRoID0gcGF0aC5qb2luKGNvbmZpZy5iYXNlUGF0aCwgJ2NvcmUvbW9kdWxlcycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8g5YWI5pq05Yqb5LiA54K555SocmVwbGFjZQo=</text>
+        <text encoding="base64">dmFyIGFwcFBhdGggPSBjb25maWcuYmFzZVBhdGggKyAnY29yZScK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
