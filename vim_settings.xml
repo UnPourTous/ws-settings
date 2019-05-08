@@ -22,6 +22,12 @@
         <mark key="^" line="13" column="60" />
         <mark key="." line="19" column="100" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/package.json" timestamp="1557296574685">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/build.gradle" timestamp="1555942889438">
         <mark key="[" line="114" column="12" />
         <mark key="]" line="114" column="12" />
@@ -164,11 +170,11 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/local-cli/index.js" timestamp="1557289135909">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/pathConfig.js" timestamp="1557290056395">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/pathConfig.js" timestamp="1557297016281">
         <mark key="[" line="4" column="17" />
         <mark key="]" line="4" column="17" />
         <mark key="^" line="0" column="22" />
@@ -180,9 +186,6 @@
         <mark key="]" line="29" column="24" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="49" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1557127140876">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" timestamp="1557290034218">
         <mark key="'" line="114" column="14" />
