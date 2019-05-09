@@ -30,11 +30,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/soga/lab/node_modules/@unpourtous/trident-plugin-fb/FeedbackEditScene/FeedbackEditScene.js" timestamp="1556607197345">
         <mark key="'" line="33" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1557397512076">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/URLUtils.js" timestamp="1557404209487">
         <mark key="'" line="16" column="0" />
       </file>
@@ -45,18 +40,12 @@
         <mark key="." line="72" column="14" />
         <mark key="^" line="72" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1557404308776">
-        <mark key="'" line="104" column="36" />
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1557400817164">
-        <mark key="[" line="442" column="24" />
-        <mark key="]" line="442" column="24" />
-        <mark key="^" line="442" column="24" />
-        <mark key="." line="442" column="24" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1557407002286">
+        <mark key="'" line="34" column="10" />
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+        <mark key="." line="5" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/fb/package.json" timestamp="1557289365951">
         <mark key="[" line="14" column="18" />
@@ -69,17 +58,30 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" timestamp="1557407924264">
+        <mark key="'" line="126" column="4" />
+        <mark key="[" line="79" column="79" />
+        <mark key="]" line="79" column="79" />
+        <mark key="." line="79" column="79" />
+        <mark key="^" line="79" column="90" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/Navigation.js" timestamp="1557301102838" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/WeNavigator.js" timestamp="1557402359691" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/WeNavigator.js" timestamp="1557406998281">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/navigation.js" timestamp="1557402325288" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/combineAppReducers.js" timestamp="1557406735334" />
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxUtils/index.js" timestamp="1557230562236">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" timestamp="1557404467640">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" timestamp="1557406990509">
+        <mark key="'" line="47" column="26" />
+        <mark key="[" line="10" column="47" />
+        <mark key="]" line="10" column="51" />
+        <mark key="^" line="10" column="51" />
+        <mark key="." line="10" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/package.json" timestamp="1557297716624">
         <mark key="[" line="35" column="0" />
@@ -105,11 +107,12 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/WeBaseScene.js" timestamp="1557400784921">
-        <mark key="[" line="18" column="73" />
-        <mark key="]" line="18" column="73" />
-        <mark key="." line="18" column="73" />
-        <mark key="^" line="14" column="23" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/WeBaseScene.js" timestamp="1557405696170">
+        <mark key="'" line="87" column="16" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/TridentApp.js" timestamp="1557301463220">
         <mark key="'" line="26" column="24" />
@@ -154,6 +157,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="97" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/reduxUtils/index.js" timestamp="1557407054138" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1557289167704">
         <mark key="'" line="52" column="28" />
         <mark key="[" line="29" column="0" />
@@ -161,7 +165,7 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1557400044628">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/index.js" timestamp="1557406317526">
         <mark key="[" line="1" column="52" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -175,12 +179,12 @@
         <mark key="^" line="22" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/navigation/WeNavigator.js" timestamp="1557402929907" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/index.js" timestamp="1557400203223">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/index.js" timestamp="1557406291723">
         <mark key="'" line="15" column="2" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="42" />
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/TridentProxy.js" timestamp="1557401001340">
         <mark key="[" line="3" column="8" />
@@ -200,6 +204,17 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" timestamp="1557406373293">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/Navigation.js" timestamp="1557406949321">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/reducer.js" timestamp="1557403049148">
         <mark key="[" line="7" column="17" />
@@ -224,12 +239,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1557401354671">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1557406298951">
         <mark key="'" line="19" column="35" />
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="18" column="1" />
-        <mark key="." line="18" column="1" />
-        <mark key="^" line="18" column="1" />
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/yarn-error.log" timestamp="1557297703287">
         <mark key="[" line="61" column="0" />
@@ -243,23 +258,14 @@
         <mark key="." line="15" column="56" />
         <mark key="^" line="15" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/index.js" timestamp="1557406266964">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
-      <jump line="0" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
-      <jump line="37" column="15" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
-      <jump line="7" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
-      <jump line="6" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
-      <jump line="28" column="92" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
-      <jump line="8" column="35" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/_checkEnv.js" />
-      <jump line="24" column="24" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
-      <jump line="2" column="23" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/check.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" />
-      <jump line="0" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/env/index.js" />
-      <jump line="23" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
-      <jump line="80" column="41" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" />
       <jump line="39" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" />
       <jump line="78" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" />
       <jump line="81" column="41" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" />
@@ -345,63 +351,75 @@
       <jump line="15" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
       <jump line="96" column="36" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/URLUtils.js" />
+      <jump line="87" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/WeBaseScene.js" />
+      <jump line="128" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" />
+      <jump line="117" column="17" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" />
+      <jump line="5" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" />
+      <jump line="34" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" />
+      <jump line="78" column="55" filename="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" />
+      <jump line="47" column="26" filename="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/WeNavigator.js" />
+      <jump line="11" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" />
+      <jump line="131" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" />
+      <jump line="126" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUkxVdGlsc1w+</text>
+        <text encoding="base64">XDxSTkVudlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IF8gZnJvbSAnbG9kYXNoJwo=</text>
+      <register name="0" type="4">
+        <text>onPause</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGAke3NjZW5lRGV0YWlsTmFtZX0oJHtzY2VuZUtleX0pYCwgJ29uUGF1c2UnLCAnZnJvbTogJyArIGZyb21TY2VuZSwgJ3RvOiAnICsgdG9TY2VuZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">aW1wb3J0IFJORW52IGZyb20gJ3V0aWxzL1JORW52Jwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">d21sCg==</text>
+        <text encoding="base64">ICAvKioKICAgKiDmj5DkvpvkuIDkuKrnu5/kuIDjgIHlv6vpgJ/nmoTmlrnms5XmnaXorr7nva5yZWR1eCBzdGF0ZQogICAqIEBwYXJhbSBzY2VuZVN0YXRlIC0g6ZyA6KaB5pu05paw55qE54q25oCBCiAgICovCiAgc2V0U2NlbmVTdGF0ZSAoc2NlbmVTdGF0ZSkgewogICAgaWYgKFJORW52LmlzRGV2KCkpIHsKICAgICAgY29uc3QgewogICAgICAgIG1vZHVsZU5hbWUsCiAgICAgICAgc2NlbmVOYW1lCiAgICAgIH0gPSB0aGlzLnByb3BzCiAgICAgIGNvbnN0IHRpdGxlID0gYFtjYWxsIHN0YWNrXSAke21vZHVsZU5hbWV9LSR7c2NlbmVOYW1lfS9zZXRTY2VuZVN0YXRlIOabtOaWsOWtl+aute+8miR7T2JqZWN0LmtleXMoc2NlbmVTdGF0ZSB8fCB7fSkuam9pbignLCAnKX1gCiAgICAgIGNvbnNvbGUuZ3JvdXBDb2xsYXBzZWQodGl0bGUpCiAgICAgIGNvbnNvbGUudHJhY2UoJ2NhbGwgc3RhY2snKQogICAgICBjb25zb2xlLmdyb3VwRW5kKCkKICAgIH0KICAgIHRoaXMucHJvcHMuc2V0U2NlbmVTdGF0ZVRoYXRPbmx5VXNlSW5uZXIoc2NlbmVTdGF0ZSkKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFVSTFVUIGZyb20gJ2xvZGFzaCcK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNjZW5lS2V5ID0gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLnN0YXRlLnJvdXRlTmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8vIGdldHMgdGhlIGN1cnJlbnQgc2NyZWVuIGZyb20gbmF2aWdhdGlvbiBzdGF0ZQpjb25zdCBnZXRDdXJyZW50Um91dGVOYW1lID0gKG5hdmlnYXRpb25TdGF0ZSkgPT4gewogIGlmICghbmF2aWdhdGlvblN0YXRlKSB7CiAgICByZXR1cm4gbnVsbAogIH0KICBjb25zdCBmaW5kQ3VycmVudFJvdXRlID0gKG5hdmlnYXRpb25TdGF0ZSkgPT4gewogICAgaWYgKG5hdmlnYXRpb25TdGF0ZS5pbmRleCAhPT0gdW5kZWZpbmVkKSB7CiAgICAgIHJldHVybiBmaW5kQ3VycmVudFJvdXRlKG5hdmlnYXRpb25TdGF0ZS5yb3V0ZXNbbmF2aWdhdGlvblN0YXRlLmluZGV4XSkKICAgIH0KICAgIHJldHVybiBuYXZpZ2F0aW9uU3RhdGUKICB9CiAgcmV0dXJuIGZpbmRDdXJyZW50Um91dGUobmF2aWdhdGlvblN0YXRlKQp9CgoKCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2VuZXJhdGVSb3V0ZU5hbWUgfSBmcm9tICcuLi9OYXZpZ2F0aW9uVXRpbHMnCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRlQ2hhbmdlTGlzdGVuZXIK</text>
+        <text encoding="base64">aW1wb3J0IFJORW52IGZyb20gJ3V0aWxzL1JORW52Jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKICAgICAgY29uc3Qgb2xkVG9wU2NlbmVTdGF0ZSA9IGdldEN1cnJlbnRSb3V0ZU5hbWUoc3RhdGUpCiAgICAgIGNvbnN0IG5ld1RvcFNjZW5lU3RhdGUgPSBnZXRDdXJyZW50Um91dGVOYW1lKG5leHRTdGF0ZSkKCiAgICAgIGxldCBmcm9tUm91dGVOYW1lLCB0b1JvdXRlTmFtZSwgZnJvbVNjZW5lS2V5LCB0b1NjZW5lS2V5CgogICAgICBpZiAoIW9sZFRvcFNjZW5lU3RhdGUgfHwgIW9sZFRvcFNjZW5lU3RhdGUucm91dGVOYW1lKSB7CiAgICAgICAgZnJvbVJvdXRlTmFtZSA9IG51bGwKICAgICAgICBmcm9tU2NlbmVLZXkgPSBudWxsCiAgICAgIH0gZWxzZSB7CiAgICAgICAgZnJvbVJvdXRlTmFtZSA9IG9sZFRvcFNjZW5lU3RhdGUucm91dGVOYW1lCiAgICAgICAgZnJvbVNjZW5lS2V5ID0gb2xkVG9wU2NlbmVTdGF0ZS5rZXkKICAgICAgfQogICAgICB0b1JvdXRlTmFtZSA9IG5ld1RvcFNjZW5lU3RhdGUucm91dGVOYW1lCiAgICAgIHRvU2NlbmVLZXkgPSBuZXdUb3BTY2VuZVN0YXRlLmtleQoKICAgICAgaWYgKChBcHBOYXZpZ2F0b3IubGFzdFNjZW5lID09PSB1bmRlZmluZWQgJiYgQXBwTmF2aWdhdG9yLmN1cnJlbnRTY2VuZSA9PT0gdW5kZWZpbmVkICYmIGZyb21TY2VuZUtleSA9PT0gbnVsbCkgfHwKICAgICAgICAoISFmcm9tU2NlbmVLZXkgJiYgISF0b1NjZW5lS2V5ICYmIGZyb21TY2VuZUtleSAhPT0gdG9TY2VuZUtleSkpIHsKICAgICAgICAvLyDku45hY3Rpb27ph4zpnaLmi7/mlbDmja7vvIzkuI3opoHku45zdGF0ZemHjOmdouaLv++8jHN0YXRl6YeM6Z2i5Y+v6IO95piv55Soc2V0UGFyYW1z5L+u5pS56L+H55qECiAgICAgICAgbGV0IGN1cnJlbnRQYXJhbXMgPSBfLmdldChhY3Rpb24sICdwYXJhbXMnLCB7fSkKICAgICAgICBpZiAoYWN0aW9uLnR5cGUgPT09ICdOYXZpZ2F0aW9uL1JFU0VUJykgewogICAgICAgICAgY3VycmVudFBhcmFtcyA9IF8uZ2V0KGFjdGlvbi5hY3Rpb25zWzBdLCAncGFyYW1zJywge30pCiAgICAgICAgfQogICAgICAgIC8vIOi/h+a7pOWPguaVsAogICAgICAgIGNvbnN0IGxhc3RTY2VuZVVSTCA9IEFwcE5hdmlnYXRvci5jdXJyZW50U2NlbmVVUkwgfHwgJ251bGwnCiAgICAgICAgY29uc3QgY3VycmVudFNjZW5lVVJMID0gVVJMVXRpbHMuYXBwZW5kUGFyYW1zKHRvUm91dGVOYW1lIHx8ICdudWxsJywgY3VycmVudFBhcmFtcykKICAgICAgICBTdGF0aXN0aWNzLnJlcG9ydFBhZ2VFbmQobGFzdFNjZW5lVVJMKQogICAgICAgIFN0YXRpc3RpY3MucmVwb3J0UGFnZVN0YXJ0KGN1cnJlbnRTY2VuZVVSTCkKCiAgICAgICAgaWYgKGZyb21TY2VuZUtleSAmJiBmcm9tU2NlbmVLZXkgIT09IHRvU2NlbmVLZXkpIHsKICAgICAgICAgIC8vKiDlpoLmnpzmnInms6jlhoxvblBhdXNl77yM5YiZ6LCD55SoCiAgICAgICAgICBpZiAoXy5pc0Z1bmN0aW9uKEFwcE5hdmlnYXRvci5saWZlY3ljbGVDYWxsYmFjay5vblBhdXNlW2Zyb21TY2VuZUtleV0pKSB7CiAgICAgICAgICAgIEFwcE5hdmlnYXRvci5saWZlY3ljbGVDYWxsYmFjay5vblBhdXNlW2Zyb21TY2VuZUtleV0gJiYgQXBwTmF2aWdhdG9yLmxpZmVjeWNsZUNhbGxiYWNrLm9uUGF1c2VbZnJvbVNjZW5lS2V5XShmcm9tUm91dGVOYW1lLCB0b1JvdXRlTmFtZSkKICAgICAgICAgIH0KCiAgICAgICAgICAvLyog6Ieq5Yqo5riF55CG6Z2eZ2xvYmFs55qEUG9wdXAKICAgICAgICAgIFppbGVhbi5jbGVhckludGVydmFsQnlTY29wZShaaWxlYW4uc2NvcGUuc2NlbmUpCiAgICAgICAgICBaaWxlYW4uY2xlYXJUaW1lb3V0QnlTY29wZShaaWxlYW4uc2NvcGUuc2NlbmUpCiAgICAgICAgICAvLyBXQVJOSU5HIOi/memHjOaYr+S4jeW6lOivpeWOu+aUuVBvcHVw55qE54q25oCB55qE77yM5L2G5piv5LiN6L+Z5qC35aSE55CG77yM5Y+v6IO95Lya5Ye6546w6aG16Z2i6Lez6L2s5LqG77yMUG9wdXDov5jlnKjnmoTmg4XlhrXvvIwKICAgICAgICAgIC8vIOaJgOS7peS4tOaXtuWFiOWcqOi3s+i9rOaXtuWOu+aOieaJgOacieeahFBvcHVwLCDnu4jmnoHop6PlhrPpnIDopoFQb3B1cOmHjOmdouaUr+aMgeeKtuaAgeS/neWtmOWSjOWbnuWkje+8jOWMheaLrOmhtemdoue6p+WIq+eahOeKtuaAgeWSjOWFqOWxgOeahOeKtuaAgQogICAgICAgICAgY29uc3QgZ2xvYmFsUG9wdXBzID0gbmV3IE1hcCgpCiAgICAgICAgICBQb3B1cFN0dWIuc3R1Yi5zdGF0ZS5wb3B1cHMgJiYgUG9wdXBTdHViLnN0dWIuc3RhdGUucG9wdXBzLmZvckVhY2goKHYsIGspID0+IHsKICAgICAgICAgICAgaWYgKHYuc2NvcGUgPT09ICdnbG9iYWwnKSB7CiAgICAgICAgICAgICAgZ2xvYmFsUG9wdXBzLnNldChrLCB2KQogICAgICAgICAgICB9CiAgICAgICAgICB9KQogICAgICAgICAgUG9wdXBTdHViLnN0dWIgJiYgUG9wdXBTdHViLnN0dWIuc2V0U3RhdGUoewogICAgICAgICAgICBwb3B1cHM6IGdsb2JhbFBvcHVwcwogICAgICAgICAgfSkKICAgICAgICB9CgogICAgICAgIGlmIChmcm9tU2NlbmVLZXkgJiYgXy5pc0Z1bmN0aW9uKEFwcE5hdmlnYXRvci5saWZlY3ljbGVDYWxsYmFjay5vblJlc3VtZVt0b1NjZW5lS2V5XSkpIHsKICAgICAgICAgIEFwcE5hdmlnYXRvci5saWZlY3ljbGVDYWxsYmFjay5vblJlc3VtZVt0b1NjZW5lS2V5XShmcm9tUm91dGVOYW1lLCB0b1JvdXRlTmFtZSkKICAgICAgICB9IGVsc2UgewogICAgICAgICAgQXBwTmF2aWdhdG9yLmFkZFBlbmRpbmdMaWZlY3ljbGVDYWxsYmFjayh0b1NjZW5lS2V5LCB7ZnJvbVNjZW5lOiBmcm9tUm91dGVOYW1lLCB0b1NjZW5lOiB0b1JvdXRlTmFtZX0pCiAgICAgICAgfQoKICAgICAgICBBcHBOYXZpZ2F0b3IubGFzdFNjZW5lID0gb2xkVG9wU2NlbmVTdGF0ZSB8fCB7fQogICAgICAgIEFwcE5hdmlnYXRvci5jdXJyZW50U2NlbmUgPSBuZXdUb3BTY2VuZVN0YXRlIHx8IHt9CgogICAgICAgIEFwcE5hdmlnYXRvci5sYXN0U2NlbmVVUkwgPSBsYXN0U2NlbmVVUkwKICAgICAgICBBcHBOYXZpZ2F0b3IuY3VycmVudFNjZW5lVVJMID0gY3VycmVudFNjZW5lVVJMCiAgICAgICAgY29uc29sZS5sb2coJ2N1cnJlbnRTY2VuZSBjaGFuZ2UnKQogICAgICB9CiAgICAgIGlmIChBcHBOYXZpZ2F0b3IuY3VycmVudFNjZW5lICYmIEFwcE5hdmlnYXRvci5jdXJyZW50U2NlbmUucm91dGVOYW1lKSB7CiAgICAgICAgY29uc3Qgcm91dGVOYW1lID0gQXBwTmF2aWdhdG9yLmN1cnJlbnRTY2VuZS5yb3V0ZU5hbWUKICAgICAgICBpZiAoYWN0aW9uLnR5cGUgPT09ICdOYXZpZ2F0aW9uL05BVklHQVRFJykgewogICAgICAgICAgbmF2VGltZUNvbnN1bWluZ1tyb3V0ZU5hbWVdID0gewogICAgICAgICAgICBzdGFydFRpbWU6IG5ldyBEYXRlKCkuZ2V0VGltZSgpCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGlmIChhY3Rpb24udHlwZSA9PT0gJ05hdmlnYXRpb24vQ09NUExFVEVfVFJBTlNJVElPTicgJiYKICAgICAgICAgIG5hdlRpbWVDb25zdW1pbmdbcm91dGVOYW1lXSAmJgogICAgICAgICAgbmF2VGltZUNvbnN1bWluZ1tyb3V0ZU5hbWVdLnN0YXJ0VGltZSkgewogICAgICAgICAgY29uc3QgZW5kVGltZSA9IG5ldyBEYXRlKCkuZ2V0VGltZSgpCiAgICAgICAgICBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0uZW5kVGltZSA9IGVuZFRpbWUKCiAgICAgICAgICBjb25zb2xlLmxvZyhyb3V0ZU5hbWUgKyAnIOWIh+aNouiAl+aXtiAnICsgKGVuZFRpbWUgLSBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0uc3RhcnRUaW1lKSkKICAgICAgICAgIFN0YXRpc3RpY3MucmVwb3J0VGltZUNvbnN1bWluZyhyb3V0ZU5hbWUsIG5hdlRpbWVDb25zdW1pbmdbcm91dGVOYW1lXS5zdGFydFRpbWUsIGVuZFRpbWUpCiAgICAgICAgICBkZWxldGUgbmF2VGltZUNvbnN1bWluZ1tyb3V0ZU5hbWVdCiAgICAgICAgfQogICAgICB9CgoKCg==</text>
+        <text encoding="base64">CiAgLyoqCiAgICog5o+Q5L6b5LiA5Liq57uf5LiA44CB5b+r6YCf55qE5pa55rOV5p2l6K6+572ucmVkdXggc3RhdGUKICAgKiBAcGFyYW0gc2NlbmVTdGF0ZSAtIOmcgOimgeabtOaWsOeahOeKtuaAgQogICAqLwogIHNldFNjZW5lU3RhdGUgKHNjZW5lU3RhdGUpIHsKICAgIC8vIHRoaXMucHJvcHMuc2V0U2NlbmVTdGF0ZVRoYXRPbmx5VXNlSW5uZXIoc2NlbmVTdGF0ZSkKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUkxVdGlsc1w+</last-search>
+      <last-search encoding="base64">XDxSTkVudlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUkxVdGlsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxSTkVudlw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDTElfTU9EVUxFX1BBVEhcPg==</entry>
-        <entry encoding="base64">XDxhcHBQYXRoXD4=</entry>
-        <entry encoding="base64">XDxzY2VuZVRlc3RUcGxQYXRoXD4=</entry>
         <entry encoding="base64">XDx0ZXN0QmFzZVBhdGhcPg==</entry>
         <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
         <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
@@ -419,6 +437,9 @@
         <entry encoding="base64">XDxjb21iaW5lQXBwUmVkdWNlcnNcPg==</entry>
         <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
         <entry encoding="base64">XDxVUkxVdGlsc1w+</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVJvdXRlTmFtZVw+</entry>
+        <entry encoding="base64">XDxzZXBhcmF0ZVJvdXRlTmFtZVw+</entry>
+        <entry encoding="base64">XDxSTkVudlw+</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
