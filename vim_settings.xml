@@ -44,6 +44,7 @@
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/URLUtils.js" timestamp="1557404209487">
         <mark key="'" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1557892421360" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557297776996">
         <mark key="'" line="11" column="4" />
         <mark key="[" line="72" column="15" />
@@ -59,12 +60,12 @@
         <mark key="^" line="38" column="3" />
         <mark key="." line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1557828715769">
-        <mark key="'" line="34" column="10" />
-        <mark key="[" line="445" column="13" />
-        <mark key="]" line="445" column="15" />
-        <mark key="^" line="445" column="15" />
-        <mark key="." line="445" column="15" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1557892332874">
+        <mark key="'" line="465" column="24" />
+        <mark key="[" line="469" column="29" />
+        <mark key="]" line="469" column="29" />
+        <mark key="." line="469" column="29" />
+        <mark key="^" line="469" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/fb/package.json" timestamp="1557289365951">
         <mark key="[" line="14" column="18" />
@@ -95,17 +96,16 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" timestamp="1557828691400">
-        <mark key="'" line="7" column="7" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" timestamp="1557891343317">
+        <mark key="'" line="8" column="9" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/library/reduxUtils/index.js" timestamp="1557230562236">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" timestamp="1557827972527">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" timestamp="1557892494901">
         <mark key="'" line="47" column="26" />
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
@@ -301,11 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/utils/codeEdit.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/publish.js" />
-      <jump line="51" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
-      <jump line="187" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="11" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="21" column="31" filename="$USER_HOME$/Projects/UnPourTous/soga/package.json" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/UnPourTous/tridentPlugins/src/core/modules/example/DemoScene/DemoScene.js" />
@@ -401,61 +396,67 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/url/url.js" />
       <jump line="7" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" />
       <jump line="10" column="13" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-navigation/examples/ReduxExample/src/navigators/AppNavigator.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" />
+      <jump line="8" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" />
+      <jump line="448" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" />
+      <jump line="464" column="24" filename="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybE9iaiA9IFVSTC5wYXJzZSh1cmwsIGZhbHNlKQogICAgY29uc29sZS5sb2codXJsT2JqKQoK</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVUkxcPg==</text>
+        <text encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybE9iaikK</text>
+      <register name="0" type="4">
+        <text>sceneName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybE9iaiA9IFVSTC5wYXJzZSh1cmwsIGZhbHNlKQogICAgY29uc29sZS5sb2codXJsT2JqKQoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBhcnNlZFVybCA9IFVSTC5wYXJzZSh1cmwsIHRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0gJiYKICAgICAgICAgICAgICBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0uc3RhcnRUaW1lKSB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0uZW5kVGltZSA9IGVuZFRpbWUK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFVSTC5wYXJzZSh1cmwsIHRydWUpKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRyaWRlbnRQYXRoLm1vZHVsZU5hbWUK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAvLyBTdGF0aXN0aWNzLnJlcG9ydFRpbWVDb25zdW1pbmcocm91dGVOYW1lLCBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0uc3RhcnRUaW1lLCBlbmRUaW1lKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFyciA9IHVybC5yZXBsYWNlKCd3ZWJhbms6Ly8nLCAnJykuc3BsaXQoJy8nKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyb3V0ZU5hbWUgKyAnIOWIh+aNouiAl+aXtiAnICsgKGVuZFRpbWUgLSBuYXZUaW1lQ29uc3VtaW5nW3JvdXRlTmFtZV0uc3RhcnRUaW1lKSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1vZHVsZU5hbWUgPSBwYXJzZWRVcmwucGF0aG5hbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkZWxldGUgbmF2VGltZUNvbnN1bWluZ1tyb3V0ZU5hbWVdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG5lZWRMb2dpblN0YXRlID0gcGFyYW1zLmdldCgnc3ViVHlwZScpCg==</text>
+      <register name="8" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5lZWRMb2dpblN0YXRlID0gcGFyYW1zLmdldCgnc3ViVHlwZScpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVUkxcPg==</last-search>
+      <last-search encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVUkxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxfZ2V0UGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVTY2VuZUNvbm5lY3RcPg==</entry>
         <entry encoding="base64">XDxXZVNuYXBTaG90U2hhcmVQb3B1cFw+</entry>
@@ -475,6 +476,7 @@
         <entry encoding="base64">XDx3ZWJhbmtcPg==</entry>
         <entry encoding="base64">XDxVUkxTZWFyY2hQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxVUkxcPg==</entry>
+        <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
@@ -488,6 +490,9 @@
         <entry>we</entry>
         <entry>&quot;w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>;w</entry>
+        <entry>wLw</entry>
+        <entry>w]</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
