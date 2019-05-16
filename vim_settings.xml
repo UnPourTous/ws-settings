@@ -21,12 +21,13 @@
         <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/index.js" timestamp="1557892421360" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557925687244">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/testd/ios/trident/Info.plist" timestamp="1557979786660" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557979432335">
         <mark key="'" line="177" column="30" />
-        <mark key="[" line="179" column="51" />
-        <mark key="]" line="179" column="51" />
-        <mark key="^" line="179" column="51" />
-        <mark key="." line="179" column="51" />
+        <mark key="[" line="179" column="28" />
+        <mark key="]" line="179" column="28" />
+        <mark key="^" line="179" column="28" />
+        <mark key="." line="179" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/index.js" timestamp="1557826231136" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-navigation/src/navigators/createNavigator.js" timestamp="1557825606767" />
@@ -89,6 +90,12 @@
       </file>
       <file name="/index.js" timestamp="1557915480720" />
       <file name="$USER_HOME$/Downloads/FeHelper-20190515173503 (1).json" timestamp="1557916249262" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/src/main/AndroidManifest.xml" timestamp="1557979920010">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tridentPlugins/node_modules/@unpourtous/trident/local-cli/index.js" timestamp="1557289135909">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -129,12 +136,12 @@
         <mark key="]" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557916546543">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557979878968">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="44" column="26" />
-        <mark key="]" line="44" column="43" />
-        <mark key="." line="44" column="43" />
-        <mark key="^" line="44" column="43" />
+        <mark key="[" line="163" column="11" />
+        <mark key="]" line="163" column="14" />
+        <mark key="." line="163" column="14" />
+        <mark key="^" line="163" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" timestamp="1557406373293">
         <mark key="[" line="8" column="0" />
@@ -147,6 +154,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/ios/trident/Info.plist" timestamp="1557979913351">
+        <mark key="[" line="31" column="24" />
+        <mark key="]" line="31" column="24" />
+        <mark key="." line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1557901688101">
         <mark key="'" line="19" column="35" />
@@ -264,11 +276,11 @@
       <jump line="177" column="30" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>trident</text>
       </register>
       <register name="-" type="4">
-        <text>apps/webankPro/api</text>
+        <text>trident</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</text>
