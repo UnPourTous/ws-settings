@@ -136,12 +136,12 @@
         <mark key="]" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557979878968">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="163" column="11" />
-        <mark key="]" line="163" column="14" />
-        <mark key="." line="163" column="14" />
-        <mark key="^" line="163" column="14" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1557990192880">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" timestamp="1557406373293">
         <mark key="[" line="8" column="0" />
@@ -174,7 +174,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="15" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
       <jump line="95" column="36" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
       <jump line="15" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
       <jump line="96" column="36" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
@@ -248,7 +247,6 @@
       <jump line="79" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="140" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
-      <jump line="6" column="26" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="37" column="27" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="38" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="39" column="20" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
@@ -274,6 +272,8 @@
       <jump line="175" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="197" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="177" column="30" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
+      <jump line="87" column="32" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
+      <jump line="6" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -283,7 +283,7 @@
         <text>trident</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</text>
+        <text encoding="base64">XDxzeW5jXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmN3ZCgpKQo=</text>
@@ -320,15 +320,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-search>
+      <last-search encoding="base64">XDxzeW5jXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzeW5jXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
         <entry encoding="base64">XDxuYXZUaW1lQ29uc3VtaW5nXD4=</entry>
         <entry encoding="base64">XDxfYWRkTmF0aXZlTm90aWZpY2F0aW9uTGlzdGVuZXJzXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
@@ -348,6 +347,7 @@
         <entry encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxyblBhY2thZ2VcPg==</entry>
         <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
+        <entry encoding="base64">XDxzeW5jXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
