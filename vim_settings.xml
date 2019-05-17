@@ -42,6 +42,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="/index.js" timestamp="1558099403997" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/src/main/AndroidManifest.xml" timestamp="1557979920010">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="41" />
@@ -96,7 +97,7 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1557903583851">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1558099824120">
         <mark key="'" line="329" column="8" />
         <mark key="[" line="454" column="3" />
         <mark key="]" line="454" column="2" />
@@ -108,12 +109,8 @@
         <mark key="]" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1558003226672">
-        <mark key="'" line="80" column="30" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
-        <mark key="^" line="6" column="28" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1558099404051">
+        <mark key="'" line="78" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" timestamp="1557406373293">
         <mark key="[" line="8" column="0" />
