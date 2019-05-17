@@ -42,6 +42,13 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/testd/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1558101976812">
+        <mark key="'" line="33" column="21" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
+      </file>
       <file name="/index.js" timestamp="1558099403997" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/src/main/AndroidManifest.xml" timestamp="1557979920010">
         <mark key="[" line="27" column="38" />
@@ -77,12 +84,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1557979432335">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1558101805578">
         <mark key="'" line="177" column="30" />
-        <mark key="[" line="179" column="28" />
-        <mark key="]" line="179" column="28" />
-        <mark key="^" line="179" column="28" />
-        <mark key="." line="179" column="28" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" timestamp="1557906054285">
         <mark key="'" line="114" column="14" />
@@ -97,7 +104,7 @@
         <mark key="^" line="44" column="7" />
         <mark key="." line="44" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1558099824120">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1558101195742">
         <mark key="'" line="329" column="8" />
         <mark key="[" line="454" column="3" />
         <mark key="]" line="454" column="2" />
@@ -165,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="36" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/TridentApp.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/URLUtils.js" />
       <jump line="87" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/WeBaseScene.js" />
       <jump line="128" column="8" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" />
@@ -265,46 +271,47 @@
       <jump line="6" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
       <jump line="77" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" />
       <jump line="80" column="30" filename="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" />
+      <jump line="32" column="21" filename="$USER_HOME$/Projects/UnPourTous/soga/testd/src/core/modules/example/DemoScene/DemoScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9jZXNzLmN3ZCgpKQo=</text>
+        <text encoding="base64">ICAgIGNhc2UgJ2luaXQnOgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvY2Vzcy5kaQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgV2VBcGkgfSBmcm9tICdhcHBzL3dlYmFua1Byby9hcGknCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcigKICAgICAgICAnQ29tbWFuZCBgJXNgIHVucmVjb2duaXplZC4gJyArCiAgICAgICAgJ01ha2Ugc3VyZSB0aGF0IHlvdSBoYXZlIHJ1biBgbnBtIGluc3RhbGxgIGFuZCB0aGF0IHlvdSBhcmUgaW5zaWRlIGEgcmVhY3QtbmF0aXZlIHByb2plY3QuJywKICAgICAgICBjb21tYW5kc1swXQogICAgICApCiAgICAgIHByb2Nlc3MuZXhpdCgxKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHsgV2VBcGkgfSBmcm9tICdhcHBzL3dlYmFua1Byby9hcGknCg==</text>
+        <text encoding="base64">aWYgKGNsaSkgeyAvLyDlpoLmnpzlnKhUcmlkZW506aG555uu5YaF77yM5omA5pyJ5ZG95Luk55SxbG9jYWwtY2xp5o6l566hCiAgY2xpLnJ1bihwYXRoLnJlc29sdmUob3B0aW9ucy5uYW1lIHx8ICcuJykpCn0gZWxzZSB7Cn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAuLi5nbG9iYWxDR0kK</text>
+        <text encoding="base64">aWYgKGNsaSkgewogIC8vIOWmguaenOWcqFRyaWRlbnTpobnnm67lhoXvvIzmiYDmnInlkb3ku6TnlLFsb2NhbC1jbGnmjqXnrqEKICBjbGkucnVuKHBhdGgucmVzb2x2ZShvcHRpb25zLm5hbWUgfHwgJy4nKSkKfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKGNsaSkgewogIC8vIOWmguaenOWcqFRyaWRlbnTpobnnm67lhoXvvIzmiYDmnInlkb3ku6TnlLFsb2NhbC1jbGnmjqXnrqEKICBjbGkucnVuKHBhdGgucmVzb2x2ZShvcHRpb25zLm5hbWUgfHwgJy4nKSkKfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ0dJIGFzIGdsb2JhbENHSSB9IGZyb20gJycK</text>
+        <text encoding="base64">aWYgKGNsaSkgewogIC8vIOWmguaenOWcqFRyaWRlbnTpobnnm67lhoXvvIzmiYDmnInlkb3ku6TnlLFsb2NhbC1jbGnmjqXnrqEKICBjbGkucnVuKHBhdGgucmVzb2x2ZShvcHRpb25zLm5hbWUgfHwgJy4nKSkKfSBlbHNlIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuLi5nbG9iYWxDR0kK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ0dJIGFzIGdsb2JhbENHSSB9IGZyb20gJ2FwcHMvd2ViYW5rUHJvL2FwaScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IHtOb3RpZnlIZWxwZXJ9IGZyb20gJ2FwcHMvd2ViYW5rUHJvL3NlcnZpY2VIZWxwZXInCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgV2VBcGkgfSBmcm9tICdhcHBzL3dlYmFua1Byby9hcGknCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -370,6 +377,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
