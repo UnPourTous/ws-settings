@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" timestamp="1558597923710">
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" timestamp="1558599057120">
         <mark key="'" line="327" column="22" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="333" column="0" />
-        <mark key="." line="333" column="0" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
         <mark key="^" line="335" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" timestamp="1557991244903">
@@ -252,7 +252,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
       </register>
       <register name="-" type="4">
         <text>item</text>
@@ -264,31 +264,31 @@
         <text>te</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogOTk5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlcmVkLnB1c2goaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogOTk5LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBQb3B1cFN0dWIuYWRkUG9wdXAoPFRvYXN0IG1zZz17J3Rlc3QgbWVzc2FnZSAyJ30gLz4sIHsKICAgICAgbWFzazogZmFsc2UsCiAgICAgIGVuYWJsZUNsaWNrVGhyb3VnaDogdHJ1ZSwKICAgICAgcG9zaXRpb246ICdjZW50ZXInLAogICAgICB6SW5kZXg6IDUwMCwKICAgICAgZGVsYXk6IDAsCiAgICAgIGR1cmF0aW9uOiAxMDAwLAogICAgICBhbmltYXRpb246ICdmYWRlSW4nLAogICAgICBlYXNpbmc6ICdlYXNlJwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbmRlcmVkLnB1c2goaXRlbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpZHRoOiAxMDAsCiAgICAgICAgICBoZWlnaHQ6IDEwMCwK</text>
+        <text encoding="base64">CiAgICBQb3B1cFN0dWIuYWRkUG9wdXAoPFRvYXN0IG1zZz17J3Rlc3QgbWVzc2FnZSAyJ30gLz4sIHsKICAgICAgbWFzazogZmFsc2UsCiAgICAgIGVuYWJsZUNsaWNrVGhyb3VnaDogdHJ1ZSwKICAgICAgcG9zaXRpb246ICdjZW50ZXInLAogICAgICB6SW5kZXg6IDUwMCwKICAgICAgZGVsYXk6IDAsCiAgICAgIGR1cmF0aW9uOiAxMDAwLAogICAgICBhbmltYXRpb246ICdmYWRlSW4nLAogICAgICBlYXNpbmc6ICdlYXNlJwogICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
