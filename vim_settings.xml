@@ -10,39 +10,15 @@
         <mark key="." line="208" column="0" />
         <mark key="^" line="335" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/index.ios.js" timestamp="1558612813765" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/plugin/add.js" timestamp="1557991244903">
         <mark key="[" line="13" column="40" />
         <mark key="]" line="13" column="40" />
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" timestamp="1557903116930">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/TridentApp.js" timestamp="1557903319611">
-        <mark key="'" line="61" column="13" />
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="12" />
-        <mark key="." line="61" column="12" />
-        <mark key="^" line="61" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/node_modules/@unpourtous/react-native-popup-stub/util/animatedPopup.js" timestamp="1558582938024" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/testd/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1558101976812">
-        <mark key="'" line="33" column="21" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="46" />
-        <mark key="^" line="9" column="46" />
-        <mark key="." line="9" column="46" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/src/main/AndroidManifest.xml" timestamp="1557979920010">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/ExpDetail/ExpStarManager.js" timestamp="1558613652673" />
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/index.js" timestamp="1558582339215" />
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/components/Toast.js" timestamp="1558585965618">
         <mark key="'" line="19" column="19" />
@@ -63,39 +39,25 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/index.js" timestamp="1558003217363">
-        <mark key="'" line="77" column="10" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="49" column="23" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/Login/UserLogin.js" timestamp="1558612959629" />
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/index.js" timestamp="1558595890326">
         <mark key="[" line="0" column="34" />
         <mark key="]" line="0" column="34" />
         <mark key="^" line="0" column="34" />
         <mark key="." line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1558101805578">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1558612024425">
         <mark key="'" line="177" column="30" />
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/node_modules/@unpourtous/react-native-popup-stub/package.json" timestamp="1558582995420" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/gen/index.js" timestamp="1557906054285">
-        <mark key="'" line="114" column="14" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="22" />
-        <mark key="." line="92" column="22" />
-        <mark key="^" line="22" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-navigation/src/navigators/StackNavigator.js" timestamp="1557825623152">
-        <mark key="[" line="44" column="8" />
-        <mark key="]" line="44" column="7" />
-        <mark key="^" line="44" column="7" />
-        <mark key="." line="44" column="7" />
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/DataRepository/DataRepository.js" timestamp="1558613635769">
+        <mark key="[" line="200" column="7" />
+        <mark key="]" line="200" column="6" />
+        <mark key="." line="200" column="6" />
+        <mark key="^" line="200" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/entry.js" timestamp="1558599156362">
         <mark key="'" line="42" column="9" />
@@ -104,47 +66,48 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/navigation/AppNavigator.js" timestamp="1558101195742">
-        <mark key="'" line="329" column="8" />
-        <mark key="[" line="454" column="3" />
-        <mark key="]" line="454" column="2" />
-        <mark key="." line="454" column="2" />
-        <mark key="^" line="454" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1558099404051">
-        <mark key="'" line="78" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/library/URLUtils.js" timestamp="1557828648585">
-        <mark key="'" line="3" column="6" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoService.js" timestamp="1557925943154">
         <mark key="[" line="3" column="1" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/Welcome/PopupDemo.js" timestamp="1558582492780">
-        <mark key="'" line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
-        <mark key="'" line="3" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1557901688101">
-        <mark key="'" line="19" column="35" />
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/development/Development.md" timestamp="1557907337124">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="58" />
         <mark key="." line="20" column="58" />
         <mark key="^" line="20" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/ExpDetail/ProductScreen.js" timestamp="1558613170097" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/container/AppContainer.js" timestamp="1557903116930">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="4" column="8" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/android/app/src/main/AndroidManifest.xml" timestamp="1557979920010">
+        <mark key="[" line="27" column="38" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/Login/UserManager.js" timestamp="1558613012862" />
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/node_modules/@unpourtous/react-native-popup-stub/package.json" timestamp="1558582995420" />
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/MainScreen.ios.js" timestamp="1558612541008" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react-navigation/src/navigators/StackNavigator.js" timestamp="1557825623152">
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="7" />
+        <mark key="^" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/components/PopUpDialog.js" timestamp="1558612394061">
+        <mark key="." line="75" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/Welcome/PopupDemo.js" timestamp="1558582492780">
+        <mark key="'" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
+        <mark key="'" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub.js" timestamp="1558599372948" />
     </filemarks>
@@ -252,7 +215,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="-" type="4">
         <text>item</text>
@@ -264,31 +227,31 @@
         <text>te</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogOTk5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlcmVkLnB1c2goaXRlbSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogOTk5LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBQb3B1cFN0dWIuYWRkUG9wdXAoPFRvYXN0IG1zZz17J3Rlc3QgbWVzc2FnZSAyJ30gLz4sIHsKICAgICAgbWFzazogZmFsc2UsCiAgICAgIGVuYWJsZUNsaWNrVGhyb3VnaDogdHJ1ZSwKICAgICAgcG9zaXRpb246ICdjZW50ZXInLAogICAgICB6SW5kZXg6IDUwMCwKICAgICAgZGVsYXk6IDAsCiAgICAgIGR1cmF0aW9uOiAxMDAwLAogICAgICBhbmltYXRpb246ICdmYWRlSW4nLAogICAgICBlYXNpbmc6ICdlYXNlJwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbmRlcmVkLnB1c2goaXRlbSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
