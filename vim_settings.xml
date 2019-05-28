@@ -67,12 +67,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" timestamp="1559050102891">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" timestamp="1559050851573">
         <mark key="'" line="39" column="7" />
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="43" />
+        <mark key="[" line="44" column="37" />
+        <mark key="]" line="44" column="36" />
+        <mark key="." line="44" column="36" />
+        <mark key="^" line="44" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/ExpDetail/ProductScreen.js" timestamp="1558613170097" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559049969055">
@@ -116,11 +116,11 @@
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
         <mark key="'" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559049249710">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559050877948">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub.js" timestamp="1558599372948" />
     </filemarks>
@@ -227,11 +227,11 @@
       <jump line="10" column="37" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICDmo4Dmn6VjYWNoZQo=</text>
+      <register name="&quot;" type="4">
+        <text>AxiosInstance</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>AxiosInstance</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2NrQWRhdHBlclw+</text>
