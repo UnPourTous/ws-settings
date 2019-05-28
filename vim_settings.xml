@@ -109,6 +109,12 @@
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
         <mark key="'" line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559028602759">
+        <mark key="'" line="35" column="35" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub.js" timestamp="1558599372948" />
     </filemarks>
     <jumps>
@@ -215,7 +221,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>item</text>
@@ -223,35 +229,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxpdGVtXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>te</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGltZW91dDogNTAwMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
+        <text encoding="base64">ICAgIGluc3RhbmNlLmdldCgnL2xvbmdSZXF1ZXN0JywgewogICAgICB0aW1lb3V0OiA1MDAwCiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAvLyBXZSBjYW4ndCB1c2UgcG9zaXRpb24tekluZGV4IGhlcmUgdG8gaWRlbnRpZnkgdGhlIGxheWVyLAogICAgICAvLyBjYXVzZSBpdCBoYXMgY29tcGF0aWJsZSBwcm9ibGVtIGluIGFuZHJvaWQgZGV2aWNlcywKICAgICAgLy8gc28gc29ydCBieSBoYW5kLgogICAgICBwb3B1cHM6IHBvcHVwcwogICAgfSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZsZXg6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ2JsdWUnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHpJbmRleDogOTk5LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlcmVkLnB1c2goaXRlbSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
