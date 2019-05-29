@@ -20,8 +20,12 @@
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/node_modules/@unpourtous/react-native-popup-stub/util/animatedPopup.js" timestamp="1558582938024" />
       <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/ExpDetail/ExpStarManager.js" timestamp="1558613652673" />
-      <file name="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-05/WeApi.js" timestamp="1559049367053">
+      <file name="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-05/WeApi.js" timestamp="1559096763092">
         <mark key="'" line="436" column="2" />
+        <mark key="[" line="565" column="5" />
+        <mark key="]" line="566" column="3" />
+        <mark key="^" line="566" column="3" />
+        <mark key="." line="566" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/index.js" timestamp="1558582339215" />
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/components/Toast.js" timestamp="1558585965618">
@@ -38,12 +42,12 @@
         <mark key="^" line="18" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/Login/UserLogin.js" timestamp="1558612959629" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" timestamp="1559045530942">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" timestamp="1559096689643">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="25" column="34" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1558612024425">
         <mark key="'" line="177" column="30" />
@@ -67,19 +71,19 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" timestamp="1559050851573">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" timestamp="1559096517388">
         <mark key="'" line="39" column="7" />
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="44" column="36" />
-        <mark key="." line="44" column="36" />
-        <mark key="^" line="44" column="36" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/ExpDetail/ProductScreen.js" timestamp="1558613170097" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559049969055">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559096554405">
         <mark key="'" line="10" column="37" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/Login/UserManager.js" timestamp="1558613012862" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/DebugLogInterceptor.js" timestamp="1559039554552">
@@ -116,16 +120,16 @@
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
         <mark key="'" line="3" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559050877948">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559096378056">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub.js" timestamp="1558599372948" />
     </filemarks>
     <jumps>
-      <jump line="184" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="58" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
       <jump line="194" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" />
@@ -225,46 +229,47 @@
       <jump line="3" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
       <jump line="39" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
       <jump line="10" column="37" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AxiosInstance</text>
+        <text>_.cloneDeep(</text>
       </register>
       <register name="-" type="4">
-        <text>AxiosInstance</text>
+        <text>_.cloneDeep(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2NrQWRhdHBlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>result</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UHJlSG9vaygpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICDmo4Dmn6VjYWNoZQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8g6L+Z6YeM5aSE55CG57yT5a2Y57yT5a2YCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbbW9ja0FkYXB0ZXIsIGNhY2hlQWRhcHRlcl0uZm9yRWFjaChhc3luYyBpdGVtID0+IHsKICAgICAgICAgIGNvbnN0IG1vY2tSZXN1bHQgPSBhd2FpdCBpdGVtKCkKICAgICAgICAgIGlmIChfLmlzUHJvbWlzZShtb2NrUmVzdWx0KSkgewoKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGF3YWl0IGNhY2hlQWRhcHRlcigpCiAgICAgICAgICB9CiAgICAgICAgfSkK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjYWNoZUFkYXB0ZXIK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgewoKICAgICAgICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UHJlSG9vaygpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UHJlSG9vaygpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0UHJlSG9vaygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZECg==</text>
+        <text encoding="base64">ICDmo4Dmn6VjYWNoZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFkYXB0ZXJDaGFpbltrZXlde30K</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8g6L+Z6YeM5aSE55CG57yT5a2Y57yT5a2YCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBbbW9ja0FkYXB0ZXIsIGNhY2hlQWRhcHRlcl0uZm9yRWFjaChhc3luYyBpdGVtID0+IHsKICAgICAgICAgIGNvbnN0IG1vY2tSZXN1bHQgPSBhd2FpdCBpdGVtKCkKICAgICAgICAgIGlmIChfLmlzUHJvbWlzZShtb2NrUmVzdWx0KSkgewoKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGF3YWl0IGNhY2hlQWRhcHRlcigpCiAgICAgICAgICB9CiAgICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
