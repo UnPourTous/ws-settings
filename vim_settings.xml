@@ -10,7 +10,7 @@
         <mark key="." line="208" column="0" />
         <mark key="^" line="335" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" timestamp="1559118017219">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" timestamp="1559207800397">
         <mark key="'" line="14" column="16" />
         <mark key="w" line="5" column="9" />
         <mark key="[" line="41" column="4" />
@@ -63,11 +63,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" timestamp="1559202074655">
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" timestamp="1559208183300">
         <mark key="'" line="32" column="28" />
-        <mark key="[" line="22" column="16" />
-        <mark key="]" line="22" column="21" />
-        <mark key="." line="22" column="21" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosMocker.js" timestamp="1559183679307">
@@ -125,12 +125,12 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="86" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" timestamp="1559115523629">
-        <mark key="'" line="65" column="7" />
-        <mark key="[" line="90" column="75" />
-        <mark key="]" line="90" column="79" />
-        <mark key="." line="90" column="79" />
-        <mark key="^" line="90" column="79" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" timestamp="1559208103241">
+        <mark key="'" line="76" column="29" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="26" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" timestamp="1559100998276">
         <mark key="[" line="89" column="17" />
@@ -165,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="11" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
       <jump line="192" column="28" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
       <jump line="195" column="4" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
       <jump line="293" column="37" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
@@ -265,13 +264,14 @@
       <jump line="36" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="26" column="33" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="32" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
+      <jump line="80" column="29" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
@@ -280,31 +280,31 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocnNwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzOiBlcnJvci5zdGF0dXMsCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29uZmlnLnJlc3BvbnNlKQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgbGFzdEN1cnNvcjogJycsCiAgICAvLyAgIHBhZ2VTaXplOiAyMAo=</text>
+        <text encoding="base64">ICAgICAgLy8gYCVjWyR7Y29uZmlnLmRlc2N9XSgke2NvbmZpZy5fcmVxSWR9KSBSZXNwb25zZTogU3RhdHVzQ29kZTogJHtyZXNwb25zZS5zdGF0dXN9OyBUaW1lOiAkeyhuZXcgRGF0ZSgpLmdldFRpbWUoKSAtIGNvbmZpZy5fc3RhcnRUaW1lKX1tcztgLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFzZVVSTDogJ2h0dHBzOi8vYXBpLnJlYWRodWIuc3Nzbi8nLAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGVHcm91cCgubCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICBhc3luYyAocmVxKSA9PiB7CiAgICAgIC8vICAgLy8gQXQgdGhpcyBwb2ludDoKICAgICAgLy8gICAvLyAgLSBjb25maWcgaGFzIGJlZW4gbWVyZ2VkIHdpdGggZGVmYXVsdHMKICAgICAgLy8gICAvLyAgLSByZXF1ZXN0IHRyYW5zZm9ybWVycyBoYXZlIGFscmVhZHkgcnVuCiAgICAgIC8vICAgLy8gIC0gcmVxdWVzdCBpbnRlcmNlcHRvcnMgaGF2ZSBhbHJlYWR5IHJ1bgogICAgICAvLyAgIC8vIHJldHVybiBheGlvcy5kZWZhdWx0cy5hZGFwdGVyKHJlcSkKICAgICAgLy8KICAgICAgLy8gICBjb25zdCBhZGFwdGVyQ2hhaW4gPSBbbW9ja0FkYXB0ZXIsIGNhY2hlQWRhcHRlciwgYXhpb3MuZGVmYXVsdHMuYWRhcHRlcl0KICAgICAgLy8gICBsZXQgaW5kZXggPSAwCiAgICAgIC8vCiAgICAgIC8vICAgZnVuY3Rpb24gbmV4dCgpIHsKICAgICAgLy8KICAgICAgLy8gICB9CiAgICAgIC8vCiAgICAgIC8vICAgZm9yIChsZXQga2V5IG9mIFttb2NrQWRhcHRlciwgY2FjaGVBZGFwdGVyXSkgewogICAgICAvLyAgICAgY29uc3QgcmVzdWx0ID0gYXdhaXQgYWRhcHRlckNoYWluW2tleV0oY29uZmlnKQogICAgICAvLyAgICAgaWYgKF8uaXNQcm9taXNlKHJlc3VsdCkpIHsKICAgICAgLy8gICAgICAgcmV0dXJuIHJlc3VsdAogICAgICAvLyAgICAgfQogICAgICAvLyAgIH0KICAgICAgLy8KICAgICAgLy8gICAvLyBGcm9tIGhlcmU6CiAgICAgIC8vICAgLy8gIC0gcmVzcG9uc2UgdHJhbnNmb3JtZXJzIHdpbGwgcnVuCiAgICAgIC8vICAgLy8gIC0gcmVzcG9uc2UgaW50ZXJjZXB0b3JzIHdpbGwgcnVuCiAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgc3RhdHVzOiBlcnJvci5zdGF0dXMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV0d29ya0Vycm9yCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
