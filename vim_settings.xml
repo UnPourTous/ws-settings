@@ -10,6 +10,13 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="12" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/cgi/CGI.js" timestamp="1559287422967">
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" timestamp="1558599057120">
         <mark key="'" line="327" column="22" />
         <mark key="[" line="208" column="0" />
@@ -36,6 +43,12 @@
         <mark key="]" line="21" column="13" />
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559287343890">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-05/WeApi.js" timestamp="1559114163183">
         <mark key="'" line="352" column="2" />
@@ -172,9 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="327" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
-      <jump line="102" column="29" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/axios/index.d.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
       <jump line="8" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
       <jump line="3" column="13" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosInstance.js" />
@@ -272,61 +282,63 @@
       <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
       <jump line="15" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
       <jump line="2" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
+      <jump line="15" column="75" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/DemoScene/DemoScene.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/cgi/CGI.js" />
+      <jump line="7" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/cgi/CGI.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUG9wdXBTdHViIH0gZnJvbSAnQHVucG91cnRvdXMvcmVhY3QtbmF0aXZlLXBvcHVwLXN0dWInCg==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwb25zZVw+</text>
+        <text encoding="base64">XDxQcmVEZWZpbmVkQW5pbWF0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB3bnBtOiB7CiAgICBucG1faW5zdGFsbF94eHg6ICd3bnBtIGluc3RhbGwgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3ducG0gaW5zdGFsbCAnCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3bnBtIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUG9wdXBTdHViIH0gZnJvbSAnQHVucG91cnRvdXMvcmVhY3QtbmF0aXZlLXBvcHVwLXN0dWInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBCSVoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGVudiA9IHt9Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyBCSVoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgKHByb2Nlc3MuZW52LmludGVybmFsKSB7Cn0gZWxzZSB7CiAgZW52ID0gewogICAgbnBtX2luc3RhbGxfeHh4OiAneWFybiBhZGQgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3lhcm4gJwogIH0KfQoKPSBlbnYK</text>
+        <text encoding="base64">aW1wb3J0IFByZURlZmluZWRBbmltYXRpb24gZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvdWlDb21wb25lbnQvcG9wdXAvUHJlRGVmaW5lZEFuaW1hdGlvbicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMK</text>
+        <text encoding="base64">aW1wb3J0IFByZURlZmluZWRBbmltYXRpb24gZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvdWlDb21wb25lbnQvcG9wdXAvUHJlRGVmaW5lZEFuaW1hdGlvbicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBjb25maWcgPSB7CiAgICB3bnBtOiB7CiAgICAgIG5wbV9pbnN0YWxsX3h4eDogJ3ducG0gaW5zdGFsbCAnLAogICAgICBucG1faW5zdGFsbF9hbGw6ICd3bnBtIGluc3RhbGwgJwogICAgfSwKICAgIG5wbTogewogICAgICBucG1faW5zdGFsbF94eHg6ICd5YXJuIGFkZCAnLAogICAgICBucG1faW5zdGFsbF9hbGw6ICd5YXJuICcKICAgIH0KICB9CgogIG5wbUNsaWVudENvbmZpZyA9IGNvbmZpZ1tucG1DbGllbnRdCg==</text>
+        <text encoding="base64">ICB3bnBtIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBucG1DbGllbnQK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">bGV0IGVudiA9IHt9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB3bnBtOiB7CiAgICBucG1faW5zdGFsbF94eHg6ICd3bnBtIGluc3RhbGwgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3ducG0gaW5zdGFsbCAnCiAgfQo=</text>
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52LmludGVybmFsKSB7Cn0gZWxzZSB7CiAgZW52ID0gewogICAgbnBtX2luc3RhbGxfeHh4OiAneWFybiBhZGQgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3lhcm4gJwogIH0KfQoKPSBlbnYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxQcmVEZWZpbmVkQW5pbWF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwb25zZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxQcmVEZWZpbmVkQW5pbWF0aW9uXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
         <entry encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</entry>
         <entry encoding="base64">XDxyblBhY2thZ2VcPg==</entry>
         <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
@@ -346,6 +358,7 @@
         <entry encoding="base64">XDxfZ2VuVXJsV2l0aFF1ZXJ5XD4=</entry>
         <entry encoding="base64">XDxjb2xvclw+</entry>
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxQcmVEZWZpbmVkQW5pbWF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
