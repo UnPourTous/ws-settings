@@ -41,11 +41,20 @@
         <mark key="^" line="840" column="117" />
         <mark key="." line="840" column="117" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" timestamp="1559296190261">
+        <mark key="'" line="196" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1559291257666">
         <mark key="[" line="20" column="46" />
         <mark key="]" line="20" column="51" />
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/RefreshWealthScenario.js" timestamp="1559296403408">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="8" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/utils/ignoreReject.js" timestamp="1559294359154">
         <mark key="[" line="1" column="23" />
@@ -106,6 +115,9 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/axios/index.d.ts" timestamp="1559032597815">
+        <mark key="'" line="102" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" timestamp="1559100998276">
         <mark key="[" line="89" column="17" />
         <mark key="]" line="89" column="22" />
@@ -117,6 +129,19 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" timestamp="1559296273248">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="189" column="62" />
+        <mark key="]" line="189" column="69" />
+        <mark key="^" line="189" column="69" />
+        <mark key="." line="189" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/ContainerService.js" timestamp="1559296258498">
+        <mark key="[" line="103" column="4" />
+        <mark key="]" line="103" column="3" />
+        <mark key="^" line="103" column="3" />
+        <mark key="." line="103" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559102875106">
         <mark key="[" line="16" column="9" />
@@ -136,10 +161,14 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/constants/ReportKeys.js" timestamp="1559296340176" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/network/AxiosAdapter.js" timestamp="1559290727184">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1558099404051">
+        <mark key="'" line="78" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/network/wrapLogInterceptor.js" timestamp="1559290734491">
         <mark key="[" line="20" column="0" />
@@ -153,11 +182,21 @@
         <mark key="^" line="89" column="17" />
         <mark key="." line="89" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react/cjs/react.development.js" timestamp="1559049199385">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" timestamp="1559101656410">
         <mark key="[" line="86" column="4" />
         <mark key="]" line="86" column="3" />
         <mark key="^" line="86" column="3" />
         <mark key="." line="86" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1559296641008">
+        <mark key="'" line="402" column="43" />
+        <mark key="[" line="402" column="14" />
+        <mark key="]" line="402" column="13" />
+        <mark key="^" line="402" column="13" />
+        <mark key="." line="402" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/ServerEnv.js" timestamp="1559294255614">
         <mark key="'" line="0" column="0" />
@@ -165,6 +204,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="13" column="21" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/Welcome/PopupDemo.js" timestamp="1558582492780">
+        <mark key="'" line="10" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
+        <mark key="'" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559115584109">
         <mark key="'" line="28" column="4" />
@@ -181,10 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/DebugLogInterceptor.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/DebugLogInterceptor.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/DebugLogInterceptor.js" />
-      <jump line="11" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
       <jump line="9" column="15" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
       <jump line="7" column="39" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
@@ -281,16 +322,20 @@
       <jump line="2" column="19" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/ServerEnv.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/ServerEnv.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/ServerEnv.js" />
+      <jump line="477" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" />
+      <jump line="196" column="38" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" />
+      <jump line="402" column="43" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+      <register name="&quot;" type="4">
+        <text>../../../../../</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>../../../../../</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zb2xlXD4=</text>
+        <text encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuZW52ID0ge30K</text>
@@ -327,16 +372,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zb2xlXD4=</last-search>
+      <last-search encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zb2xlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyblBhY2thZ2VcPg==</entry>
-        <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
         <entry encoding="base64">XDxzeW5jXD4=</entry>
         <entry encoding="base64">XDxQb3B1cFN0dWJcPg==</entry>
         <entry encoding="base64">XDx1dWlkVjFcPg==</entry>
@@ -355,6 +398,8 @@
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxQcmVEZWZpbmVkQW5pbWF0aW9uXD4=</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
+        <entry encoding="base64">XDxyZWZyZXNoVXNlcldlYWx0aFw+</entry>
+        <entry encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
