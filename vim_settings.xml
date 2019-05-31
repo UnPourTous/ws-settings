@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" timestamp="1559283732200">
+        <mark key="'" line="0" column="21" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="12" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" timestamp="1558599057120">
         <mark key="'" line="327" column="22" />
         <mark key="[" line="208" column="0" />
@@ -57,12 +64,6 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/DebugLogInterceptor.js" timestamp="1559039554552">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" timestamp="1559283372892">
         <mark key="'" line="32" column="28" />
         <mark key="[" line="27" column="0" />
@@ -90,6 +91,12 @@
         <mark key="]" line="13" column="35" />
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1559283697257">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/pugs-app/DataRepository/DataRepository.js" timestamp="1558613635769">
         <mark key="[" line="200" column="7" />
@@ -165,11 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="28" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
-      <jump line="195" column="4" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
-      <jump line="293" column="37" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
-      <jump line="91" column="28" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
-      <jump line="191" column="12" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
       <jump line="327" column="22" filename="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" />
       <jump line="102" column="29" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/axios/index.d.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
@@ -265,46 +267,51 @@
       <jump line="26" column="33" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="32" column="28" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="80" column="29" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" />
+      <jump line="3" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
+      <jump line="15" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
+      <jump line="2" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocnNwKQo=</text>
+        <text encoding="base64">ICB3bnBtOiB7CiAgICBucG1faW5zdGFsbF94eHg6ICd3bnBtIGluc3RhbGwgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3ducG0gaW5zdGFsbCAnCiAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3bnBtIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29uZmlnLnJlc3BvbnNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNvbmZpZykK</text>
+        <text encoding="base64">bGV0IGVudiA9IHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52LmludGVybmFsKSB7Cn0gZWxzZSB7CiAgZW52ID0gewogICAgbnBtX2luc3RhbGxfeHh4OiAneWFybiBhZGQgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3lhcm4gJwogIH0KfQoKPSBlbnYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gYCVjWyR7Y29uZmlnLmRlc2N9XSgke2NvbmZpZy5fcmVxSWR9KSBSZXNwb25zZTogU3RhdHVzQ29kZTogJHtyZXNwb25zZS5zdGF0dXN9OyBUaW1lOiAkeyhuZXcgRGF0ZSgpLmdldFRpbWUoKSAtIGNvbmZpZy5fc3RhcnRUaW1lKX1tcztgLAo=</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICBjb25zdCBjb25maWcgPSB7CiAgICB3bnBtOiB7CiAgICAgIG5wbV9pbnN0YWxsX3h4eDogJ3ducG0gaW5zdGFsbCAnLAogICAgICBucG1faW5zdGFsbF9hbGw6ICd3bnBtIGluc3RhbGwgJwogICAgfSwKICAgIG5wbTogewogICAgICBucG1faW5zdGFsbF94eHg6ICd5YXJuIGFkZCAnLAogICAgICBucG1faW5zdGFsbF9hbGw6ICd5YXJuICcKICAgIH0KICB9CgogIG5wbUNsaWVudENvbmZpZyA9IGNvbmZpZ1tucG1DbGllbnRdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVycm9yKQo=</text>
+        <text encoding="base64">ICBucG1DbGllbnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHVzOiBlcnJvci5zdGF0dXMsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3bnBtOiB7CiAgICBucG1faW5zdGFsbF94eHg6ICd3bnBtIGluc3RhbGwgJywKICAgIG5wbV9pbnN0YWxsX2FsbDogJ3ducG0gaW5zdGFsbCAnCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
