@@ -17,11 +17,19 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" timestamp="1558599057120">
+        <mark key="'" line="327" column="22" />
+        <mark key="[" line="208" column="0" />
+        <mark key="]" line="208" column="0" />
+        <mark key="." line="208" column="0" />
+        <mark key="^" line="335" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/container/AppContainer.js" timestamp="1559294485783">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/fastlane/Fastfile" timestamp="1559501401207" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/index.js" timestamp="1559102154152">
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="13" />
@@ -46,8 +54,18 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/actionsReducer.js" timestamp="1559296190261">
-        <mark key="'" line="196" column="38" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/index.js" timestamp="1559500173775">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
+        <mark key="^" line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/components/Toast.js" timestamp="1558585965618">
+        <mark key="'" line="19" column="19" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="^" line="19" column="19" />
+        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1559291257666">
         <mark key="[" line="20" column="46" />
@@ -67,6 +85,27 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" timestamp="1559096689643">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/about/VersionScene/VersionScene.js" timestamp="1559501058668">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" timestamp="1559501844258">
+        <mark key="'" line="292" column="8" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="292" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1559502213560" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/CGI.js" timestamp="1559293898556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -86,12 +125,19 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1559498101186">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="17" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1559501221593">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1558612024425">
+        <mark key="'" line="177" column="30" />
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1559283697257">
         <mark key="[" line="9" column="47" />
@@ -127,14 +173,24 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/axios/index.d.ts" timestamp="1559032597815">
-        <mark key="'" line="102" column="29" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" timestamp="1559208103241">
+        <mark key="'" line="76" column="29" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="26" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" timestamp="1559100998276">
         <mark key="[" line="89" column="17" />
         <mark key="]" line="89" column="22" />
         <mark key="^" line="89" column="22" />
         <mark key="." line="89" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1559502519715">
+        <mark key="[" line="11" column="28" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" timestamp="1559115653953">
         <mark key="[" line="14" column="18" />
@@ -155,18 +211,22 @@
         <mark key="^" line="103" column="3" />
         <mark key="." line="103" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/AxiosAdapter.js" timestamp="1559501247597" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559102875106">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="9" />
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" timestamp="1559498075626">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1559502046928">
+        <mark key="'" line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" timestamp="1559502160455">
+        <mark key="'" line="35" column="4" />
+        <mark key="[" line="28" column="18" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/BaseURL.js" timestamp="1559292713390">
         <mark key="[" line="0" column="0" />
@@ -175,6 +235,13 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/package.json" timestamp="1559288464768" />
+      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosInstance.js" timestamp="1559049096211">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="20" />
+        <mark key="^" line="41" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/core/container/AppContainer.js" timestamp="1559294491609">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -186,29 +253,24 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/local-cli/init/index.js" timestamp="1558099404051">
-        <mark key="'" line="78" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/network/wrapLogInterceptor.js" timestamp="1559290734491">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1559497092090">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="40" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="40" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1559501041573">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/axios/lib/core/Axios.js" timestamp="1559289702873" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1559290937076">
-        <mark key="[" line="89" column="19" />
-        <mark key="]" line="89" column="17" />
-        <mark key="^" line="89" column="17" />
-        <mark key="." line="89" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react/cjs/react.development.js" timestamp="1559049199385">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/development/Development.md" timestamp="1559501898234">
+        <mark key="'" line="21" column="10" />
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/@unpourtous/trident/library/WeBaseScene.js" timestamp="1559101656410">
         <mark key="[" line="86" column="4" />
@@ -231,12 +293,6 @@
         <mark key="^" line="13" column="21" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/Welcome/PopupDemo.js" timestamp="1558582492780">
-        <mark key="'" line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/util/createPopup.js" timestamp="1558595983503">
-        <mark key="'" line="3" column="7" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559115584109">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="26" column="22" />
@@ -252,17 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="12" column="49" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="20" column="19" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="57" column="65" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="58" column="48" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="29" column="109" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="32" column="15" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="81" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="78" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
-      <jump line="76" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" />
       <jump line="44" column="24" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosInstance.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/react/cjs/react.development.js" />
@@ -352,46 +397,57 @@
       <jump line="15" column="12" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" />
       <jump line="12" column="4" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="306" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" />
+      <jump line="8" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/development/Development.md" />
+      <jump line="291" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
+      <jump line="11" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
+      <jump line="99" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" />
+      <jump line="108" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(Mock数据)</text>
+        <text>../</text>
       </register>
       <register name="-" type="4">
-        <text>(Mock数据)</text>
+        <text>../</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFwcE5hdmlnYXRvci5ib29rLkJvb2tMaXN0U2NlbmUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2VuZXJhdGVSb3V0ZU5hbWUgfSBmcm9tICcuLi9uYXZpZ2F0aW9uL05hdmlnYXRpb25VdGlscycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Q6IHt9LAogICAgcmVzcG9uc2U6IFtdCg==</text>
+        <text encoding="base64">aW1wb3J0IFJORW52IGZyb20gJy4uLy4uL3V0aWxzLycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1vY2thYmxlOiB0cnVlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2VuZXJhdGVSb3V0ZU5hbWUgfSBmcm9tICcuLi9uYXZpZ2F0aW9uL05hdmlnYXRpb25VdGlscycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQXhpb3NNb2NrZXIuc3VjY2Vzcyh7fSksCiAgICAgIEF4aW9zTW9ja2VyLm5ldHdvcmtFcnJvcigpLAogICAgICBBeGlvc01vY2tlci50aW1lb3V0KCksCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgewogICAgICAgIG1vZHVsZU5hbWUsCiAgICAgICAgc2NlbmVOYW1lCiAgICAgIH0gPSB0aGlzLnByb3BzCiAgICAgIGNvbnN0IHRpdGxlID0gYFtjYWxsIHN0YWNrXSAke21vZHVsZU5hbWV9LSR7c2NlbmVOYW1lfS9zZXRTY2VuZVN0YXRlIOabtOaWsOWtl+aute+8miR7T2JqZWN0LmtleXMoc2NlbmVTdGF0ZSB8fCB7fSkuam9pbignLCAnKX1gCiAgICAgIGNvbnNvbGUuZ3JvdXBDb2xsYXBzZWQodGl0bGUpCiAgICAgIGNvbnNvbGUudHJhY2UoJ2NhbGwgc3RhY2snKQogICAgICBjb25zb2xlLmdyb3VwRW5kKCkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChSTkVudi5pc0RldigpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8V2VUb3VjaGFibGUgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgQXBwTmF2aWdhdG9yLmFib3V0LlZlcnNpb25TY2VuZSgpCiAgICAgICAgfX0+CiAgICAgICAgICA8VGV4dD5OYXZpZ2F0ZSB0byBWZXJzaW9uIEluZm88L1RleHQ+CiAgICAgICAgPC9XZVRvdWNoYWJsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2VUb3VjaGFibGUgfSBmcm9tICdAd2ViYW5rL3JlYWN0LW5hdGl2ZS10b3VjaGFibGUnCg==</text>
+        <text encoding="base64">CiAgLy8gaGFuZGxlQXBwU3RhdGVDaGFuZ2UgKG5leHRBcHBTdGF0ZSkgewogIC8vICAgaWYgKEFwcFN0YXRlLmN1cnJlbnRTdGF0ZSAmJiBBcHBTdGF0ZS5jdXJyZW50U3RhdGUubWF0Y2goL2luYWN0aXZlfGJhY2tncm91bmQvKSAmJiBuZXh0QXBwU3RhdGUgPT09ICdhY3RpdmUnKSB7CiAgLy8gICAgIHRoaXMuc3RheVN0YXJ0VGltZSA9IG1vbWVudCgpCiAgLy8gICB9IGVsc2UgaWYgKEFwcFN0YXRlLmN1cnJlbnRTdGF0ZSAmJiBBcHBTdGF0ZS5jdXJyZW50U3RhdGUubWF0Y2goL2luYWN0aXZlfGFjdGl2ZS8pICYmIG5leHRBcHBTdGF0ZSA9PT0gJ2JhY2tncm91bmQnKSB7CiAgLy8gICAgIHRoaXMuc3RheUVuZFRpbWUgPSBtb21lbnQoKQogIC8vICAgICBpZiAoQXBwTmF2aWdhdG9yLmN1cnJlbnRTY2VuZSAmJiB0aGlzLnNjZW5lVXJsID09PSBBcHBOYXZpZ2F0b3IuY3VycmVudFNjZW5lVVJMKSB7CiAgLy8gICAgICAgaWYgKHRoaXMuc3RheVN0YXJ0VGltZSkgewogIC8vICAgICAgICAgLy8gVE9ETyDpobXpnaLlgZznlZnml7bplb/kuIrmiqUKICAvLyAgICAgICAgIFN0YXRpc3RpY3MucmVwb3J0U2NlbmVTdGF5VGltZSh0aGlzLnN0YXlTdGFydFRpbWUsIHRoaXMuc3RheUVuZFRpbWUsIHRoaXMuc2NlbmVVcmwsICdob21lJykKICAvLyAgICAgICB9CiAgLy8gICAgIH0KICAvLyAgIH0KICAvLyB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVybCkK</text>
+        <text encoding="base64">6aaW5YWI56Gu5L+d5bey57uP5a6J6KOF5LqGbnBt44CCCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
