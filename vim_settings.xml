@@ -86,12 +86,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1559497249899">
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1559498101186">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="2" />
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1559283697257">
         <mark key="[" line="9" column="47" />
@@ -161,12 +161,12 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" timestamp="1559495136035">
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" timestamp="1559498075626">
         <mark key="'" line="15" column="12" />
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="22" column="31" />
-        <mark key="^" line="22" column="31" />
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/BaseURL.js" timestamp="1559292713390">
         <mark key="[" line="0" column="0" />
@@ -354,11 +354,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Q6IHt9LAogICAgcmVzcG9uc2U6IFtdCg==</text>
+      <register name="&quot;" type="4">
+        <text>(Mock数据)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(Mock数据)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</text>
