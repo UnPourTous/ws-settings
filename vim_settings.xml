@@ -94,9 +94,7 @@
         <mark key="." line="11" column="32" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" timestamp="1559534358401">
-        <mark key="[" line="387" column="27" />
-      </file>
+      <file name="$USER_HOME$/Projects/webank-MINA/package.json" timestamp="1559551689759" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" timestamp="1559547054874">
         <mark key="[" line="32" column="2" />
         <mark key="]" line="32" column="1" />
@@ -104,9 +102,6 @@
         <mark key="." line="32" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/AxiosAdapter.js" timestamp="1559501247597" />
-      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/webview/webview.js" timestamp="1559533246096">
-        <mark key="[" line="32" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/JumpToModuleService.js" timestamp="1559534935552" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" timestamp="1559545207587">
         <mark key="'" line="35" column="4" />
@@ -114,6 +109,9 @@
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" timestamp="1559551762009">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeSnapShotShare.js" timestamp="1559532736377" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/BaseURL.js" timestamp="1559292713390">
@@ -123,6 +121,7 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/APIClient.js" timestamp="1559545117170" />
+      <file name="$USER_HOME$/Projects/webank-MINA/gulpfile.babel.js" timestamp="1559551720240" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/gulpfile.js" timestamp="1559547809521" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/constants/ReportKeys.js" timestamp="1559296340176" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1559545183131">
@@ -232,6 +231,7 @@
         <mark key="^" line="189" column="69" />
         <mark key="." line="189" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/webank-MINA/mina.sublime-project" timestamp="1559551769984" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/ContainerService.js" timestamp="1559465623153">
         <mark key="[" line="103" column="4" />
         <mark key="]" line="103" column="3" />
@@ -252,7 +252,7 @@
         <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/package.json" timestamp="1559288464768" />
-      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" timestamp="1559533282447">
+      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" timestamp="1559551577438">
         <mark key="'" line="176" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelSharePopup.js" timestamp="1559531171457">
@@ -300,9 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosMocker.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
-      <jump line="22" column="5" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
       <jump line="18" column="18" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
       <jump line="10" column="20" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
       <jump line="14" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
@@ -400,6 +397,9 @@
       <jump line="40" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="1" column="23" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="12" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
