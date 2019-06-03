@@ -17,13 +17,6 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/lib/PopupStub2.js" timestamp="1558599057120">
-        <mark key="'" line="327" column="22" />
-        <mark key="[" line="208" column="0" />
-        <mark key="]" line="208" column="0" />
-        <mark key="." line="208" column="0" />
-        <mark key="^" line="335" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/fastlane/Fastfile" timestamp="1559501401207" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/index.js" timestamp="1559102154152">
         <mark key="[" line="21" column="14" />
@@ -50,18 +43,12 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelShare.js" timestamp="1559531904553">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelShare.js" timestamp="1559532841280">
+        <mark key="'" line="419" column="37" />
         <mark key="[" line="174" column="7" />
         <mark key="]" line="175" column="26" />
         <mark key="^" line="175" column="26" />
         <mark key="." line="175" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/react-native-popup-stub/example/storybook/stories/components/Toast.js" timestamp="1558585965618">
-        <mark key="'" line="19" column="19" />
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="19" column="13" />
-        <mark key="^" line="19" column="19" />
-        <mark key="." line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1559291257666">
         <mark key="[" line="20" column="46" />
@@ -80,13 +67,6 @@
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapDebugLogInterceptor.js" timestamp="1559096689643">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="27" column="34" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/about/VersionScene/VersionScene.js" timestamp="1559501058668">
         <mark key="[" line="7" column="21" />
@@ -123,12 +103,11 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/global-cli/index.js" timestamp="1558612024425">
-        <mark key="'" line="177" column="30" />
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="13" column="35" />
-        <mark key="^" line="13" column="35" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/DepositAssetService.js" timestamp="1559534155222">
+        <mark key="[" line="125" column="52" />
+        <mark key="]" line="114" column="12" />
+        <mark key="^" line="114" column="12" />
+        <mark key="." line="114" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1559283697257">
         <mark key="[" line="9" column="47" />
@@ -164,13 +143,7 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" timestamp="1559208103241">
-        <mark key="'" line="76" column="29" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="71" column="26" />
-        <mark key="." line="71" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/register/RegisterHomeScene/RegisterHomeScene.js" timestamp="1559533092085" />
       <file name="$USER_HOME$/Projects/UnPourTous/soga/library/WeBaseScene.js" timestamp="1559100998276">
         <mark key="[" line="89" column="17" />
         <mark key="]" line="89" column="22" />
@@ -196,6 +169,9 @@
         <mark key="^" line="189" column="69" />
         <mark key="." line="189" column="69" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" timestamp="1559534358401">
+        <mark key="[" line="387" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/ContainerService.js" timestamp="1559465623153">
         <mark key="[" line="103" column="4" />
         <mark key="]" line="103" column="3" />
@@ -203,6 +179,9 @@
         <mark key="." line="103" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/AxiosAdapter.js" timestamp="1559501247597" />
+      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/webview/webview.js" timestamp="1559533246096">
+        <mark key="[" line="32" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559102875106">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="9" />
@@ -219,6 +198,7 @@
         <mark key="." line="28" column="19" />
         <mark key="^" line="28" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeSnapShotShare.js" timestamp="1559532736377" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/BaseURL.js" timestamp="1559292713390">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -226,12 +206,8 @@
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/package.json" timestamp="1559288464768" />
-      <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosInstance.js" timestamp="1559049096211">
-        <mark key="'" line="44" column="24" />
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="20" />
-        <mark key="^" line="41" column="20" />
+      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" timestamp="1559533282447">
+        <mark key="'" line="176" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/constants/ReportKeys.js" timestamp="1559296340176" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelSharePopup.js" timestamp="1559531171457">
@@ -266,7 +242,7 @@
         <mark key="^" line="86" column="3" />
         <mark key="." line="86" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1559296641008">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1559534473627">
         <mark key="'" line="402" column="43" />
         <mark key="[" line="402" column="14" />
         <mark key="]" line="402" column="13" />
@@ -274,13 +250,6 @@
         <mark key="." line="402" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/uiComponent/popup/Dialog.js" timestamp="1559494845629" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/cgi/ServerEnv.js" timestamp="1559497204714">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="13" column="21" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559115584109">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="26" column="22" />
@@ -288,7 +257,7 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1559529785019">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1559532995813">
         <mark key="'" line="156" column="40" />
         <mark key="[" line="251" column="0" />
         <mark key="]" line="251" column="0" />
@@ -302,16 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
-      <jump line="74" column="29" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
-      <jump line="9" column="14" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
-      <jump line="487" column="9" filename="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-05/WeApi.js" />
-      <jump line="436" column="2" filename="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-05/WeApi.js" />
-      <jump line="53" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
-      <jump line="24" column="9" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
       <jump line="39" column="7" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIClient.js" />
       <jump line="10" column="37" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" />
       <jump line="30" column="4" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" />
@@ -402,6 +361,16 @@
       <jump line="63" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" />
       <jump line="155" column="40" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" />
       <jump line="156" column="40" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" />
+      <jump line="419" column="37" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelShare.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="39" column="7" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="113" column="9" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="118" column="22" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="120" column="13" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="127" column="11" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="174" column="11" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
+      <jump line="176" column="11" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -411,7 +380,7 @@
         <text>../</text>
       </register>
       <register name="/" type="4">
-        <text>hare</text>
+        <text>set</text>
       </register>
       <register name="0" type="4">
         <text>requestProdInfo</text>
@@ -448,15 +417,14 @@
       </register>
     </registers>
     <search>
-      <last-search>hare</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>hare</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQb3B1cFN0dWJcPg==</entry>
         <entry encoding="base64">XDx1dWlkVjFcPg==</entry>
         <entry encoding="base64">XDxwcm9wc1w+</entry>
         <entry encoding="base64">XDxUb2FzdFw+</entry>
@@ -476,6 +444,7 @@
         <entry encoding="base64">XDxyZWZyZXNoVXNlcldlYWx0aFw+</entry>
         <entry encoding="base64">XDxSZWZyZXNoV2VhbHRoU2NlbmFyaW9cPg==</entry>
         <entry>hare</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
