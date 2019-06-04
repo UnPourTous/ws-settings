@@ -244,12 +244,12 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1559618696125">
-        <mark key="'" line="18" column="56" />
-        <mark key="[" line="290" column="0" />
-        <mark key="]" line="290" column="0" />
-        <mark key="." line="290" column="0" />
-        <mark key="^" line="290" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1559620321240">
+        <mark key="'" line="37" column="56" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/package.json" timestamp="1559288464768" />
       <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" timestamp="1559551577438">
@@ -284,12 +284,12 @@
         <mark key="^" line="403" column="13" />
         <mark key="." line="403" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1559619079267">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1559620228795">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="34" column="11" />
-        <mark key="]" line="34" column="14" />
-        <mark key="^" line="34" column="14" />
-        <mark key="." line="34" column="14" />
+        <mark key="[" line="32" column="5" />
+        <mark key="]" line="32" column="5" />
+        <mark key="^" line="32" column="5" />
+        <mark key="." line="32" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559115584109">
         <mark key="'" line="28" column="4" />
@@ -402,8 +402,8 @@
       <jump line="18" column="56" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
@@ -418,28 +418,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5Zyo5byA5aeL5LmL5YmN5Li65LqG6YG/5YWN5ZCE56eN572R57uc6Zeu6aKY77yM6KGM5YaF55So5oi35Y+v5Lul5aaC5LiL6YWN572u5Luj55CG77yM5bm25LiU5L2/55SoT2ZmaWNlLVdpRmnjgIIKMS4g5ZyoYH4vLm5wbXJjYOS4remFjee9ruS7o+eQhgpgYGAKcHJveHkgPSBodHRwOi8vcHJveHkud2ViYW5rLmNvbTo4MDgwCm5vcHJveHkgPSB3bnBtLndlb2EuY29tLDEwLjEwNy4xMDMuMTE1CmBgYAoyLiDlnKhgfi8uZ2l0Y29uZmlnYOS4remFjee9ruS7o+eQhgpgYGAKW2h0dHBdCnByb3h5ID0gaHR0cDovL3Byb3h5LndlYmFuay5jb206ODA4MApzc2x2ZXJpZnkgPSBmYWxzZQpbaHR0cHNdCnByb3h5ID0gaHR0cDovL3Byb3h5LndlYmFuay5jb206ODA4MApzc2x2ZXJpZnkgPSBmYWxzZQpbdXJsICJodHRwOi8vZ2l0aHViLmNvbS8iXQppbnN0ZWFkT2YgPSBnaXQ6Ly9naXRodWIuY29tLwpgYGAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgMS4g6YWN572u5Luj55CGCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qge2NoZWNrLCBsb2dFcnJvcn0gPSByZXF1aXJlKCcuL2Vudi9pbmRleC5qcycpCmNvbnN0IGNoZWNrUmVzdWx0ID0gY2hlY2soKQppZiAoY2hlY2tSZXN1bHQubGVuZ3RoID4gMCkgewogIGxvZ0Vycm9yKGNoZWNrUmVzdWx0KQogIHJldHVybgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bG9nRXJyb3IoY2hlY2soKSkK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtjaGVjaywgbG9nRXJyb3J9ID0gcmVxdWlyZSgnLi9lbnYvaW5kZXguanMnKQogICAgbG9nRXJyb3IoY2hlY2soKSkK</text>
+        <text encoding="base64">Y29uc3Qge2NoZWNrLCBsb2dFcnJvcn0gPSByZXF1aXJlKCcuL2Vudi9pbmRleC5qcycpCmNvbnN0IGNoZWNrUmVzdWx0ID0gY2hlY2soKQppZiAoY2hlY2tSZXN1bHQubGVuZ3RoID4gMCkgewogIGxvZ0Vycm9yKGNoZWNrUmVzdWx0KQogIHJldHVybgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2xpUGF0aCkK</text>
+        <text encoding="base64">bG9nRXJyb3IoY2hlY2soKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
