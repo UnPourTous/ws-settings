@@ -132,8 +132,8 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/node_modules/axios/lib/core/Axios.js" timestamp="1559289702873" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/development/Development.md" timestamp="1559501898234">
-        <mark key="'" line="21" column="10" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/development/Development.md" timestamp="1559618540593">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="22" />
         <mark key="^" line="1" column="22" />
@@ -244,12 +244,12 @@
         <mark key="." line="16" column="9" />
         <mark key="^" line="16" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1559539160396">
-        <mark key="'" line="167" column="8" />
-        <mark key="[" line="11" column="9" />
-        <mark key="]" line="11" column="11" />
-        <mark key="^" line="11" column="11" />
-        <mark key="." line="11" column="11" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1559618696125">
+        <mark key="'" line="18" column="56" />
+        <mark key="[" line="290" column="0" />
+        <mark key="]" line="290" column="0" />
+        <mark key="." line="290" column="0" />
+        <mark key="^" line="290" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/package.json" timestamp="1559288464768" />
       <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" timestamp="1559551577438">
@@ -284,12 +284,12 @@
         <mark key="^" line="403" column="13" />
         <mark key="." line="403" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1559548035542">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1559619079267">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="7" />
-        <mark key="^" line="29" column="7" />
-        <mark key="." line="29" column="7" />
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="14" />
+        <mark key="^" line="34" column="14" />
+        <mark key="." line="34" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1559115584109">
         <mark key="'" line="28" column="4" />
@@ -300,9 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="18" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
-      <jump line="10" column="20" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
-      <jump line="14" column="16" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/APIConfig.js" />
       <jump line="67" column="10" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" />
       <jump line="68" column="6" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" />
       <jump line="71" column="58" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/wrapLogInterceptor.js" />
@@ -400,13 +397,16 @@
       <jump line="12" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/development/Development.md" />
+      <jump line="295" column="104" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
+      <jump line="18" column="56" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>check()</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFsa1w+</text>
@@ -418,28 +418,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qge2NoZWNrLCBsb2dFcnJvcn0gPSByZXF1aXJlKCcuL2Vudi9pbmRleC5qcycpCmNvbnN0IGNoZWNrUmVzdWx0ID0gY2hlY2soKQppZiAoY2hlY2tSZXN1bHQubGVuZ3RoID4gMCkgewogIGxvZ0Vycm9yKGNoZWNrUmVzdWx0KQogIHJldHVybgp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bG9nRXJyb3IoY2hlY2soKSkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3Qge2NoZWNrLCBsb2dFcnJvcn0gPSByZXF1aXJlKCcuL2Vudi9pbmRleC5qcycpCmNvbnN0IGNoZWNrUmVzdWx0ID0gY2hlY2soKQppZiAoY2hlY2tSZXN1bHQubGVuZ3RoID4gMCkgewogIGxvZ0Vycm9yKGNoZWNrUmVzdWx0KQogIHJldHVybgp9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">bG9nRXJyb3IoY2hlY2soKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHtjaGVjaywgbG9nRXJyb3J9ID0gcmVxdWlyZSgnLi9lbnYvaW5kZXguanMnKQogICAgbG9nRXJyb3IoY2hlY2soKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coY2xpUGF0aCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHtjaGVjaywgbG9nRXJyb3J9ID0gcmVxdWlyZSgnLi9lbnYvaW5kZXguanMnKQogICAgbG9nRXJyb3IoY2hlY2soKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgcHJvY2Vzcy5lbnYudXNlTG9jYWwpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coY2xpUGF0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
