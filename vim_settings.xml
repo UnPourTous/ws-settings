@@ -114,12 +114,16 @@
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/AxiosAdapter.js" timestamp="1559501247597" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/JumpToModuleService.js" timestamp="1559534935552" />
+      <file name="$USER_HOME$/Projects/webank_hj_op/src/gift_insurance/js/main.js" timestamp="1559826846719" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" timestamp="1559545207587">
         <mark key="'" line="35" column="4" />
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="30" />
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" timestamp="1559551762009">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeSnapShotShare.js" timestamp="1559532736377" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus7/Tplus7MyDetailScene/Tplus7MyDetailService.js" timestamp="1559622451994" />
@@ -176,6 +180,9 @@
         <mark key="]" line="7" column="35" />
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/env.js" timestamp="1559546623737">
+        <mark key="'" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus7/Tplus7PurchaseConfirmScene/Tplus7PurchaseConfirmService.js" timestamp="1559622243572" />
       <file name="$USER_HOME$/Projects/WeBookStore/fastlane/Fastfile" timestamp="1559501401207" />
@@ -254,6 +261,9 @@
         <mark key="^" line="103" column="3" />
         <mark key="." line="103" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/PurchaseResultScene/PurchaseResultScene.js" timestamp="1559826613834">
+        <mark key="'" line="268" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/cacheAdapter.js" timestamp="1559102875106">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="9" />
@@ -270,6 +280,9 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus7/Tplus7RedeemConfirmScene/actionsReducer.js" timestamp="1559622437013" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/package.json" timestamp="1559288464768" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/cgi/index.js" timestamp="1559621369597" />
+      <file name="$USER_HOME$/Projects/webank-MINA/webankDemo/pages/register/register1-1.js" timestamp="1559551577438">
+        <mark key="'" line="176" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelSharePopup.js" timestamp="1559531171457">
         <mark key="[" line="16" column="49" />
         <mark key="]" line="17" column="21" />
@@ -318,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="26" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="31" column="27" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="34" column="50" filename="$USER_HOME$/Projects/UnPourTous/soga/app-seed/src/core/modules/example/DemoScene/network/AxiosAdapter.js" />
       <jump line="352" column="2" filename="$USER_HOME$/Library/Containers/com.tencent.WeWorkMac/Data/Library/Application Support/WXWork/Data/1688853326284439/Cache/File/2019-05/WeApi.js" />
@@ -418,6 +430,7 @@
       <jump line="0" column="37" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="42" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="34" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
+      <jump line="268" column="31" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/PurchaseResultScene/PurchaseResultScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
