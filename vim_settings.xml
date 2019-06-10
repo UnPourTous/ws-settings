@@ -117,12 +117,12 @@
         <mark key="^" line="21" column="10" />
         <mark key="." line="21" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1560148544735">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1560166606005">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="11" />
-        <mark key="." line="14" column="11" />
-        <mark key="^" line="14" column="11" />
+        <mark key="[" line="41" column="19" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
+        <mark key="^" line="41" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/components/WealthInfo.js" timestamp="1560161269235" />
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/APIClient.js" timestamp="1560134914886" />
@@ -248,11 +248,11 @@
       <jump line="11" column="7" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>redux_white.svg</text>
       </register>
       <register name="-" type="4">
-        <text>功</text>
+        <text>redux_white.svg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaW1wbGVCdXR0b25cPg==</text>
