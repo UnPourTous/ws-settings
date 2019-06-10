@@ -143,12 +143,13 @@
         <mark key="." line="7" column="33" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1560092771718">
-        <mark key="'" line="11" column="5" />
-        <mark key="[" line="11" column="18" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/network/APIClient.js" timestamp="1560134914886" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1560134879842">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/DepositAssetService.js" timestamp="1559534155222">
         <mark key="[" line="125" column="52" />
@@ -341,8 +342,8 @@
       <jump line="289" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdygnQ2FuY2VsZWRkc2RmcyBzZmRmcyBzZGYgc2Ygc2YgY2FuY2VsJyk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIG1vY2thYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdygnQ2FuY2VsZWRkc2RmcyBzZmRmcyBzZGYgc2Ygc2YgY2FuY2VsJyk=</text>
@@ -354,31 +355,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgVG9hc3Quc2hvdygnQ2FuY2VsZWRkc2RmcyBzZmRmcyBzZGYgc2Ygc2YgY2FuY2VsJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LXwtLXwtCi18LS18LQoK</text>
+        <text encoding="base64">ICAgIC8vIG1vY2thYmxlOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fCAtLSB8Cg==</text>
+        <text encoding="base64">LXwtLXwtCi18LS18LQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMjIENvb2tpZeS9v+eUqApUT0RPIAo=</text>
+        <text encoding="base64">fCAtLSB8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiMjIENvb2tpZeS9v+eUqApUT0RPIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEF4aW9zTW9ja2VyIGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L25ldHdvcmsvQXhpb3NNb2NrZXInCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEF4aW9zTW9ja2VyIGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L25ldHdvcmsvQXhpb3NNb2NrZXInCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHN1cHBvcnQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VE9ETyAK</text>
+        <text encoding="base64">ICAgIC8vIHN1cHBvcnQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
