@@ -58,12 +58,12 @@
         <mark key="." line="21" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/FinanceHomeMoreScene/FinanceHomeMoreScene.js" timestamp="1560244550836" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1560166606005">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1560332089301">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/index.js" timestamp="1560153016748">
         <mark key="[" line="41" column="27" />
@@ -274,10 +274,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.md</text>
+        <text>facebook</text>
       </register>
       <register name="-" type="4">
-        <text>.md</text>
+        <text>facebook</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VOZXdMYXlvdXRcPg==</text>
