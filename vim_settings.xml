@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1560919590395">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="6" column="7" />
-        <mark key="^" line="6" column="7" />
-        <mark key="." line="6" column="7" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561011090018">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/static/css/custom.css" timestamp="1560333244434" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/core/Container.js" timestamp="1560841486828" />
@@ -51,10 +50,12 @@
         <mark key="^" line="95" column="11" />
         <mark key="." line="95" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1560914353071">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="34" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1561010864648">
+        <mark key="[" line="9" column="51" />
+        <mark key="k" line="10" column="7" />
+        <mark key="]" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="^" line="9" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1560841638273">
         <mark key="'" line="165" column="10" />
@@ -109,12 +110,9 @@
         <mark key="^" line="88" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/siteConfig.js" timestamp="1561000206550" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/release.md" timestamp="1561002506326">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="14" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="31" column="14" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/release.md" timestamp="1561010784514">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" timestamp="1561001158201">
         <mark key="[" line="20" column="0" />
@@ -253,43 +251,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyMjIEFuZHJvaWTmnoTlu7oK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>发布</text>
+        <text>中</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFsa1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIEFuZHJvaWTmnoTlu7oK</text>
+        <text encoding="base64">IyMjIGlPU+WPkeW4g0FwcCBTdG9yZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">IAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMg6LCD6K+V5pel5b+X5LuL57uNCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoaWdobGlnaHQ6IHsKICAgIC8vIEhpZ2hsaWdodC5qcyB0aGVtZSB0byB1c2UgZm9yIHN5bnRheCBoaWdobGlnaHRpbmcgaW4gY29kZSBibG9ja3MuCiAgICB0aGVtZTogIm1vbm9rYWkiCiAgfSwK</text>
+        <text encoding="base64">IyMg6LCD6K+V5pel5b+X5LuL57uNCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdodHRwczovL2J1dHRvbnMuZ2l0aHViLmlvL2J1dHRvbnMuanMnLAo=</text>
+        <text encoding="base64">ICBoaWdobGlnaHQ6IHsKICAgIC8vIEhpZ2hsaWdodC5qcyB0aGVtZSB0byB1c2UgZm9yIHN5bnRheCBoaWdobGlnaHRpbmcgaW4gY29kZSBibG9ja3MuCiAgICB0aGVtZTogIm1vbm9rYWkiCiAgfSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICIvc2NyaXB0cy9jb2RlYmxvY2suanMiLAo=</text>
+        <text encoding="base64">ICAgICdodHRwczovL2J1dHRvbnMuZ2l0aHViLmlvL2J1dHRvbnMuanMnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBjaGFsayA9IHJlcXVpcmUoJ2NoYWxrJykK</text>
+        <text encoding="base64">ICAgICIvc2NyaXB0cy9jb2RlYmxvY2suanMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -341,10 +339,10 @@
         <entry>121</entry>
         <entry>312</entry>
         <entry>31</entry>
-        <entry>Lw</entry>
         <entry>q</entry>
         <entry>we</entry>
         <entry>.we</entry>
+        <entry>Lw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
