@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" timestamp="1561021981657">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" timestamp="1561023381742">
+        <mark key="'" line="6" column="21" />
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="14" column="13" />
+        <mark key="." line="14" column="13" />
+        <mark key="^" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561011090018">
         <mark key="[" line="32" column="0" />
@@ -158,6 +160,7 @@
         <mark key="^" line="88" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/siteConfig.js" timestamp="1561000206550" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/index.js" timestamp="1561023016316" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/release.md" timestamp="1561010784514">
         <mark key="'" line="35" column="0" />
         <mark key="[" line="17" column="19" />
@@ -201,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/env.js" />
-      <jump line="40" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="1" column="23" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="12" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/webank-MINA/webankDemo/config.prod.js" />
@@ -301,61 +302,62 @@
       <jump line="16" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="17" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="20" column="4" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/components/SimpleButton.js" />
+      <jump line="24" column="13" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" />
+      <jump line="6" column="21" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57YGB9PC9UZXh0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>ResultScene</text>
       </register>
       <register name="-" type="4">
-        <text>借阅《${}》成功</text>
+        <text>ResultScene</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3NpdGlvblN0eWxlXD4=</text>
+        <text encoding="base64">XDxJbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57YOWAn+mYheOAiiR7feOAi+aIkOWKn2B9PC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hcmdpblRvcDogODAsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD57YGB9PC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L0ltYWdlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvb2tEZXRhaWwpCg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD57YGB9PC9UZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGFyYW1zLklTQk4pCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuYm9va0xpc3QpCg==</text>
+        <text encoding="base64">ICAgIFAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5zaG93KCflgJ/pmIXmiJDlip8nKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJvb2tEZXRhaWwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGFyYW1zLklTQk4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2FkaW5nLmhpZGUoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucHJvcHMuYm9va0xpc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3NpdGlvblN0eWxlXD4=</last-search>
+      <last-search encoding="base64">XDxJbWFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3NpdGlvblN0eWxlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxJbWFnZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry encoding="base64">XDx2Mlw+</entry>
         <entry encoding="base64">XDxPdGhlckxpYnJhcmllc1w+</entry>
         <entry encoding="base64">XDxEb2NzU3VydmV5XD4=</entry>
@@ -375,6 +377,7 @@
         <entry encoding="base64">XDxjaGVja1w+</entry>
         <entry encoding="base64">XDxjaGFsa1w+</entry>
         <entry encoding="base64">XDxwb3NpdGlvblN0eWxlXD4=</entry>
+        <entry encoding="base64">XDxJbWFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>187</entry>
