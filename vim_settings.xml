@@ -65,12 +65,19 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/about/VersionScene/VersionScene.js" timestamp="1561104284608">
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/about/VersionScene/VersionScene.js" timestamp="1561106030925">
         <mark key="'" line="35" column="34" />
-        <mark key="[" line="35" column="42" />
-        <mark key="]" line="35" column="66" />
-        <mark key="." line="35" column="66" />
-        <mark key="^" line="35" column="66" />
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="31" />
+        <mark key="." line="34" column="31" />
+        <mark key="^" line="34" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1561105885153">
+        <mark key="'" line="12" column="5" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/website/pages/en/index.js" timestamp="1560251448223">
         <mark key="[" line="161" column="12" />
@@ -208,11 +215,11 @@
         <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/static/css/main.css" timestamp="1560841482818" />
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561025851066">
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561105942686">
         <mark key="'" line="44" column="36" />
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
         <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/api/AppNavigator.md" timestamp="1561019457887">
@@ -345,10 +352,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://google.com</text>
+        <text>3333</text>
       </register>
       <register name="-" type="4">
-        <text>http://google.com</text>
+        <text>3333</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVxdWVzdFByb2RJbmZvXD4=</text>
@@ -357,31 +364,31 @@
         <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17ewogICAgICAgICAgcGFkZGluZ1RvcDogMTYKICAgICAgICB9fT5UcmlkZW50IEZyYW1ld29yayBEZW1vIHtEZXZpY2VJbmZvLmdldFZlcnNpb24oKX0oe0RldmljZUluZm8uZ2V0QnVpbGROdW1iZXIoKX0pPC9UZXh0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17ewogICAgICAgICAgcGFkZGluZ1RvcDogMTYKICAgICAgICB9fT5UcmlkZW50IEZyYW1ld29yayBEZW1vIHtEZXZpY2VJbmZvLmdldFZlcnNpb24oKX0oe0RldmljZUluZm8uZ2V0QnVpbGROdW1iZXIoKX0pPC9UZXh0Pgo=</text>
+        <text encoding="base64">ICAgIC8vIGh0dHBzOi8vYXBpLnJlYWRodWIuY24vdG9waWM/bGFzdEN1cnNvcj0mcGFnZVNpemU9MjAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgInRyaWRlbnQtdWkiLAo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17ewogICAgICAgICAgcGFkZGluZ1RvcDogMTYKICAgICAgICB9fT5UcmlkZW50IEZyYW1ld29yayBEZW1vIHtEZXZpY2VJbmZvLmdldFZlcnNpb24oKX0oe0RldmljZUluZm8uZ2V0QnVpbGROdW1iZXIoKX0pPC9UZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgCg==</text>
+        <text encoding="base64">ICAgICAgInRyaWRlbnQtdWkiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SW1wb3J0IAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgLS1zYXZlIHJlYWN0LW5hdGl2ZS1kZXZpY2UtaW5mbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
