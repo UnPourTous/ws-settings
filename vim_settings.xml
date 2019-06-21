@@ -47,7 +47,7 @@
         <mark key="^" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/exampledoc4.md" timestamp="1560333976120" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/sidebars.json" timestamp="1561111567009">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/sidebars.json" timestamp="1561118042587">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="20" />
         <mark key="^" line="16" column="5" />
@@ -80,12 +80,12 @@
         <mark key="." line="34" column="31" />
         <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1561105885153">
-        <mark key="'" line="12" column="5" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="3" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1561119280857">
+        <mark key="'" line="4" column="3" />
+        <mark key="[" line="35" column="10" />
+        <mark key="]" line="35" column="10" />
+        <mark key="." line="35" column="10" />
+        <mark key="^" line="35" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/website/pages/en/index.js" timestamp="1560251448223">
         <mark key="[" line="161" column="12" />
@@ -224,6 +224,12 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/utils/RNEnv.js" timestamp="1561104811101" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/siteConfig.js" timestamp="1561000206550" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/index.js" timestamp="1561023016316" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/services/BookService.js" timestamp="1561118765153">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+        <mark key="^" line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" timestamp="1561019718667">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="13" />
@@ -231,12 +237,12 @@
         <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/static/css/main.css" timestamp="1560841482818" />
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561105942686">
-        <mark key="'" line="44" column="36" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="26" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561119416100">
+        <mark key="'" line="11" column="37" />
+        <mark key="[" line="43" column="61" />
+        <mark key="]" line="43" column="61" />
+        <mark key="." line="43" column="61" />
+        <mark key="^" line="43" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/navigation/WeNavigator.js" timestamp="1561107071284" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1560919083173">
@@ -256,10 +262,6 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="12" column="38" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" />
-      <jump line="11" column="41" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" />
-      <jump line="19" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" />
-      <jump line="7" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" />
       <jump line="26" column="24" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" />
       <jump line="9" column="75" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/components/BookListItem.js" />
@@ -291,7 +293,6 @@
       <jump line="283" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction/getting-started.md" />
       <jump line="6" column="15" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/components/BookDetail.js" />
       <jump line="30" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
-      <jump line="11" column="7" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
       <jump line="728" column="66" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
       <jump line="886" column="12" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
       <jump line="900" column="11" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
@@ -356,61 +357,65 @@
       <jump line="31" column="20" filename="$USER_HOME$/Projects/WeBookStore/src/core/index.js" />
       <jump line="33" column="19" filename="$USER_HOME$/Projects/WeBookStore/src/core/index.js" />
       <jump line="5" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/core/index.js" />
+      <jump line="33" column="16" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="4" column="3" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="42" column="20" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
+      <jump line="11" column="37" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImRlYnVnLXNraWxsIiwK</text>
+      <register name="&quot;" type="4">
+        <text>.ret_data</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>.ret_data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbWFnZVw+</text>
+        <text encoding="base64">XDxCb29rU2VydmljZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgVHJpZGVudEFwcCwgfSBmcm9tICdAd2ViYW5rL3RyaWRlbnQnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImRlYnVnLXNraWxsIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImRlYnVnLXNraWxsIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInN0YXRlLW1hbmFnZW1lbnQiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1ZXN0Qm9ycm93Qm9vawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGhlYWRlckxlZnQ6ICgpID0+IHsKICAgICAgICAgICAgcmV0dXJuIDxXZVRvdWNoYWJsZQogICAgICAgICAgICAgIGhpdFNsb3A9e3sgdG9wOiAxMCwgbGVmdDogMjAsIGJvdHRvbTogMTAsIHJpZ2h0OiAyMCB9fQogICAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IEFwcE5hdmlnYXRvci5nb0JhY2soKX0+CiAgICAgICAgICAgICAgPEltYWdlIHNvdXJjZT17cmVxdWlyZSgnLi9pbWFnZXMvYmFjay5wbmcnKX0gLz4KICAgICAgICAgICAgPC9XZVRvdWNoYWJsZT4KICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIEFwcE5hdmlnYXRvci5ib29rLlJlc3VsdFNjZW5lKHtJU0JOOiB0aGlzLnBhcmFtcy5JU0JOfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvblByZXNzPXt0aGlzLnByb3BzLm9uUHJlc3N9Pgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdkJhY2tCdXR0b24gZnJvbSAnLi9iaXpDb21wb25lbnRzL05hdkJhY2tCdXR0b24nCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuYm9vay5SZXN1bHRTY2VuZSh7SVNCTjogdGhpcy5wYXJhbXMuSVNCTn0pCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuYm9vay5SZXN1bHRTY2VuZSh7SVNCTjogdGhpcy5wYXJhbXMuSVNCTn0pCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKDxOYXZCYWNrQnV0dG9uIG9uUHJlc3M9eygpID0+IEFwcE5hdmlnYXRvci5nb0JhY2soKX0gLz4pCg==</text>
+        <text encoding="base64">CiAgICB9LCAoKSA9PiB7CgogICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbWFnZVw+</last-search>
+      <last-search encoding="base64">XDxCb29rU2VydmljZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbWFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxCb29rU2VydmljZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDxTaG93Y2FzZVw+</entry>
         <entry encoding="base64">XDxGZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
@@ -430,6 +435,7 @@
         <entry encoding="base64">XDxfcmVxdWVzdFByb2RJbmZvXD4=</entry>
         <entry encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxJbWFnZVw+</entry>
+        <entry encoding="base64">XDxCb29rU2VydmljZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>187</entry>
