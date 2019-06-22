@@ -80,12 +80,12 @@
         <mark key="." line="34" column="31" />
         <mark key="^" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1561119280857">
-        <mark key="'" line="4" column="3" />
-        <mark key="[" line="35" column="10" />
-        <mark key="]" line="35" column="10" />
-        <mark key="." line="35" column="10" />
-        <mark key="^" line="35" column="10" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1561187554414">
+        <mark key="'" line="25" column="43" />
+        <mark key="[" line="34" column="18" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/website/pages/en/index.js" timestamp="1560251448223">
         <mark key="[" line="161" column="12" />
@@ -237,12 +237,12 @@
         <mark key="^" line="5" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/static/css/main.css" timestamp="1560841482818" />
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561119416100">
+      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561187579196">
         <mark key="'" line="11" column="37" />
-        <mark key="[" line="43" column="61" />
-        <mark key="]" line="43" column="61" />
-        <mark key="." line="43" column="61" />
-        <mark key="^" line="43" column="69" />
+        <mark key="[" line="43" column="54" />
+        <mark key="]" line="43" column="54" />
+        <mark key="." line="43" column="54" />
+        <mark key="^" line="43" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/navigation/WeNavigator.js" timestamp="1561107071284" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1560919083173">
@@ -262,9 +262,6 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" />
-      <jump line="26" column="24" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/BookListScene.js" />
-      <jump line="9" column="75" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/components/BookListItem.js" />
       <jump line="1" column="19" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/components/BookListItem.js" />
       <jump line="36" column="12" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/components/BookListItem.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookListScene/components/BookListItem.js" />
@@ -359,19 +356,22 @@
       <jump line="5" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/core/index.js" />
       <jump line="33" column="16" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
-      <jump line="4" column="3" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
       <jump line="42" column="20" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
       <jump line="11" column="37" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" />
+      <jump line="34" column="41" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="4" column="41" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="17" column="43" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
+      <jump line="25" column="43" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.ret_data</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.ret_data</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCb29rU2VydmljZVw+</text>
+        <text encoding="base64">XDxjb21cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgVHJpZGVudEFwcCwgfSBmcm9tICdAd2ViYW5rL3RyaWRlbnQnCg==</text>
@@ -408,15 +408,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCb29rU2VydmljZVw+</last-search>
+      <last-search encoding="base64">XDxjb21cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCb29rU2VydmljZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb21cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaG93Y2FzZVw+</entry>
         <entry encoding="base64">XDxGZWF0dXJlc1w+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVOZXdQcm9qZWN0XD4=</entry>
@@ -436,6 +435,7 @@
         <entry encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxJbWFnZVw+</entry>
         <entry encoding="base64">XDxCb29rU2VydmljZVw+</entry>
+        <entry encoding="base64">XDxjb21cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>187</entry>
