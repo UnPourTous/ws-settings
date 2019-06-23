@@ -247,6 +247,13 @@
         <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/index.js" timestamp="1561313317024" />
+      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" timestamp="1561318815177">
+        <mark key="'" line="11" column="31" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/index.js" timestamp="1561189465837">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -265,12 +272,12 @@
         <mark key="^" line="167" column="11" />
         <mark key="." line="167" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561313702061">
-        <mark key="'" line="43" column="1" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="1" />
-        <mark key="." line="21" column="1" />
-        <mark key="^" line="21" column="1" />
+      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561318737526">
+        <mark key="'" line="22" column="52" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="22" column="71" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1561307323367">
         <mark key="'" line="5" column="29" />
@@ -307,6 +314,7 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1561319257724" />
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/TridentApp.js" timestamp="1561106990535">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="3" />
@@ -331,6 +339,9 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListService.js" timestamp="1561318709168">
+        <mark key="'" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/test/node_modules/@webank/trident/local-cli/plugin/add.js" timestamp="1561190386069">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="55" />
@@ -345,7 +356,7 @@
         <mark key="." line="77" column="12" />
         <mark key="^" line="88" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561313309137">
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561318704857">
         <mark key="'" line="26" column="11" />
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="17" />
@@ -428,11 +439,6 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="112" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
-      <jump line="151" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
-      <jump line="137" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/website/core/Footer.js" />
-      <jump line="392" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction/getting-started.md" />
       <jump line="197" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="235" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="230" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
@@ -528,10 +534,15 @@
       <jump line="22" column="0" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
       <jump line="5" column="3" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
       <jump line="41" column="1" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
+      <jump line="10" column="15" filename="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
+      <jump line="23" column="52" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListScene.js" />
+      <jump line="22" column="19" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
+      <jump line="10" column="31" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -543,31 +554,65 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIExvYWRpbmcuaGlkZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L3VpQ29tcG9uZW50L3BvcHVwL1RvYXN0Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEJvb2tEZXRhaWxTZXJ2aWNlIGZyb20gJy4vQm9va0RldGFpbFNlcnZpY2UnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9va0RldGFpbFNlcnZpY2UucmVxdWVzdEJvcnJvd0Jvb2soKS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICBUb2FzdC5zaG93KHJlc3BvbnNlLmRhdGEucmV0X21zZykKICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuYm9vay5SZXN1bHRTY2VuZSh7SVNCTjogdGhpcy5wYXJhbXMuSVNCTn0pCiAgICAgICAgICAgIH0sIGVycm9yID0+IHsKICAgICAgICAgICAgICBUb2FzdC5zaG93KCduZXR3b3JrIGVycm9yJyArIEpTT04uc3RyaW5naWZ5KGVycm9yKSkKICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">aW1wb3J0IHsgV2VUb3VjaGFibGUgfSBmcm9tICdAdW5wb3VydG91cy9yZWFjdC1uYXRpdmUtdG91Y2hhYmxlJwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdlJpZ2h0QnV0dG9uIGZyb20gJy4vY29tcG9uZW50cy9OYXZSaWdodEJ1dHRvbicK</text>
+      <register name="4" type="4">
+        <text>[
+      {
+        'title': '经济学原理',
+        'author': '曼昆',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
+        'publishTime': '2009-4-1',
+        'pages': 540,
+        'ISBN': '9787301150894'
+      },
+      {
+        'title': '失控-全人类的最终命运和结局',
+        'author': '[美] 凯文·凯利 ',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
+        'publishTime': '2010-12',
+        'pages': 707,
+        'ISBN': '9787513300711'
+      }
+    ]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSAoeyBuYXZpZ2F0aW9uOiB7IHN0YXRlOiB7IHBhcmFtcyA9IHt9IH0gfSB9KSA9PiAoewogIH0pCgogIGNvbXBvbmVudERpZE1vdW50ICgpIHsKICB9Cgo=</text>
+      <register name="5" type="4">
+        <text>[
+      {
+        'title': '经济学原理',
+        'author': '曼昆',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
+        'publishTime': '2009-4-1',
+        'pages': 540,
+        'ISBN': '9787301150894'
+      },
+      {
+        'title': '失控-全人类的最终命运和结局',
+        'author': '[美] 凯文·凯利 ',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
+        'publishTime': '2010-12',
+        'pages': 707,
+        'ISBN': '9787513300711'
+      }
+    ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlYWRlclRpdGxlOiBwYXJhbXMudGl0bGUgfHwgJ+WAn+mYheWujOaIkCcsCgogICAgLy8g6Ieq5a6a5LmJ6L+U5Zue5oyJ6ZKuCiAgICBoZWFkZXJMZWZ0OiBudWxsLAogICAgaGVhZGVyUmlnaHQ6ICgKICAgICAgPE5hdlJpZ2h0QnV0dG9uIG9uUHJlc3M9eygpID0+IHsgcGFyYW1zLm9uUmlnaHRCdG5QcmVzcyAmJiBwYXJhbXMub25SaWdodEJ0blByZXNzKCkgfX0gdGl0bGU9eyflrozmiJAnfSAvPgogICAgKSwK</text>
+        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L3VpQ29tcG9uZW50L3BvcHVwL1RvYXN0Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0UGFyYW1zKHsKICAgICAgb25SaWdodEJ0blByZXNzOiAoKSA9PiB7CiAgICAgICAgQXBwTmF2aWdhdG9yLmdvQmFjayhbQXBwTmF2aWdhdG9yLmJvb2suQm9va0xpc3RTY2VuZV0pCiAgICAgIH0KICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IEJvb2tEZXRhaWxTZXJ2aWNlIGZyb20gJy4vQm9va0RldGFpbFNlcnZpY2UnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IERpYWxvZyBmcm9tICdAd2ViYW5rL3RyaWRlbnQvbGlicmFyeS91aUNvbXBvbmVudC9wb3B1cC9EaWFsb2cnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQm9va0RldGFpbFNlcnZpY2UucmVxdWVzdEJvcnJvd0Jvb2soKS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICBUb2FzdC5zaG93KHJlc3BvbnNlLmRhdGEucmV0X21zZykKICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuYm9vay5SZXN1bHRTY2VuZSh7SVNCTjogdGhpcy5wYXJhbXMuSVNCTn0pCiAgICAgICAgICAgIH0sIGVycm9yID0+IHsKICAgICAgICAgICAgICBUb2FzdC5zaG93KCduZXR3b3JrIGVycm9yJyArIEpTT04uc3RyaW5naWZ5KGVycm9yKSkKICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaWQgPSBEaWFsb2cuc2hvdyh7CiAgICAgICAgICAgICAgdGV4dHM6IFtg5L2g56Gu5a6a5YCf6ZiF44CKJHtib29rRGV0YWlsLnRpdGxlfeOAi+WQl++8n2BdLAogICAgICAgICAgICAgIGl0ZW1zOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgIHRleHQ6ICfnoa7lrponLAogICAgICAgICAgICAgICAgICBvbkl0ZW1QcmVzczogKCkgPT4gewogICAgICAgICAgICAgICAgICAgIERpYWxvZy5oaWRlKGlkKQoKICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgdGV4dDogJ+WPlua2iCcsCiAgICAgICAgICAgICAgICAgIG9uSXRlbVByZXNzOiAoKSA9PiB7CiAgICAgICAgICAgICAgICAgICAgRGlhbG9nLmhpZGUoaWQpCiAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">aW1wb3J0IE5hdlJpZ2h0QnV0dG9uIGZyb20gJy4vY29tcG9uZW50cy9OYXZSaWdodEJ1dHRvbicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
