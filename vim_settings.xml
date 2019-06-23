@@ -314,7 +314,12 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1561319257724" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1561320159967">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/TridentApp.js" timestamp="1561106990535">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="3" />
@@ -342,6 +347,11 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListService.js" timestamp="1561318709168">
         <mark key="'" line="10" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1561320148825">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/test/node_modules/@webank/trident/local-cli/plugin/add.js" timestamp="1561190386069">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="55" />
@@ -349,12 +359,12 @@
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/ResultScene/components/NavRightButton.js" timestamp="1561315923156" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/FinanceHomeMoreScene/FinanceHomeMoreScene.js" timestamp="1560244550836" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561000516282">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561319835664">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="77" column="12" />
-        <mark key="]" line="77" column="12" />
-        <mark key="." line="77" column="12" />
-        <mark key="^" line="88" column="25" />
+        <mark key="[" line="41" column="11" />
+        <mark key="]" line="41" column="15" />
+        <mark key="." line="41" column="15" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561318704857">
         <mark key="'" line="26" column="11" />
@@ -424,7 +434,7 @@
         <mark key="]" line="12" column="26" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561306680999">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561320101226">
         <mark key="'" line="14" column="6" />
         <mark key="[" line="29" column="7" />
         <mark key="]" line="29" column="7" />
@@ -542,10 +552,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>https://www.npmjs.com/package/@tarojs/cli</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb29rRGV0YWlsU2VydmljZVw+</text>
@@ -554,65 +564,65 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIExvYWRpbmcuaGlkZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25vZGUtJTNFJTNEOC4zLjAtYnJpZ2h0Z3JlZW4uc3ZnKV0oaHR0cHM6Ly9ub2RlanMub3JnL2VuLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2VUb3VjaGFibGUgfSBmcm9tICdAdW5wb3VydG91cy9yZWFjdC1uYXRpdmUtdG91Y2hhYmxlJwo=</text>
+        <text encoding="base64">LS0tCmlkOiBpbnRyb2R1Y3Rpb24KdGl0bGU6IFRyaWRlbnTnroDku4sKLS0tCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>[
-      {
-        'title': '经济学原理',
-        'author': '曼昆',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
-        'publishTime': '2009-4-1',
-        'pages': 540,
-        'ISBN': '9787301150894'
-      },
-      {
-        'title': '失控-全人类的最终命运和结局',
-        'author': '[美] 凯文·凯利 ',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
-        'publishTime': '2010-12',
-        'pages': 707,
-        'ISBN': '9787513300711'
-      }
-    ]</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>[
-      {
-        'title': '经济学原理',
-        'author': '曼昆',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
-        'publishTime': '2009-4-1',
-        'pages': 540,
-        'ISBN': '9787301150894'
-      },
-      {
-        'title': '失控-全人类的最终命运和结局',
-        'author': '[美] 凯文·凯利 ',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
-        'publishTime': '2010-12',
-        'pages': 707,
-        'ISBN': '9787513300711'
-      }
-    ]</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L3VpQ29tcG9uZW50L3BvcHVwL1RvYXN0Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgV2VUb3VjaGFibGUgfSBmcm9tICdAdW5wb3VydG91cy9yZWFjdC1uYXRpdmUtdG91Y2hhYmxlJwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEJvb2tEZXRhaWxTZXJ2aWNlIGZyb20gJy4vQm9va0RldGFpbFNlcnZpY2UnCg==</text>
+      <register name="7" type="4">
+        <text>[
+      {
+        'title': '经济学原理',
+        'author': '曼昆',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
+        'publishTime': '2009-4-1',
+        'pages': 540,
+        'ISBN': '9787301150894'
+      },
+      {
+        'title': '失控-全人类的最终命运和结局',
+        'author': '[美] 凯文·凯利 ',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
+        'publishTime': '2010-12',
+        'pages': 707,
+        'ISBN': '9787513300711'
+      }
+    ]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9va0RldGFpbFNlcnZpY2UucmVxdWVzdEJvcnJvd0Jvb2soKS50aGVuKHJlc3BvbnNlID0+IHsKICAgICAgICAgICAgICBUb2FzdC5zaG93KHJlc3BvbnNlLmRhdGEucmV0X21zZykKICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuYm9vay5SZXN1bHRTY2VuZSh7SVNCTjogdGhpcy5wYXJhbXMuSVNCTn0pCiAgICAgICAgICAgIH0sIGVycm9yID0+IHsKICAgICAgICAgICAgICBUb2FzdC5zaG93KCduZXR3b3JrIGVycm9yJyArIEpTT04uc3RyaW5naWZ5KGVycm9yKSkKICAgICAgICAgICAgfSkK</text>
+      <register name="8" type="4">
+        <text>[
+      {
+        'title': '经济学原理',
+        'author': '曼昆',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
+        'publishTime': '2009-4-1',
+        'pages': 540,
+        'ISBN': '9787301150894'
+      },
+      {
+        'title': '失控-全人类的最终命运和结局',
+        'author': '[美] 凯文·凯利 ',
+        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
+        'publishTime': '2010-12',
+        'pages': 707,
+        'ISBN': '9787513300711'
+      }
+    ]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdlJpZ2h0QnV0dG9uIGZyb20gJy4vY29tcG9uZW50cy9OYXZSaWdodEJ1dHRvbicK</text>
+        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L3VpQ29tcG9uZW50L3BvcHVwL1RvYXN0Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
