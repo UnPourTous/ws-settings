@@ -389,6 +389,13 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" timestamp="1561310037381">
+        <mark key="'" line="34" column="9" />
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/index.js" timestamp="1561189367044">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -421,8 +428,6 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="16" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" />
-      <jump line="142" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="162" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="184" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="110" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
@@ -521,16 +526,18 @@
       <jump line="219" column="19" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="5" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="14" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
+      <jump line="151" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
+      <jump line="34" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>scehen</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>scehen</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxucG1Db25maWdcPg==</text>
+        <text encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcm9jZXNzLmVudi5ucG1DbGllbnQgPSAnbnBtJwo=</text>
@@ -567,15 +574,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxucG1Db25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxucG1Db25maWdcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
         <entry encoding="base64">XDxzY2hlbWVcPg==</entry>
         <entry encoding="base64">XDxjaGVja1w+</entry>
         <entry encoding="base64">XDxjaGFsa1w+</entry>
@@ -595,6 +601,7 @@
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry encoding="base64">XDxucG1Db25maWdcPg==</entry>
+        <entry encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>189</entry>
