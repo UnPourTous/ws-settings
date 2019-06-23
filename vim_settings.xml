@@ -40,6 +40,9 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1561106671973" />
       <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/container/index.js" timestamp="1561313902815" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/about/VersionScene/VersionScene.js" timestamp="1561317678692">
+        <mark key="'" line="5" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/about/VersionScene/VersionScene.js" timestamp="1561106929307">
         <mark key="'" line="35" column="34" />
         <mark key="[" line="34" column="28" />
@@ -244,9 +247,6 @@
         <mark key="." line="18" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/index.js" timestamp="1561313317024" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" timestamp="1561307394852">
-        <mark key="[" line="34" column="16" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/index.js" timestamp="1561189465837">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -280,6 +280,9 @@
         <mark key="^" line="235" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/AppContainer.js" timestamp="1561106965048" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1561104677374">
+        <mark key="'" line="75" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/index.js" timestamp="1561305910792">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -328,14 +331,6 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1561307379569">
-        <mark key="'" line="22" column="0" />
-        <mark key="w" line="0" column="0" />
-        <mark key="[" line="420" column="13" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/test/node_modules/@webank/trident/local-cli/plugin/add.js" timestamp="1561190386069">
         <mark key="[" line="23" column="55" />
         <mark key="]" line="23" column="55" />
@@ -382,6 +377,12 @@
         <mark key="." line="42" column="3" />
         <mark key="^" line="42" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" timestamp="1561317688137">
+        <mark key="'" line="41" column="1" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561316498907">
         <mark key="'" line="45" column="26" />
         <mark key="[" line="49" column="0" />
@@ -427,10 +428,6 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="886" column="12" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
-      <jump line="900" column="11" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
-      <jump line="101" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
-      <jump line="674" column="12" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" />
       <jump line="112" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="151" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
       <jump line="137" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" />
@@ -527,13 +524,17 @@
       <jump line="40" column="20" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" />
       <jump line="10" column="7" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" />
       <jump line="43" column="26" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" />
+      <jump line="5" column="11" filename="$USER_HOME$/Projects/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
+      <jump line="5" column="3" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
+      <jump line="41" column="1" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb29rRGV0YWlsU2VydmljZVw+</text>
