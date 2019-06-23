@@ -63,6 +63,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/index.js" timestamp="1561310959853">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus7/Tplus7MyDetailScene/Tplus7MyDetailScene.js" timestamp="1560162142121">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -531,10 +536,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scehen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>scehen</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</text>
