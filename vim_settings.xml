@@ -380,12 +380,12 @@
         <mark key="." line="5" column="46" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561357984656">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561370769574">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="43" column="59" />
-        <mark key="]" line="43" column="62" />
-        <mark key="." line="43" column="62" />
-        <mark key="^" line="43" column="62" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561318704857">
         <mark key="'" line="26" column="11" />
@@ -554,44 +554,44 @@
       <jump line="12" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>以</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICIvc2NyaXB0cy9idXR0b25zLmpzIiwK</text>
       </register>
       <register name="-" type="4">
-        <text>以</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm9kZSA+PSA4LjMuMAo=</text>
+        <text encoding="base64">ICAgICIuL3NjcmlwdHMvYnV0dG9ucy5qcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICIvc2NyaXB0cy9idXR0b25zLmpzIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMgc3RvcmXnmoTmlbDmja7nu5PmnoQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">5pWw5o2u5Y+Y5YyW77yMYGRpZmZgIOeahOaJk+WNsAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">5pW05LiqQXBw55qEcmVkdXggYWN0aW9u5Y+R5Ye66Kem5Y+R55qE5pWw5o2u5Y+Y5YyW6YO95Lya6KKr5omT5Y2w5Ye65p2l77yM5YW35L2T5omT5Y2w5pWI5p6c5aaC5LiL77yaIAohW10oLi9hc3NldHMvaW1hZ2VzLzIwMTktMDYtMjQtMDMtMzEtMjcucG5nKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">IyMgc3RvcmXnmoTmlbDmja7nu5PmnoQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMgc3RvcmXkuIrmlbDmja7nmoTlj5jljJYK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMgc3RvcmXnmoTmlbDmja7nu5PmnoQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">5pWw5o2u5Y+Y5YyW77yMYGRpZmZgIOeahOaJk+WNsAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">5pW05LiqQXBw55qEcmVkdXggYWN0aW9u5Y+R5Ye66Kem5Y+R55qE5pWw5o2u5Y+Y5YyW6YO95Lya6KKr5omT5Y2w5Ye65p2l77yM5YW35L2T5omT5Y2w5pWI5p6c5aaC5LiL77yaIAohW10oLi9hc3NldHMvaW1hZ2VzLzIwMTktMDYtMjQtMDMtMzEtMjcucG5nKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyMgc3RvcmXnmoTmlbDmja7nu5PmnoQK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyMgc3RvcmXkuIrmlbDmja7nmoTlj5jljJYK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyDlkK/liqhyZWFjdCBuYXRpdmUgcGFja2FnZXIKdHJpZGVudC1jbGkgcGFja2FnZXIgc3RhcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3BlbiBpb3MvV2VCb29rU3RvcmUK</text>
+        <text encoding="base64">IyDlkK/liqhyZWFjdCBuYXRpdmUgcGFja2FnZXIKdHJpZGVudC1jbGkgcGFja2FnZXIgc3RhcnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
