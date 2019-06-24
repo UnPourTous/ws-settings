@@ -103,12 +103,12 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1561353350447">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1561367069771">
         <mark key="'" line="165" column="10" />
-        <mark key="[" line="200" column="82" />
-        <mark key="]" line="200" column="87" />
-        <mark key="." line="200" column="87" />
-        <mark key="^" line="200" column="87" />
+        <mark key="[" line="191" column="22" />
+        <mark key="]" line="191" column="22" />
+        <mark key="." line="191" column="22" />
+        <mark key="^" line="191" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/reduxUtils/reduxConfig.js" timestamp="1561188856875">
         <mark key="[" line="5" column="4" />
@@ -555,10 +555,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>导航相关的状态和</text>
+        <text>以</text>
       </register>
       <register name="-" type="4">
-        <text>导航相关的状态和</text>
+        <text>以</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
