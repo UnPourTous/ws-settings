@@ -88,6 +88,11 @@
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus7/Tplus7MyDetailScene/Tplus7MyDetailScene.js" timestamp="1560162142121">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" timestamp="1561002369983">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="11" />
@@ -108,12 +113,12 @@
         <mark key="." line="25" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookService.js" timestamp="1561315193226" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1561344203205">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1561348672997">
         <mark key="'" line="165" column="10" />
-        <mark key="[" line="188" column="87" />
-        <mark key="]" line="188" column="90" />
-        <mark key="^" line="188" column="90" />
-        <mark key="." line="188" column="90" />
+        <mark key="[" line="88" column="14" />
+        <mark key="]" line="88" column="16" />
+        <mark key="^" line="88" column="16" />
+        <mark key="." line="88" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/reduxUtils/reduxConfig.js" timestamp="1561188856875">
         <mark key="[" line="5" column="4" />
@@ -182,11 +187,21 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/core/modules/example/DemoScene/index.js" timestamp="1560153026574">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/plugins/index.js" timestamp="1561189112446">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1561307348704">
+        <mark key="[" line="69" column="16" />
+        <mark key="]" line="69" column="16" />
+        <mark key="." line="69" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/index.js" timestamp="1561315342764" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/static/css/main.css" timestamp="1560841482818" />
@@ -210,6 +225,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/i18n/en.json" timestamp="1561347995387">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/dimens.js" timestamp="1561024660750">
         <mark key="'" line="21" column="7" />
@@ -235,6 +255,11 @@
         <mark key="^" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/exampledoc4.md" timestamp="1560333976120" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/index.js" timestamp="1560153030741">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/blog/2017-10-24-new-version-1.0.0.md" timestamp="1560841793585">
         <mark key="'" line="10" column="6" />
         <mark key="[" line="11" column="0" />
@@ -256,10 +281,21 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/build/Trident/introduction/getting-started.html" timestamp="1560153048888">
+        <mark key="[" line="370" column="27" />
+        <mark key="]" line="370" column="27" />
+        <mark key="." line="370" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/index.js" timestamp="1561189465837">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/static/css/custom.css" timestamp="1561347017307">
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/cgi/index.js" timestamp="1561187554414">
         <mark key="'" line="25" column="43" />
@@ -292,6 +328,11 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1561104677374">
         <mark key="'" line="75" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/build/Trident/introduction/getting-started/index.html" timestamp="1560153052774">
+        <mark key="[" line="370" column="27" />
+        <mark key="]" line="370" column="27" />
+        <mark key="." line="370" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/index.js" timestamp="1561305910792">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -316,10 +357,15 @@
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1561320159967">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/DemoScene/index.js" timestamp="1560153037679">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/introduction.md" timestamp="1561348000562">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/TridentApp.js" timestamp="1561106990535">
@@ -361,12 +407,12 @@
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/ResultScene/components/NavRightButton.js" timestamp="1561315923156" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/FinanceHomeMoreScene/FinanceHomeMoreScene.js" timestamp="1560244550836" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561319835664">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561348150441">
         <mark key="'" line="16" column="11" />
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="41" column="15" />
-        <mark key="." line="41" column="15" />
-        <mark key="^" line="41" column="15" />
+        <mark key="[" line="23" column="17" />
+        <mark key="]" line="23" column="17" />
+        <mark key="." line="23" column="17" />
+        <mark key="^" line="23" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561318704857">
         <mark key="'" line="26" column="11" />
@@ -554,10 +600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>专心与</text>
+        <text>Source Code</text>
       </register>
       <register name="-" type="4">
-        <text>专心与</text>
+        <text>Source Code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
@@ -566,65 +612,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIExvYWRpbmcuaGlkZSgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEZlYXR1cmVDYWxsb3V0IC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25vZGUtJTNFJTNEOC4zLjAtYnJpZ2h0Z3JlZW4uc3ZnKV0oaHR0cHM6Ly9ub2RlanMub3JnL2VuLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsvKjxGZWF0dXJlQ2FsbG91dCAvPiovfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LS0tCmlkOiBpbnRyb2R1Y3Rpb24KdGl0bGU6IFRyaWRlbnTnroDku4sKLS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2U6IGltZ1VybCgnY3ViZXMtc29saWQuc3ZnJyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2U6IGltZ1VybCgnY29ncy1zb2xpZC5zdmcnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2U6IGltZ1VybCgnY29ncy1zb2xpZC5zdmcnKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2VUb3VjaGFibGUgfSBmcm9tICdAdW5wb3VydG91cy9yZWFjdC1uYXRpdmUtdG91Y2hhYmxlJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2U6IGltZ1VybCgnY3ViZXMtc29saWQuc3ZnJyksCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>[
-      {
-        'title': '经济学原理',
-        'author': '曼昆',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
-        'publishTime': '2009-4-1',
-        'pages': 540,
-        'ISBN': '9787301150894'
-      },
-      {
-        'title': '失控-全人类的最终命运和结局',
-        'author': '[美] 凯文·凯利 ',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
-        'publishTime': '2010-12',
-        'pages': 707,
-        'ISBN': '9787513300711'
-      }
-    ]</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>[
-      {
-        'title': '经济学原理',
-        'author': '曼昆',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s3802186.jpg',
-        'publishTime': '2009-4-1',
-        'pages': 540,
-        'ISBN': '9787301150894'
-      },
-      {
-        'title': '失控-全人类的最终命运和结局',
-        'author': '[美] 凯文·凯利 ',
-        'coverURL': 'https://img3.doubanio.com/view/subject/l/public/s4554820.jpg',
-        'publishTime': '2010-12',
-        'pages': 707,
-        'ISBN': '9787513300711'
-      }
-    ]</text>
+      <register name="8" type="2">
+        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L3VpQ29tcG9uZW50L3BvcHVwL1RvYXN0Jwo=</text>
+        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25vZGUtJTNFJTNEOC4zLjAtYnJpZ2h0Z3JlZW4uc3ZnKV0oaHR0cHM6Ly9ub2RlanMub3JnL2VuLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -661,7 +673,6 @@
         <entry encoding="base64">XDxQb3B1cFN0dWJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>w2</entry>
         <entry>qw</entry>
         <entry>;w</entry>
         <entry>wLw</entry>
@@ -676,10 +687,11 @@
         <entry>we</entry>
         <entry>.we</entry>
         <entry>Lw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>220</entry>
         <entry>q</entry>
         <entry>w:w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>.w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
