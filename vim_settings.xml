@@ -10,8 +10,6 @@
         <mark key="^" line="24" column="46" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/navigation/AppNavigator.js" timestamp="1561024400968" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/core/Container.js" timestamp="1560841486828" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/test/AScene/index.js" timestamp="1561104974883">
         <mark key="[" line="62" column="3" />
         <mark key="]" line="62" column="2" />
@@ -31,7 +29,6 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/ResultScene/index.js" timestamp="1561316059067" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1561021669249">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -41,7 +38,6 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1561345402823">
         <mark key="'" line="617" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/container/index.js" timestamp="1561313902815" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/about/VersionScene/VersionScene.js" timestamp="1561317678692">
         <mark key="'" line="5" column="11" />
       </file>
@@ -107,7 +103,6 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookService.js" timestamp="1561315193226" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1561353350447">
         <mark key="'" line="165" column="10" />
         <mark key="[" line="200" column="82" />
@@ -127,7 +122,6 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="183" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/ResultScene/ResultScene.js" timestamp="1561024215490" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/native-modules.md" timestamp="1561102304440">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="19" column="0" />
@@ -167,7 +161,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/npmConfig.js" timestamp="1561307092083" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/npmConfig.js" timestamp="1561360447486">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/state-management.md" timestamp="1560913544609">
         <mark key="'" line="34" column="8" />
         <mark key="[" line="5" column="0" />
@@ -175,8 +171,6 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/utils/RNEnv.js" timestamp="1561104811101" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/siteConfig.js" timestamp="1561000206550" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/package.json" timestamp="1561354084551">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="1" />
@@ -199,8 +193,6 @@
         <mark key="]" line="69" column="16" />
         <mark key="." line="69" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/index.js" timestamp="1561315342764" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/node_modules/docusaurus/lib/static/css/main.css" timestamp="1560841482818" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561187579196">
         <mark key="'" line="11" column="37" />
         <mark key="[" line="43" column="54" />
@@ -208,8 +200,6 @@
         <mark key="." line="43" column="54" />
         <mark key="^" line="43" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/navigation/WeNavigator.js" timestamp="1561107071284" />
-      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@unpourtous/react-native-popup-stub/PopupStub.js" timestamp="1561188772133" />
       <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/ResultScene/ResultScene.js" timestamp="1561316909133">
         <mark key="'" line="5" column="3" />
         <mark key="[" line="10" column="54" />
@@ -229,7 +219,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561305849969" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561359808797">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/components/SimpleButton.js" timestamp="1561021087669">
         <mark key="'" line="20" column="4" />
         <mark key="[" line="20" column="4" />
@@ -237,7 +232,6 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website2/static/css/custom.css" timestamp="1560333244434" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1561354097547">
         <mark key="[" line="20" column="51" />
         <mark key="]" line="20" column="51" />
@@ -251,7 +245,6 @@
         <mark key="." line="4" column="32" />
         <mark key="^" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/exampledoc4.md" timestamp="1560333976120" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/index.js" timestamp="1560153030741">
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="27" />
@@ -270,7 +263,6 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/index.js" timestamp="1561313317024" />
       <file name="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" timestamp="1561318815177">
         <mark key="'" line="11" column="31" />
         <mark key="[" line="1" column="17" />
@@ -309,14 +301,13 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1561307323367">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1561360481143">
         <mark key="'" line="5" column="29" />
-        <mark key="[" line="235" column="61" />
-        <mark key="]" line="235" column="61" />
-        <mark key="." line="235" column="61" />
-        <mark key="^" line="235" column="61" />
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="244" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/AppContainer.js" timestamp="1561106965048" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1561104677374">
         <mark key="'" line="75" column="6" />
       </file>
@@ -338,8 +329,8 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="11" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/npmConfig.js" timestamp="1561307087977">
-        <mark key="[" line="0" column="6" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/npmConfig.js" timestamp="1561360443944">
+        <mark key="[" line="0" column="44" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -361,7 +352,6 @@
         <mark key="^" line="22" column="3" />
         <mark key="." line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/core/index.js" timestamp="1561189041317" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1561107271946">
         <mark key="[" line="56" column="79" />
         <mark key="]" line="56" column="78" />
@@ -377,14 +367,12 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListService.js" timestamp="1561318709168">
         <mark key="'" line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1561354260245">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1561359619867">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/ResultScene/components/NavRightButton.js" timestamp="1561315923156" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/FinanceHomeMoreScene/FinanceHomeMoreScene.js" timestamp="1560244550836" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561357984656">
         <mark key="'" line="16" column="11" />
         <mark key="[" line="43" column="59" />
@@ -398,7 +386,6 @@
         <mark key="]" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/index.js" timestamp="1561023016316" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/services/BookService.js" timestamp="1561118765153">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="44" />
@@ -437,27 +424,25 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" timestamp="1561305677004">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" timestamp="1561359491542">
         <mark key="[" line="34" column="62" />
         <mark key="]" line="34" column="61" />
         <mark key="." line="34" column="61" />
         <mark key="^" line="34" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561316370711" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1560919083173">
         <mark key="[" line="33" column="15" />
         <mark key="]" line="33" column="15" />
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561320101226">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561360095087">
         <mark key="'" line="14" column="6" />
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="15" column="5" />
+        <mark key="[" line="38" column="93" />
+        <mark key="]" line="38" column="92" />
+        <mark key="." line="38" column="92" />
+        <mark key="^" line="38" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
       <jump line="11" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
@@ -562,44 +547,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>M</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJvY2Vzcy5lbnYubnBtQ2xpZW50ID0gJ25wbScK</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHtocmVmOiAnaHR0cDovL2dpdC53ZW9hLmNvbS9hcHAvdHJpZGVudC1kZW1vJywgbGFiZWw6ICdEZW1vIFByb2plY3QnfSwK</text>
+        <text encoding="base64">bm9kZSA+PSA4LjMuMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHtibG9nOiBmYWxzZSwgbGFiZWw6ICdCbG9nJ30sCg==</text>
+        <text encoding="base64">cHJvY2Vzcy5lbnYubnBtQ2xpZW50ID0gJ25wbScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHtkb2M6ICdnZXR0aW5nLXN0YXJ0ZWQnLCBsYWJlbDogJ0RvY3MnfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5Y+v5b+r6YCf5byA5Y+R5pSv5oyB5ZWG5Lia6L+Q6JClQXBw55qE5qGG5p6244CCCg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgVHJpZGVudOeahOebruaghwo=</text>
+        <text encoding="base64">WyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25vZGUtJTNFJTNEOC4zLjAtYnJpZ2h0Z3JlZW4uc3ZnKV0oaHR0cHM6Ly9ub2RlanMub3JnL2VuLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL25wbS0lM0UlM0Q1LjguMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL25vZGVqcy5vcmcvZW4vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZ2l0LSUzRSUzRDIuOS4wLWJyaWdodGdyZWVuLnN2ZyldKGh0dHBzOi8vZ2l0LXNjbS5jb20vKQpbIVtdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvZmFzdGxhbmUtJTNFJTNEMi4xMTcuMS1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2Zhc3RsYW5lLnRvb2xzLykKWyFbXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3BvZC0lM0UlM0QxLjIuMC1icmlnaHRncmVlbi5zdmcpXShodHRwczovL2NvY29hcG9kcy5vcmcvKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5LiA5aWX5Y+v5b+r6YCf5byA5Y+R5pSv5oyB5ZWG5Lia6L+Q6JClQXBw55qE5qGG5p6244CCCg==</text>
+        <text encoding="base64">PGltYWdlIGhyZWY9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvbnBtLSUzRSUzRDUuOC4wLWJyaWdodGdyZWVuLnN2ZyIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGltYWdlIGhyZWY9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2Uvbm9kZS0lM0UlM0Q4LjMuMC1icmlnaHRncmVlbi5zdmciIC8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgVHJpZGVudOeahOebruaghwo=</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0iZmxvYXQ6ICdsZWZ0JyI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmZlYXR1cmUyQmxvY2sgewogICAgcGFkZGluZy10b3A6IDEwcHggIWltcG9ydGFudDsKfQo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -636,7 +621,6 @@
         <entry encoding="base64">XDxQb3B1cFN0dWJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>qw</entry>
         <entry>;w</entry>
         <entry>wLw</entry>
         <entry>w]</entry>
@@ -655,6 +639,7 @@
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.w</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
