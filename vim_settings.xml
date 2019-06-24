@@ -436,12 +436,12 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561360095087">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561361740540">
         <mark key="'" line="14" column="6" />
-        <mark key="[" line="38" column="93" />
-        <mark key="]" line="38" column="92" />
-        <mark key="." line="38" column="92" />
-        <mark key="^" line="38" column="92" />
+        <mark key="[" line="38" column="95" />
+        <mark key="]" line="38" column="95" />
+        <mark key="." line="38" column="95" />
+        <mark key="^" line="38" column="89" />
       </file>
     </filemarks>
     <jumps>
@@ -547,11 +547,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYubnBtQ2xpZW50ID0gJ25wbScK</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
