@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" timestamp="1561098069093">
         <mark key="'" line="24" column="29" />
@@ -458,11 +460,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" timestamp="1561448621582">
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="34" column="61" />
-        <mark key="." line="34" column="61" />
-        <mark key="^" line="34" column="61" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" timestamp="1561452814352">
+        <mark key="'" line="29" column="6" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" timestamp="1561316370711" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1560919083173">
@@ -471,19 +474,17 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561451018730">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="37" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="38" column="37" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561453382859">
+        <mark key="'" line="38" column="6" />
+        <mark key="j" line="43" column="10" />
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="25" />
+        <mark key="." line="62" column="25" />
+        <mark key="^" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/release.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/AppNavigator.md" />
-      <jump line="128" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
       <jump line="107" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/state-management.md" />
       <jump line="34" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/state-management.md" />
@@ -581,61 +582,63 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
       <jump line="12" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" />
+      <jump line="32" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
+      <jump line="28" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/_checkEnv.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgJ2dlbSBpbnN0YWxsIHhjb2RlcHJvaiAtdiAxLjEwLjAnCg==</text>
+      <register name="&quot;" type="4">
+        <text>map().</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>map().</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
+        <text encoding="base64">XDxpbnN0YWxsR3VpZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJ2dlbSBpbnN0YWxsIHhjb2RlcHJvaiAtdiAxLjEwLjAnCg==</text>
+        <text encoding="base64">ICBndWlkZUxpc3QuZm9yRWFjaChpdGVtID0+IHsKICAgIGNvbnNvbGUubG9nKGNoYWxrLnJlZChpdGVtLm1zZyArICfvvIwnICsgaXRlbS5pbnN0YWxsR3VpZGUpKQogIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJGUUEiCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJGUUEiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICIvc2NyaXB0cy9idXR0b25zLmpzIiwK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaW5zdGFsbEd1aWRlOiAn6K+35YiwIGh0dHBzOi8vbm9kZWpzLm9yZy9lbi8g5LiL6L295a6J6KOF5q2j56Gu55qE54mI5pysJwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgc3RvcmXnmoTmlbDmja7nu5PmnoQK</text>
+        <text encoding="base64">ICAgICAgbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">5pWw5o2u5Y+Y5YyW77yMYGRpZmZgIOeahOaJk+WNsAo=</text>
+        <text encoding="base64">ICAgICAgJzguMy4wJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5pW05LiqQXBw55qEcmVkdXggYWN0aW9u5Y+R5Ye66Kem5Y+R55qE5pWw5o2u5Y+Y5YyW6YO95Lya6KKr5omT5Y2w5Ye65p2l77yM5YW35L2T5omT5Y2w5pWI5p6c5aaC5LiL77yaIAohW10oLi9hc3NldHMvaW1hZ2VzLzIwMTktMDYtMjQtMDMtMzEtMjcucG5nKQo=</text>
+        <text encoding="base64">ICAgICAgJ25vZGUgLS12ZXJzaW9uIHwgY3V0IC1kICIgIiAtZiAzIHwgc2VkIC1lICJzL1sgfHZdLy9nIicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgc3RvcmXnmoTmlbDmja7nu5PmnoQK</text>
+        <text encoding="base64">ICAgICAgJ25vZGUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3B1cFN0dWJcPg==</last-search>
+      <last-search encoding="base64">XDxpbnN0YWxsR3VpZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3B1cFN0dWJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnN0YWxsR3VpZGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFsa1w+</entry>
         <entry encoding="base64">XDxwb3NpdGlvblN0eWxlXD4=</entry>
         <entry encoding="base64">XDxXZVJlZERvdFw+</entry>
         <entry encoding="base64">XDxXZUNvbG9yc1w+</entry>
@@ -655,6 +658,7 @@
         <entry encoding="base64">XDxjaGVja05hbWVWYWxpZFw+</entry>
         <entry encoding="base64">XDxCb29rRGV0YWlsU2VydmljZVw+</entry>
         <entry encoding="base64">XDxQb3B1cFN0dWJcPg==</entry>
+        <entry encoding="base64">XDxpbnN0YWxsR3VpZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
