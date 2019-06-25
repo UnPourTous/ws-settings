@@ -372,12 +372,12 @@
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/ResultScene/components/NavRightButton.js" timestamp="1561315923156" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/FinanceHomeMoreScene/FinanceHomeMoreScene.js" timestamp="1560244550836" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561448681442">
-        <mark key="'" line="16" column="11" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="80" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561465463158">
+        <mark key="'" line="107" column="42" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="33" />
+        <mark key="." line="52" column="33" />
+        <mark key="^" line="52" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/faq.md" timestamp="1561450870693">
         <mark key="[" line="1" column="24" />
@@ -456,7 +456,6 @@
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/actionsReducer.js" timestamp="1561104848962" />
     </filemarks>
     <jumps>
-      <jump line="213" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="10" column="44" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
       <jump line="81" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="116" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
@@ -556,13 +555,14 @@
       <jump line="2" column="26" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="34" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
       <jump line="50" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
+      <jump line="107" column="42" filename="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>trident/</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>trident/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWRvXD4=</text>
