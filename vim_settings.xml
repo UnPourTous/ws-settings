@@ -407,11 +407,11 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="85" column="80" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/faq.md" timestamp="1561448877899">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/faq.md" timestamp="1561450013394">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1561318704857">
         <mark key="'" line="26" column="11" />
@@ -583,8 +583,8 @@
       <jump line="12" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Q</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">MS4gZmlzaOS4i+Wni+e7iOaPkOekukFuZHJvaWTnjq/looPmnKrlronoo4UK</text>
       </register>
       <register name="-" type="4">
         <text>Q</text>
@@ -593,7 +593,7 @@
         <text encoding="base64">XDxQb3B1cFN0dWJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImFwaS9BcHBOYXZpZ2F0b3IiCg==</text>
+        <text encoding="base64">MS4gZmlzaOS4i+Wni+e7iOaPkOekukFuZHJvaWTnjq/looPmnKrlronoo4UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJGUUEiCg==</text>
