@@ -120,6 +120,12 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="183" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/package.json" timestamp="1561533456062">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="7" column="8" />
+        <mark key="." line="7" column="8" />
+        <mark key="^" line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/ResultScene/ResultScene.js" timestamp="1561024215490" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/native-modules.md" timestamp="1561102304440">
         <mark key="'" line="20" column="0" />
@@ -226,12 +232,12 @@
         <mark key="." line="38" column="20" />
         <mark key="^" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561520841274">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561534017496">
         <mark key="'" line="57" column="30" />
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="51" column="3" />
-        <mark key="." line="51" column="3" />
-        <mark key="^" line="51" column="3" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="5" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="13" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/components/SimpleButton.js" timestamp="1561021087669">
         <mark key="'" line="20" column="4" />
@@ -418,7 +424,7 @@
         <mark key="^" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561523334721">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1561533327762">
         <mark key="'" line="93" column="4" />
         <mark key="j" line="43" column="10" />
         <mark key="[" line="3" column="5" />
@@ -533,43 +539,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjU3luY1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNwIH4vLmdyYWRsZS9ncmFkbGUucHJvcGVydGllcyB+Ly5ncmFkbGUvZ3JhZGxlLnByb3BlcnRpZXMuYmFjay50cmlkZW50Cg==</text>
+        <text encoding="base64">ICAgICJ0cmlkZW50LWNsaSI6ICJpbmRleC5qcyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJvY2Vzcy5leGl0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBleGVjU3luYyA9IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKS5leGVjU3luYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhlY1N5bmMoJ25wbSBoZWxwJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhlY1N5bmMoJ2VjaG8gJEFORFJPSURfSE9NRScpCg==</text>
+        <text encoding="base64">5a6M5oiQ5LiK6L+w5Lik6YOo5Lul5ZCOCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhpc3RzVHlwZUFubm90YXRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV0dXJuCg==</text>
+        <text encoding="base64">572R57uc546v5aKD6ZyA6KaB5L2/55SoT2ZmaWNlLVdpRmnlubZnaXTlkoxucG3nmoTku6PnkIbphY3nva7ku6PnkIbjgIIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm9kZSBleGVjc3luYyBvdXRwdXQK</text>
+        <text encoding="base64">d25wbeeahOWuieijheingSBgaHR0cDovL3ducG0ud2VvYS5jb20vYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAodmVyc2lvbiA9PT0gdW5kZWZpbmVkKSB7CiAgfQoK</text>
+        <text encoding="base64">d25wbeeahOWuieijheingSBgaHR0cDovL3ducG0ud2VvYS5jb20vYAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIGNtZCwKICAgICAgbXNnOiBgJHtjbWR9IOeJiOacrOajgOafpeWHuumUmeW7uuiurumHjeaWsOWuieijhWAsCiAgICAgIGluc3RhbGxHdWlkZSwKICAgICAgaW5zdGFsbENtZAogICAgfQo=</text>
+        <text encoding="base64">572R57uc546v5aKD6ZyA6KaB5L2/55SoT2ZmaWNlLVdpRmnlubZnaXTlkoxucG3nmoTku6PnkIbphY3nva7ku6PnkIbjgIIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
