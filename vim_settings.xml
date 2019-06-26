@@ -303,12 +303,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1561523361284">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1561542685291">
         <mark key="'" line="5" column="29" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
+        <mark key="[" line="126" column="41" />
+        <mark key="]" line="126" column="47" />
+        <mark key="." line="126" column="47" />
+        <mark key="^" line="126" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/container/AppContainer.js" timestamp="1561106965048" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/test/src/modules/index.js" timestamp="1561191095499">
@@ -539,10 +539,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>亮</text>
+        <text>react-native</text>
       </register>
       <register name="-" type="4">
-        <text>亮</text>
+        <text>react-native</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjU3luY1w+</text>
