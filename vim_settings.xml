@@ -232,12 +232,12 @@
         <mark key="." line="38" column="20" />
         <mark key="^" line="38" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561534017496">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1561538356521">
         <mark key="'" line="57" column="30" />
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="13" column="5" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/BookDetailScene/components/SimpleButton.js" timestamp="1561021087669">
         <mark key="'" line="20" column="4" />
@@ -539,10 +539,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>亮</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>亮</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjU3luY1w+</text>
