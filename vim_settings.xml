@@ -408,11 +408,11 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1561630492127">
-        <mark key="[" line="43" column="51" />
-        <mark key="]" line="43" column="60" />
-        <mark key="^" line="43" column="60" />
-        <mark key="." line="43" column="60" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1561641681553">
+        <mark key="[" line="101" column="30" />
+        <mark key="]" line="101" column="29" />
+        <mark key="." line="101" column="29" />
+        <mark key="^" line="101" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -519,43 +519,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.reverse()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.reverse()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjU3luY1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIOWIl+ihqOaVsOaNrgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZWaWV3LkNlbnRlciAvPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LmZpbHRlcigodiwgaSkgPT4gewogICAgICByZXR1cm4gaSA8IDYKICAgIH0p</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFZpZXcuQ2VudGVyIC8+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFZpZXcgc3R5bGU9eyJzc3MifSA+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZWaWV3LlNUQVJUIHN0eWxlPXt9PgogICAgICAgICAgICAgIDxIVmlldy5TVEFSVD4KICAgICAgICAgICAgICAgIDxWVmlldy5DRW50ZXI+PC9WVmlldy5DRW50ZXI+CiAgICAgICAgICAgICAgPC9IVmlldy5TVEFSVD4KICAgICAgICAgICAgPC9WVmlldy5TVEFSVD4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxWVmlldy5DZW50ZXI+CiAgICAgICAgICAgICAgPFZWaWV3LkVuZD4KICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgPEhWaWV3LlN0YXJ0PgogICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvSFZpZXcuU3RhcnQ+CiAgICAgICAgICAgICAgPC9WVmlldy5FbmQ+CiAgICAgICAgICAgIDwvVlZpZXcuQ2VudGVyPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEhWaWV3LlN0YXJ0IC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5a6M5oiQ5LiK6L+w5Lik6YOo5Lul5ZCOCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFZWaWV3LkVuZCAvPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">572R57uc546v5aKD6ZyA6KaB5L2/55SoT2ZmaWNlLVdpRmnlubZnaXTlkoxucG3nmoTku6PnkIbphY3nva7ku6PnkIbjgIIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsZXg6IDEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d25wbeeahOWuieijheingSBgaHR0cDovL3ducG0ud2VvYS5jb20vYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZWaWV3LkNlbnRlciAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d25wbeeahOWuieijheingSBgaHR0cDovL3ducG0ud2VvYS5jb20vYAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
