@@ -82,6 +82,13 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/onekm-react/src/pages/index/index.js" timestamp="1561715710283">
+        <mark key="'" line="19" column="3" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="19" />
+        <mark key="." line="30" column="19" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/popup/UI.js" timestamp="1561024841762">
         <mark key="[" line="18" column="2" />
         <mark key="]" line="18" column="1" />
@@ -423,7 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="36" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="11" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="27" column="6" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" />
@@ -523,13 +529,14 @@
       <jump line="11" column="25" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="26" column="32" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="18" column="13" filename="$USER_HOME$/Projects/onekm/src/pages/index.wpy" />
+      <jump line="19" column="3" filename="$USER_HOME$/Projects/onekm-react/src/pages/index/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Math.random() * '1000'</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Math.random() * '1000'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjU3luY1w+</text>
@@ -538,31 +545,31 @@
         <text encoding="base64">ICBWVmlldy5QU3RhcnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Vmlldz48VGV4dD5IZWxsbywgV29ybGQ8L1RleHQ+PC9WaWV3Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3JlYXRlQ2xhc3MgKCkgeyAgcmV0dXJuIFZWaWV3LmEgfQp3cmFwKFZWaWV3KXsKICBWVmlldy5QU3RhcnQgPXsKICAgIFNTdGFydDogY3JlYXRlQ2xhc3MoKQogIH0KCiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0Cgp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0nYWRkX2J0bicgb25DbGljaz17dGhpcy5wcm9wcy5hZGR9Pis8L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0nZGVjX2J0bicgb25DbGljaz17dGhpcy5wcm9wcy5kZWN9Pi08L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0nZGVjX2J0bicgb25DbGljaz17dGhpcy5wcm9wcy5hc3luY0FkZH0+YXN5bmM8L0J1dHRvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBWVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbGFzcyBBIHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3JlYXRyZQo=</text>
+        <text encoding="base64">Y3JlYXRlQ2xhc3MgKCkgeyAgcmV0dXJuIFZWaWV3LmEgfQp3cmFwKFZWaWV3KXsKICBWVmlldy5QU3RhcnQgPXsKICAgIFNTdGFydDogY3JlYXRlQ2xhc3MoKQogIH0KCiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0Cgp9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBWVmlldy5QU3RhcnQK</text>
+        <text encoding="base64">ICBWVmlldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VlZpZXcueHh4Lnh4eC5idWlsZCgpCg==</text>
+        <text encoding="base64">ICBjbGFzcyBBIHsKICAgIAogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIDxWaWV3IHN0eWxlPXt7fX0+PC9WaWV3Pgo=</text>
+        <text encoding="base64">Y3JlYXRyZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZXRTdGF0ZSgpCg==</text>
+        <text encoding="base64">ICBWVmlldy5QU3RhcnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
