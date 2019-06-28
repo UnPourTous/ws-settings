@@ -430,8 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
-      <jump line="11" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="27" column="6" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" />
       <jump line="26" column="8" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" />
       <jump line="28" column="29" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/ResultScene.js" />
@@ -530,61 +528,62 @@
       <jump line="26" column="32" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="18" column="13" filename="$USER_HOME$/Projects/onekm/src/pages/index.wpy" />
       <jump line="19" column="3" filename="$USER_HOME$/Projects/onekm-react/src/pages/index/index.js" />
+      <jump line="38" column="26" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
+      <jump line="53" column="2" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Math.random() * '1000'</text>
-      </register>
-      <register name="-" type="4">
-        <text>Math.random() * '1000'</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxleGVjU3luY1w+</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBWVmlldy5QU3RhcnQK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Vmlldz48VGV4dD5IZWxsbywgV29ybGQ8L1RleHQ+PC9WaWV3Pgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0nYWRkX2J0bicgb25DbGljaz17dGhpcy5wcm9wcy5hZGR9Pis8L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0nZGVjX2J0bicgb25DbGljaz17dGhpcy5wcm9wcy5kZWN9Pi08L0J1dHRvbj4KICAgICAgICA8QnV0dG9uIGNsYXNzTmFtZT0nZGVjX2J0bicgb25DbGljaz17dGhpcy5wcm9wcy5hc3luY0FkZH0+YXN5bmM8L0J1dHRvbj4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIC8+Cg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxfZ2V0R3JvdXBDb2RlXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8VGV4dD57dGhpcy5zdGF0ZS5ncm91cENvZGV9PC9UZXh0Pgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY3JlYXRlZEF0OiByZXMuZ2V0KCdjcmVhdGVkQXQnKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldFN0YXRlKHsKICAgICAgICAgIGdyb3VwQ29kZTogdGhpcy5fZ2V0R3JvdXBDb2RlKHJlcy5faWQpLAogICAgICAgICAgLy8gY3JlYXRlZEF0OiByZXMuZ2V0KCdjcmVhdGVkQXQnKQogICAgICAgIH0pCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgIGRiLmNvbGxlY3Rpb24oJ2dyb3VwJykuZG9jKHJlcy5faWQpLnVwZGF0ZSh7CiAgICAgICAgLy8gICAgIGRhdGE6IHsKICAgICAgICAvLyAgICAgICBncm91cENvZGU6IF8uaW5jKDEyMCkKICAgICAgICAvLyAgICAgfSwKICAgICAgICAvLyAgICAgc3VjY2VzczogKHJlcykgPT4gewogICAgICAgIC8vICAgICAgIGNvbnNvbGUubG9nKCd1cGRhdGUgcmVzJywgcmVzKQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gICB9KQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3JlYXRlQ2xhc3MgKCkgeyAgcmV0dXJuIFZWaWV3LmEgfQp3cmFwKFZWaWV3KXsKICBWVmlldy5QU3RhcnQgPXsKICAgIFNTdGFydDogY3JlYXRlQ2xhc3MoKQogIH0KCiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0CiAgVlZpZXcuUFN0YXJ0Cgp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBWVmlldwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcy5faWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjbGFzcyBBIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRyZQo=</text>
+        <text encoding="base64">ICAgICAgICBncm91cENvZGU6IF8uaW5jKDEpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBWVmlldy5QU3RhcnQK</text>
+        <text encoding="base64">ICAgICAgICByZXMuX2lkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGVjU3luY1w+</last-search>
+      <last-search encoding="base64">XDxfZ2V0R3JvdXBDb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjU3luY1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0R3JvdXBDb2RlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxQaWNrZXJIZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0UHJvZEluZm9cPg==</entry>
         <entry encoding="base64">XDxQcm9kSW5mb1NlcnZpY2VcPg==</entry>
@@ -604,9 +603,9 @@
         <entry encoding="base64">XDxzdWRvXD4=</entry>
         <entry encoding="base64">XDx2ZXJzaW9uQ21kXD4=</entry>
         <entry encoding="base64">XDxleGVjU3luY1w+</entry>
+        <entry encoding="base64">XDxfZ2V0R3JvdXBDb2RlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>;w</entry>
         <entry>wLw</entry>
         <entry>w]</entry>
         <entry>s</entry>
@@ -625,6 +624,7 @@
         <entry>qw</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
