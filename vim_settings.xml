@@ -66,6 +66,9 @@
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/onekm/src/pages/index.wpy" timestamp="1561714810623">
+        <mark key="'" line="18" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/core/modules/example/DemoScene/DemoScene.js" timestamp="1561021669249">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -420,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="51" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="12" column="36" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="40" column="0" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
       <jump line="11" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/ResultScene/components/NavRightButton.js" />
@@ -520,6 +522,7 @@
       <jump line="13" column="5" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="11" column="25" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="26" column="32" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="18" column="13" filename="$USER_HOME$/Projects/onekm/src/pages/index.wpy" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
