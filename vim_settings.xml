@@ -138,7 +138,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="22" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1561542685291">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1562035629822">
         <mark key="'" line="5" column="29" />
         <mark key="[" line="126" column="41" />
         <mark key="]" line="126" column="47" />
@@ -312,11 +312,11 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1561520969482">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1562035955296">
         <mark key="'" line="57" column="29" />
-        <mark key="[" line="42" column="63" />
-        <mark key="]" line="42" column="67" />
-        <mark key="." line="42" column="67" />
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="13" />
+        <mark key="." line="26" column="13" />
         <mark key="^" line="42" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/package.json" timestamp="1561354084551">
@@ -551,10 +551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>根据登记情况</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>根据登记情况</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRUaW1lb3V0XD4=</text>
