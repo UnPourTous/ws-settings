@@ -276,6 +276,12 @@
         <mark key="^" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" timestamp="1562226876580">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" timestamp="1561523353170">
         <mark key="'" line="10" column="44" />
         <mark key="[" line="8" column="24" />
@@ -465,9 +471,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
-      <jump line="7" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
-      <jump line="219" column="19" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="5" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="14" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="151" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
@@ -565,13 +568,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/website/static/scripts/mta.js" />
       <jump line="114" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
       <jump line="63" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZGFwdGVyJywgY29uZmlnKQo=</text>
+        <text encoding="base64">IyMg5oqA5pyv5qCICmBgYAoxLiBudm0KMi4gbm9kZQozLiBmYXN0bGFuZSDmiZPljIUKNC4gZ3VscCAKYGBgCgoKIyMgUG9kCiMjIyAxLiBQb2Qg5a6J6KOFCiMjIyBwb2QgaW5zdGFsbCAK</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IFByb2plY3Q=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzQ2hlY2tSZXN1bHRcPg==</text>
@@ -580,28 +586,28 @@
         <text encoding="base64">ICAgICAgICBzdGFydENyZWF0ZVByb2plY3QoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZGFwdGVyJywgY29uZmlnKQo=</text>
+        <text encoding="base64">IyMg5oqA5pyv5qCICmBgYAoxLiBudm0KMi4gbm9kZQozLiBmYXN0bGFuZSDmiZPljIUKNC4gZ3VscCAKYGBgCgoKIyMgUG9kCiMjIyAxLiBQb2Qg5a6J6KOFCiMjIyBwb2QgaW5zdGFsbCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhZGFwdGVyJywgY29uZmlnKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0Q3JlYXRlUHJvamVjdCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIHN0YXJ0Q3JlYXRlUHJvamVjdCgpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
