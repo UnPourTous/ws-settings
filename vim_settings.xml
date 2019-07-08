@@ -44,6 +44,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1562558140246">
+        <mark key="[" line="165" column="13" />
+        <mark key="]" line="165" column="13" />
+        <mark key="." line="165" column="13" />
+        <mark key="^" line="156" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" timestamp="1562322067300">
         <mark key="[" line="101" column="21" />
       </file>
@@ -146,6 +152,12 @@
         <mark key="^" line="26" column="5" />
         <mark key="." line="183" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/MainTab.js" timestamp="1562558074488">
+        <mark key="[" line="154" column="60" />
+        <mark key="]" line="154" column="61" />
+        <mark key="." line="154" column="61" />
+        <mark key="^" line="154" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1561107271946">
         <mark key="[" line="56" column="79" />
         <mark key="]" line="56" column="78" />
@@ -231,6 +243,7 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1562558046962" />
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/services/BookService.js" timestamp="1561118765153">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="44" />
@@ -266,6 +279,17 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/EmptyPet.js" timestamp="1562558106258">
+        <mark key="[" line="39" column="88" />
+        <mark key="]" line="39" column="89" />
+        <mark key="." line="39" column="89" />
+        <mark key="^" line="39" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/ios/Main copy2-Info.plist" timestamp="1562558131547">
+        <mark key="[" line="106" column="14" />
+        <mark key="]" line="106" column="14" />
+        <mark key="." line="106" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/config/PlanStatus.js" timestamp="1562507964045">
         <mark key="[" line="2" column="11" />
@@ -384,10 +408,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AAA</text>
+        <text>咪</text>
       </register>
       <register name="-" type="4">
-        <text>AAA</text>
+        <text>咪</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQbGFuTGlzdFw+</text>
