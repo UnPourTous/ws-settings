@@ -30,6 +30,13 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/test.js" timestamp="1562589813515">
+        <mark key="'" line="6" column="16" />
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/actionsReducer.js" timestamp="1562511032105">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
@@ -50,17 +57,11 @@
         <mark key="." line="165" column="13" />
         <mark key="^" line="156" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" timestamp="1562322067300">
-        <mark key="[" line="101" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1562511954782">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="33" column="60" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1562322078459">
-        <mark key="[" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/website/sidebars.json" timestamp="1560251543076">
         <mark key="[" line="5" column="3" />
@@ -182,9 +183,6 @@
         <mark key="^" line="53" column="3" />
         <mark key="." line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/navigation.md" timestamp="1562322050645">
-        <mark key="[" line="21" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" timestamp="1562226876580">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -251,6 +249,17 @@
         <mark key="." line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1562558046962" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/VView.js" timestamp="1562591184884">
+        <mark key="'" line="48" column="15" />
+        <mark key="[" line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1562591160500">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="16" />
+        <mark key="." line="28" column="16" />
+        <mark key="^" line="28" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/core/modules/book/services/BookService.js" timestamp="1561118765153">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="5" column="44" />
@@ -304,6 +313,13 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" timestamp="1562590083657">
+        <mark key="'" line="38" column="6" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="43" />
+        <mark key="^" line="30" column="41" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1562071808669">
         <mark key="[" line="250" column="6" />
         <mark key="]" line="250" column="5" />
@@ -312,16 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="20" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" />
-      <jump line="10" column="7" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" />
-      <jump line="43" column="26" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookDetailScene/BookDetailScene.js" />
-      <jump line="5" column="11" filename="$USER_HOME$/Projects/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
-      <jump line="5" column="3" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
-      <jump line="41" column="1" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/about/VersionScene/VersionScene.js" />
-      <jump line="10" column="15" filename="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
-      <jump line="23" column="52" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListScene.js" />
-      <jump line="22" column="19" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
       <jump line="9" column="19" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
       <jump line="10" column="31" filename="$USER_HOME$/Projects/demo2/WeBookStore/src/modules/book/BookListScene/BookListService.js" />
       <jump line="616" column="8" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" />
@@ -349,8 +355,6 @@
       <jump line="25" column="11" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="18" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="13" column="5" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
-      <jump line="11" column="25" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
-      <jump line="26" column="32" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="18" column="13" filename="$USER_HOME$/Projects/onekm/src/pages/index.wpy" />
       <jump line="19" column="3" filename="$USER_HOME$/Projects/onekm-react/src/pages/index/index.js" />
       <jump line="38" column="26" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
@@ -412,46 +416,58 @@
       <jump line="52" column="14" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PlanListItem.js" />
       <jump line="52" column="29" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
+      <jump line="15" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="24" column="21" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="26" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="4" column="16" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/test.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="27" column="14" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
+      <jump line="26" column="7" filename="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" />
+      <jump line="44" column="15" filename="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/VView.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>咪</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZXQgU1N0YXJ0ICgpIHsKICAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnZmxleC1zdGFydCcKICAgIHJldHVybiB0aGlzLl9jcmVhdGVDbGFzcyh0aGlzLnN0eWxlcykKICB9CgogIGdldCBTRW5kICgpIHsKICAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnZmxleC1lbmQnCiAgICByZXR1cm4gdGhpcy5fY3JlYXRlQ2xhc3ModGhpcy5zdHlsZXMpCiAgfQogIAogIGdldCBTQ2VudGVyICgpIHsKICAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnY2VudGVyJwogICAgcmV0dXJuIHRoaXMuX2NyZWF0ZUNsYXNzKHRoaXMuc3R5bGVzKQogIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>咪</text>
+        <text>Center</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVQbGFuTGlzdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzdGF0dXNUZXh0ID8gPEZvcm1JbnB1dAogICAgICAgICAgICBsYWJlbD17J+iuoeWIkueKtuaAgSd9CiAgICAgICAgICAgIHZhbHVlPXtzdGF0dXNUZXh0fQogICAgICAgICAgICBlZGl0YWJsZT17ZmFsc2V9CiAgICAgICAgICAvPiA6IG51bGx9Cg==</text>
+      <register name="0" type="4">
+        <text>SCenter</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiAK</text>
+        <text encoding="base64">ICBnZXQgU1N0YXJ0ICgpIHsKICAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnZmxleC1zdGFydCcKICAgIHJldHVybiB0aGlzLl9jcmVhdGVDbGFzcyh0aGlzLnN0eWxlcykKICB9CgogIGdldCBTRW5kICgpIHsKICAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnZmxleC1lbmQnCiAgICByZXR1cm4gdGhpcy5fY3JlYXRlQ2xhc3ModGhpcy5zdHlsZXMpCiAgfQogIAogIGdldCBTQ2VudGVyICgpIHsKICAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnY2VudGVyJwogICAgcmV0dXJuIHRoaXMuX2NyZWF0ZUNsYXNzKHRoaXMuc3R5bGVzKQogIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExWTSBmcm9tICcuLi8uLi9jb25zdGFudHMvTGFiZWxWYWx1ZU1hcHBpbmcnCg==</text>
+        <text encoding="base64">ICBnZXQgU0VuZCAoKSB7CiAgICB0aGlzLnN0eWxlcy5hbGlnbkl0ZW1zID0gJ2ZsZXgtZW5kJwogICAgcmV0dXJuIHRoaXMuX2NyZWF0ZUNsYXNzKHRoaXMuc3R5bGVzKQogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgV2VQcm9wVHlwZXMgfSBmcm9tICcuLi8uLi8uLi8uLi9iaXpDb21wb25lbnRzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQU3RhcnQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQU3RhcnQnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGJhY2tncm91bmRDb2xvcgo=</text>
+        <text encoding="base64">ICAgIC8vIH0KICAgIC8vIGlmIChuYW1lID09PSAnUEVuZCcpIHsKICAgIC8vICAgdGhpcy5zdHlsZXMuanVzdGlmeUNvbnRlbnQgPSAnZmxleC1lbmQnCiAgICAvLyAgIGNvbnNvbGUubG9nKCdQRW5kJykKICAgIC8vICAgcmV0dXJuIHRoaXMKICAgIC8vIH0KICAgIC8vIGlmIChuYW1lID09PSAnUENlbnRlcicpIHsKICAgIC8vICAgdGhpcy5zdHlsZXMuanVzdGlmeUNvbnRlbnQgPSAnZmxleC1jZW50ZXInCiAgICAvLyAgIGNvbnNvbGUubG9nKCdQQ2VudGVyJykKICAgIC8vICAgcmV0dXJuIHRoaXMKICAgIC8vIH0KICAgIC8vCiAgICAvLyBpZiAobmFtZSA9PT0gJ1NTdGFydCcpIHsKICAgIC8vICAgdGhpcy5zdHlsZXMuYWxpZ25JdGVtcyA9ICdmbGV4LXN0YXJ0JwogICAgLy8gICByZXR1cm4gdGhpcy5fY3JlYXRlQ2xhc3ModGhpcy5zdHlsZXMpCiAgICAvLyB9CiAgICAvLyBpZiAobmFtZSA9PT0gJ1NFbmQnKSB7CiAgICAvLyAgIHRoaXMuc3R5bGVzLmFsaWduSXRlbXMgPSAnZmxleC1lbmQnCiAgICAvLyAgIHJldHVybiB0aGlzLl9jcmVhdGVDbGFzcyh0aGlzLnN0eWxlcykKICAgIC8vIH0KICAgIC8vIGlmIChuYW1lID09PSAnU0NlbnRlcicpIHsKICAgIC8vICAgdGhpcy5zdHlsZXMuYWxpZ25JdGVtcyA9ICdmbGV4LWNlbnRlcicKICAgIC8vICAgcmV0dXJuIHRoaXMuX2NyZWF0ZUNsYXNzKHRoaXMuc3R5bGVzKQogICAgLy8gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKG5hbWUpCiAgICAvLyBpZiAobmFtZSA9PT0gJ1BTdGFydCcpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IGJhY2tncm91bmRDb2xvciA9IHByb3BzLnBvc2l0aW9uLmludGVycG9sYXRlKHsKICAgICAgICAgICAgaW5wdXRSYW5nZSwKICAgICAgICAgICAgb3V0cHV0UmFuZ2U6IGlucHV0UmFuZ2UubWFwKAogICAgICAgICAgICAgIGlucHV0SW5kZXggPT4gKGlucHV0SW5kZXggPT09IGkgPyAnI0Q2MzU2QycgOiAnIzIyMicpCiAgICAgICAgICAgICkKICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFZWaWV3LlBTdGFydC5TRW5kKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25DaGFuZ2VUZXh0PXsodmFsdWUpID0+IHRoaXMuX29uQ2hhbmdlQ3VzdG9tRnJlcXVlbmN5KHZhbHVlKX0gLz4K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
