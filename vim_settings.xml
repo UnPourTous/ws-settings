@@ -191,6 +191,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1562574819736">
+        <mark key="[" line="105" column="4" />
+        <mark key="]" line="105" column="3" />
+        <mark key="^" line="105" column="3" />
+        <mark key="." line="105" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1562511370210">
         <mark key="'" line="250" column="11" />
         <mark key="[" line="163" column="73" />
@@ -218,6 +224,7 @@
         <mark key="^" line="57" column="42" />
         <mark key="." line="57" column="42" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/TianYanCustom/TianYanCustom.js" timestamp="1562574623461" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/trident-config.json" timestamp="1562245831074">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="13" />
