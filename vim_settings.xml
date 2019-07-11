@@ -197,7 +197,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1562833222136">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1562838592393">
         <mark key="[" line="105" column="4" />
         <mark key="]" line="105" column="3" />
         <mark key="^" line="105" column="3" />
@@ -335,12 +335,11 @@
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" timestamp="1562590083657">
-        <mark key="'" line="38" column="6" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="43" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" timestamp="1562839477358">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
         <mark key="^" line="30" column="41" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1562071808669">
         <mark key="[" line="250" column="6" />
@@ -453,8 +452,8 @@
       <jump line="4" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c3RhdGljIA==</text>
@@ -472,25 +471,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyByZXBvcnRDbGlja0FjdGlvbiAoY2xpY2tFdmVudE5hbWUsIGV4dEt2KSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyByZXBvcnRDbGlja0FjdGlvbiAoY2xpY2tFdmVudE5hbWUsIGV4dEt2KSB7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBzdGFydFRpbWVJbk1zCiAgICogQHBhcmFtIGVuZFRpbWVJbk1zCiAgICogQHBhcmFtIHNjZW5lVXJsCiAgICogQHBhcmFtIHR5cGUKICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXBvcnQK</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBzdGFydFRpbWVJbk1zCiAgICogQHBhcmFtIGVuZFRpbWVJbk1zCiAgICogQHBhcmFtIHNjZW5lVXJsCiAgICogQHBhcmFtIHR5cGUKICAgKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICByZXBvcnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0eXBlb2YgdGhpcy5kYXRhUmVwb3J0SW5zdGFuY2VbbWV0aG9kTmFtZV0gPT09ICdmdW5jdGlvbicpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICh0eXBlb2YgdGhpcy5kYXRhUmVwb3J0SW5zdGFuY2VbbWV0aG9kTmFtZV0gPT09ICdmdW5jdGlvbicpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
