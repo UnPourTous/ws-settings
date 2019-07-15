@@ -6,6 +6,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/PollingHelper.js" timestamp="1563159468821" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1562931564841" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1562843540084">
         <mark key="[" line="105" column="4" />
@@ -26,12 +27,6 @@
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/services/SmartCDepositService.js" timestamp="1562843845857">
-        <mark key="[" line="146" column="6" />
-        <mark key="]" line="146" column="5" />
-        <mark key="^" line="146" column="5" />
-        <mark key="." line="146" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1562591160500">
         <mark key="'" line="28" column="9" />
@@ -57,12 +52,6 @@
         <mark key="]" line="137" column="3" />
         <mark key="^" line="137" column="3" />
         <mark key="." line="137" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/PurchaseScene/PurchaseScene.js" timestamp="1562843676376">
-        <mark key="[" line="100" column="2" />
-        <mark key="]" line="100" column="1" />
-        <mark key="^" line="100" column="1" />
-        <mark key="." line="100" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1562511728556">
         <mark key="[" line="238" column="41" />
