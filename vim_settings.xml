@@ -28,6 +28,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1563160610221">
+        <mark key="[" line="823" column="6" />
+        <mark key="]" line="814" column="0" />
+        <mark key="^" line="814" column="9" />
+        <mark key="." line="814" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListScene.js" timestamp="1562591160500">
         <mark key="'" line="28" column="9" />
         <mark key="[" line="28" column="14" />
@@ -119,9 +125,9 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1562931564841" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1563160339072" />
     </filemarks>
     <jumps>
-      <jump line="25" column="11" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="18" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="13" column="5" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="18" column="13" filename="$USER_HOME$/Projects/onekm/src/pages/index.wpy" />
@@ -221,10 +227,11 @@
       <jump line="55" column="18" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
       <jump line="58" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
       <jump line="4" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
+      <jump line="802" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_msg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGBrXFxgYGAK</text>
       </register>
       <register name="-" type="4">
         <text>_msg</text>
@@ -236,7 +243,7 @@
         <text>reportElementDisplay</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGBrXFxgYGAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -245,22 +252,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyByZXBvcnRDbGlja0FjdGlvbiAoY2xpY2tFdmVudE5hbWUsIGV4dEt2KSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyByZXBvcnRDbGlja0FjdGlvbiAoY2xpY2tFdmVudE5hbWUsIGV4dEt2KSB7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBzdGFydFRpbWVJbk1zCiAgICogQHBhcmFtIGVuZFRpbWVJbk1zCiAgICogQHBhcmFtIHNjZW5lVXJsCiAgICogQHBhcmFtIHR5cGUKICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXBvcnQK</text>
+        <text encoding="base64">ICAvKioKICAgKgogICAqIEBwYXJhbSBzdGFydFRpbWVJbk1zCiAgICogQHBhcmFtIGVuZFRpbWVJbk1zCiAgICogQHBhcmFtIHNjZW5lVXJsCiAgICogQHBhcmFtIHR5cGUKICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICByZXBvcnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICh0eXBlb2YgdGhpcy5kYXRhUmVwb3J0SW5zdGFuY2VbbWV0aG9kTmFtZV0gPT09ICdmdW5jdGlvbicpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -336,6 +343,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
