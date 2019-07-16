@@ -7,6 +7,13 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/PollingHelper.js" timestamp="1563159468821" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/cgi/CGI.js" timestamp="1563251889435">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="5" />
+        <mark key="^" line="36" column="5" />
+        <mark key="." line="36" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" timestamp="1563243069198" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/adapter/TransactionListDetailConfig.js" timestamp="1563164757261" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1563160610221">
@@ -17,12 +24,12 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/error/ProdPurchaseWarningBarV2.js" timestamp="1563161602956" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/NetworkMonitor.js" timestamp="1563162869690" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1563245809971">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="83" column="6" />
-        <mark key="]" line="83" column="5" />
-        <mark key="." line="83" column="5" />
-        <mark key="^" line="83" column="5" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1563252208105">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="141" column="5" />
+        <mark key="]" line="142" column="4" />
+        <mark key="." line="142" column="4" />
+        <mark key="^" line="142" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" timestamp="1563157893206">
         <mark key="'" line="4" column="5" />
@@ -51,8 +58,6 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/LoginHelper.js" timestamp="1563162923755" />
     </filemarks>
     <jumps>
-      <jump line="61" column="14" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
       <jump line="10" column="21" filename="$USER_HOME$/Projects/onekm-react/project.config.json" />
       <jump line="62" column="4" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
@@ -151,52 +156,48 @@
       <jump line="110" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/Http.js" />
       <jump line="53" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/cgi/CGI.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5jdXN0b21IZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="-" type="4">
-        <text>customHeaders</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aXN0aWNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>[{
-        match,
-        headers
-      }]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNsaWVudEhlYWRlcnMgPSAgfHwge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5jdXN0b21IZWFkZXJzCg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luSGVhZGVycyA9Cg==</text>
+        <text encoding="base64">ICAgIGFwaUNvbmZpZy5iYXNlVVJMICsgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGJhc2VVcmwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luSGVhZGVycyA9IHRoaXMuZGVmYXVsdHMuaGVhZGVycy5jb21tb24K</text>
+        <text encoding="base64">ICAgIGJhc2VVCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5kZWZhdWx0cy5oZWFkZXJzW21ldGhvZF0gPSB7Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      ...originHeaders,
-      ...customHeaders
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBvcmlnaW5IZWFkZXJzID0ge30K</text>
+        <text encoding="base64">ICAgICAgaXRlbS5tYXRjaC50ZXN0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
