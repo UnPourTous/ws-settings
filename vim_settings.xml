@@ -15,6 +15,9 @@
         <mark key="." line="36" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" timestamp="1563243069198" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1563263130074">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/adapter/TransactionListDetailConfig.js" timestamp="1563164757261" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/error/ProdPurchaseWarningBarV2.js" timestamp="1563161602956" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/NetworkMonitor.js" timestamp="1563162869690" />
@@ -38,8 +41,14 @@
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1563261698504">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1563262993883">
+        <mark key="'" line="44" column="14" />
+        <mark key="[" line="349" column="0" />
+        <mark key="]" line="349" column="0" />
+        <mark key="." line="349" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1563263000921">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/Http.js" timestamp="1563243664802">
         <mark key="'" line="110" column="2" />
@@ -68,9 +77,6 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/LoginHelper.js" timestamp="1563162923755" />
     </filemarks>
     <jumps>
-      <jump line="35" column="18" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="88" column="9" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="91" column="51" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="97" column="2" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="26" column="2" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="25" column="2" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
@@ -168,13 +174,16 @@
       <jump line="15" column="38" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="106" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" />
+      <jump line="47" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/node_modules/react-native/Libraries/react-native/react-native-implementation.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">UmVhY3ROYXRpdmUuV2ViVmlldwo=</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aXN0aWNzXD4=</text>
@@ -183,31 +192,31 @@
         <text encoding="base64">ICAgIGNvbnN0IGNsaWVudEhlYWRlcnMgPSAgfHwge30K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">UmVhY3ROYXRpdmUuV2ViVmlldwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">aW1wb3J0ICdyZWFjdC1uYXRpdmUtcHJveHknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFwaUNvbmZpZy5iYXNlVVJMICsgCg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhc2VVcmwK</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJhc2VVCg==</text>
+        <text encoding="base64">ICAgIGFwaUNvbmZpZy5iYXNlVVJMICsgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgIGJhc2VVcmwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VVCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXRlbS5tYXRjaC50ZXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
