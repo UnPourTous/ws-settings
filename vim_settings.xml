@@ -54,6 +54,11 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" timestamp="1563446466400">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1563335577760">
         <mark key="'" line="68" column="6" />
         <mark key="[" line="75" column="36" />
@@ -116,9 +121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="92" column="2" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="111" column="34" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="30" column="26" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="34" column="18" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="42" column="18" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
@@ -216,46 +218,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
       <jump line="68" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="61" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" />
+      <jump line="27" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>APIClient.setHeader()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aXN0aWNzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>common</text>
+      <register name="0" type="2">
+        <text encoding="base64">cHJvY2Nlc3NBKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBjYXJkU3R5bGU6IHsKICAgICAgYmFja2dyb3VuZENvbG9yOiAnYmxhY2snCiAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhcmRTdHlsZTogewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2VzdHVyZXNFbmFibGVkOiB0cnVlLAogICAgICBoZWFkZXJCYWNrVGl0bGU6IG51bGwsCiAgICAgIGhlYWRlclRpdGxlQWxsb3dGb250U2NhbGluZzogZmFsc2UsCiAgICAgIGhlYWRlclN0eWxlOiB7CiAgICAgICAgYm9yZGVyV2lkdGg6IDAsCiAgICAgICAgYm9yZGVyQm90dG9tV2lkdGg6IDAsCiAgICAgICAgZWxldmF0aW9uOiAwCiAgICAgIH0sCiAgICAgIGhlYWRlclRpdGxlU3R5bGU6IHsKICAgICAgICBmb250V2VpZ2h0OiAnbm9ybWFsJywKICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgICAgIH0KICAgIH0sCiAgICBoZWFkZXJNb2RlOiAnc2NyZWVuJywK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hdmlnYXRpb25PcHRpb25zOiB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3llbGxvdycsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QXV0aFNlcnZpY2UgCiAgc2V0QXV0b0luZm8KCkN1c3RvbUFQSUNsaWVudCB7CiAgYXhpb3MucmUKICBBdXRoU2VydmljZQogIHNldEF1dG9JbmZvCn0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QVBJQ2xpZW50LnNldEhlYWRlcigpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CiAgICBjYXJkU3R5bGU6IHsKICAgICAgYmFja2dyb3VuZENvbG9yOiAnYmxhY2snCiAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhcmRTdHlsZTogewogICAgICBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLnBhZ2VCYWNrZ3JvdW5kCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
