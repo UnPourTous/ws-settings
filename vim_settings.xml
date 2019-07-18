@@ -38,7 +38,7 @@
         <mark key="^" line="814" column="9" />
         <mark key="." line="814" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563459505594" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563463795267" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1563336275305">
         <mark key="'" line="65" column="17" />
         <mark key="[" line="62" column="11" />
@@ -52,7 +52,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1563457210429" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1563463963580">
+        <mark key="[" line="166" column="12" />
+        <mark key="]" line="166" column="12" />
+        <mark key="^" line="166" column="19" />
+        <mark key="." line="166" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" timestamp="1563446466400">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -222,11 +227,11 @@
       <jump line="54" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDogbnVsbH0=</text>
       </register>
       <register name="-" type="4">
-        <text>APIClient.setHeader()</text>
+        <text encoding="base64">IDogbnVsbH0=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0aXN0aWNzXD4=</text>
