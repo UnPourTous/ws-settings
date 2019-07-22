@@ -21,11 +21,6 @@
         <mark key="." line="19" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1563334504093" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1563274496184">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1563336114470">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -33,12 +28,9 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1563421776451">
-        <mark key="[" line="823" column="6" />
-        <mark key="]" line="814" column="0" />
-        <mark key="^" line="814" column="9" />
-        <mark key="." line="814" column="0" />
+        <mark key="[" line="822" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563464792114">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563765030447">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="^" line="127" column="28" />
