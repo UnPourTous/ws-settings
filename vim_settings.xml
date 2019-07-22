@@ -13,36 +13,14 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1563336114470">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="28" column="32" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/pugs-app/node_modules/react-native/Libraries/Animated/src/createAnimatedComponent.js" timestamp="1563787688114">
+        <mark key="[" line="156" column="6" />
+        <mark key="]" line="156" column="5" />
+        <mark key="^" line="156" column="5" />
+        <mark key="." line="156" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1563769579186">
-        <mark key="[" line="99" column="12" />
-        <mark key="]" line="99" column="16" />
-        <mark key="." line="99" column="16" />
-        <mark key="^" line="99" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/build/trident/index.html" timestamp="1563769442918" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1563421776451">
-        <mark key="[" line="822" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563765030447">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="28" />
-        <mark key="." line="127" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/copy.js" timestamp="1563781819383" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/package.json" timestamp="1563768606154" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1563336275305">
-        <mark key="'" line="65" column="17" />
-        <mark key="[" line="62" column="11" />
-        <mark key="]" line="62" column="11" />
-        <mark key="^" line="20" column="44" />
-        <mark key="." line="62" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/WeNavigator.js" timestamp="1563335774017">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="27" />
@@ -55,17 +33,20 @@
         <mark key="^" line="166" column="19" />
         <mark key="." line="166" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" timestamp="1563446466400">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" timestamp="1563464690628">
         <mark key="'" line="106" column="14" />
         <mark key="[" line="103" column="22" />
         <mark key="]" line="103" column="28" />
         <mark key="." line="103" column="28" />
         <mark key="^" line="103" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/node_modules/react-native/Libraries/Animated/src/nodes/AnimatedInterpolation.js" timestamp="1563787159528" />
+      <file name="$USER_HOME$/Projects/pugs-app/index.js" timestamp="1563783967958">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1563335577760">
         <mark key="'" line="68" column="6" />
@@ -74,17 +55,19 @@
         <mark key="^" line="75" column="38" />
         <mark key="." line="75" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" timestamp="1563335554501">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="43" column="1" />
-        <mark key="^" line="43" column="1" />
-        <mark key="." line="43" column="1" />
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/index.js" timestamp="1563786617322">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1563335509055">
-        <mark key="'" line="15" column="38" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" timestamp="1563787238080">
+        <mark key="'" line="147" column="19" />
+        <mark key="[" line="269" column="19" />
+        <mark key="]" line="269" column="24" />
+        <mark key="." line="269" column="24" />
+        <mark key="^" line="269" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1563769477055">
         <mark key="[" line="84" column="49" />
@@ -92,23 +75,58 @@
         <mark key="^" line="84" column="53" />
         <mark key="." line="84" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1563334504093" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1563335726140" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1563336114470">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1563784413134" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1563769579186">
+        <mark key="[" line="99" column="12" />
+        <mark key="]" line="99" column="16" />
+        <mark key="." line="99" column="16" />
+        <mark key="^" line="99" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/build/trident/index.html" timestamp="1563769442918" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563765030447">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="28" />
+        <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpDetailScene/ExpDetailScene.js" timestamp="1563782594174">
+        <mark key="[" line="78" column="17" />
+        <mark key="]" line="78" column="37" />
+        <mark key="." line="78" column="37" />
+        <mark key="^" line="78" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1563336275305">
+        <mark key="'" line="65" column="17" />
+        <mark key="[" line="62" column="11" />
+        <mark key="]" line="62" column="11" />
+        <mark key="^" line="20" column="44" />
+        <mark key="." line="62" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/node_modules/react-native/Libraries/Animated/src/nodes/AnimatedWithChildren.js" timestamp="1563787363710">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" timestamp="1563335554501">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="43" column="1" />
+        <mark key="^" line="43" column="1" />
+        <mark key="." line="43" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/bizComponents/ScrollViewContainer.js" timestamp="1563782222577">
+        <mark key="'" line="14" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/node_modules/react-native/Libraries/Animated/src/nodes/AnimatedValue.js" timestamp="1563786917108" />
     </filemarks>
     <jumps>
-      <jump line="95" column="41" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="128" column="41" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="184" column="27" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="1" column="29" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="180" column="40" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="38" column="9" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="46" column="0" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="40" column="29" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="50" column="10" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="4" column="21" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.css" />
       <jump line="80" column="4" filename="$USER_HOME$/Projects/onekm-react/client/src/pages/index/index.js" />
       <jump line="60" column="17" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelShare.js" />
       <jump line="36" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/MultiChannelSharePopup.js" />
@@ -196,67 +214,73 @@
       <jump line="105" column="16" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
       <jump line="106" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
       <jump line="68" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
+      <jump line="14" column="21" filename="$USER_HOME$/Projects/pugs-app/src/bizComponents/ScrollViewContainer.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Projects/pugs-app/index.js" />
+      <jump line="204" column="9" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="156" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="193" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="194" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="244" column="46" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="275" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="209" column="38" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="131" column="41" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
+      <jump line="34" column="4" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/index.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/index.js" />
+      <jump line="147" column="19" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tru</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NvbXBvbmVudERpZFVwZGF0ZScpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>tru</text>
+        <text>_animatedPropsCallback</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXRhaWxHZW5lcmF0ZXJcPg==</text>
+        <text encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IGdlblByZWRpY3RUcmFuc2ZlckRpYWxvZ1BvcHVwT2JqID0ge30K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NvbXBvbmVudERpZFVwZGF0ZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IGdlblByZWRpY3RUcmFuc2ZlckRpYWxvZ1BvcHVwT2JqID0ge30K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdfX2FkZENoaWxkJykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCBwb3B1cE9iaiA9IHt9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChwb3B1cHNbcG9wdXAubmFtZV0pIHsKCg==</text>
+        <text encoding="base64">ICBzaG91bGRDb21wb25lbnRVcGRhdGUgKG5leHRQcm9wcywgbmV4dFN0YXRlLCBuZXh0Q29udGV4dCkgewogICAgY29uc29sZS5sb2coJ3Nob3VsZENvbXBvbmVudFVwZGF0ZScsIG5leHRQcm9wcy5zY3JvbGxQb3MgPT09IHRoaXMucHJvcHMuc2Nyb2xsUG9zKQogICAgcmV0dXJuIG5leHRQcm9wcy5zY3JvbGxQb3MgPT09IHRoaXMucHJvcHMuc2Nyb2xsUG9zCgogIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvcHVwc1twb3B1cC5uYW1lXSA9IHBvcHVwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJvcHMuc2Nyb2xsUG9zLnNldFZhbHVlKDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgSG9tZVBvcHVwc0Jpei5nZXRJbnN0YW5jZSgpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZhbHNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBjb25zdCB7CiAgICAgIHNjcm9sbFBvcyA9IG5ldyBBbmltYXRlZC5WYWx1ZSgwKQogICAgfSA9IHRoaXMucHJvcHMKICAgIGNvbnN0IGIgPSBzY3JvbGxQb3MuaW50ZXJwb2xhdGUoewogICAgICBpbnB1dFJhbmdlOiBbMCwgMTAwXSwKICAgICAgb3V0cHV0UmFuZ2U6IFswLjUsIDFdCiAgICB9KQogICAgY29uc29sZS5sb2coJ2JiYmJiYmJiYmJiYmInLCBiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXRhaWxHZW5lcmF0ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXRhaWxHZW5lcmF0ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRUaW1lb3V0XD4=</entry>
-        <entry encoding="base64">XDxNdWx0aUNoYW5uZWxTaGFyZUJ1dHRvblw+</entry>
-        <entry encoding="base64">XDxsb2dFcnJvclw+</entry>
-        <entry encoding="base64">XDxwcm9jZXNzQ2hlY2tSZXN1bHRcPg==</entry>
-        <entry encoding="base64">XDxvblByZXNzUmlnaHRcPg==</entry>
-        <entry encoding="base64">XDxwZXRcPg==</entry>
-        <entry encoding="base64">XDxvblByZXNzRGVsZXRlXD4=</entry>
         <entry encoding="base64">XDxwbGFuXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNUZXh0XD4=</entry>
         <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
@@ -270,6 +294,13 @@
         <entry encoding="base64">XDxTdGF0aXN0aWNzUHJveHlcPg==</entry>
         <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxHZW5lcmF0ZXJcPg==</entry>
+        <entry encoding="base64">XDxTY3JvbGxWaWV3Q29udGFpbmVyXD4=</entry>
+        <entry encoding="base64">XDxfdGhyb3R0bGVcPg==</entry>
+        <entry encoding="base64">XDxfb25TZWFyY2hcPg==</entry>
+        <entry encoding="base64">XDxfcmVmcmVzaERhdGFcPg==</entry>
+        <entry encoding="base64">XDxfb25FbmRSZWFjaGVkXD4=</entry>
+        <entry encoding="base64">XDxfcmVuZGVySXRlbVw+</entry>
+        <entry encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w]</entry>
