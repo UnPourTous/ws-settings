@@ -6,6 +6,13 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" timestamp="1564048256726">
+        <mark key="'" line="47" column="13" />
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" timestamp="1564044142257">
         <mark key="'" line="19" column="31" />
         <mark key="[" line="2" column="0" />
@@ -32,6 +39,7 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/ext/WeTouchable.js" timestamp="1564048336756" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1563769579186">
         <mark key="[" line="99" column="12" />
         <mark key="]" line="99" column="16" />
@@ -92,50 +100,16 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" timestamp="1563464690628">
-        <mark key="'" line="106" column="14" />
-        <mark key="[" line="103" column="22" />
-        <mark key="]" line="103" column="28" />
-        <mark key="." line="103" column="28" />
-        <mark key="^" line="103" column="28" />
-      </file>
-      <file name="$USER_HOME$/Projects/pugs-app/index.js" timestamp="1563783967958">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1563335577760">
-        <mark key="'" line="68" column="6" />
-        <mark key="[" line="75" column="36" />
-        <mark key="]" line="75" column="38" />
-        <mark key="^" line="75" column="38" />
-        <mark key="." line="75" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" timestamp="1563335554501">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="43" column="1" />
         <mark key="^" line="43" column="1" />
         <mark key="." line="43" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/index.js" timestamp="1563786617322">
-        <mark key="'" line="84" column="6" />
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/index.js" timestamp="1564043327727" />
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-device-info/package.json" timestamp="1563974928774" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/ext/WeTouchable.js" timestamp="1564048412432" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1564044114506" />
-      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" timestamp="1563787238080">
-        <mark key="'" line="147" column="19" />
-        <mark key="[" line="269" column="19" />
-        <mark key="]" line="269" column="24" />
-        <mark key="." line="269" column="24" />
-        <mark key="^" line="269" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1564042664156">
         <mark key="[" line="84" column="49" />
         <mark key="]" line="84" column="53" />
@@ -159,10 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" />
-      <jump line="72" column="13" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
       <jump line="298" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
       <jump line="125" column="15" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
       <jump line="98" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
@@ -259,6 +229,10 @@
       <jump line="28" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="15" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" />
       <jump line="19" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" />
+      <jump line="73" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
+      <jump line="68" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
+      <jump line="63" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
+      <jump line="47" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -268,7 +242,7 @@
         <text>require('./dynamic/dyRouterRequire').default</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</text>
+        <text encoding="base64">XDxXZVRvdWNoYWJsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDmjInpnIDliqDovb3ml7bnmoTnvJPlrZgKICBfY2FjaGVkTW9kdWxlUmVkdWNlciA9IHt9Cg==</text>
@@ -305,15 +279,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</last-search>
+      <last-search encoding="base64">XDxXZVRvdWNoYWJsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxXZVRvdWNoYWJsZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbGFuXD4=</entry>
         <entry encoding="base64">XDxzdGF0dXNUZXh0XD4=</entry>
         <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
         <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</entry>
@@ -333,6 +306,7 @@
         <entry encoding="base64">XDxfb25FbmRSZWFjaGVkXD4=</entry>
         <entry encoding="base64">XDxfcmVuZGVySXRlbVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</entry>
+        <entry encoding="base64">XDxXZVRvdWNoYWJsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
