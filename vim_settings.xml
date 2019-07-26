@@ -33,11 +33,12 @@
         <mark key="^" line="702" column="0" />
         <mark key="." line="702" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1564130647932">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="28" column="32" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1564141136216">
+        <mark key="'" line="32" column="4" />
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="53" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="6" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/universalInsurance/UniversalInsuranceRedeemScene/UniversalInsuranceRedeemScene.js" timestamp="1564064766761">
         <mark key="[" line="418" column="4" />
@@ -147,7 +148,7 @@
         <mark key="^" line="155" column="29" />
         <mark key="." line="155" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1564130609751">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1564140950500">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="492" column="24" />
         <mark key="]" line="492" column="37" />
@@ -156,10 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="298" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
-      <jump line="125" column="15" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
-      <jump line="98" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
-      <jump line="252" column="19" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
       <jump line="250" column="11" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
       <jump line="57" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/form/FormInput.js" />
       <jump line="76" column="33" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/form/FormInput.js" />
@@ -256,10 +253,14 @@
       <jump line="68" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
       <jump line="63" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
       <jump line="47" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/NavBarWithMenu.js" />
+      <jump line="13" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
+      <jump line="19" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>require('./dynamic/dyRouterRequire').default</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IEFwcE5hdmlnYXRvciBmcm9tICdAd2ViYW5rL3RyaWRlbnQnCg==</text>
       </register>
       <register name="-" type="4">
         <text>require('./dynamic/dyRouterRequire').default</text>
@@ -271,31 +272,31 @@
         <text encoding="base64">ICAvLyDmjInpnIDliqDovb3ml7bnmoTnvJPlrZgKICBfY2FjaGVkTW9kdWxlUmVkdWNlciA9IHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFwcE5hdmlnYXRvciBmcm9tICdAd2ViYW5rL3RyaWRlbnQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyDmjInpnIDliqDovb3ml7bnmoTnvJPlrZgKICBfY2FjaGVkTW9kdWxlUmVkdWNlciA9IHt9Cg==</text>
+        <text encoding="base64">ICAvLyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyDmjInpnIDliqDovb3ml7bnmoTnvJPlrZgKICBfY2FjaGVkTW9kdWxlUmVkdWNlciA9IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaWYgKGlzRHlMb2FkKSB7Cg==</text>
+        <text encoding="base64">Ly8gfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaWYgKGlzRHlMb2FkKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaWYgKGlzRHlMb2FkKSB7Ck9iamVjdC5rZXlzKHJlcXVpcmUoJy4vZHluYW1pYy9keVJvdXRlclJlcXVpcmUnKS5kZWZhdWx0KS5mb3JFYWNoKG1vZHVsZUtleSA9PiB7CiAgT2JqZWN0LmRlZmluZVByb3BlcnR5KGFwcE5hdmlnYXRvciwgbW9kdWxlS2V5LCB7CiAgICBnZXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgbW9kdWxlTmFtZSA9IG1vZHVsZUtleQogICAgICBsZXQgbW9kdWxlUmVkdWNlcgogICAgICBpZiAoIXRoaXMuX2NhY2hlZE1vZHVsZVJlZHVjZXJbbW9kdWxlTmFtZV0pIHsKICAgICAgICAvLyBjb25zb2xlLnRpbWUoJ0R5TG9hZE1vZHVsZSAnICsgbW9kdWxlS2V5KQogICAgICAgIGlmIChyZXF1aXJlKCcuL2R5bmFtaWMvZHlSZWR1Y2VyUmVxdWlyZScpLmRlZmF1bHRbbW9kdWxlTmFtZV0pIHsKICAgICAgICAgIG1vZHVsZVJlZHVjZXIgPSByZXF1aXJlKCcuL2R5bmFtaWMvZHlSZWR1Y2VyUmVxdWlyZScpLmRlZmF1bHRbbW9kdWxlTmFtZV0oKQogICAgICAgIH0KCiAgICAgICAgLy8g5pu05paw5LqGcmVkdWNlcu+8jOmcgOimgXJlcGxhY2XkuIDkuIsKICAgICAgICBpZiAodGhpcy5zdG9yZSkgewogICAgICAgICAgY29uc3QgY3JlYXRlUm9vdFJlZHVjZXIgPSByZXF1aXJlKCcuLi9yZWR1Y2VyJykuZGVmYXVsdAogICAgICAgICAgdGhpcy5zdG9yZS5yZXBsYWNlUmVkdWNlcihjcmVhdGVSb290UmVkdWNlcih1bmRlZmluZWQsIG1vZHVsZU5hbWUsIG1vZHVsZVJlZHVjZXIpKQogICAgICAgIH0KCiAgICAgICAgLy8gY29uc29sZS50aW1lRW5kKCdEeUxvYWRNb2R1bGUgJyArIG1vZHVsZUtleSkKICAgICAgICB0aGlzLl9jYWNoZWRNb2R1bGVSZWR1Y2VyW21vZHVsZU5hbWVdID0gbW9kdWxlUmVkdWNlcgogICAgICB9CgogICAgICBjb25zdCBkeU5hdk1ldGhvZHMgPSB7fQogICAgICBkeU5hdk1ldGhvZHNbbW9kdWxlTmFtZV0gPSB7fQogICAgICBpZiAocmVxdWlyZSgnLi9keW5hbWljL2R5Um91dGVyUmVxdWlyZScpLmRlZmF1bHRbbW9kdWxlTmFtZV0pIHsKICAgICAgICBfLm1hcFZhbHVlcyhyZXF1aXJlKCcuL2R5bmFtaWMvZHlSb3V0ZXJSZXF1aXJlJykuZGVmYXVsdFttb2R1bGVOYW1lXSgpLCAocm91dGVyLCBzY2VuZU5hbWUpID0+IHsKICAgICAgICAgIGNvbnN0IHJvdXRlTmFtZSA9IGdlbmVyYXRlUm91dGVOYW1lKG1vZHVsZU5hbWUsIHNjZW5lTmFtZSkKICAgICAgICAgIGFwcE5hdmlnYXRvci5yb3V0ZXJzQ29uZmlnW3JvdXRlTmFtZV0gPSByb3V0ZXIKICAgICAgICAgIGNvbnN0IGZ1bmMgPSBwYXJhbXMgPT4gdGhpcy5fbmF2aWdhdGUocm91dGVOYW1lLCBwYXJhbXMsIHJvdXRlcikKICAgICAgICAgIGZ1bmMudG9TdHJpbmcgPSAoKSA9PiByb3V0ZU5hbWUKICAgICAgICAgIGR5TmF2TWV0aG9kc1ttb2R1bGVOYW1lXVtzY2VuZU5hbWVdID0gZnVuYwogICAgICAgIH0pCiAgICAgIH0KICAgICAgcmV0dXJuIGR5TmF2TWV0aG9kc1ttb2R1bGVOYW1lXQogICAgfQogIH0pCn0pCi8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaWYgKGlzRHlMb2FkKSB7Ck9iamVjdC5rZXlzKHJlcXVpcmUoJy4vZHluYW1pYy9keVJvdXRlclJlcXVpcmUnKS5kZWZhdWx0KS5mb3JFYWNoKG1vZHVsZUtleSA9PiB7CiAgT2JqZWN0LmRlZmluZVByb3BlcnR5KGFwcE5hdmlnYXRvciwgbW9kdWxlS2V5LCB7CiAgICBnZXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgY29uc3QgbW9kdWxlTmFtZSA9IG1vZHVsZUtleQogICAgICBsZXQgbW9kdWxlUmVkdWNlcgogICAgICBpZiAoIXRoaXMuX2NhY2hlZE1vZHVsZVJlZHVjZXJbbW9kdWxlTmFtZV0pIHsKICAgICAgICAvLyBjb25zb2xlLnRpbWUoJ0R5TG9hZE1vZHVsZSAnICsgbW9kdWxlS2V5KQogICAgICAgIGlmIChyZXF1aXJlKCcuL2R5bmFtaWMvZHlSZWR1Y2VyUmVxdWlyZScpLmRlZmF1bHRbbW9kdWxlTmFtZV0pIHsKICAgICAgICAgIG1vZHVsZVJlZHVjZXIgPSByZXF1aXJlKCcuL2R5bmFtaWMvZHlSZWR1Y2VyUmVxdWlyZScpLmRlZmF1bHRbbW9kdWxlTmFtZV0oKQogICAgICAgIH0KCiAgICAgICAgLy8g5pu05paw5LqGcmVkdWNlcu+8jOmcgOimgXJlcGxhY2XkuIDkuIsKICAgICAgICBpZiAodGhpcy5zdG9yZSkgewogICAgICAgICAgY29uc3QgY3JlYXRlUm9vdFJlZHVjZXIgPSByZXF1aXJlKCcuLi9yZWR1Y2VyJykuZGVmYXVsdAogICAgICAgICAgdGhpcy5zdG9yZS5yZXBsYWNlUmVkdWNlcihjcmVhdGVSb290UmVkdWNlcih1bmRlZmluZWQsIG1vZHVsZU5hbWUsIG1vZHVsZVJlZHVjZXIpKQogICAgICAgIH0KCiAgICAgICAgLy8gY29uc29sZS50aW1lRW5kKCdEeUxvYWRNb2R1bGUgJyArIG1vZHVsZUtleSkKICAgICAgICB0aGlzLl9jYWNoZWRNb2R1bGVSZWR1Y2VyW21vZHVsZU5hbWVdID0gbW9kdWxlUmVkdWNlcgogICAgICB9CgogICAgICBjb25zdCBkeU5hdk1ldGhvZHMgPSB7fQogICAgICBkeU5hdk1ldGhvZHNbbW9kdWxlTmFtZV0gPSB7fQogICAgICBpZiAocmVxdWlyZSgnLi9keW5hbWljL2R5Um91dGVyUmVxdWlyZScpLmRlZmF1bHRbbW9kdWxlTmFtZV0pIHsKICAgICAgICBfLm1hcFZhbHVlcyhyZXF1aXJlKCcuL2R5bmFtaWMvZHlSb3V0ZXJSZXF1aXJlJykuZGVmYXVsdFttb2R1bGVOYW1lXSgpLCAocm91dGVyLCBzY2VuZU5hbWUpID0+IHsKICAgICAgICAgIGNvbnN0IHJvdXRlTmFtZSA9IGdlbmVyYXRlUm91dGVOYW1lKG1vZHVsZU5hbWUsIHNjZW5lTmFtZSkKICAgICAgICAgIGFwcE5hdmlnYXRvci5yb3V0ZXJzQ29uZmlnW3JvdXRlTmFtZV0gPSByb3V0ZXIKICAgICAgICAgIGNvbnN0IGZ1bmMgPSBwYXJhbXMgPT4gdGhpcy5fbmF2aWdhdGUocm91dGVOYW1lLCBwYXJhbXMsIHJvdXRlcikKICAgICAgICAgIGZ1bmMudG9TdHJpbmcgPSAoKSA9PiByb3V0ZU5hbWUKICAgICAgICAgIGR5TmF2TWV0aG9kc1ttb2R1bGVOYW1lXVtzY2VuZU5hbWVdID0gZnVuYwogICAgICAgIH0pCiAgICAgIH0KICAgICAgcmV0dXJuIGR5TmF2TWV0aG9kc1ttb2R1bGVOYW1lXQogICAgfQogIH0pCn0pCi8vIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
