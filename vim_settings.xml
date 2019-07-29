@@ -40,6 +40,7 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/dyRouters.js" timestamp="1564380844680" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/universalInsurance/UniversalInsuranceRedeemScene/UniversalInsuranceRedeemScene.js" timestamp="1564064766761">
         <mark key="[" line="418" column="4" />
         <mark key="]" line="418" column="3" />
@@ -52,6 +53,12 @@
         <mark key="]" line="99" column="16" />
         <mark key="." line="99" column="16" />
         <mark key="^" line="99" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetConfirmScene/HighendAssetConfirmScene.js" timestamp="1564381074613">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="3" />
+        <mark key="^" line="50" column="3" />
+        <mark key="." line="50" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1563765030447">
         <mark key="[" line="127" column="0" />
@@ -89,6 +96,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetProofScene/HighendAssetProofScene.js" timestamp="1564381119920">
+        <mark key="'" line="95" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1564044147857">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="15" column="3" />
@@ -114,11 +124,6 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-device-info/android/build.gradle" timestamp="1564042043755" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" timestamp="1564042776023">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" timestamp="1563335554501">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="43" column="1" />
@@ -157,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="11" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
-      <jump line="57" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/form/FormInput.js" />
       <jump line="76" column="33" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/form/FormInput.js" />
       <jump line="223" column="16" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="246" column="19" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
@@ -257,6 +260,8 @@
       <jump line="19" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
       <jump line="32" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
+      <jump line="187" column="63" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetProofScene/HighendAssetProofScene.js" />
+      <jump line="95" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetProofScene/HighendAssetProofScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -266,7 +271,7 @@
         <text>require('./dynamic/dyRouterRequire').default</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXZVRvdWNoYWJsZVw+</text>
+        <text encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDmjInpnIDliqDovb3ml7bnmoTnvJPlrZgKICBfY2FjaGVkTW9kdWxlUmVkdWNlciA9IHt9Cg==</text>
@@ -303,15 +308,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXZVRvdWNoYWJsZVw+</last-search>
+      <last-search encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXZVRvdWNoYWJsZVw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGF0dXNUZXh0XD4=</entry>
         <entry encoding="base64">XDxlZGl0YWJsZVw+</entry>
         <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVQbGFuTGlzdFw+</entry>
@@ -331,6 +335,7 @@
         <entry encoding="base64">XDxfcmVuZGVySXRlbVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</entry>
         <entry encoding="base64">XDxXZVRvdWNoYWJsZVw+</entry>
+        <entry encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
