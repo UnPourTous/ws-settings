@@ -87,6 +87,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1564478035912">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1564141136216">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="6" column="26" />
@@ -264,11 +270,11 @@
       <jump line="95" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetProofScene/HighendAssetProofScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcE5hdmlnYXRvciBmcm9tICdAd2ViYW5rL3RyaWRlbnQnCg==</text>
+      <register name="&quot;" type="4">
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>require('./dynamic/dyRouterRequire').default</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</text>
