@@ -133,6 +133,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" timestamp="1564732111801">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/ios/trident/Info.plist" timestamp="1564479677864">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="31" column="24" />
@@ -166,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="19" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="52" column="14" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PlanListItem.js" />
       <jump line="52" column="29" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
@@ -266,10 +271,11 @@
       <jump line="95" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetProofScene/HighendAssetProofScene.js" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/settings.gradle" />
       <jump line="63" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
+      <jump line="17" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgYnVpbGRUb29sc1ZlcnNpb24gPSAiMjcuMC4zIgogICAgICAgIG1pblNka1ZlcnNpb24gPSAxNgogICAgICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjcKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uID0gMjYKICAgICAgICBzdXBwb3J0TGliVmVyc2lvbiA9ICIyNy4xLjEiCg==</text>
       </register>
       <register name="-" type="4">
         <text>$USER_HOME$/Projects/UnPourTous/trident/app-seed</text>
@@ -281,31 +287,31 @@
         <text encoding="base64">ICAvLyDmm7/mjaJBbmRyb2lk55qE5YaF5a65Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgYnVpbGRUb29sc1ZlcnNpb24gPSAiMjcuMC4zIgogICAgICAgIG1pblNka1ZlcnNpb24gPSAxNgogICAgICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjcKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uID0gMjYKICAgICAgICBzdXBwb3J0TGliVmVyc2lvbiA9ICIyNy4xLjEiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKCdhbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgICAgICBleHQgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIoJy4uJykK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIoJy4uJykK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKCdhbmRyb2lkJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIoJy4uJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIoJy4uJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUuZXJyb3IoYENvbW1hbmQgXGAke2luc3RhbGxDb21tYW5kfVxgIGZhaWxlZC5gKQo=</text>
+        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKCdhbmRyb2lkJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
