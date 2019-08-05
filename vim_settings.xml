@@ -84,7 +84,6 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/ExpListScene.js" timestamp="1564978714107" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/app/src/main/java/io/unpourtous/trident/MainActivity.java" timestamp="1564480073135">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="23" />
@@ -120,6 +119,13 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1564989384856">
+        <mark key="'" line="14" column="4" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/app.json" timestamp="1564479376415">
         <mark key="[" line="2" column="19" />
@@ -173,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="14" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PlanListItem.js" />
       <jump line="52" column="29" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="96" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
@@ -273,16 +278,17 @@
       <jump line="3" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/settings.gradle" />
       <jump line="63" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
       <jump line="17" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgYnVpbGRUb29sc1ZlcnNpb24gPSAiMjcuMC4zIgogICAgICAgIG1pblNka1ZlcnNpb24gPSAxNgogICAgICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjcKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uID0gMjYKICAgICAgICBzdXBwb3J0TGliVmVyc2lvbiA9ICIyNy4xLjEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>assets</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/Projects/UnPourTous/trident/app-seed</text>
+        <text>assets</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRQcm9qZWN0TmFtZVw+</text>
+        <text encoding="base64">XDxhc3NldHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDmm7/mjaJBbmRyb2lk55qE5YaF5a65Cg==</text>
@@ -319,15 +325,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRQcm9qZWN0TmFtZVw+</last-search>
+      <last-search encoding="base64">XDxhc3NldHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRQcm9qZWN0TmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhc3NldHNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWNrZ3JvdW5kQ29sb3JcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVQbGFuTGlzdFw+</entry>
         <entry encoding="base64">XDxfcmVxdWVzdEdvbGRJbmZvXD4=</entry>
         <entry encoding="base64">XDxfcmVxdWVzdFBhZ2VEYXRhXD4=</entry>
@@ -347,6 +352,7 @@
         <entry encoding="base64">XDxXZVRvdWNoYWJsZVw+</entry>
         <entry encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</entry>
         <entry encoding="base64">XDx0YXJnZXRQcm9qZWN0TmFtZVw+</entry>
+        <entry encoding="base64">XDxhc3NldHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
