@@ -145,11 +145,12 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" timestamp="1564732111801">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" timestamp="1564998860880">
         <mark key="'" line="17" column="25" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/login/LoginScene/LoginScene.js" timestamp="1564993088705">
         <mark key="[" line="89" column="18" />
