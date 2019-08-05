@@ -66,6 +66,7 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="27" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/AppListScene.js" timestamp="1564991772800" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/universalInsurance/UniversalInsuranceRedeemScene/UniversalInsuranceRedeemScene.js" timestamp="1564064766761">
         <mark key="[" line="418" column="4" />
         <mark key="]" line="418" column="3" />
@@ -84,6 +85,7 @@
         <mark key="^" line="50" column="3" />
         <mark key="." line="50" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/ExpListScene.js" timestamp="1564991602530" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/app/src/main/java/io/unpourtous/trident/MainActivity.java" timestamp="1564480073135">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="23" />
@@ -114,6 +116,9 @@
         <mark key="]" line="1" column="18" />
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" timestamp="1564993014811">
+        <mark key="'" line="94" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" timestamp="1564042776023">
         <mark key="[" line="10" column="0" />
@@ -146,11 +151,25 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/login/LoginScene/LoginScene.js" timestamp="1564993088705">
+        <mark key="[" line="89" column="18" />
+        <mark key="]" line="89" column="17" />
+        <mark key="^" line="89" column="17" />
+        <mark key="." line="89" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/HomeScene.js" timestamp="1564992620930">
+        <mark key="[" line="57" column="2" />
+        <mark key="]" line="57" column="2" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="57" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/ios/trident/Info.plist" timestamp="1564479677864">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="31" column="24" />
         <mark key="." line="31" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/axiosData.js" timestamp="1564991966505" />
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" timestamp="1564993140022" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1564042664156">
         <mark key="[" line="84" column="49" />
         <mark key="]" line="84" column="53" />
@@ -170,6 +189,8 @@
         <mark key="^" line="155" column="29" />
         <mark key="." line="155" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/InterfaceSetting.js" timestamp="1564992085779" />
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/fav/FavListScene/FavListScene.js" timestamp="1564993812621" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1564140950500">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="492" column="24" />
@@ -179,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="29" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
-      <jump line="96" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/actionsReducer.js" />
       <jump line="15" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="24" column="21" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="26" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
@@ -279,6 +298,8 @@
       <jump line="63" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
       <jump line="17" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
+      <jump line="62" column="34" filename="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" />
+      <jump line="94" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -288,7 +309,7 @@
         <text>assets</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NldHNcPg==</text>
+        <text encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDmm7/mjaJBbmRyb2lk55qE5YaF5a65Cg==</text>
@@ -325,15 +346,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NldHNcPg==</last-search>
+      <last-search encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NldHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVQbGFuTGlzdFw+</entry>
         <entry encoding="base64">XDxfcmVxdWVzdEdvbGRJbmZvXD4=</entry>
         <entry encoding="base64">XDxfcmVxdWVzdFBhZ2VEYXRhXD4=</entry>
         <entry encoding="base64">XDxfb25QYXVzZUJhc2VcPg==</entry>
@@ -353,6 +373,7 @@
         <entry encoding="base64">XDxfcmVuZGVyQXNzZXRQcm9vZlw+</entry>
         <entry encoding="base64">XDx0YXJnZXRQcm9qZWN0TmFtZVw+</entry>
         <entry encoding="base64">XDxhc3NldHNcPg==</entry>
+        <entry encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
