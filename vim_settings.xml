@@ -120,11 +120,6 @@
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" timestamp="1564993014811">
         <mark key="'" line="94" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoService.js" timestamp="1564042776023">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1564989384856">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="14" column="4" />
@@ -145,6 +140,13 @@
         <mark key="." line="0" column="28" />
         <mark key="^" line="0" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/WealthService.js" timestamp="1565086784358" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1565086898647">
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="15" />
+        <mark key="^" line="81" column="15" />
+        <mark key="." line="81" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" timestamp="1564998860880">
         <mark key="'" line="17" column="25" />
         <mark key="[" line="18" column="8" />
@@ -164,11 +166,6 @@
         <mark key="^" line="57" column="2" />
         <mark key="." line="57" column="2" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/ios/trident/Info.plist" timestamp="1564479677864">
-        <mark key="[" line="31" column="24" />
-        <mark key="]" line="31" column="24" />
-        <mark key="." line="31" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/axiosData.js" timestamp="1564991966505" />
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" timestamp="1564993140022" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1564042664156">
@@ -183,6 +180,7 @@
         <mark key="." line="1" column="39" />
         <mark key="^" line="1" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1565087267729" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1564513171926" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/TridentApp.js" timestamp="1564130735861">
         <mark key="[" line="154" column="22" />
@@ -200,9 +198,11 @@
         <mark key="^" line="492" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/ResultScene/ResultScene.js" timestamp="1565084257877" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" timestamp="1565087260313">
+        <mark key="'" line="478" column="6" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="24" column="21" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="26" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/VView.js" />
       <jump line="4" column="16" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/test.js" />
@@ -302,6 +302,7 @@
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
       <jump line="62" column="34" filename="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" />
       <jump line="94" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" />
+      <jump line="478" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,7 +312,7 @@
         <text>assets</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</text>
+        <text encoding="base64">XDxjYWxjRnJlZXplQW1vdW50VjJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAvLyDmm7/mjaJBbmRyb2lk55qE5YaF5a65Cg==</text>
@@ -348,15 +349,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</last-search>
+      <last-search encoding="base64">XDxjYWxjRnJlZXplQW1vdW50VjJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjRnJlZXplQW1vdW50VjJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVxdWVzdEdvbGRJbmZvXD4=</entry>
         <entry encoding="base64">XDxfcmVxdWVzdFBhZ2VEYXRhXD4=</entry>
         <entry encoding="base64">XDxfb25QYXVzZUJhc2VcPg==</entry>
         <entry encoding="base64">XDxtb21lbnRcPg==</entry>
@@ -376,6 +376,7 @@
         <entry encoding="base64">XDx0YXJnZXRQcm9qZWN0TmFtZVw+</entry>
         <entry encoding="base64">XDxhc3NldHNcPg==</entry>
         <entry encoding="base64">XDxpbWFnZWNvbnRhaW5lclw+</entry>
+        <entry encoding="base64">XDxjYWxjRnJlZXplQW1vdW50VjJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
