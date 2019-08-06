@@ -35,12 +35,6 @@
         <mark key="^" line="702" column="0" />
         <mark key="." line="702" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/gradle.properties" timestamp="1564478035912">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1564141136216">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="6" column="26" />
@@ -48,74 +42,14 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="6" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/ios/trident/AppDelegate.m" timestamp="1564480116623">
-        <mark key="[" line="26" column="67" />
-        <mark key="]" line="26" column="74" />
-        <mark key="." line="26" column="74" />
-        <mark key="^" line="26" column="74" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1564479227645">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/app/src/main/AndroidManifest.xml" timestamp="1564479684791">
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="19" column="15" />
-        <mark key="." line="27" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/AppListScene.js" timestamp="1564991772800" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/universalInsurance/UniversalInsuranceRedeemScene/UniversalInsuranceRedeemScene.js" timestamp="1564064766761">
-        <mark key="[" line="418" column="4" />
-        <mark key="]" line="418" column="3" />
-        <mark key="^" line="418" column="3" />
-        <mark key="." line="418" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/android/app/build.gradle" timestamp="1564479002983">
-        <mark key="[" line="109" column="45" />
-        <mark key="]" line="109" column="45" />
-        <mark key="." line="109" column="45" />
-        <mark key="^" line="109" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/HighendAssetConfirmScene/HighendAssetConfirmScene.js" timestamp="1564381074613">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="50" column="3" />
-        <mark key="^" line="50" column="3" />
-        <mark key="." line="50" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/ExpListScene.js" timestamp="1564991602530" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/app/src/main/java/io/unpourtous/trident/MainActivity.java" timestamp="1564480073135">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="23" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HighendAreaScene/HighendAreaScene.js" timestamp="1564130598181">
-        <mark key="[" line="223" column="56" />
-        <mark key="]" line="223" column="55" />
-        <mark key="^" line="223" column="55" />
-        <mark key="." line="223" column="55" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1564042804916">
-        <mark key="'" line="68" column="19" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="20" column="44" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/reducer.js" timestamp="1564044147857">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="3" />
-        <mark key="^" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/node_modules/@webank/trident/app-seed/package.json" timestamp="1564480057254">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1565088203690">
+        <mark key="'" line="73" column="19" />
+        <mark key="[" line="61" column="10" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" timestamp="1564993014811">
         <mark key="'" line="94" column="2" />
@@ -126,12 +60,6 @@
         <mark key="]" line="14" column="9" />
         <mark key="." line="14" column="9" />
         <mark key="^" line="14" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/app.json" timestamp="1564479376415">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/settings.gradle" timestamp="1564479239806">
         <mark key="'" line="3" column="0" />
@@ -168,26 +96,8 @@
       </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/axiosData.js" timestamp="1564991966505" />
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" timestamp="1564993140022" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/pages/en/index.js" timestamp="1564042664156">
-        <mark key="[" line="84" column="49" />
-        <mark key="]" line="84" column="53" />
-        <mark key="^" line="84" column="53" />
-        <mark key="." line="84" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/app/src/main/res/values/strings.xml" timestamp="1564479247289">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
-        <mark key="^" line="1" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1565087267729" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1564513171926" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/TridentApp.js" timestamp="1564130735861">
-        <mark key="[" line="154" column="22" />
-        <mark key="]" line="155" column="29" />
-        <mark key="^" line="155" column="29" />
-        <mark key="." line="155" column="29" />
-      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/InterfaceSetting.js" timestamp="1564992085779" />
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/fav/FavListScene/FavListScene.js" timestamp="1564993812621" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1564140950500">
@@ -305,11 +215,11 @@
       <jump line="478" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>assets</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>assets</text>
+        <text>Toast</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjRnJlZXplQW1vdW50VjJcPg==</text>
@@ -318,31 +228,31 @@
         <text encoding="base64">ICAvLyDmm7/mjaJBbmRyb2lk55qE5YaF5a65Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgYnVpbGRUb29sc1ZlcnNpb24gPSAiMjcuMC4zIgogICAgICAgIG1pblNka1ZlcnNpb24gPSAxNgogICAgICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjcKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uID0gMjYKICAgICAgICBzdXBwb3J0TGliVmVyc2lvbiA9ICIyNy4xLjEiCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleHQgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0PkhlbGxvIERlbW9TY2VuZTwvVGV4dD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKCdhbmRyb2lkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIoJy4uJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgYnVpbGRUb29sc1ZlcnNpb24gPSAiMjcuMC4zIgogICAgICAgIG1pblNka1ZlcnNpb24gPSAxNgogICAgICAgIGNvbXBpbGVTZGtWZXJzaW9uID0gMjcKICAgICAgICB0YXJnZXRTZGtWZXJzaW9uID0gMjYKICAgICAgICBzdXBwb3J0TGliVmVyc2lvbiA9ICIyNy4xLjEiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuY2hkaXIoJy4uJykK</text>
+        <text encoding="base64">ICAgICAgICBleHQgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmNoZGlyKCdhbmRyb2lkJykK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
