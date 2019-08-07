@@ -7,12 +7,12 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native-highcharts/react-native-highcharts.js" timestamp="1565090489223" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1565146070696">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1565147371641">
+        <mark key="'" line="45" column="13" />
+        <mark key="[" line="44" column="28" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" timestamp="1564993014811">
         <mark key="'" line="94" column="2" />
@@ -56,6 +56,12 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" timestamp="1565087260313">
         <mark key="'" line="478" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" timestamp="1565146919103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1565090951851">
         <mark key="'" line="32" column="4" />
         <mark key="[" line="30" column="0" />
@@ -63,18 +69,25 @@
         <mark key="^" line="6" column="53" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/ListItem.js" timestamp="1565148341446">
+        <mark key="'" line="21" column="15" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/AppListScene.js" timestamp="1564991772800" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/intelliDepositChart.js" timestamp="1565090534934" />
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/ExpListScene.js" timestamp="1564991602530" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1565093572066">
         <mark key="'" line="261" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1565090813582">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1565147569529">
         <mark key="'" line="6" column="21" />
-        <mark key="[" line="6" column="19" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
-        <mark key="^" line="6" column="30" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="71" column="7" />
+        <mark key="." line="71" column="7" />
+        <mark key="^" line="71" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1564989384856">
         <mark key="'" line="14" column="4" />
@@ -90,25 +103,31 @@
         <mark key="^" line="89" column="17" />
         <mark key="." line="89" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/LoadOnceScene/LoadOnceScene.js" timestamp="1565148401192">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/axiosData.js" timestamp="1564991966505" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1565087267729" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/LoadLazyScene/LoadLazyScene.js" timestamp="1565148413387">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="22" />
+        <mark key="." line="35" column="22" />
+        <mark key="^" line="35" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/LoadingWrapper.js" timestamp="1565148715614">
+        <mark key="'" line="35" column="12" />
+        <mark key="[" line="52" column="69" />
+        <mark key="]" line="52" column="90" />
+        <mark key="^" line="52" column="90" />
+        <mark key="." line="52" column="90" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="2" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="33" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="3" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="42" column="32" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="55" column="18" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="58" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="4" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="802" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" />
-      <jump line="75" column="33" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
-      <jump line="102" column="38" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
-      <jump line="57" column="34" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
-      <jump line="110" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/Http.js" />
       <jump line="53" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/cgi/CGI.js" />
@@ -193,63 +212,76 @@
       <jump line="273" column="44" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
       <jump line="43" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
       <jump line="9" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" />
       <jump line="49" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
+      <jump line="6" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" />
+      <jump line="34" column="36" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" />
+      <jump line="44" column="58" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" />
+      <jump line="4" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" />
+      <jump line="45" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/LoadOnceScene/LoadOnceScene.js" />
+      <jump line="17" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/ListItem.js" />
+      <jump line="19" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/ListItem.js" />
+      <jump line="21" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/ListItem.js" />
+      <jump line="10" column="45" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/LoadLazyScene/LoadLazyScene.js" />
+      <jump line="32" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/LoadLazyScene/LoadLazyScene.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/LoadOnceScene/LoadOnceScene.js" />
+      <jump line="35" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/LoadingWrapper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text encoding="base64">PEFjdGl2aXR5SW5kaWNhdG9yIC8+</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">PEFjdGl2aXR5SW5kaWNhdG9yIC8+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfXD4=</text>
+        <text encoding="base64">XDxMaXN0SXRlbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDxMb2FkaW5nV3JhcHBlciBkZWxheT17dHJ1ZX0ga2V5PXsna2V5JyArIGl0ZW19PgogICAgICAgICAgICAgIDxUZXh0PkhlbGxvIEFTY2VuZSB7aXRlbX08L1RleHQ+CiAgICAgICAgICAgIDwvTG9hZGluZ1dyYXBwZXI+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW1hZ2Ugc3R5bGU9e3t3aWR0aDogMTAwLCBoZWlnaHQ6IDEwMH19IHNvdXJjZT17cmVxdWlyZSgnLi9pbWFnZXMvdHJpZGVudC1pY29uLnBuZycpfSAvPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvYWRpbmdXcmFwcGVyIGZyb20gJy4uLy4uLy4uL2JpekNvbXBvbmVudHMvTG9hZGluZ1dyYXBwZXInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmUge2l0ZW19PC9UZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmUge2l0ZW19PC9UZXh0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiA8TG9hZGluZ1dyYXBwZXIga2V5PXsna2V5JyArIGl0ZW19PgogICAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmUge2l0ZW19PC9UZXh0PgogICAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0PkhlbGxvIEFTY2VuZTwvVGV4dD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpblRvcDogd2luZG93LmhlaWdodCArIDEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXhECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHBvc2l0aW9uQ2FsbGJhY2tMaXN0LmZvckVhY2goKGNhbGxiYWNrKSA9PiB7CiAgICAgICAgICAvLyAgIGlmICh0aHMpIHsKICAgICAgICAgIC8vICAgICB0aHMubXlSZWYubWVhc3VyZSgoeCwgeSwgd2lkdGgsIGhlaWdodCwgcGFnZVgsIHBhZ2VZKSA9PiB7CiAgICAgICAgICAvLyAgICAgICAvLyBjb25zb2xlLmxvZyh4LCB5LCB3aWR0aCwgaGVpZ2h0LCBwYWdlWCwgcGFnZVkpCiAgICAgICAgICAvLyAgICAgICBpZiAoeSA8IERpbWVuc2lvbnMuZ2V0KCd3aW5kb3cnKS5oZWlnaHQgKiAxLjEpIHsKICAgICAgICAgIC8vICAgICAgICAgdGhzLnNldFN0YXRlKHsgc2hvd0NoaWxkcmVuOiB0cnVlIH0pCiAgICAgICAgICAvLyAgICAgICB9CiAgICAgICAgICAvLyAgICAgfSkKICAgICAgICAgIC8vICAgfQogICAgICAgICAgLy8gfSkK</text>
+        <text encoding="base64">ICAgICAgICBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4KICAgICAgICA8TG9hZGluZ1dyYXBwZXI+CiAgICAgICAgICA8VGV4dD5IZWxsbyBBU2NlbmU8L1RleHQ+CiAgICAgICAgPC9Mb2FkaW5nV3JhcHBlcj4K</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfXD4=</last-search>
+      <last-search encoding="base64">XDxMaXN0SXRlbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMaXN0SXRlbVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</entry>
-        <entry encoding="base64">XDxTdGF0aXN0aWNzUHJveHlcPg==</entry>
         <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
         <entry encoding="base64">XDxkZXRhaWxHZW5lcmF0ZXJcPg==</entry>
         <entry encoding="base64">XDxTY3JvbGxWaWV3Q29udGFpbmVyXD4=</entry>
@@ -267,7 +299,9 @@
         <entry encoding="base64">XDxjYWxjRnJlZXplQW1vdW50VjJcPg==</entry>
         <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
         <entry encoding="base64">XDxyZWZMaXN0XD4=</entry>
+        <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxMaXN0SXRlbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
@@ -279,16 +313,16 @@
         <entry>Lw</entry>
         <entry>220</entry>
         <entry>.w</entry>
-        <entry>qw</entry>
         <entry>q</entry>
         <entry>&quot;w</entry>
         <entry>97</entry>
         <entry>w:w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>we</entry>
         <entry>:w</entry>
         <entry>w':w</entry>
         <entry>;w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
