@@ -44,7 +44,12 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1565090638363" />
       <file name="$USER_HOME$/Projects/pugs-app/src/container/cgi/InterfaceSetting.js" timestamp="1564992085779" />
-      <file name="$USER_HOME$/Projects/pugs-app/src/modules/fav/FavListScene/FavListScene.js" timestamp="1564993812621" />
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/fav/FavListScene/FavListScene.js" timestamp="1565150406005">
+        <mark key="[" line="155" column="16" />
+        <mark key="]" line="155" column="15" />
+        <mark key="^" line="155" column="15" />
+        <mark key="." line="155" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/ResultScene/ResultScene.js" timestamp="1565084257877" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" timestamp="1565087260313">
         <mark key="'" line="478" column="6" />
