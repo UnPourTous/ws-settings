@@ -31,6 +31,12 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1565857030539">
         <mark key="'" line="28" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/android/app/build.gradle" timestamp="1566216823124">
+        <mark key="[" line="160" column="76" />
+        <mark key="]" line="160" column="75" />
+        <mark key="^" line="160" column="75" />
+        <mark key="." line="160" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1565837766048">
         <mark key="'" line="13" column="38" />
       </file>
@@ -98,6 +104,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/node_modules/react-native/package.json" timestamp="1566216821351" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" timestamp="1565856780605">
         <mark key="'" line="110" column="27" />
         <mark key="[" line="2" column="15" />
