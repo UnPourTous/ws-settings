@@ -15,24 +15,11 @@
         <mark key="^" line="64" column="3" />
         <mark key="." line="64" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/components/NetValueChart.js" timestamp="1565090464651">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" timestamp="1565146919103">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566202638553" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1565090404477">
-        <mark key="[" line="107" column="6" />
-        <mark key="]" line="107" column="5" />
-        <mark key="^" line="107" column="5" />
-        <mark key="." line="107" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1565259446888">
         <mark key="'" line="32" column="4" />
@@ -40,6 +27,50 @@
         <mark key="]" line="26" column="9" />
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1565857030539">
+        <mark key="'" line="28" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1565837766048">
+        <mark key="'" line="13" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/statistics/Statistics.js" timestamp="1565943274879">
+        <mark key="'" line="57" column="13" />
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/ExpListScene.js" timestamp="1565260898862">
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="50" />
+        <mark key="." line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1565256338851">
+        <mark key="'" line="261" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/release.md" timestamp="1565272082169">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" timestamp="1566215218777">
+        <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/components/NetValueChart.js" timestamp="1565090464651">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566202638553" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1565090404477">
+        <mark key="[" line="107" column="6" />
+        <mark key="]" line="107" column="5" />
+        <mark key="^" line="107" column="5" />
+        <mark key="." line="107" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1565086898647">
         <mark key="[" line="81" column="16" />
@@ -53,9 +84,6 @@
         <mark key="]" line="40" column="70" />
         <mark key="^" line="40" column="70" />
         <mark key="." line="40" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1565857030539">
-        <mark key="'" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/HomeScene.js" timestamp="1565261418199">
         <mark key="'" line="40" column="24" />
@@ -77,27 +105,8 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1565837766048">
-        <mark key="'" line="13" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/statistics/Statistics.js" timestamp="1565943274879">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="7" />
-        <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-      </file>
-      <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/ExpListScene.js" timestamp="1565260898862">
-        <mark key="[" line="49" column="42" />
-        <mark key="]" line="49" column="50" />
-        <mark key="." line="49" column="50" />
-        <mark key="^" line="49" column="50" />
-      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/AppListScene/index.js" timestamp="1565261352064">
         <mark key="'" line="87" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1565256338851">
-        <mark key="'" line="261" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1565257642805" />
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/fav/FavListScene/FavListScene.js" timestamp="1565150406005">
@@ -105,12 +114,6 @@
         <mark key="]" line="155" column="15" />
         <mark key="^" line="155" column="15" />
         <mark key="." line="155" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/release.md" timestamp="1565272082169">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/adapter/WealthV3Adapter.js" timestamp="1565087260313">
         <mark key="'" line="478" column="6" />
@@ -123,7 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
       <jump line="105" column="16" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
       <jump line="106" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
       <jump line="68" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
@@ -223,6 +225,7 @@
       <jump line="53" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/statistics/Statistics.js" />
       <jump line="110" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
       <jump line="28" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" />
+      <jump line="18" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
