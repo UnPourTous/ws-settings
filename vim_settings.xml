@@ -28,6 +28,13 @@
         <mark key="^" line="26" column="9" />
         <mark key="." line="26" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" timestamp="1566273442897">
+        <mark key="'" line="326" column="2" />
+        <mark key="[" line="328" column="30" />
+        <mark key="]" line="328" column="29" />
+        <mark key="^" line="328" column="29" />
+        <mark key="." line="328" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1565857030539">
         <mark key="'" line="28" column="14" />
       </file>
@@ -40,6 +47,7 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1565837766048">
         <mark key="'" line="13" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/components/WealthInfo.js" timestamp="1566273194904" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/statistics/Statistics.js" timestamp="1565943274879">
         <mark key="'" line="57" column="13" />
         <mark key="[" line="0" column="8" />
@@ -71,18 +79,17 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566202638553" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1565090404477">
         <mark key="[" line="107" column="6" />
         <mark key="]" line="107" column="5" />
         <mark key="^" line="107" column="5" />
         <mark key="." line="107" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1565086898647">
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="81" column="15" />
-        <mark key="^" line="81" column="15" />
-        <mark key="." line="81" column="15" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1566273388722">
+        <mark key="[" line="123" column="48" />
+        <mark key="]" line="123" column="47" />
+        <mark key="^" line="123" column="47" />
+        <mark key="." line="123" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/AppListScene/AppListScene.js" timestamp="1565261199733">
         <mark key="'" line="193" column="0" />
@@ -104,7 +111,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/node_modules/react-native/package.json" timestamp="1566216821351" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" timestamp="1565856780605">
         <mark key="'" line="110" column="27" />
         <mark key="[" line="2" column="15" />
@@ -112,10 +118,13 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1566273400529" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" timestamp="1566273294180">
+        <mark key="'" line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/AppListScene/index.js" timestamp="1565261352064">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1565257642805" />
       <file name="$USER_HOME$/Projects/pugs-app/src/modules/fav/FavListScene/FavListScene.js" timestamp="1565150406005">
         <mark key="[" line="155" column="16" />
         <mark key="]" line="155" column="15" />
@@ -133,12 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="16" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
-      <jump line="106" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/HomePopupsBiz.js" />
-      <jump line="68" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" />
-      <jump line="14" column="21" filename="$USER_HOME$/Projects/pugs-app/src/bizComponents/ScrollViewContainer.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Projects/pugs-app/index.js" />
-      <jump line="204" column="9" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
       <jump line="156" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
       <jump line="193" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
       <jump line="194" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/exp/ExpListScene/ExpListScene.js" />
@@ -233,6 +236,12 @@
       <jump line="110" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
       <jump line="28" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" />
+      <jump line="48" column="64" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" />
+      <jump line="49" column="33" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" />
+      <jump line="330" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" />
+      <jump line="149" column="36" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" />
+      <jump line="326" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -242,7 +251,7 @@
         <text encoding="base64">KCkgPT4gdg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGF0aXN0aWNzXD4=</text>
+        <text encoding="base64">XDxyb3dSaWdodFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIOWbvuagh+abv+aNogovLyBUT0RPCg==</text>
@@ -279,17 +288,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGF0aXN0aWNzXD4=</last-search>
+      <last-search encoding="base64">XDxyb3dSaWdodFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGF0aXN0aWNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb3dSaWdodFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdGhyb3R0bGVcPg==</entry>
-        <entry encoding="base64">XDxfb25TZWFyY2hcPg==</entry>
-        <entry encoding="base64">XDxfcmVmcmVzaERhdGFcPg==</entry>
         <entry encoding="base64">XDxfb25FbmRSZWFjaGVkXD4=</entry>
         <entry encoding="base64">XDxfcmVuZGVySXRlbVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VOb01vcmVEYXRhVHJ1ZVw+</entry>
@@ -307,6 +313,9 @@
         <entry encoding="base64">XDxBcHBMaXN0U2NlbmVcPg==</entry>
         <entry encoding="base64">XDxBcHBMaXN0XD4=</entry>
         <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
+        <entry encoding="base64">XDxhbW91bnRTdHlsZVw+</entry>
+        <entry encoding="base64">XDxsYWJlbFw+</entry>
+        <entry encoding="base64">XDxyb3dSaWdodFw+</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
