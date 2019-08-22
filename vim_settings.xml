@@ -9,12 +9,7 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/index.js" timestamp="1565256896281">
         <mark key="'" line="69" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1565878862939">
-        <mark key="[" line="63" column="7" />
-        <mark key="]" line="64" column="3" />
-        <mark key="^" line="64" column="3" />
-        <mark key="." line="64" column="3" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1566443903101" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1566358753544" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/LoadingWrapper.js" timestamp="1565146919103">
         <mark key="[" line="2" column="0" />
@@ -70,7 +65,7 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" timestamp="1565256338851">
         <mark key="'" line="261" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/index.ios.js" timestamp="1566441508291" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/index.ios.js" timestamp="1566444047556" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/index.js" timestamp="1566442598569">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="23" />
@@ -85,6 +80,11 @@
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" timestamp="1566215218777">
         <mark key="'" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/.babelrc" timestamp="1566444000703">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/components/NetValueChart.js" timestamp="1565090464651">
         <mark key="[" line="4" column="0" />
@@ -139,6 +139,7 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package.json" timestamp="1566444095579" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1566358660282">
         <mark key="'" line="7" column="9" />
         <mark key="[" line="5" column="0" />
@@ -272,11 +273,11 @@
       <jump line="36" column="21" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+      <register name="&quot;" type="4">
+        <text>-babel-preset</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>-babel-preset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</text>
@@ -285,31 +286,31 @@
         <text encoding="base64">IyMjIOWbvuagh+abv+aNogovLyBUT0RPCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNyZWF0ZUxvZ2dlciBmcm9tICdyZWR1eC1sb2dnZXInCg==</text>
+        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5Y+R5biD5YmN6ZyA6KaB5YWI5pu/5o2i5Zu+5qCHCg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZUxvZ2dlciBmcm9tICdyZWR1eC1sb2dnZXInCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5Y+R5biD5YmN6ZyA6KaB5YWI5pu/5o2i5Zu+5qCHCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXhwb3J0X3RlYW1faWQ6IENyZWRlbnRpYWxzTWFuYWdlcjo6QXBwZmlsZUNvbmZpZy50cnlfZmV0Y2hfdmFsdWUoOnRlYW1faWQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwX2lkZW50aWZpZXIoInRlc3Quc29nYSIpICMgVGhlIGJ1bmRsZSBpZGVudGlmaWVyIG9mIHlvdXIgYXBwCmFwcGxlX2lkKCJqaXlvbmdAMjNsYWIuY29tIikgIyBZb3VyIEFwcGxlIGVtYWlsIGFkZHJlc3MKCml0Y190ZWFtX2lkKCIxMTkzMzQ2MTUiKSAjIEFwcCBTdG9yZSBDb25uZWN0IFRlYW0gSUQKdGVhbV9pZCgiRlE0SjY0QTlCVSIpICMgRGV2ZWxvcGVyIFBvcnRhbCBUZWFtIElECgojIEZvciBtb3JlIGluZm9ybWF0aW9uIGFib3V0IHRoZSBBcHBmaWxlLCBzZWU6CiMgICAgIGh0dHBzOi8vZG9jcy5mYXN0bGFuZS50b29scy9hZHZhbmNlZC8jYXBwZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgZXhwb3J0X3RlYW1faWQ6IENyZWRlbnRpYWxzTWFuYWdlcjo6QXBwZmlsZUNvbmZpZy50cnlfZmV0Y2hfdmFsdWUoOnRlYW1faWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBGb3IgbW9yZSBpbmZvcm1hdGlvbiBhYm91dCB0aGUgQXBwZmlsZSwgc2VlOgojICAgICBodHRwczovL2RvY3MuZmFzdGxhbmUudG9vbHMvYWR2YW5jZWQvI2FwcGZpbGUK</text>
+        <text encoding="base64">YXBwX2lkZW50aWZpZXIoInRlc3Quc29nYSIpICMgVGhlIGJ1bmRsZSBpZGVudGlmaWVyIG9mIHlvdXIgYXBwCmFwcGxlX2lkKCJqaXlvbmdAMjNsYWIuY29tIikgIyBZb3VyIEFwcGxlIGVtYWlsIGFkZHJlc3MKCml0Y190ZWFtX2lkKCIxMTkzMzQ2MTUiKSAjIEFwcCBTdG9yZSBDb25uZWN0IFRlYW0gSUQKdGVhbV9pZCgiRlE0SjY0QTlCVSIpICMgRGV2ZWxvcGVyIFBvcnRhbCBUZWFtIElECgojIEZvciBtb3JlIGluZm9ybWF0aW9uIGFib3V0IHRoZSBBcHBmaWxlLCBzZWU6CiMgICAgIGh0dHBzOi8vZG9jcy5mYXN0bGFuZS50b29scy9hZHZhbmNlZC8jYXBwZmlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBGb3IgbW9yZSBpbmZvcm1hdGlvbiBhYm91dCB0aGUgQXBwZmlsZSwgc2VlOgojICAgICBodHRwczovL2RvY3MuZmFzdGxhbmUudG9vbHMvYWR2YW5jZWQvI2FwcGZpbGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
