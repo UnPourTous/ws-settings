@@ -78,11 +78,11 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" timestamp="1566215218777">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/.babelrc" timestamp="1566445429644">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/.babelrc" timestamp="1566454241254">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/components/NetValueChart.js" timestamp="1565090464651">
         <mark key="[" line="4" column="0" />
@@ -272,7 +272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtc3RhZ2UtMCIsICJyZWFjdC1uYXRpdmUiCg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -281,7 +281,7 @@
         <text encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIOWbvuagh+abv+aNogovLyBUT0RPCg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUtc3RhZ2UtMCIsICJyZWFjdC1uYXRpdmUiCg==</text>
