@@ -16,6 +16,7 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeSharePopup.js" timestamp="1566789515045" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/react-navigation-ext/DyStackRouter.js" timestamp="1566791083078" />
       <file name="$USER_HOME$/Projects/chanshila/app/ios/Installer.m" timestamp="1566797408115" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1566805448231" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeShare.js" timestamp="1566790503912" />
       <file name="$USER_HOME$/Projects/chanshila/app/ios/TimerClock/Info.plist" timestamp="1566797349835" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1566789509097" />
@@ -26,8 +27,8 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProService.js" timestamp="1566789450546">
         <mark key="[" line="328" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1566785689456" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1566790352735" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1566805398682" />
     </filemarks>
     <jumps>
       <jump line="32" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
