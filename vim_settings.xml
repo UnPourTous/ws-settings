@@ -6,84 +6,23 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1566785689456" />
+      <file name="$USER_HOME$/Projects/chanshila/app/ios/Main copy3-Info.plist" timestamp="1566797361739" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1566791019438" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1566797373995" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/InterestListScene/InterestListScene.js" timestamp="1566788939713">
         <mark key="[" line="28" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1566734332967">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="44" column="79" />
-        <mark key="]" line="45" column="40" />
-        <mark key="." line="45" column="40" />
-        <mark key="^" line="45" column="40" />
-      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/ios/Main copy-Info.plist" timestamp="1566797365916" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeSharePopup.js" timestamp="1566789515045" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" timestamp="1566736220955">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="230" column="27" />
-        <mark key="]" line="230" column="29" />
-        <mark key="." line="230" column="29" />
-        <mark key="^" line="230" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/faq/dyRouters.js" timestamp="1566469054431">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/react-navigation-ext/DyStackRouter.js" timestamp="1566791083078" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1566358660282">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/AnnuityRangeScene/AnnuityRangeScene.js" timestamp="1566468649850">
-        <mark key="'" line="38" column="15" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="3" />
-        <mark key="^" line="38" column="3" />
-        <mark key="." line="38" column="3" />
-      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/ios/Installer.m" timestamp="1566797408115" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeShare.js" timestamp="1566790503912" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/equity/dyRouters.js" timestamp="1566469086976">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1566735745791">
-        <mark key="'" line="36" column="12" />
-        <mark key="[" line="117" column="26" />
-        <mark key="]" line="118" column="19" />
-        <mark key="^" line="118" column="19" />
-        <mark key="." line="118" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/.babelrc" timestamp="1566479106761">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/ios/TimerClock/Info.plist" timestamp="1566797349835" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1566789509097" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566738349584">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/index.js" timestamp="1566358655562">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" timestamp="1566468878667">
-        <mark key="'" line="4" column="14" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/ios/Main copy2-Info.plist" timestamp="1566797403568" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/api/CGI.js" timestamp="1566797341073" />
+      <file name="$USER_HOME$/Projects/chanshila/app/scripts/build.sh" timestamp="1566797388296" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1566797329977" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProService.js" timestamp="1566789450546">
         <mark key="[" line="328" column="50" />
       </file>
