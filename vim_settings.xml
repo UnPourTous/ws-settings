@@ -7,11 +7,11 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1566806538156" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566879582463">
-        <mark key="[" line="22" column="142" />
-        <mark key="]" line="22" column="142" />
-        <mark key="^" line="22" column="142" />
-        <mark key="." line="22" column="142" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566899871891">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1566806538156" />
     </filemarks>
@@ -119,10 +119,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXRJbmZvXD4=</text>
@@ -131,31 +131,31 @@
         <text encoding="base64">IyDlronoo4XlvIDlj5HpnIDopoHnmoRub2Rl54mI5pysCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaWYgcGFja2FnZSBpcyBub3QgYXZhaWxhYmxlIGxvY2FsbHksIHByb3h5IHJlcXVlc3RzIHRvICducG1qcycgcmVnaXN0cnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyMg5oqA5pyv5qCICmBgYAoxLiBudm0KMi4gbm9kZQozLiBmYXN0bGFuZQo0LiBndWxwIAo1LiBjb2Nvc3BvZApgYGAK</text>
+        <text encoding="base64">ICAgICMgYWxsb3cgYWxsIGtub3duIHVzZXJzIHRvIHB1Ymxpc2gvcHVibGlzaCBwYWNrYWdlcwogICAgIyAoYW55b25lIGNhbiByZWdpc3RlciBieSBkZWZhdWx0LCByZW1lbWJlcj8pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMg5oqA5pyv5qCICmBgYAoxLiBudm0KMi4gbm9kZQozLiBmYXN0bGFuZQo0LiBndWxwIAo1LiBjb2Nvc3BvZApgYGAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5ZyodHJpZGVudOebruW9leS4i+S9v+eUqCDkvb/nlKhgbnZtIHVzZWAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2l0IGxzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMjIAo=</text>
+        <text encoding="base64">5ZyodHJpZGVudOebruW9leS4i+S9v+eUqCDkvb/nlKhgbnZtIHVzZWAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBCdXR0b24sCg==</text>
+        <text encoding="base64">Z2l0IGxzb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExvYWRpbmcgZnJvbSAnLi4vLi4vLi4vLi4vLi4vYml6Q29tcG9uZW50cy9wb3B1cC9Mb2FkaW5nJwppbXBvcnQgVG9hc3QgZnJvbSAnLi4vLi4vLi4vLi4vLi4vYml6Q29tcG9uZW50cy9wb3B1cC9Ub2FzdCcK</text>
+        <text encoding="base64">IyMjIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
