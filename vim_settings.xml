@@ -7,6 +7,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1566806538156" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1566916241699" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/DemoScene/index.js" timestamp="1566914429904">
         <mark key="[" line="30" column="20" />
         <mark key="]" line="30" column="20" />
@@ -19,6 +20,7 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/reduxUtil.js" timestamp="1566915888118" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" timestamp="1566915119612" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1566914845300">
         <mark key="[" line="90" column="51" />
@@ -26,12 +28,18 @@
         <mark key="^" line="90" column="51" />
         <mark key="." line="90" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" timestamp="1566915813150" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566914110453">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="16" column="185" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/index.js" timestamp="1566915858267" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1566916299318">
+        <mark key="'" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package-lock.json" timestamp="1566916004651" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" timestamp="1566914826638">
         <mark key="'" line="30" column="41" />
         <mark key="[" line="74" column="49" />
@@ -48,7 +56,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/settings.gradle" />
       <jump line="63" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
       <jump line="17" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
@@ -148,6 +155,7 @@
       <jump line="19" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
       <jump line="27" column="44" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
       <jump line="30" column="41" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
+      <jump line="4" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -157,7 +165,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRDb3VudFw+</text>
+        <text encoding="base64">XDx0aHVua1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IG5wbUNsaWVudD1ucG0K</text>
@@ -194,15 +202,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRDb3VudFw+</last-search>
+      <last-search encoding="base64">XDx0aHVua1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRDb3VudFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0aHVua1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
         <entry encoding="base64">XDxyZWZMaXN0XD4=</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
@@ -222,6 +229,7 @@
         <entry encoding="base64">XDxyZWNlbnRSZW1pbmRcPg==</entry>
         <entry encoding="base64">XDxDYXRJbmZvXD4=</entry>
         <entry encoding="base64">XDxhZGRDb3VudFw+</entry>
+        <entry encoding="base64">XDx0aHVua1w+</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
