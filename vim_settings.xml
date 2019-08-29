@@ -14,6 +14,9 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/redux-actions/package.json" timestamp="1566964564250" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1566806538156" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1567070381844">
+        <mark key="'" line="77" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566914110453">
         <mark key="[" line="17" column="8" />
         <mark key="]" line="19" column="0" />
@@ -55,8 +58,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
-      <jump line="17" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/build.gradle" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
       <jump line="62" column="34" filename="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" />
       <jump line="94" column="2" filename="$USER_HOME$/Projects/pugs-app/src/modules/home/HomeScene/components/SettingScene.js" />
@@ -155,6 +156,8 @@
       <jump line="27" column="44" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
       <jump line="30" column="41" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
       <jump line="4" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="74" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="77" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -164,7 +167,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aHVua1w+</text>
+        <text encoding="base64">XDxjbGlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IG5wbUNsaWVudD1ucG0K</text>
@@ -201,15 +204,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aHVua1w+</last-search>
+      <last-search encoding="base64">XDxjbGlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aHVua1w+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWZMaXN0XD4=</entry>
         <entry encoding="base64">XDx3aW5kb3dcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxMaXN0SXRlbVw+</entry>
@@ -229,6 +231,7 @@
         <entry encoding="base64">XDxDYXRJbmZvXD4=</entry>
         <entry encoding="base64">XDxhZGRDb3VudFw+</entry>
         <entry encoding="base64">XDx0aHVua1w+</entry>
+        <entry encoding="base64">XDxjbGlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
