@@ -12,6 +12,12 @@
         <mark key="^" line="90" column="51" />
         <mark key="." line="90" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" timestamp="1567518383754">
+        <mark key="[" line="22" column="82" />
+        <mark key="]" line="22" column="82" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="82" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1567431118602">
         <mark key="[" line="40" column="59" />
         <mark key="]" line="40" column="59" />
@@ -55,6 +61,12 @@
         <mark key="." line="91" column="0" />
         <mark key="^" line="113" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" timestamp="1567517786651">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" timestamp="1566914826638">
         <mark key="'" line="30" column="41" />
         <mark key="[" line="74" column="49" />
@@ -69,6 +81,7 @@
         <mark key="^" line="29" column="41" />
         <mark key="." line="29" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/app.json" timestamp="1567518342631" />
     </filemarks>
     <jumps>
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
@@ -174,10 +187,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ChanhiLa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>ChanhiLa</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjbGlcPg==</text>
