@@ -7,6 +7,13 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/redux/src/bindActionCreators.js" timestamp="1567780223472" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" timestamp="1567838337582">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="21" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1567779220634" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1567520675329">
         <mark key="[" line="424" column="2" />
@@ -49,7 +56,13 @@
         <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/redux/test/combineReducers.spec.js" timestamp="1567777627261" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1566914845300">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1567838470179">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1567838456645">
         <mark key="[" line="90" column="51" />
         <mark key="]" line="90" column="51" />
         <mark key="^" line="90" column="51" />
@@ -64,11 +77,13 @@
       </file>
       <file name="$USER_HOME$/Projects/redux/test/applyMiddleware.spec.js" timestamp="1567777599887" />
       <file name="$USER_HOME$/Projects/redux/test/helpers/actionCreators.js" timestamp="1567779865954" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/.babelrc" timestamp="1567519826088">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1567838274990">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-devtools-core/build/backend.js" timestamp="1567837410920" />
       <file name="$USER_HOME$/Projects/redux/CONTRIBUTING.md" timestamp="1567777036269" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566914110453">
         <mark key="[" line="17" column="8" />
@@ -84,9 +99,9 @@
         <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/add.js" timestamp="1567517021393" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-deep-force-update/README.md" timestamp="1567837664769" />
       <file name="$USER_HOME$/Projects/redux/src/combineReducers.js" timestamp="1567778320105" />
       <file name="$USER_HOME$/Projects/redux/test/createStore.spec.js" timestamp="1567777575681" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1567515004320" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/DemoScene/DemoScene.js" timestamp="1566914406901">
         <mark key="[" line="29" column="31" />
         <mark key="]" line="29" column="41" />
@@ -96,10 +111,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/app.json" timestamp="1567518342631" />
     </filemarks>
     <jumps>
-      <jump line="30" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
-      <jump line="20" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
-      <jump line="35" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
-      <jump line="6" column="33" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
       <jump line="19" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
       <jump line="135" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" />
       <jump line="148" column="24" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/WePullToRefresh/WePullToRefresh.js" />
@@ -196,13 +207,17 @@
       <jump line="40" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="2" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="44" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" />
+      <jump line="6" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhcnRzLnB1c2goYGluICR7dG9va30gbXNgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(${time})</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSTkVudlw+</text>
@@ -214,28 +229,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIWFjdGlvbi50eXBlKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShhY3Rpb24pKQogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKEpTT04uc3RyaW5naWZ5KGFjdGlvbikpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU2NlbmVDb25uZWN0IH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsb2dnZXI6IHsKICAgIGNvbGxhcHNlZDogdHJ1ZSwKICAgIGRpZmY6IHRydWUsCiAgICBhY3Rpb25UcmFuc2Zvcm1lcjogKGFjdGlvbikgPT4gewogICAgICBpZiAoCiAgICAgICAgICBhY3Rpb24ucGF5bG9hZCAmJgogICAgICAgICAgYWN0aW9uLnBheWxvYWQuX19uYW1lc3BhY2VfXwogICAgICApIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgLi4uYWN0aW9uLAogICAgICAgICAgcGF5bG9hZDogYWN0aW9uLnBheWxvYWQucGF5bG9hZAogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICByZXR1cm4gYWN0aW9uCiAgICAgIH0KICAgIH0sCiAgICB0aXRsZUZvcm1hdHRlcjogKGFjdGlvbiwgdGltZSwgdG9vaykgPT4gewoKICAgICAgY29uc3QgcGFydHMgPSBbXQogICAgICBwYXJ0cy5wdXNoKHR5cGVvZiBhY3Rpb24gPT09ICdmdW5jdGlvbicgPyAnW2FzeW5jQWN0aW9uXScgOiAnW2FjdGlvbl0nKQogICAgICBpZiAoIWFjdGlvbi50eXBlKSB7CiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoYWN0aW9uKSkKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoSlNPTi5zdHJpbmdpZnkoYWN0aW9uKSkKICAgICAgfQogICAgICBpZiAoYWN0aW9uLnR5cGUgJiYgYWN0aW9uLnR5cGUuaW5kZXhPZignc2V0U2NlbmVTdGF0ZVRoYXRPbmx5VXNlSW5uZXInKSA+IC0xKSB7CiAgICAgICAgY29uc3QgdGVtcCA9IGFjdGlvbi50eXBlLnNwbGl0KCcvJykKICAgICAgICBwYXJ0cy5wdXNoKGAke3RlbXBbMF19L3NldFNjZW5lU3RhdGVgKQogICAgICAgIHBhcnRzLnB1c2goYCgke3RpbWV9KWApCiAgICAgIH0gZWxzZSB7CiAgICAgICAgcGFydHMucHVzaChgJHtTdHJpbmcoYWN0aW9uLnR5cGUpfWApCiAgICAgICAgcGFydHMucHVzaChgKCR7dGltZX0pYCkKICAgICAgfQogICAgICByZXR1cm4gcGFydHMuam9pbignICcpCiAgICB9CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGl0bGVGb3JtYXR0ZXIK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWFjdGlvbi50eXBlKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShhY3Rpb24pKQogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKEpTT04uc3RyaW5naWZ5KGFjdGlvbikpCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFSTkVudi5pc0RldigpKSByZXR1cm4K</text>
+        <text encoding="base64">ICBsb2dnZXI6IHsKICAgIGNvbGxhcHNlZDogdHJ1ZSwKICAgIGRpZmY6IHRydWUsCiAgICBhY3Rpb25UcmFuc2Zvcm1lcjogKGFjdGlvbikgPT4gewogICAgICBpZiAoCiAgICAgICAgICBhY3Rpb24ucGF5bG9hZCAmJgogICAgICAgICAgYWN0aW9uLnBheWxvYWQuX19uYW1lc3BhY2VfXwogICAgICApIHsKICAgICAgICByZXR1cm4gewogICAgICAgICAgLi4uYWN0aW9uLAogICAgICAgICAgcGF5bG9hZDogYWN0aW9uLnBheWxvYWQucGF5bG9hZAogICAgICAgIH0KICAgICAgfSBlbHNlIHsKICAgICAgICByZXR1cm4gYWN0aW9uCiAgICAgIH0KICAgIH0sCiAgICB0aXRsZUZvcm1hdHRlcjogKGFjdGlvbiwgdGltZSwgdG9vaykgPT4gewoKICAgICAgY29uc3QgcGFydHMgPSBbXQogICAgICBwYXJ0cy5wdXNoKHR5cGVvZiBhY3Rpb24gPT09ICdmdW5jdGlvbicgPyAnW2FzeW5jQWN0aW9uXScgOiAnW2FjdGlvbl0nKQogICAgICBpZiAoIWFjdGlvbi50eXBlKSB7CiAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoYWN0aW9uKSkKICAgICAgICB0aHJvdyBuZXcgRXJyb3IoSlNPTi5zdHJpbmdpZnkoYWN0aW9uKSkKICAgICAgfQogICAgICBpZiAoYWN0aW9uLnR5cGUgJiYgYWN0aW9uLnR5cGUuaW5kZXhPZignc2V0U2NlbmVTdGF0ZVRoYXRPbmx5VXNlSW5uZXInKSA+IC0xKSB7CiAgICAgICAgY29uc3QgdGVtcCA9IGFjdGlvbi50eXBlLnNwbGl0KCcvJykKICAgICAgICBwYXJ0cy5wdXNoKGAke3RlbXBbMF19L3NldFNjZW5lU3RhdGVgKQogICAgICAgIHBhcnRzLnB1c2goYCgke3RpbWV9KWApCiAgICAgIH0gZWxzZSB7CiAgICAgICAgcGFydHMucHVzaChgJHtTdHJpbmcoYWN0aW9uLnR5cGUpfWApCiAgICAgICAgcGFydHMucHVzaChgKCR7dGltZX0pYCkKICAgICAgfQogICAgICByZXR1cm4gcGFydHMuam9pbignICcpCiAgICB9CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJlbW92ZS1jb25zb2xlIgo=</text>
+        <text encoding="base64">dGl0bGVGb3JtYXR0ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFSTkVudi5pc0RldigpKSByZXR1cm4K</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLXJlbW92ZS1jb25zb2xlIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
