@@ -21,31 +21,7 @@
         <mark key="^" line="424" column="1" />
         <mark key="." line="424" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/DemoScene/index.js" timestamp="1566914429904">
-        <mark key="[" line="30" column="20" />
-        <mark key="]" line="30" column="20" />
-        <mark key="." line="30" column="20" />
-        <mark key="^" line="30" column="20" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/index.js" timestamp="1566915139466">
-        <mark key="[" line="18" column="13" />
-        <mark key="]" line="18" column="13" />
-        <mark key="^" line="18" column="13" />
-        <mark key="." line="18" column="13" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/android/app/build.gradle" timestamp="1567432813237">
-        <mark key="[" line="109" column="45" />
-        <mark key="]" line="109" column="54" />
-        <mark key="." line="109" column="54" />
-        <mark key="^" line="109" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/redux/test/typescript.spec.js" timestamp="1567777581151" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/state-management.md" timestamp="1567431800734">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="113" column="4" />
-      </file>
       <file name="/JavaScript Console" timestamp="1567778334402">
         <mark key="[" line="0" column="0" />
       </file>
@@ -56,7 +32,7 @@
         <mark key="." line="4" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/redux/test/combineReducers.spec.js" timestamp="1567777627261" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1567838470179">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1567839311006">
         <mark key="[" line="18" column="20" />
         <mark key="]" line="18" column="24" />
         <mark key="^" line="18" column="24" />
@@ -85,12 +61,6 @@
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-devtools-core/build/backend.js" timestamp="1567837410920" />
       <file name="$USER_HOME$/Projects/redux/CONTRIBUTING.md" timestamp="1567777036269" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1566914110453">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="16" column="185" />
-      </file>
       <file name="$USER_HOME$/Projects/redux/CODE_OF_CONDUCT.md" timestamp="1567776924368" />
       <file name="$USER_HOME$/Projects/redux/test/bindActionCreators.spec.js" timestamp="1567780319300">
         <mark key="[" line="20" column="4" />
@@ -102,12 +72,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-deep-force-update/README.md" timestamp="1567837664769" />
       <file name="$USER_HOME$/Projects/redux/src/combineReducers.js" timestamp="1567778320105" />
       <file name="$USER_HOME$/Projects/redux/test/createStore.spec.js" timestamp="1567777575681" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/DemoScene/DemoScene.js" timestamp="1566914406901">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="41" />
-        <mark key="^" line="29" column="41" />
-        <mark key="." line="29" column="41" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/app.json" timestamp="1567518342631" />
     </filemarks>
     <jumps>
