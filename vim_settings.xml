@@ -6,22 +6,24 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1567847600428">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native-json-tree/src/index.js" timestamp="1567956261039" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1567953395734">
         <mark key="[" line="424" column="2" />
         <mark key="]" line="424" column="1" />
         <mark key="^" line="424" column="1" />
         <mark key="." line="424" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/UIScene/UIScene.js" timestamp="1567842632651">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="49" column="29" />
-        <mark key="." line="47" column="8" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1567954489666">
+        <mark key="'" line="27" column="2" />
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="6" />
+        <mark key="^" line="27" column="6" />
+        <mark key="." line="27" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1567846672933">
-        <mark key="'" line="720" column="18" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" timestamp="1567954609531">
+        <mark key="'" line="38" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" timestamp="1567845235123" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/DemoScene/index.js" timestamp="1567952089962" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/SceneView.js" timestamp="1567842380537">
         <mark key="'" line="14" column="18" />
         <mark key="[" line="3" column="30" />
@@ -29,119 +31,97 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" timestamp="1567517786651">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1567956653359">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/test/combineReducers.spec.js" timestamp="1567777627261" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/react-navigation-ext/DyStackRouter.js" timestamp="1567846095937">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="40" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1567955297618">
+        <mark key="'" line="25" column="30" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/AScene/AScene.js" timestamp="1567839311006">
-        <mark key="[" line="18" column="20" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" timestamp="1567954357370">
+        <mark key="'" line="0" column="34" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="7" column="68" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/index.js" timestamp="1567840536723">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="6" column="30" />
-        <mark key="^" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1567956602005">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="49" />
+        <mark key="." line="35" column="49" />
+        <mark key="^" line="35" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1567842921009">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="10" column="54" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/customerService/dyRouters.js" timestamp="1567845325779" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/WeNavigator.js" timestamp="1567846757227">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/WeNavigator.js" timestamp="1567953884073">
         <mark key="[" line="40" column="79" />
         <mark key="]" line="40" column="79" />
         <mark key="^" line="40" column="81" />
         <mark key="." line="40" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/test/applyMiddleware.spec.js" timestamp="1567777599887" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1567844895325">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1567954982095">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-devtools-core/build/backend.js" timestamp="1567837410920" />
-      <file name="$USER_HOME$/Projects/redux/CONTRIBUTING.md" timestamp="1567777036269" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" timestamp="1567855698570">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="35" column="49" />
-        <mark key="]" line="35" column="48" />
-        <mark key="." line="35" column="48" />
-        <mark key="^" line="35" column="48" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" timestamp="1567949813454">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/CODE_OF_CONDUCT.md" timestamp="1567776924368" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/FrameworkScene/FrameworkScene.js" timestamp="1567842194231">
-        <mark key="[" line="20" column="31" />
-        <mark key="]" line="20" column="36" />
-        <mark key="^" line="20" column="36" />
-        <mark key="." line="20" column="36" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/FrameworkScene/FrameworkScene.js" timestamp="1567955563761">
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="24" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/manifest.js" timestamp="1567848149741">
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
-        <mark key="^" line="6" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1567955403145">
+        <mark key="'" line="47" column="22" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/react-navigation-ext/DyStackNavigator.js" timestamp="1567846108642">
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="36" column="44" />
-        <mark key="^" line="36" column="44" />
-        <mark key="." line="36" column="44" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/dyRouters.js" timestamp="1567951931251" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1567955474930">
+        <mark key="'" line="50" column="44" />
+        <mark key="[" line="506" column="58" />
+        <mark key="]" line="506" column="57" />
+        <mark key="." line="506" column="57" />
+        <mark key="^" line="506" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/add.js" timestamp="1567517021393" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/react-navigation-ext/DyStackRouter.js" timestamp="1567845630195" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1567848068892">
-        <mark key="'" line="41" column="9" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="45" column="3" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" timestamp="1567954370073">
+        <mark key="'" line="8" column="2" />
+        <mark key="[" line="5" column="90" />
+        <mark key="]" line="5" column="90" />
+        <mark key="^" line="5" column="91" />
+        <mark key="." line="5" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1567846647307" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1567847898601">
-        <mark key="'" line="493" column="28" />
-        <mark key="[" line="494" column="0" />
-        <mark key="]" line="494" column="0" />
-        <mark key="." line="494" column="0" />
-        <mark key="^" line="494" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/redux/src/bindActionCreators.js" timestamp="1567780223472" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" timestamp="1567847633868" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" timestamp="1567838337582">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" timestamp="1567955507205">
         <mark key="'" line="6" column="31" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1567779220634" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1567844908824">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
-        <mark key="^" line="33" column="18" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1567954968485">
+        <mark key="[" line="32" column="38" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1567845081952" />
-      <file name="$USER_HOME$/Projects/redux/test/typescript.spec.js" timestamp="1567777581151" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/react-navigation-ext/DyStackNavigator.js" timestamp="1567845751401" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/connectModules.js" timestamp="1567847493645">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1567954898312">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+        <mark key="^" line="19" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/stateChangeListener.js" timestamp="1567846477869">
         <mark key="'" line="34" column="18" />
@@ -157,7 +137,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="28" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/test/helpers/actionCreators.js" timestamp="1567779865954" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/PrimaryButton.js" timestamp="1567841378713">
         <mark key="'" line="47" column="9" />
         <mark key="[" line="15" column="19" />
@@ -165,26 +144,12 @@
         <mark key="." line="15" column="25" />
         <mark key="^" line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/.babelrc" timestamp="1567519826088">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1567956626871">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="10" />
+        <mark key="^" line="19" column="10" />
+        <mark key="." line="19" column="10" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/test/bindActionCreators.spec.js" timestamp="1567780319300">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" timestamp="1567843925748">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="38" />
-        <mark key="^" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-deep-force-update/README.md" timestamp="1567837664769" />
-      <file name="$USER_HOME$/Projects/redux/src/combineReducers.js" timestamp="1567778320105" />
-      <file name="$USER_HOME$/Projects/redux/test/createStore.spec.js" timestamp="1567777575681" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" timestamp="1567841020564">
         <mark key="'" line="30" column="41" />
         <mark key="[" line="74" column="49" />
@@ -192,56 +157,8 @@
         <mark key="^" line="75" column="59" />
         <mark key="." line="74" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/app.json" timestamp="1567518342631" />
     </filemarks>
     <jumps>
-      <jump line="13" column="38" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" />
-      <jump line="53" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/statistics/Statistics.js" />
-      <jump line="110" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
-      <jump line="28" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" />
-      <jump line="18" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/debug-skill.md" />
-      <jump line="48" column="64" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" />
-      <jump line="49" column="33" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" />
-      <jump line="35" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" />
-      <jump line="330" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" />
-      <jump line="149" column="36" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" />
-      <jump line="326" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/components/DepositAssetCardItem.js" />
-      <jump line="16" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="7" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="36" column="21" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/index.js" />
-      <jump line="21" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" />
-      <jump line="45" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" />
-      <jump line="51" column="26" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" />
-      <jump line="8" column="3" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" />
-      <jump line="44" column="26" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" />
-      <jump line="5" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" />
-      <jump line="50" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" />
-      <jump line="49" column="1" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" />
-      <jump line="4" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/dyRouters.js" />
-      <jump line="38" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assurance/AnnuityRangeScene/AnnuityRangeScene.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transaction/POSServiceScene/POSServiceScene.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/chanshila/app/ios/Podfile" />
-      <jump line="129" column="41" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="283" column="22" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="284" column="13" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="69" column="19" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" />
-      <jump line="3" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" />
-      <jump line="36" column="12" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="90" column="35" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
-      <jump line="217" column="36" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
-      <jump line="215" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
-      <jump line="27" column="44" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
-      <jump line="30" column="41" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" />
-      <jump line="4" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="74" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
-      <jump line="77" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
-      <jump line="20" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
-      <jump line="0" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="9" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="4" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="40" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
@@ -269,17 +186,14 @@
       <jump line="47" column="23" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="24" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="496" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
-      <jump line="6" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="31" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="172" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="329" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="526" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/stateChangeListener.js" />
       <jump line="68" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="30" column="18" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/stateChangeListener.js" />
       <jump line="18" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="493" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="18" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
       <jump line="14" column="36" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
       <jump line="4" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/connectModules.js" />
@@ -290,48 +204,98 @@
       <jump line="43" column="54" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
       <jump line="76" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="71" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="55" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="45" column="83" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="44" column="48" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="41" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
+      <jump line="41" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="45" column="83" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="55" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="69" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="74" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="17" column="40" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="42" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
+      <jump line="5" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
+      <jump line="45" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
+      <jump line="495" column="35" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="6" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="499" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="509" column="26" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
+      <jump line="61" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
+      <jump line="1" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
+      <jump line="43" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="733" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
+      <jump line="731" column="21" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
+      <jump line="493" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="7" column="46" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="497" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="498" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="62" column="47" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="492" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="21" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
+      <jump line="18" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" />
+      <jump line="11" column="47" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
+      <jump line="4" column="34" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
+      <jump line="38" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" />
+      <jump line="32" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
+      <jump line="6" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
+      <jump line="51" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="487" column="34" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="537" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="475" column="34" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="485" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="486" column="45" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="24" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
+      <jump line="46" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="35" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="55" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="28" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="50" column="44" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0ZWRDb250YWluZXJcPg==</text>
+        <text encoding="base64">XDxyb3V0ZXJzQ29uZmlnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIE1vZHVsZU1hbmFnZXIuYWRkRHlNb2R1bGUobW9kdWxlKQo=</text>
+        <text encoding="base64">ICAgIC8vICAgICBhcHBOYXZpZ2F0b3Iucm91dGVyc0NvbmZpZ1tyb3V0ZU5hbWVdID0gcm91dGVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1vZHVsZU1hbmFnZXIuKG1vZHVsZSkK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSB0aGlzLm5hdmlnYXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0Pnt0aGlzLnByb3BzLmNvdW50fTwvVGV4dD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29ubmVjdGVkTW9kdWxlcwo=</text>
+        <text encoding="base64">ICAgICAgICA8SlNPTlRyZWUgZGF0YT17dGhpcy5wcm9wc30gLz4KICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3RlZE1vZHVsZXMK</text>
+        <text encoding="base64">ICAgICAgICA8SlNPTlRyZWUgZGF0YT17dGhpcy5wcm9wc30gLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbm5lY3RlZE1vZHVsZXMgPSB0aGlzLmNvbm5lY3RNb2R1bGVzKG1vZHVsZUxpc3QsIGNvbnRhaW5lcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGFpdGMK</text>
+        <text encoding="base64">ICAgICAgcm91dGVyc0NvbmZpZwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,34 +305,34 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0ZWRDb250YWluZXJcPg==</last-search>
+      <last-search encoding="base64">XDxyb3V0ZXJzQ29uZmlnXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0ZWRDb250YWluZXJcPg==</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxyb3V0ZXJzQ29uZmlnXD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</entry>
-        <entry encoding="base64">XDxhZGFwdGVyXD4=</entry>
-        <entry encoding="base64">XDxTdHlsZVNoZWV0XD4=</entry>
-        <entry encoding="base64">XDxUZXh0XD4=</entry>
-        <entry encoding="base64">XDxXZUNoYXRcPg==</entry>
-        <entry encoding="base64">XDxyZWNlbnRSZW1pbmRcPg==</entry>
-        <entry encoding="base64">XDxDYXRJbmZvXD4=</entry>
-        <entry encoding="base64">XDxhZGRDb3VudFw+</entry>
-        <entry encoding="base64">XDx0aHVua1w+</entry>
-        <entry encoding="base64">XDxjbGlcPg==</entry>
         <entry encoding="base64">XDx0aXRsZUZvcm1hdHRlclw+</entry>
         <entry encoding="base64">XDxSTkVudlw+</entry>
         <entry encoding="base64">XDxFbnRyeUxpc3RcPg==</entry>
-        <entry encoding="base64">XDxkeU1vZHVsZXNcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxpc0R5TG9hZFw+</entry>
-        <entry encoding="base64">XDxzdGF0ZUNoYW5nZUxpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxtb2R1bGVzXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVTY2VuZUNvbm5lY3RcPg==</entry>
         <entry encoding="base64">XDxjb25uZWN0ZWRDb250YWluZXJcPg==</entry>
+        <entry encoding="base64">XDxtb2R1bGVMaXN0XD4=</entry>
+        <entry encoding="base64">XDxNb2R1bGVNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVNb2R1bGVDb25uZWN0XD4=</entry>
+        <entry encoding="base64">XDxzdG9yZVw+</entry>
+        <entry encoding="base64">XDxjb21iaW5lQXBwUmVkdWNlcnNcPg==</entry>
+        <entry encoding="base64">XDxzdGF0ZUNoYW5nZUxpc3RlbmVyXD4=</entry>
+        <entry encoding="base64">XDxXZU5hdmlnYXRvclw+</entry>
+        <entry encoding="base64">XDxkeVJvdXRlcnNDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxkeU1vZHVsZXNcPg==</entry>
+        <entry encoding="base64">XDxkeU1vZHVsZVw+</entry>
+        <entry encoding="base64">XDxmbGF0Um91dGVyc1w+</entry>
+        <entry encoding="base64">XDxyb3V0ZXJzQ29uZmlnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
@@ -385,11 +349,11 @@
         <entry>w:w</entry>
         <entry>:w</entry>
         <entry>w':w</entry>
-        <entry>;w</entry>
         <entry>59</entry>
-        <entry>we</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
+        <entry>;w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
