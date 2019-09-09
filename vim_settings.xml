@@ -6,6 +6,9 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/WebankTokenHelper.js" timestamp="1568001795433">
+        <mark key="'" line="48" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" timestamp="1567954370073">
         <mark key="'" line="8" column="2" />
         <mark key="[" line="5" column="90" />
@@ -150,6 +153,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/WebankTokenService.js" timestamp="1568001739900">
+        <mark key="'" line="23" column="8" />
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="41" />
+        <mark key="." line="30" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/index.js" timestamp="1567841020564">
         <mark key="'" line="30" column="41" />
         <mark key="[" line="74" column="49" />
@@ -158,6 +167,7 @@
         <mark key="." line="74" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1567995661551" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/ServerPrefixType.js" timestamp="1568001999881" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1567955474930">
         <mark key="'" line="50" column="44" />
         <mark key="[" line="506" column="58" />
@@ -167,9 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
-      <jump line="40" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
-      <jump line="2" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="44" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/reduxConfig.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/test/index.js" />
@@ -267,16 +274,19 @@
       <jump line="36" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
       <jump line="124" column="9" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/adapter/LoginAdapter.js" />
+      <jump line="78" column="34" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/WebankTokenService.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/WebankTokenService.js" />
+      <jump line="48" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/WebankTokenHelper.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>“</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>“</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRMb2dpbkVycm9yTXNnQnlDb2RlXD4=</text>
+        <text encoding="base64">XDxyZWZyZXNoVG9rZW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICAgICBhcHBOYXZpZ2F0b3Iucm91dGVyc0NvbmZpZ1tyb3V0ZU5hbWVdID0gcm91dGVyCg==</text>
@@ -313,16 +323,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRMb2dpbkVycm9yTXNnQnlDb2RlXD4=</last-search>
+      <last-search encoding="base64">XDxyZWZyZXNoVG9rZW5cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRMb2dpbkVycm9yTXNnQnlDb2RlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWZyZXNoVG9rZW5cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSTkVudlw+</entry>
-        <entry encoding="base64">XDxFbnRyeUxpc3RcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
         <entry encoding="base64">XDxpc0R5TG9hZFw+</entry>
         <entry encoding="base64">XDxtb2R1bGVzXD4=</entry>
@@ -341,6 +349,8 @@
         <entry encoding="base64">XDxmbGF0Um91dGVyc1w+</entry>
         <entry encoding="base64">XDxyb3V0ZXJzQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxnZXRMb2dpbkVycm9yTXNnQnlDb2RlXD4=</entry>
+        <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
+        <entry encoding="base64">XDxyZWZyZXNoVG9rZW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
