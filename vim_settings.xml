@@ -24,7 +24,7 @@
         <mark key="." line="7" column="12" />
         <mark key="^" line="21" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" timestamp="1568000185787" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" timestamp="1568003503667" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1567953395734">
         <mark key="[" line="424" column="2" />
         <mark key="]" line="424" column="1" />
@@ -61,6 +61,7 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/CookieInterceptor.js" timestamp="1568003564162" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1567956653359">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
