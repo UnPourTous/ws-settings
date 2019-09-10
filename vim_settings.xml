@@ -13,6 +13,7 @@
         <mark key="^" line="5" column="91" />
         <mark key="." line="5" column="90" />
       </file>
+      <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1568101188731" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" timestamp="1568003503667" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1568013357408">
         <mark key="[" line="420" column="2" />
@@ -40,6 +41,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="16" column="18" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1568101048429">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1568002657561" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1568013059071">
@@ -76,7 +80,7 @@
         <mark key="." line="129" column="45" />
         <mark key="^" line="129" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/redux/test/bindActionCreators.spec.js" timestamp="1568086406738" />
+      <file name="$USER_HOME$/Projects/redux/test/bindActionCreators.spec.js" timestamp="1568101145266" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1568011263042">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="10" />
