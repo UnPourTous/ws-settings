@@ -6,9 +6,6 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/WebankTokenHelper.js" timestamp="1568001795433">
-        <mark key="'" line="48" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" timestamp="1568013109604">
         <mark key="'" line="8" column="2" />
         <mark key="[" line="5" column="90" />
@@ -35,9 +32,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" timestamp="1567954609531">
-        <mark key="'" line="38" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/network/core/CookieInterceptor.js" timestamp="1568010532489" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1568013513314">
@@ -82,6 +76,7 @@
         <mark key="." line="129" column="45" />
         <mark key="^" line="129" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/redux/test/bindActionCreators.spec.js" timestamp="1568086406738" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1568011263042">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="10" />
