@@ -47,12 +47,12 @@
         <mark key="^" line="420" column="1" />
         <mark key="." line="420" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" timestamp="1569329584472">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="131" column="16" />
-        <mark key="]" line="131" column="16" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" timestamp="1569330856011">
+        <mark key="'" line="131" column="20" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
         <mark key="^" line="67" column="1" />
-        <mark key="." line="131" column="16" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1568012077901">
         <mark key="'" line="27" column="2" />
@@ -74,7 +74,7 @@
         <mark key="." line="15" column="24" />
         <mark key="^" line="15" column="24" />
       </file>
-      <file name="/index.js" timestamp="1569329664464" />
+      <file name="/index.js" timestamp="1569330574165" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1568011263042">
         <mark key="[" line="19" column="4" />
         <mark key="]" line="19" column="10" />
@@ -127,10 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
-      <jump line="496" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
-      <jump line="172" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="329" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="526" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
       <jump line="83" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/stateChangeListener.js" />
@@ -226,14 +222,18 @@
       <jump line="19" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
       <jump line="17" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" />
+      <jump line="66" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
+      <jump line="81" column="24" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
+      <jump line="88" column="24" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
       <jump line="67" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
+      <jump line="131" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/init/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ios/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>ios/</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</text>
@@ -242,31 +242,31 @@
         <text encoding="base64">ICAgICAgICAgIDxSb3cubUVuZC5jU3BhY2VCZXR3ZWVuPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPENvbHVtbi5TcGFjZUJldHdlZW4uU3BhY2VCZXR3ZWVuIHN0eWxlPXt7CiAgICAgICAgY29sb3I6ICdyZWQnCiAgICAgIH19PgogICAgICAgIDxTdGFydC5FbmQ+CiAgICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZDwvVGV4dD4KICAgICAgICA8L1N0YXJ0LkVuZD4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPC9Db2x1bW4uQUlFbmQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPENvbHVtbi5TcGFjZUJldHdlZW4uU3BhY2VCZXR3ZWVuIHN0eWxlPXt7CiAgICAgICAgY29sb3I6ICdyZWQnCiAgICAgIH19PgogICAgICAgIDxTdGFydC5FbmQ+CiAgICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZDwvVGV4dD4KICAgICAgICA8L1N0YXJ0LkVuZD4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgPC9Db2x1bW4uQUlFbmQ+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCAvUm93U3RhcnQuRW5kPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9Sb3cuSkNDZW50ZXIuRW5kPgo=</text>
+        <text encoding="base64">ICAgICAgPCAvUm93U3RhcnQuRW5kPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWFpbiBjcm9zcwo=</text>
+        <text encoding="base64">ICAgICAgPC9Sb3cuSkNDZW50ZXIuRW5kPgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgbWFpbiBjcm9zcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L1Jvd1N0YXJ0LkVuZD4KCiAgICAgIG1haW4gY3Jvc3MK</text>
+        <text encoding="base64">ICAgICAgbWFpbiBjcm9zcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -276,12 +276,11 @@
       <last-search encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</last-search>
       <last-offset />
       <last-pattern encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVNb2R1bGVDb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxjb21iaW5lQXBwUmVkdWNlcnNcPg==</entry>
         <entry encoding="base64">XDxzdGF0ZUNoYW5nZUxpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxkeVJvdXRlcnNDb25maWdcPg==</entry>
@@ -300,6 +299,7 @@
         <entry encoding="base64">XDxfcHJlcGFyZUR5TW9kdWxlTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxkeU5hdk1ldGhvZHNcPg==</entry>
         <entry encoding="base64">XDxkeU1vZHVsZUNhY2hlXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRXb3Jrc3BhY2VEYXRhXD4=</entry>
         <entry encoding="base64">XDxmYXN0bGFuZUZpbGVOYW1lXD4=</entry>
       </history-search>
       <history-cmd>
