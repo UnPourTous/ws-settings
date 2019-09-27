@@ -6,7 +6,6 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1569239228844" />
       <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1569487282800">
         <mark key="[" line="156" column="4" />
         <mark key="]" line="156" column="3" />
@@ -26,7 +25,10 @@
         <mark key="^" line="67" column="1" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/react-redux/test/components/connect.spec.js" timestamp="1569492459547" />
+      <file name="internal/process/next_tick.js" timestamp="1569578113228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/react-redux/test/components/connect.spec.js" timestamp="1569578020357" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1568016692808">
         <mark key="'" line="15" column="12" />
         <mark key="[" line="5" column="0" />
@@ -48,7 +50,7 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="/JavaScript Console" timestamp="1568101048429">
+      <file name="/JavaScript Console" timestamp="1569578048875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/src/modules/example/DemoScene/DemoScene.js" timestamp="1569332907129">
@@ -70,6 +72,7 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/react-redux/src/components/connectAdvanced.js" timestamp="1569578314161" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/node_modules/@webank/trident/local-cli/init/index.js" timestamp="1569328753221" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/WealthService.js" timestamp="1569418847814" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1568011263042">
@@ -78,13 +81,13 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/react-redux/src/connect/connect.js" timestamp="1569578191659" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/WebankTokenService.js" timestamp="1568001739900">
         <mark key="'" line="23" column="8" />
         <mark key="[" line="30" column="41" />
         <mark key="]" line="30" column="41" />
         <mark key="." line="30" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1569239228844" />
       <file name="$USER_HOME$/Projects/react-redux/test/hooks/useDispatch.spec.js" timestamp="1569492923572" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/webankCard/WebankCardScene/WebankCardScene.js" timestamp="1569408888062" />
       <file name="$USER_HOME$/Projects/react-redux/src/components/Provider.js" timestamp="1569493028047" />
