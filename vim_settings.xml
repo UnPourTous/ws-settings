@@ -32,26 +32,31 @@
       <file name="/JavaScript Console" timestamp="1569578048875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571024197003">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="5" column="65" />
-        <mark key="]" line="5" column="65" />
-        <mark key="^" line="5" column="65" />
-        <mark key="." line="5" column="65" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571042312971">
+        <mark key="'" line="10" column="51" />
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="42" />
+        <mark key="^" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" timestamp="1571042177161">
+        <mark key="'" line="5" column="16" />
+        <mark key="[" line="20" column="1" />
+        <mark key="]" line="20" column="1" />
+        <mark key="." line="20" column="1" />
+        <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native/React/Base/RCTModuleMethod.mm" timestamp="1570870296597" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/benchcheck/index.js" timestamp="1571024169411">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/benchcheck/index.js" timestamp="1571042156045">
         <mark key="'" line="20" column="1" />
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="24" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="33" />
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1570851864305" />
     </filemarks>
     <jumps>
-      <jump line="19" column="24" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
-      <jump line="47" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
       <jump line="43" column="54" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
       <jump line="76" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="71" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
@@ -88,7 +93,6 @@
       <jump line="18" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" />
       <jump line="11" column="47" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
       <jump line="4" column="34" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="38" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" />
       <jump line="32" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
@@ -150,46 +154,49 @@
       <jump line="4" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/benchcheck/index.js" />
       <jump line="20" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/benchcheck/index.js" />
+      <jump line="0" column="43" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
+      <jump line="5" column="51" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
+      <jump line="5" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiZW5jaGNoZWNrOiAoKSA9PiByZXF1aXJlKCcuL2JlbmNoY2hlY2snKS5kZWZhdWx0KCdiZW5jaGNoZWNrJykK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>'benchcheck'</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBiZW5jaGNoZWNrOiAoKSA9PiByZXF1aXJlKCcuL2JlbmNoY2hlY2snKS5kZWZhdWx0KCdiZW5jaGNoZWNrJykK</text>
+        <text encoding="base64">ICByZXF1aXJlKCcuL2V4YW1wbGUxJykuZGVmYXVsdCgnZXhhbXBsZTEnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBEZW1vU2NlbmU8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBEZW1vU2NlbmU8L1RleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPENvbHVtbi5TcGFjZUJldHdlZW4uU3BhY2VCZXR3ZWVuIHN0eWxlPXt7CiAgICAgICAgY29sb3I6ICdyZWQnCiAgICAgIH19PgogICAgICAgIDxTdGFydC5FbmQ+CiAgICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZDwvVGV4dD4KICAgICAgICA8L1N0YXJ0LkVuZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9Db2x1bW4uQUlFbmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgPENvbHVtbi5TcGFjZUJldHdlZW4uU3BhY2VCZXR3ZWVuIHN0eWxlPXt7CiAgICAgICAgY29sb3I6ICdyZWQnCiAgICAgIH19PgogICAgICAgIDxTdGFydC5FbmQ+CiAgICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZDwvVGV4dD4KICAgICAgICA8L1N0YXJ0LkVuZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
