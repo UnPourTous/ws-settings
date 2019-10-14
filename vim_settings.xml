@@ -39,8 +39,8 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" timestamp="1571042177161">
-        <mark key="'" line="5" column="16" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" timestamp="1571046458798">
+        <mark key="'" line="14" column="30" />
         <mark key="[" line="20" column="1" />
         <mark key="]" line="20" column="1" />
         <mark key="." line="20" column="1" />
@@ -57,7 +57,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1570851864305" />
     </filemarks>
     <jumps>
-      <jump line="43" column="54" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/RouterManager.js" />
       <jump line="76" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="71" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="44" column="48" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
@@ -157,6 +156,7 @@
       <jump line="0" column="43" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="5" column="51" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="5" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
+      <jump line="14" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
