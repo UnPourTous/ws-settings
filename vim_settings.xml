@@ -32,6 +32,18 @@
       <file name="/JavaScript Console" timestamp="1569578048875">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1571129391324">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/WeNavigator.js" timestamp="1571129342529">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571042312971">
         <mark key="'" line="10" column="51" />
         <mark key="[" line="4" column="44" />
@@ -159,8 +171,8 @@
       <jump line="14" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJlbmRlclRpdGxlOiAoKSB7fQo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -172,31 +184,31 @@
         <text encoding="base64">ICByZXF1aXJlKCcuL2V4YW1wbGUxJykuZGVmYXVsdCgnZXhhbXBsZTEnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
+        <text encoding="base64">ICAgIHJlbmRlclRpdGxlOiAoKSB7fQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBEZW1vU2NlbmU8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBEZW1vU2NlbmU8L1RleHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPENvbHVtbi5TcGFjZUJldHdlZW4uU3BhY2VCZXR3ZWVuIHN0eWxlPXt7CiAgICAgICAgY29sb3I6ICdyZWQnCiAgICAgIH19PgogICAgICAgIDxTdGFydC5FbmQ+CiAgICAgICAgICA8VGV4dD5IZWxsbyB3b3JsZDwvVGV4dD4KICAgICAgICA8L1N0YXJ0LkVuZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
