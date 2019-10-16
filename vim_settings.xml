@@ -6,38 +6,6 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1570851864305" />
-      <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1570853195714">
-        <mark key="'" line="213" column="44" />
-        <mark key="[" line="156" column="4" />
-        <mark key="]" line="156" column="3" />
-        <mark key="^" line="156" column="3" />
-        <mark key="." line="156" column="3" />
-      </file>
-      <file name="internal/process/next_tick.js" timestamp="1569578113228">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1571024156121">
-        <mark key="'" line="15" column="12" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1570851983277">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1569578048875">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1571129391324">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/WeNavigator.js" timestamp="1571129342529">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -58,7 +26,29 @@
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native/React/Base/RCTModuleMethod.mm" timestamp="1570870296597" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1570851864305" />
+      <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1570853195714">
+        <mark key="'" line="213" column="44" />
+        <mark key="[" line="156" column="4" />
+        <mark key="]" line="156" column="3" />
+        <mark key="^" line="156" column="3" />
+        <mark key="." line="156" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" timestamp="1571198157880">
+        <mark key="[" line="146" column="59" />
+        <mark key="]" line="146" column="63" />
+        <mark key="^" line="146" column="63" />
+        <mark key="." line="146" column="63" />
+      </file>
+      <file name="internal/process/next_tick.js" timestamp="1569578113228">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1571024156121">
+        <mark key="'" line="15" column="12" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/benchcheck/index.js" timestamp="1571042156045">
         <mark key="'" line="20" column="1" />
         <mark key="[" line="5" column="0" />
@@ -66,7 +56,23 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1570851983277">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="20" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1569578048875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1571198242473" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1570851864305" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1571129391324">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="76" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
