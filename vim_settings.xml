@@ -12,6 +12,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundTransRecordListScene/FundTransRecordListScene.js" timestamp="1571318685304" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571042312971">
         <mark key="'" line="10" column="51" />
         <mark key="[" line="4" column="44" />
@@ -27,6 +28,12 @@
         <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1570851864305" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/TransactionRecordDetailScene/TransactionRecordDetailScene.js" timestamp="1571318757791">
+        <mark key="[" line="421" column="8" />
+        <mark key="]" line="421" column="7" />
+        <mark key="^" line="421" column="7" />
+        <mark key="." line="421" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/redux/src/createStore.js" timestamp="1570853195714">
         <mark key="'" line="213" column="44" />
         <mark key="[" line="156" column="4" />
@@ -49,6 +56,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/dyRouters.js" timestamp="1571318740176" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/benchcheck/index.js" timestamp="1571042156045">
         <mark key="'" line="20" column="1" />
         <mark key="[" line="5" column="0" />
@@ -62,10 +70,10 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingProductDetailScene/FundHoldingProductDetailScene.js" timestamp="1571318664994" />
       <file name="/JavaScript Console" timestamp="1569578048875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1571198242473" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1570851864305" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1571129391324">
         <mark key="'" line="16" column="2" />
