@@ -27,7 +27,12 @@
         <mark key="." line="20" column="1" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1570851864305" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1571466174064">
+        <mark key="[" line="143" column="16" />
+        <mark key="]" line="143" column="20" />
+        <mark key="." line="143" column="20" />
+        <mark key="^" line="143" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/TransactionRecordDetailScene/TransactionRecordDetailScene.js" timestamp="1571318757791">
         <mark key="[" line="421" column="8" />
         <mark key="]" line="421" column="7" />
@@ -185,11 +190,11 @@
       <jump line="14" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlbmRlclRpdGxlOiAoKSB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>module</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>module</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXh0XD4=</text>
