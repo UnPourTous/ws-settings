@@ -13,12 +13,18 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundTransRecordListScene/FundTransRecordListScene.js" timestamp="1571318685304" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571042312971">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1571471014352">
+        <mark key="[" line="59" column="13" />
+        <mark key="]" line="60" column="7" />
+        <mark key="^" line="60" column="7" />
+        <mark key="." line="60" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571471005654">
         <mark key="'" line="10" column="51" />
-        <mark key="[" line="4" column="44" />
-        <mark key="]" line="4" column="42" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="4" column="42" />
+        <mark key="[" line="1" column="42" />
+        <mark key="]" line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+        <mark key="." line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" timestamp="1571046458798">
         <mark key="'" line="14" column="30" />
@@ -55,11 +61,11 @@
       <file name="internal/process/next_tick.js" timestamp="1569578113228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1571470072591">
-        <mark key="[" line="109" column="12" />
-        <mark key="]" line="109" column="8" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1571470690530">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
         <mark key="^" line="109" column="8" />
-        <mark key="." line="109" column="8" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1571024156121">
         <mark key="'" line="15" column="12" />
@@ -197,7 +203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">a0FrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>在</text>
@@ -209,31 +215,31 @@
         <text encoding="base64">ICByZXF1aXJlKCcuL2V4YW1wbGUxJykuZGVmYXVsdCgnZXhhbXBsZTEnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a0FrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbmRlclRpdGxlOiAoKSB7fQo=</text>
+        <text encoding="base64">a0FrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
+        <text encoding="base64">ICAgIHJlbmRlclRpdGxlOiAoKSB7fQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBEZW1vU2NlbmU8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAvLyBleGFtcGxlOiAoKSA9PiByZXF1aXJlKCcuL2V4YW1wbGUnKS5kZWZhdWx0LAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD5IZWxsbyBEZW1vU2NlbmU8L1RleHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIC9pb3MvdHJpZGVudC54Y29kZXByb2oveGNzaGFyZWRkYXRhL3hjc2NoZW1lcy9CdWlsZC54Y3NjaGVtZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
