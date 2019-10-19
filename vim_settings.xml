@@ -27,6 +27,13 @@
         <mark key="^" line="12" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/config/pathConfig-local.js" timestamp="1571475087040" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" timestamp="1571479163382">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="45" column="33" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="34" />
+        <mark key="." line="45" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" timestamp="1571474425285">
         <mark key="'" line="9" column="37" />
         <mark key="[" line="4" column="31" />
@@ -46,12 +53,7 @@
         <mark key="^" line="58" column="44" />
         <mark key="." line="58" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571477048353">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1571479121568" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/TransactionRecordDetailScene/TransactionRecordDetailScene.js" timestamp="1571318757791">
         <mark key="[" line="421" column="8" />
         <mark key="]" line="421" column="7" />
@@ -59,12 +61,12 @@
         <mark key="." line="421" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/bc/manifest.js" timestamp="1571475430524" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" timestamp="1571476371605">
-        <mark key="'" line="108" column="14" />
-        <mark key="[" line="152" column="26" />
-        <mark key="]" line="152" column="28" />
-        <mark key="^" line="152" column="28" />
-        <mark key="." line="152" column="28" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" timestamp="1571479102096">
+        <mark key="'" line="167" column="6" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="46" />
+        <mark key="^" line="13" column="46" />
+        <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1571474372529">
         <mark key="[" line="5" column="29" />
@@ -119,9 +121,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/uiComponent/PrimaryButton.js" timestamp="1571472875001" />
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
-      <jump line="61" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
-      <jump line="1" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
       <jump line="43" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="733" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
       <jump line="731" column="21" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" />
@@ -219,61 +218,63 @@
       <jump line="30" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/Scene.js" />
       <jump line="36" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/Scene.js" />
       <jump line="43" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/Scene.js" />
+      <jump line="13" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
+      <jump line="167" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
+      <jump line="0" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, require('./dyloadbech50').default, require('./dyloadbech51').default, require('./dyloadbech52').default, require('./dyloadbech53').default, require('./dyloadbech54').default, require('./dyloadbech55').default, require('./dyloadbech56').default, require('./dyloadbech57').default, require('./dyloadbech58').default, require('./dyloadbech59').default, require('./dyloadbech60').default, require('./dyloadbech61').default, require('./dyloadbech62').default, require('./dyloadbech63').default, require('./dyloadbech64').default, require('./dyloadbech65').default, require('./dyloadbech66').default, require('./dyloadbech67').default, require('./dyloadbech68').default, require('./dyloadbech69').default, require('./dyloadbech70').default, require('./dyloadbech71').default, require('./dyloadbech72').default, require('./dyloadbech73').default, require('./dyloadbech74').default, require('./dyloadbech75').default, require('./dyloadbech76').default, require('./dyloadbech77').default, require('./dyloadbech78').default, require('./dyloadbech79').default, require('./dyloadbech80').default, require('./dyloadbech81').default, require('./dyloadbech82').default, require('./dyloadbech83').default, require('./dyloadbech84').default, require('./dyloadbech85').default, require('./dyloadbech86').default, require('./dyloadbech87').default, require('./dyloadbech88').default, require('./dyloadbech89').default, require('./dyloadbech90').default, require('./dyloadbech91').default, require('./dyloadbech92').default, require('./dyloadbech93').default, require('./dyloadbech94').default, require('./dyloadbech95').default, require('./dyloadbech96').default, require('./dyloadbech97').default, require('./dyloadbech98').default, require('./dyloadbech99').default</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>, require('./dyloadbech50').default, require('./dyloadbech51').default, require('./dyloadbech52').default, require('./dyloadbech53').default, require('./dyloadbech54').default, require('./dyloadbech55').default, require('./dyloadbech56').default, require('./dyloadbech57').default, require('./dyloadbech58').default, require('./dyloadbech59').default, require('./dyloadbech60').default, require('./dyloadbech61').default, require('./dyloadbech62').default, require('./dyloadbech63').default, require('./dyloadbech64').default, require('./dyloadbech65').default, require('./dyloadbech66').default, require('./dyloadbech67').default, require('./dyloadbech68').default, require('./dyloadbech69').default, require('./dyloadbech70').default, require('./dyloadbech71').default, require('./dyloadbech72').default, require('./dyloadbech73').default, require('./dyloadbech74').default, require('./dyloadbech75').default, require('./dyloadbech76').default, require('./dyloadbech77').default, require('./dyloadbech78').default, require('./dyloadbech79').default, require('./dyloadbech80').default, require('./dyloadbech81').default, require('./dyloadbech82').default, require('./dyloadbech83').default, require('./dyloadbech84').default, require('./dyloadbech85').default, require('./dyloadbech86').default, require('./dyloadbech87').default, require('./dyloadbech88').default, require('./dyloadbech89').default, require('./dyloadbech90').default, require('./dyloadbech91').default, require('./dyloadbech92').default, require('./dyloadbech93').default, require('./dyloadbech94').default, require('./dyloadbech95').default, require('./dyloadbech96').default, require('./dyloadbech97').default, require('./dyloadbech98').default, require('./dyloadbech99').default</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2VuZVRwbFBhdGhcPg==</text>
+        <text encoding="base64">XDxpbnNlcnRFbGVtZW50SW5MaXN0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGxldCBpID0gMDsgaSA8IDE1OyBpKyspIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHsgbW9kdWxlTmFtZSB9ID0gYW5zd2VycwoKICAgICAgaWYgKCFjaGVja05hbWVWYWxpZChtb2R1bGVOYW1lKSkgewogICAgICAgIHByb2Nlc3MuZXhpdCgpCiAgICAgIH0KCiAgICAgIC8vIFRPRE8g6L6T5YWl5qOA5p+lCiAgICAgIGNvbnN0IG1vZHVsZVRwbFBhdGggPSBwYXRoQ29uZmlnLm1vZHVsZVRwbFBhdGgKICAgICAgY29uc3QgbW9kdWxlUGF0aCA9IHBhdGhDb25maWcubW9kdWxlc1BhdGggKyBtb2R1bGVOYW1lCiAgICAgIGNvbnN0IG1vZHVsZUluZGV4UGF0aCA9IHBhdGhDb25maWcubW9kdWxlc1BhdGggKyAnaW5kZXguanMnCgogICAgICBleGVjU3luYyhgY3AgLXIgJHttb2R1bGVUcGxQYXRofSAke21vZHVsZVBhdGh9YCkKCiAgICAgIGZpbGxNb2R1bGVOYW1lKG1vZHVsZU5hbWUpCgogICAgICAvLyDmj5LlhaXmqKHlnZfliLDmqKHlnZfliJfooagKICAgICAgY29uc3QgcmVxdWlyZUNhbGxFeHByZXNzaW9uID0gdC5jYWxsRXhwcmVzc2lvbih0LmlkZW50aWZpZXIoJ3JlcXVpcmUnKSwgW3Quc3RyaW5nTGl0ZXJhbCgnLi8nICsgbW9kdWxlTmFtZSldKQogICAgICBjb25zdCBuZXdNZW1iZXIgPSB0Lm1lbWJlckV4cHJlc3Npb24ocmVxdWlyZUNhbGxFeHByZXNzaW9uLCB0LmlkZW50aWZpZXIoJ2RlZmF1bHQnKSkKICAgICAgaW5zZXJ0RWxlbWVudEluTGlzdChtb2R1bGVJbmRleFBhdGgsIG5ld01lbWJlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2NlbmVOYW1lCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IHsgbW9kdWxlTmFtZSB9ID0gYW5zd2VycwoKICAgICAgaWYgKCFjaGVja05hbWVWYWxpZChtb2R1bGVOYW1lKSkgewogICAgICAgIHByb2Nlc3MuZXhpdCgpCiAgICAgIH0KCiAgICAgIC8vIFRPRE8g6L6T5YWl5qOA5p+lCiAgICAgIGNvbnN0IG1vZHVsZVRwbFBhdGggPSBwYXRoQ29uZmlnLm1vZHVsZVRwbFBhdGgKICAgICAgY29uc3QgbW9kdWxlUGF0aCA9IHBhdGhDb25maWcubW9kdWxlc1BhdGggKyBtb2R1bGVOYW1lCiAgICAgIGNvbnN0IG1vZHVsZUluZGV4UGF0aCA9IHBhdGhDb25maWcubW9kdWxlc1BhdGggKyAnaW5kZXguanMnCgogICAgICBleGVjU3luYyhgY3AgLXIgJHttb2R1bGVUcGxQYXRofSAke21vZHVsZVBhdGh9YCkKCiAgICAgIGZpbGxNb2R1bGVOYW1lKG1vZHVsZU5hbWUpCgogICAgICAvLyDmj5LlhaXmqKHlnZfliLDmqKHlnZfliJfooagKICAgICAgY29uc3QgcmVxdWlyZUNhbGxFeHByZXNzaW9uID0gdC5jYWxsRXhwcmVzc2lvbih0LmlkZW50aWZpZXIoJ3JlcXVpcmUnKSwgW3Quc3RyaW5nTGl0ZXJhbCgnLi8nICsgbW9kdWxlTmFtZSldKQogICAgICBjb25zdCBuZXdNZW1iZXIgPSB0Lm1lbWJlckV4cHJlc3Npb24ocmVxdWlyZUNhbGxFeHByZXNzaW9uLCB0LmlkZW50aWZpZXIoJ2RlZmF1bHQnKSkKICAgICAgaW5zZXJ0RWxlbWVudEluTGlzdChtb2R1bGVJbmRleFBhdGgsIG5ld01lbWJlcikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2NlbmVOYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgeyBzY2VuZU5hbWUgfSA9IGFuc3dlcnMKICAgICAgICBzY2VuZU5hbWUgPSBfLnVwcGVyRmlyc3Qoc2NlbmVOYW1lKQoKICAgICAgICBpZiAoIXNjZW5lTmFtZSkgewogICAgICAgICAgY29uc29sZS5sb2coY2hhbGsucmVkKGBFbXB0eSBzY2VuZSBuYW1lYCkpCiAgICAgICAgICBwcm9jZXNzLmV4aXQoKQogICAgICAgIH0KCiAgICAgICAgY29uc3QgbW9kdWxlUGF0aCA9IHBhdGhDb25maWcubW9kdWxlc1BhdGggKyBtb2R1bGVOYW1lICsgJy8nCiAgICAgICAgY29uc3QgZXhpc3RlZFNjZW5lTGlzdCA9IGdldFNjZW5lTGlzdFVuZGVyTW9kdWxlUGF0aChtb2R1bGVQYXRoKQoKICAgICAgICBzY2VuZU5hbWUgPSBzY2VuZU5hbWUuZW5kc1dpdGgoJ1NjZW5lJykgPyBzY2VuZU5hbWUgOiAoc2NlbmVOYW1lICsgJ1NjZW5lJykKICAgICAgICBjb25zdCBzZXJ2aWNlTmFtZSA9IHNjZW5lTmFtZS5yZXBsYWNlKCdTY2VuZScsICdTZXJ2aWNlJykKICAgICAgICBpZiAoZXhpc3RlZFNjZW5lTGlzdC5pbmRleE9mKHNjZW5lTmFtZSkgIT09IC0xKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhjaGFsay5yZWQoYFNjZW5lIGNhbGxlZCAnJHtzY2VuZU5hbWV9JyBoYXMgZXhpc3RlZCwgcGxlYXNlIGNoYW5nZSBhIG5hbWUgb3IgZGVsZXRlIHRoZSBleGlzdGVkIG9uZWApKQogICAgICAgICAgcHJvY2Vzcy5leGl0KCkKICAgICAgICB9CgogICAgICAgIGNvbnN0IHNjZW5lVHBsUGF0aCA9IHBhdGhDb25maWcuc2NlbmVUcGxQYXRoCiAgICAgICAgY29uc3Qgc2NlbmVEaXIgPSBwYXRoQ29uZmlnLm1vZHVsZXNQYXRoICsgbW9kdWxlTmFtZSArICcvJyArIHNjZW5lTmFtZQogICAgICAgIGNvbnN0IHNjZW5lUGF0aCA9IGAke3BhdGguam9pbihzY2VuZURpciwgc2NlbmVOYW1lKX0uanNgCiAgICAgICAgY29uc3Qgc2VydmljZVBhdGggPSBgJHtwYXRoLmpvaW4oc2NlbmVEaXIsIHNlcnZpY2VOYW1lKX0uanNgCiAgICAgICAgY29uc3QgaW5kZXhQYXRoID0gYCR7cGF0aC5qb2luKHNjZW5lRGlyLCAnaW5kZXguanMnKX1gCiAgICAgICAgY29uc3QgbWFuaWZlc3RQYXRoID0gYCR7cGF0aC5qb2luKG1vZHVsZVBhdGgsICdtYW5pZmVzdC5qcycpfWAKCiAgICAgICAgZXhlY1N5bmMoYGNwIC1yICR7c2NlbmVUcGxQYXRofSAke3NjZW5lRGlyfWApCiAgICAgICAgZXhlY1N5bmMoYG12ICR7cGF0aC5qb2luKHNjZW5lRGlyLCAnU2NlbmUnKX0uanMgJHtzY2VuZVBhdGh9YCkKICAgICAgICBleGVjU3luYyhgbXYgJHtwYXRoLmpvaW4oc2NlbmVEaXIsICdTZXJ2aWNlJyl9LmpzICR7c2VydmljZVBhdGh9YCkKCiAgICAgICAgZmlsbFNjZW5lTmFtZShzY2VuZVBhdGgsIHNlcnZpY2VQYXRoLCBpbmRleFBhdGgsIHNjZW5lTmFtZSwgc2VydmljZU5hbWUpCgogICAgICAgIC8vIOaPkuWFpXNjZW5l5Yiw6YWN572u5Yiw5riF5Y2VCiAgICAgICAgY29uc3QgcmVxdWlyZUNhbGxFeHByZXNzaW9uID0gdC5jYWxsRXhwcmVzc2lvbih0LmlkZW50aWZpZXIoJ3JlcXVpcmUnKSwgW3Quc3RyaW5nTGl0ZXJhbCgnLi8nICsgc2NlbmVOYW1lKV0pCiAgICAgICAgY29uc3QgbmV3TWVtYmVyID0gdC5tZW1iZXJFeHByZXNzaW9uKHJlcXVpcmVDYWxsRXhwcmVzc2lvbiwgdC5pZGVudGlmaWVyKCdkZWZhdWx0JykpCiAgICAgICAgaW5zZXJ0RWxlbWVudEluTGlzdChtYW5pZmVzdFBhdGgsIG5ld01lbWJlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgeyBzY2VuZU5hbWUgfSA9IGFuc3dlcnMKICAgICAgICBzY2VuZU5hbWUgPSBfLnVwcGVyRmlyc3Qoc2NlbmVOYW1lKQoKICAgICAgICBpZiAoIXNjZW5lTmFtZSkgewogICAgICAgICAgY29uc29sZS5sb2coY2hhbGsucmVkKGBFbXB0eSBzY2VuZSBuYW1lYCkpCiAgICAgICAgICBwcm9jZXNzLmV4aXQoKQogICAgICAgIH0KCiAgICAgICAgY29uc3QgbW9kdWxlUGF0aCA9IHBhdGhDb25maWcubW9kdWxlc1BhdGggKyBtb2R1bGVOYW1lICsgJy8nCiAgICAgICAgY29uc3QgZXhpc3RlZFNjZW5lTGlzdCA9IGdldFNjZW5lTGlzdFVuZGVyTW9kdWxlUGF0aChtb2R1bGVQYXRoKQoKICAgICAgICBzY2VuZU5hbWUgPSBzY2VuZU5hbWUuZW5kc1dpdGgoJ1NjZW5lJykgPyBzY2VuZU5hbWUgOiAoc2NlbmVOYW1lICsgJ1NjZW5lJykKICAgICAgICBjb25zdCBzZXJ2aWNlTmFtZSA9IHNjZW5lTmFtZS5yZXBsYWNlKCdTY2VuZScsICdTZXJ2aWNlJykKICAgICAgICBpZiAoZXhpc3RlZFNjZW5lTGlzdC5pbmRleE9mKHNjZW5lTmFtZSkgIT09IC0xKSB7CiAgICAgICAgICBjb25zb2xlLmxvZyhjaGFsay5yZWQoYFNjZW5lIGNhbGxlZCAnJHtzY2VuZU5hbWV9JyBoYXMgZXhpc3RlZCwgcGxlYXNlIGNoYW5nZSBhIG5hbWUgb3IgZGVsZXRlIHRoZSBleGlzdGVkIG9uZWApKQogICAgICAgICAgcHJvY2Vzcy5leGl0KCkKICAgICAgICB9CgogICAgICAgIGNvbnN0IHNjZW5lVHBsUGF0aCA9IHBhdGhDb25maWcuc2NlbmVUcGxQYXRoCiAgICAgICAgY29uc3Qgc2NlbmVEaXIgPSBwYXRoQ29uZmlnLm1vZHVsZXNQYXRoICsgbW9kdWxlTmFtZSArICcvJyArIHNjZW5lTmFtZQogICAgICAgIGNvbnN0IHNjZW5lUGF0aCA9IGAke3BhdGguam9pbihzY2VuZURpciwgc2NlbmVOYW1lKX0uanNgCiAgICAgICAgY29uc3Qgc2VydmljZVBhdGggPSBgJHtwYXRoLmpvaW4oc2NlbmVEaXIsIHNlcnZpY2VOYW1lKX0uanNgCiAgICAgICAgY29uc3QgaW5kZXhQYXRoID0gYCR7cGF0aC5qb2luKHNjZW5lRGlyLCAnaW5kZXguanMnKX1gCiAgICAgICAgY29uc3QgbWFuaWZlc3RQYXRoID0gYCR7cGF0aC5qb2luKG1vZHVsZVBhdGgsICdtYW5pZmVzdC5qcycpfWAKCiAgICAgICAgZXhlY1N5bmMoYGNwIC1yICR7c2NlbmVUcGxQYXRofSAke3NjZW5lRGlyfWApCiAgICAgICAgZXhlY1N5bmMoYG12ICR7cGF0aC5qb2luKHNjZW5lRGlyLCAnU2NlbmUnKX0uanMgJHtzY2VuZVBhdGh9YCkKICAgICAgICBleGVjU3luYyhgbXYgJHtwYXRoLmpvaW4oc2NlbmVEaXIsICdTZXJ2aWNlJyl9LmpzICR7c2VydmljZVBhdGh9YCkKCiAgICAgICAgZmlsbFNjZW5lTmFtZShzY2VuZVBhdGgsIHNlcnZpY2VQYXRoLCBpbmRleFBhdGgsIHNjZW5lTmFtZSwgc2VydmljZU5hbWUpCgogICAgICAgIC8vIOaPkuWFpXNjZW5l5Yiw6YWN572u5Yiw5riF5Y2VCiAgICAgICAgY29uc3QgcmVxdWlyZUNhbGxFeHByZXNzaW9uID0gdC5jYWxsRXhwcmVzc2lvbih0LmlkZW50aWZpZXIoJ3JlcXVpcmUnKSwgW3Quc3RyaW5nTGl0ZXJhbCgnLi8nICsgc2NlbmVOYW1lKV0pCiAgICAgICAgY29uc3QgbmV3TWVtYmVyID0gdC5tZW1iZXJFeHByZXNzaW9uKHJlcXVpcmVDYWxsRXhwcmVzc2lvbiwgdC5pZGVudGlmaWVyKCdkZWZhdWx0JykpCiAgICAgICAgaW5zZXJ0RWxlbWVudEluTGlzdChtYW5pZmVzdFBhdGgsIG5ld01lbWJlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2VuZVRwbFBhdGhcPg==</last-search>
+      <last-search encoding="base64">XDxpbnNlcnRFbGVtZW50SW5MaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2VuZVRwbFBhdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnNlcnRFbGVtZW50SW5MaXN0XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3V0ZXJzQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxnZXRMb2dpbkVycm9yTXNnQnlDb2RlXD4=</entry>
         <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
         <entry encoding="base64">XDxyZWZyZXNoVG9rZW5cPg==</entry>
@@ -293,6 +294,7 @@
         <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
         <entry encoding="base64">XDxwYXRoQ29uZmlnXD4=</entry>
         <entry encoding="base64">XDxzY2VuZVRwbFBhdGhcPg==</entry>
+        <entry encoding="base64">XDxpbnNlcnRFbGVtZW50SW5MaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>121</entry>
