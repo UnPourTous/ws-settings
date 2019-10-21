@@ -150,12 +150,12 @@
         <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/@babel/types/lib/index.d.ts" timestamp="1571483182980" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1571629780771">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1571646498477">
         <mark key="'" line="108" column="21" />
-        <mark key="[" line="112" column="31" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
-        <mark key="^" line="113" column="0" />
+        <mark key="[" line="108" column="38" />
+        <mark key="]" line="108" column="44" />
+        <mark key="." line="108" column="44" />
+        <mark key="^" line="108" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/dyloadtest3/AAA0Scene/AAA0Scene.js" timestamp="1571475873036" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" timestamp="1571485251823">
@@ -283,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${timestamp}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${timestamp}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lYXJHcmFkaWVudFw+</text>
@@ -322,7 +322,7 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucHJvcHMuY2hpbGRyZW4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -363,7 +363,6 @@
         <entry>Lw</entry>
         <entry>220</entry>
         <entry>.w</entry>
-        <entry>q</entry>
         <entry>&quot;w</entry>
         <entry>97</entry>
         <entry>w:w</entry>
@@ -376,6 +375,7 @@
         <entry>we</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
