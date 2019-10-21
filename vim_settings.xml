@@ -19,6 +19,12 @@
         <mark key="^" line="8" column="30" />
         <mark key="." line="8" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1571559307252">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="61" column="45" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/BechcheckScene/BechcheckScene.js" timestamp="1571474814102">
         <mark key="'" line="6" column="33" />
         <mark key="[" line="12" column="34" />
@@ -53,6 +59,14 @@
         <mark key="]" line="4" column="36" />
         <mark key="." line="4" column="36" />
         <mark key="^" line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1571559628368">
+        <mark key="'" line="23" column="1" />
+        <mark key="[" line="13" column="8" />
+        <mark key="k" line="26" column="14" />
+        <mark key="]" line="13" column="5" />
+        <mark key="^" line="13" column="5" />
+        <mark key="." line="21" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/index.js" timestamp="1571484936358">
         <mark key="[" line="5" column="22" />
@@ -151,7 +165,6 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingProductDetailScene/FundHoldingProductDetailScene.js" timestamp="1571318664994" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tridentPluginWebView/WebViewScene/WebViewScene.js" timestamp="1571484971510" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/Scene.js" timestamp="1571474683526">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -161,9 +174,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/uiComponent/PrimaryButton.js" timestamp="1571472875001" />
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
-      <jump line="38" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" />
-      <jump line="32" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
       <jump line="6" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" />
       <jump line="51" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" />
@@ -261,61 +271,63 @@
       <jump line="18" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/PluginStoreScene/PluginStoreScene.js" />
       <jump line="4" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
       <jump line="2" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
+      <jump line="301" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
+      <jump line="299" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
+      <jump line="23" column="1" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>InApp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBTdHlsZVNoZWV0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>InApp</text>
+        <text>47.75.152.113</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfXD4=</text>
+        <text encoding="base64">XDxsaW5lYXJHcmFkaWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPEVudHJ5TGlzdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucHJvcHMuY2hpbGRyZW4K</text>
+        <text encoding="base64">ICBTdHlsZVNoZWV0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNoaWxkcmVuKQo=</text>
+        <text encoding="base64">Ci8vIExhdGVyIG9uIGluIHlvdXIgc3R5bGVzLi4KdmFyIHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICBsaW5lYXJHcmFkaWVudDogewogICAgZmxleDogMSwKICAgIHBhZGRpbmdMZWZ0OiAxNSwKICAgIHBhZGRpbmdSaWdodDogMTUsCiAgICBib3JkZXJSYWRpdXM6IDUKICB9LAogIGJ1dHRvblRleHQ6IHsKICAgIGZvbnRTaXplOiAxOCwKICAgIGZvbnRGYW1pbHk6ICdHaWxsIFNhbnMnLAogICAgdGV4dEFsaWduOiAnY2VudGVyJywKICAgIG1hcmdpbjogMTAsCiAgICBjb2xvcjogJyNmZmZmZmYnLAogICAgYmFja2dyb3VuZENvbG9yOiAndHJhbnNwYXJlbnQnLAogIH0sCn0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8UHJpbWFyeUJ1dHRvbiB0ZXh0PXsnVHJpZGVudC1GcmFtZXdvcmsnfSBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICBBcHBOYXZpZ2F0b3IudHJpZGVudFBsdWdpbldlYlZpZXcuV2ViVmlld1NjZW5lKCkKICAgICAgICB9fSAvPgoK</text>
+        <text encoding="base64">ICBUb2FzdCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnNvbGUuZ3JvdXBDb2xsYXBzZWQgPSAoKSA9PiB7fQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRoaXMucHJvcHMuY2hpbGRyZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5ncm91cENvbGxhcHNlZCA9ICgpID0+IHt9Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNoaWxkcmVuKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5ncm91cENvbGxhcHNlZCA9ICgpID0+IHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8UHJpbWFyeUJ1dHRvbiB0ZXh0PXsnVHJpZGVudC1GcmFtZXdvcmsnfSBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICBBcHBOYXZpZ2F0b3IudHJpZGVudFBsdWdpbldlYlZpZXcuV2ViVmlld1NjZW5lKCkKICAgICAgICB9fSAvPgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldywgVGV4dCB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+        <text encoding="base64">CmNvbnNvbGUuZ3JvdXBDb2xsYXBzZWQgPSAoKSA9PiB7fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldywgVGV4dCB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+        <text encoding="base64">Y29uc29sZS5ncm91cENvbGxhcHNlZCA9ICgpID0+IHt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmlldywgVGV4dCB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+        <text encoding="base64">Y29uc29sZS5ncm91cENvbGxhcHNlZCA9ICgpID0+IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfXD4=</last-search>
+      <last-search encoding="base64">XDxsaW5lYXJHcmFkaWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5lYXJHcmFkaWVudFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxhcHBseU1pZGRsZXdhcmVcPg==</entry>
         <entry encoding="base64">XDxXZU5hdmlnYXRvclw+</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
@@ -335,6 +347,7 @@
         <entry encoding="base64">XDx3cml0ZUZpbGVTeW5jXD4=</entry>
         <entry encoding="base64">XDxFbnRyeUxpc3RcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxsaW5lYXJHcmFkaWVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>121</entry>
