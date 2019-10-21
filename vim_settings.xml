@@ -128,7 +128,7 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1571626216717" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1571629512610" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/pathConfig.js" timestamp="1571473961250">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -150,12 +150,12 @@
         <mark key="^" line="10" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/@babel/types/lib/index.d.ts" timestamp="1571483182980" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1571627671116">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" timestamp="1571629780771">
         <mark key="'" line="108" column="21" />
-        <mark key="[" line="110" column="9" />
-        <mark key="]" line="110" column="15" />
-        <mark key="." line="110" column="15" />
-        <mark key="^" line="110" column="15" />
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/dyloadtest3/AAA0Scene/AAA0Scene.js" timestamp="1571475873036" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" timestamp="1571485251823">
@@ -283,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lYXJHcmFkaWVudFw+</text>
