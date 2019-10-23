@@ -28,12 +28,12 @@
         <mark key="." line="376" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native-json-tree/src/JSONNestedNode.js" timestamp="1571827137121" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/StateManagementScene.js" timestamp="1571827661543">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/StateManagementScene.js" timestamp="1571830451246">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="22" column="6" />
-        <mark key="]" line="22" column="16" />
-        <mark key="." line="22" column="16" />
-        <mark key="^" line="22" column="16" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1571725444464" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1571824421167">
@@ -119,11 +119,11 @@
         <mark key="^" line="26" column="20" />
         <mark key="." line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/index.js" timestamp="1571827610643">
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="29" column="40" />
-        <mark key="." line="29" column="40" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/index.js" timestamp="1571830404981">
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/pathConfig.js" timestamp="1571473961250">
         <mark key="[" line="6" column="0" />
@@ -131,7 +131,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1571824659333">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1571829945343">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
@@ -268,43 +268,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYWRkQ291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUElDbGllbnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZENvdW50OiB2ID0+IHYsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnByb3BzLmFkZENvdW50KDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWRkQ291bnQK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFkZENvdW50QXN5bmM6IHYgPT4gdiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwYXRjaChhY3Rpb25zLmFkZENvdW50KGF3YWl0IFNlcnZpY2UucmVxdWVzdE1vY2tEYXRhKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxXZVRvdWNoYWJsZSBvblByZXNzPXsoKSA9PiB7CiAgICAgICAgICB9fT4KICAgICAgICAgICAgPFRleHQ+QWRkIE1vZHVsZSBDb3VudCBTeW5jPC9UZXh0PgogICAgICAgICAgPC9XZVRvdWNoYWJsZT4KCiAgICAgICAgICA8V2VUb3VjaGFibGUgb25QcmVzcz17KCkgPT4gewogICAgICAgICAgfX0+CiAgICAgICAgICAgIDxUZXh0PkFkZCBHbG9iYWwgQ291bnQgU3luYzwvVGV4dD4KICAgICAgICAgIDwvV2VUb3VjaGFibGU+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuZXhhbXBsZS5GcmFtZXdvcmtTY2VuZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5wcm9wcy5hZGRHbG9iYWxDb3VudCgxMCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuZXhhbXBsZS5GcmFtZXdvcmtTY2VuZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
