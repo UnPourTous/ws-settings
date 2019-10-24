@@ -6,7 +6,14 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/AppEntry.js" timestamp="1571918050010">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1571906131171" />
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/library/plugins/console/Console.js" timestamp="1571917726190" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native-json-tree/src/index.js" timestamp="1571902516738">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="3" />
@@ -122,11 +129,20 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/index.ios.js" timestamp="1571917422319">
+        <mark key="[" line="17" column="55" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="54" />
+        <mark key="^" line="17" column="54" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/library/plugins/console/components/Loading.js" timestamp="1571904142131">
         <mark key="[" line="9" column="23" />
         <mark key="]" line="9" column="32" />
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" timestamp="1571917857112">
+        <mark key="'" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavCScene/NavCScene.js" timestamp="1571901852693">
         <mark key="[" line="21" column="0" />
@@ -155,10 +171,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1571906131171" />
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
-      <jump line="156" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
-      <jump line="14" column="40" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" />
-      <jump line="21" column="34" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" />
       <jump line="4" column="37" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" />
       <jump line="9" column="37" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" />
       <jump line="16" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
@@ -255,61 +267,68 @@
       <jump line="7" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/manifest.js" />
       <jump line="31" column="57" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="30" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/AppEntry.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" />
+      <jump line="2" column="26" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>react</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>react</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJY29uXD4=</text>
+        <text encoding="base64">XDxSZWFjdE5hdGl2ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYmFja2dyb3VuZENvbG9yOiAncmVkJwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>class example extends Component {
+  render () {
+    return null
+  }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2aWdhdGlvblN0YWNrVmlldyByb3V0ZXM9e0FwcE5hdmlnYXRvci5nZXRDdXJyZW50Um91dGVzKCl9IC8+Cgo=</text>
+        <text encoding="base64">aW1wb3J0IEVudHJ5IGZyb20gJy4vQXBwRW50cnknCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2aWdhdGlvblN0YWNrVmlldyByb3V0ZXM9e0FwcE5hdmlnYXRvci5nZXRDdXJyZW50Um91dGVzKCl9IC8+Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxFbnRyeSAvPgogICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnByb3AK</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuY29udGFpbmVyfT4KICAgICAgICA8VGV4dCBzdHlsZT17c3R5bGVzLndlbGNvbWV9PgogICAgICAgICAgV2VsY29tZSB0byB0aWFueWFuLXJlYWN0LW5hdGl2ZSBEZW1vCiAgICAgICAgPC9UZXh0PgogICAgICAgIDxUb3VjaGFibGVPcGFjaXR5CiAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICBib3JkZXJXaWR0aDogMSwKICAgICAgICAgICAgYm9yZGVyQ29sb3I6ICcjQUFBJywKICAgICAgICAgICAgcGFkZGluZzogMTAsCiAgICAgICAgICAgIG1hcmdpbjogMTAsCiAgICAgICAgICAgIGJvcmRlclJhZGl1czogNQogICAgICAgICAgfX0KICAgICAgICAgIG9uUHJlc3M9e3RoaXMuX29uUHJlc3MuYmluZCh0aGlzKX0+CiAgICAgICAgICA8VGV4dCBzdHlsZT17W3N0eWxlcy5pbnN0cnVjdGlvbnNdfT4KICAgICAgICAgICAgQ2xpY2sgbWUgdG8gZ2VuZXJhdGUgbG9nCiAgICAgICAgICA8L1RleHQ+CgogICAgICAgIDwvVG91Y2hhYmxlT3BhY2l0eT4KCiAgICAgICAgPFRleHQ+VGhlbiBjbGljayB0aGUgZmxvYXRpbmcgaWNvbiB0byBzZWUgeW91ciBsb2c8L1RleHQ+CgogICAgICAgIDxUaWFuWWFuCiAgICAgICAgICBvcHRpb25zPXt7CiAgICAgICAgICAgIGxvZ1NlcnZlclVybDogJ2h0dHA6Ly9oay4yM2xhYi5jb206MzAwMC92MS9sb2cnLAogICAgICAgICAgICBtYXhMb2dMaW5lOiAxMDAwLAogICAgICAgICAgICBpZ25vcmVGaWx0ZXI6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICByZXR1cm4gKGFyZ3VtZW50cyAmJiB0eXBlb2YgYXJndW1lbnRzWzBdID09PSAnc3RyaW5nJyAmJiBhcmd1bWVudHNbMF0uaW5kZXhPZignaWdub3JlZCBsb2cnKSA9PT0gMCkKICAgICAgICAgICAgfQogICAgICAgICAgfX0gLz4KICAgICAgPC9WaWV3PgogICAgKQogIH0KCiAgX29uUHJlc3MgKCkgewogICAgbGV0IGkgPSAxMDAwCiAgICB3aGlsZSAoaS0tKSB7CiAgICAgIC8vIGNvbnNvbGUubG9nKCdvb25QcmVzcyAnICsgbmV3IERhdGUoKS5nZXRUaW1lKCkpCiAgICAgIC8vIGNvbnNvbGUubG9nKCclcyAlcycsICdoZWxsbycsICd3b3JsZCcpCiAgICAgIC8vIGNvbnNvbGUubG9nKCclbyAlaScsIHthOiAxLCBiOiAyLCBjOiB7YTogJ2ZvbycsIGQ6ICdiYXInfX0sIDEwMDApCiAgICAgIC8vIGNvbnNvbGUubG9nKHVuZGVmaW5lZCwgJ3NlY29uZCBwYXJhbXMnKQogICAgICBjb25zb2xlLmxvZygpCgogICAgICBjb25zb2xlLmxvZygnaWdub3JlZCBsb2csIHRoaXMgd2lsbCBub3QgZGlzcGxheSBpbiB0aWFueWFuIGRhc2hib2FyZCcpCiAgICAgIGNvbnNvbGUubG9nKCclbyAlaScsIHthOiAxLCBiOiAyLCBjOiB7YTogJ2ZvbycsIGQ6ICdiYXInfX0sIDEwMDApCiAgICAgIC8vIGNvbnNvbGUubG9nKCd4IGlnbm9yZWQgbG9nLCB0aGlzIHdpbGwgZGlzcGxheSBpbiB0aWFueWFuIGRhc2hib2FyZCcpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYmFja2dyb3VuZENvbG9yOiAncmVkJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJY29uXD4=</last-search>
+      <last-search encoding="base64">XDxSZWFjdE5hdGl2ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJY29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSZWFjdE5hdGl2ZVw+</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuZXh0XD4=</entry>
         <entry encoding="base64">XDxJbWFnZVw+</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxtb2R1bGVUcGxQYXRoXD4=</entry>
@@ -329,6 +348,7 @@
         <entry encoding="base64">XDxQcm9VSVw+</entry>
         <entry encoding="base64">XDxXZVJlZERvdFw+</entry>
         <entry encoding="base64">XDxJY29uXD4=</entry>
+        <entry encoding="base64">XDxSZWFjdE5hdGl2ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>312</entry>
