@@ -6,6 +6,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1571904489024" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native-json-tree/src/index.js" timestamp="1571902516738">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="3" />
@@ -64,14 +65,25 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/loading/Loading.js" timestamp="1571904006109">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/index.js" timestamp="1571900778137" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/AppNavigator.js" timestamp="1571898874654" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1571903471185">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/ObjectView.js" timestamp="1571902524528">
         <mark key="[" line="22" column="28" />
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/popup/Loading.js" timestamp="1571904468217" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/index.js" timestamp="1571885041350">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="10" />
@@ -124,6 +136,12 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/library/plugins/console/components/Loading.js" timestamp="1571904142131">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" timestamp="1571897367947">
         <mark key="[" line="5" column="12" />
@@ -243,43 +261,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>react</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>react</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogMTYK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2aWdhdGlvblN0YWNrVmlldyByb3V0ZXM9e0FwcE5hdmlnYXRvci5nZXRDdXJyZW50Um91dGVzKCl9IC8+Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYmFja2dyb3VuZENvbG9yOiAncmVkJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8TmF2aWdhdGlvblN0YWNrVmlldyByb3V0ZXM9e0FwcE5hdmlnYXRvci5nZXRDdXJyZW50Um91dGVzKCl9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnByb3AK</text>
+        <text encoding="base64">ICAgICAgICA8TmF2aWdhdGlvblN0YWNrVmlldyByb3V0ZXM9e0FwcE5hdmlnYXRvci5nZXRDdXJyZW50Um91dGVzKCl9IC8+Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8TmF2aWdhdGlvblN0YWNrVmlldyByb3V0ZXM9e0FwcE5hdmlnYXRvci5nZXRDdXJyZW50Um91dGVzKCl9IC8+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnByb3AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpblZlcnRpY2FsOiAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hcmdpblZlcnRpY2FsOiAxMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
