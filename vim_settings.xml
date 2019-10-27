@@ -13,12 +13,14 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1571906131171" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/library/plugins/console/Console.js" timestamp="1571917726190" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native-json-tree/src/index.js" timestamp="1571902516738">
         <mark key="[" line="64" column="4" />
         <mark key="]" line="64" column="3" />
         <mark key="^" line="64" column="3" />
         <mark key="." line="64" column="3" />
+      </file>
+      <file name="/fragment.js" timestamp="1572182104178">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavigationScene/NavigationScene.js" timestamp="1571902474142">
         <mark key="'" line="21" column="40" />
@@ -26,6 +28,9 @@
         <mark key="]" line="25" column="19" />
         <mark key="." line="25" column="19" />
         <mark key="^" line="25" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/utils/Device.js" timestamp="1572182803862">
+        <mark key="'" line="37" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1571903471185">
         <mark key="[" line="28" column="0" />
@@ -51,6 +56,12 @@
         <mark key="." line="22" column="37" />
         <mark key="^" line="22" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1572182742247">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="39" />
+        <mark key="." line="44" column="39" />
+        <mark key="^" line="44" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/StateManagementScene.js" timestamp="1571902270115">
         <mark key="'" line="7" column="17" />
         <mark key="[" line="10" column="0" />
@@ -70,6 +81,9 @@
         <mark key="]" line="30" column="23" />
         <mark key="^" line="30" column="52" />
         <mark key="." line="30" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-linear-gradient/index.d.ts" timestamp="1572182736615">
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/index.js" timestamp="1571900731719">
         <mark key="[" line="1" column="0" />
@@ -121,7 +135,6 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="31" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/popup/Icon.js" timestamp="1571914483096" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/index.js" timestamp="1571901082589">
         <mark key="'" line="168" column="28" />
         <mark key="[" line="16" column="23" />
@@ -171,9 +184,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1571906131171" />
     </filemarks>
     <jumps>
-      <jump line="4" column="37" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" />
-      <jump line="9" column="37" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/init.js" />
-      <jump line="16" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
       <jump line="114" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" />
       <jump line="5" column="26" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/pathConfig-local.js" />
       <jump line="65" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/sceneTpl/Scene.js" />
@@ -271,13 +281,16 @@
       <jump line="6" column="6" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" />
       <jump line="2" column="26" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" />
       <jump line="14" column="4" filename="$USER_HOME$/Projects/UnPourTous/tianyan-react-native/node_modules/react-native-scrollable-tab-view/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-linear-gradient/index.d.ts" />
+      <jump line="21" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/utils/Device.js" />
+      <jump line="37" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/utils/Device.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+      <register name="&quot;" type="4">
+        <text>, '#192f6a'</text>
       </register>
       <register name="-" type="4">
-        <text>example</text>
+        <text>, '#192f6a'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdE5hdGl2ZVw+</text>
