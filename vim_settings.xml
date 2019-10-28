@@ -6,6 +6,13 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavigationScene/NavigationScene.js" timestamp="1572235473944">
+        <mark key="'" line="23" column="40" />
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1572205126101">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -18,6 +25,11 @@
         <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1572185858398" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1572235209270">
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
+        <mark key="." line="251" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/SettingTab.js" timestamp="1572205146258">
         <mark key="[" line="51" column="13" />
         <mark key="]" line="51" column="13" />
@@ -30,6 +42,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="65" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" timestamp="1572235450665">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AdvanceSettingScene/AdvanceSettingScene.js" timestamp="1572205132644">
         <mark key="[" line="46" column="0" />
@@ -51,6 +70,7 @@
         <mark key="." line="48" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/GuestTabs/unLoginHome/components/Wyd.js" timestamp="1572205931903" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1572235429519" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/container/AppContainer.js" timestamp="1572201685153">
         <mark key="[" line="36" column="28" />
         <mark key="]" line="36" column="28" />
@@ -78,6 +98,7 @@
         <mark key="^" line="81" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/Dialog.js" timestamp="1572200839386" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/index.js" timestamp="1572235207388" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/base/WeSceneView.js" timestamp="1572185733688">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="30" />
@@ -95,8 +116,14 @@
         <mark key="]" line="61" column="16" />
         <mark key="." line="61" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/popup/Icon.js" timestamp="1572232737947" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/popup/Icon.js" timestamp="1572233889272" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1572183047549" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.d.ts" timestamp="1572235188729">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1572205108879">
         <mark key="[" line="89" column="13" />
         <mark key="]" line="89" column="13" />
@@ -104,15 +131,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" />
-      <jump line="21" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/PluginStoreScene/PluginStoreScene.js" />
-      <jump line="18" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/PluginStoreScene/PluginStoreScene.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
-      <jump line="2" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
-      <jump line="301" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="299" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="23" column="1" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
-      <jump line="108" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/development/Development.md" />
       <jump line="370" column="25" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/IntelliDepositPlusAssetListScene/IntelliDepositPlusAssetListScene.js" />
       <jump line="254" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/IntelliDepositPlusAssetListScene/IntelliDepositPlusAssetListScene.js" />
       <jump line="94" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
@@ -204,13 +222,22 @@
       <jump line="59" column="37" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
       <jump line="73" column="20" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
       <jump line="52" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" />
+      <jump line="17" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="8" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="7" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="6" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
+      <jump line="0" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>images</text>
+        <text>getDTS</text>
       </register>
       <register name="-" type="4">
-        <text>images</text>
+        <text>getDTS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJDb25maWdcPg==</text>
@@ -218,34 +245,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9udFNpemU6IFRoZW1lLlNpemUuZm9udFhYU21hbGwsCiAgICAgICAgICAgICAgICAgIGNvbG9yOiBUaGVtZS5Db2xvci5QYWxldHRlLndoaXRlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-          uri: remindTypeObj
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5mdW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5mdW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiA1Cg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5kZXBvc2l0LmdldERUU05hbWUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG1hcmdpbkxlZnQ6IFRoZW1lLlNpemUuc3BhY2VTbWFsbCwK</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5kZXBvc2l0LmdldERUU05hbWUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5kZXBvc2l0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGJvcmRlclN0eWxlOiAnZGFzaGVkJywKICAgICAgICAgICAgICAgICAgICAgIGJvcmRlcldpZHRoOiAwLjUsCiAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiA1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNsYXNzIEFwcE5hdmlnYXRvciB7CgoKICAgICAgICAvLyDkvb/nlKjml7YKICAgICAgICAvLyDmiJHku6zlj6/ku6Xkvb/nlKgKICAgICAgICAvLyBpbXBvcnQgKiBhcyBNeUxpYiBmcm9tICdteS1saWInCiAgICAgICAgLy8gY29uc3QgYSA9IG5ldyBNeUxpYi5BKCk7CgogICAgICAgIC8vIOWmguaenOW8gOWQr+S6hiBFUyBNb2R1bGUg6J6N5ZCI5qih5byPIChlc01vZHVsZUludGVyb3A9dHJ1ZSkKICAgICAgICAvLyDmiJHku6zlj6/ku6Xkvb/nlKgKICAgICAgICAvLyBpbXBvcnQgeyBBIH0gZnJvbSAnbXktbGliJwogICAgICAgIC8vIGNvbnN0IGEgPSBuZXcgQSgpCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb250V2VpZ2h0OiBUaGVtZS5TaXplLmZvbnRXZWlnaHRNaWRkbGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcyBkZXBvc2l0IHsKICAgICAgICBnZXREVFNOYW1lKGlkOiBudW1iZXIpOiBzdHJpbmcKCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
