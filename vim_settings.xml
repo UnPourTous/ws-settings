@@ -45,6 +45,7 @@
         <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1572206477426" />
+      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/react-native/Libraries/polyfills/console.js" timestamp="1572254807587" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" timestamp="1572205154761">
         <mark key="'" line="63" column="6" />
         <mark key="[" line="18" column="0" />
@@ -78,6 +79,12 @@
         <mark key="]" line="48" column="35" />
         <mark key="^" line="48" column="35" />
         <mark key="." line="48" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/WeBookStore/index.js" timestamp="1572254259263">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/GuestTabs/unLoginHome/components/Wyd.js" timestamp="1572205931903" />
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1572235429519" />
