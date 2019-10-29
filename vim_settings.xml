@@ -119,20 +119,21 @@
         <mark key="." line="66" column="38" />
         <mark key="^" line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" timestamp="1572349182601">
-        <mark key="'" line="29" column="39" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" timestamp="1572351597377">
+        <mark key="'" line="44" column="39" />
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native/local-cli/server/util/attachWebsocketServer.js" timestamp="1572252391214" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/Dialog.js" timestamp="1572200839386" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.d.ts" timestamp="1572248738022">
-        <mark key="[" line="1" column="28" />
-        <mark key="]" line="1" column="7" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="7" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/BookListService.js" timestamp="1572350080629" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.d.ts" timestamp="1572351642160">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
+        <mark key="^" line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/index.js" timestamp="1572235207388" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/base/WeSceneView.js" timestamp="1572185733688">
@@ -145,11 +146,16 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Colors.js" timestamp="1572185475064" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1572247722957">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/Projects/WeBookStore/src/modules/book/BookListScene/VView.js" timestamp="1572350057586">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="28" column="3" />
+        <mark key="^" line="28" column="3" />
+        <mark key="." line="28" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1572351537481">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" timestamp="1572248844296">
         <mark key="[" line="13" column="0" />
@@ -286,43 +292,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.code</text>
+        <text>D</text>
       </register>
       <register name="-" type="4">
-        <text>.code</text>
+        <text>D</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcHJldHRpZXIgPSByZXF1aXJlKCdwcmV0dGllcicpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9naW5TY2VuZSgpOiB2b2lkCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICVDT0RFJQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGF0aCkKICAgICAgICAgICAgY29uc29sZS5sb2coJz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09JykK</text>
+        <text encoding="base64">ICAgIGxvZ2luOiB7CiAgICAgICAgTG9naW5TY2VuZSgpOiB2b2lkCiAgICAgICAgTG9naW4yU2NlbmUoKTogdm9pZAogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcGF0aC50cmF2ZXJzZSh7CiAgICAgICAgICAgIC8vICAgSWRlbnRpZmllciAocGF0aCkgewogICAgICAgICAgICAvLyAgICAgaWYgKHBhdGgubm9kZS5uYW1lID09PSAnQXBwTmF2aWdhdG9yJykgewogICAgICAgICAgICAvLyAgICAgICBjb25zb2xlLmxvZyhwYXRoLm5vZGUpCiAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgIC8vICAgICAvLyBwYXRoLm5vZGUucHJvcGVydGllcy5wdXNoKGVsZW1lbnQpCiAgICAgICAgICAgIC8vICAgfQogICAgICAgICAgICAvLyB9KQo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGF0aCAmJiBwYXRoLmNvbnRhaW5lciAmJiBwYXRoLmNvbnRhaW5lci5pZCAmJiBwYXRoLmNvbnRhaW5lci5pZC5uYW1lICE9PSAnQXBwTmF2aWdhdG9yJykgewogICAgICAgICAgcmV0dXJuCiAgICAgICAgfQo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZmlsZUNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sb2dpbi5Mb2dpblNjZW5lKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5sb2dpbi5Mb2dpbjJTY2VuZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZ2VuZXJhdGUoYXN0KS5jb2RlKTsK</text>
+        <text encoding="base64">ICAgICAgTG9naW5TY2VuZSgpOiB2b2lkCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgYXN0ID0gYnVpbGRSZXF1aXJlKHsKICBpbXBvcnROYW1lOiB0LmlkZW50aWZpZXIoIm15TW9kdWxlIiksCiAgc291cmNlOiB0LnN0cmluZ0xpdGVyYWwoIm15LW1vZHVsZSIpLAp9KTsK</text>
+        <text encoding="base64">ICAgIHttb2R1bGVzfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
