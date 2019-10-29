@@ -33,7 +33,11 @@
         <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native/Libraries/react-native/react-native-implementation.js" timestamp="1572185858398" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" timestamp="1572248832814" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" timestamp="1572343059128">
+        <mark key="'" line="30" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/AppContainer.js" timestamp="1572235209270">
         <mark key="[" line="251" column="0" />
         <mark key="]" line="251" column="0" />
@@ -45,7 +49,7 @@
         <mark key="." line="51" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/LabelValueMapping.js" timestamp="1572206477426" />
-      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/react-native/Libraries/polyfills/console.js" timestamp="1572254807587" />
+      <file name="$USER_HOME$/Projects/WeBookStore/node_modules/react-native/Libraries/polyfills/console.js" timestamp="1572342926219" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" timestamp="1572205154761">
         <mark key="'" line="63" column="6" />
         <mark key="[" line="18" column="0" />
@@ -86,6 +90,7 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/add.js" timestamp="1572343065133" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/GuestTabs/unLoginHome/components/Wyd.js" timestamp="1572205931903" />
       <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts" timestamp="1572235429519" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/container/AppContainer.js" timestamp="1572201685153">
@@ -114,11 +119,12 @@
         <mark key="." line="66" column="38" />
         <mark key="^" line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" timestamp="1572249271120">
-        <mark key="[" line="33" column="60" />
-        <mark key="]" line="33" column="61" />
-        <mark key="." line="33" column="61" />
-        <mark key="^" line="31" column="38" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" timestamp="1572343457071">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="22" column="71" />
+        <mark key="]" line="22" column="72" />
+        <mark key="." line="22" column="72" />
+        <mark key="^" line="22" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native/local-cli/server/util/attachWebsocketServer.js" timestamp="1572252391214" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/Dialog.js" timestamp="1572200839386" />
@@ -139,11 +145,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Colors.js" timestamp="1572185475064" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1572206656801">
-        <mark key="'" line="52" column="9" />
-        <mark key="]" line="164" column="11" />
-        <mark key="^" line="164" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1572247722957">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="34" />
@@ -169,7 +170,7 @@
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/uiComponent/popup/Icon.js" timestamp="1572233889272" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1572183047549" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.d.ts" timestamp="1572247612883">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.d.ts" timestamp="1572342929799">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
@@ -182,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/StateManagementScene.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/StateManagementScene.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
       <jump line="13" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/components/SceneStateView.js" />
       <jump line="34" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateManagementScene/StateManagementScene.js" />
@@ -282,19 +280,22 @@
       <jump line="10" column="32" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
       <jump line="11" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
+      <jump line="15" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
+      <jump line="30" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" />
+      <jump line="17" column="39" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocGF0aCkKICAgICAgICAgICAgY29uc29sZS5sb2coJysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrJykK</text>
+        <text encoding="base64">Y29uc3QgcHJldHRpZXIgPSByZXF1aXJlKCdwcmV0dGllcicpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
