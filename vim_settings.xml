@@ -85,7 +85,7 @@
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1572421313084">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1572424766174">
         <mark key="'" line="90" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Theme.js" timestamp="1572205633521">
@@ -284,6 +284,12 @@
         <mark key="^" line="134" column="7" />
         <mark key="." line="134" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/index.js" timestamp="1572423906737">
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1572205117112">
         <mark key="[" line="61" column="16" />
         <mark key="]" line="61" column="16" />
@@ -419,17 +425,17 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5ncm91cENvbGxhcHNlZCgnYWEnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>groupCollapsed</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJDb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdiYWJlbC1wb2x5ZmlsbCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwUmVnaXN0cnkgfSBmcm9tICdyZWFjdC1uYXRpdmUnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc29sZS5ncm91cENvbGxhcHNlZCgnYWEnKQo=</text>
