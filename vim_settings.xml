@@ -213,6 +213,7 @@
         <mark key="." line="7" column="101" />
         <mark key="^" line="7" column="101" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/polyfills/index.js" timestamp="1572510347851" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.d.ts" timestamp="1572356162448">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -269,10 +270,11 @@
         <mark key="^" line="3" column="35" />
         <mark key="." line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/index.js" timestamp="1572423906737">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/index.js" timestamp="1572510339043">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/DefaultListItem.js" timestamp="1572443320938">
@@ -318,7 +320,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1572507693859" />
     </filemarks>
     <jumps>
-      <jump line="82" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" />
       <jump line="63" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" />
       <jump line="43" column="37" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
       <jump line="59" column="37" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
@@ -418,6 +419,7 @@
       <jump line="28" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/ListItemLink.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/ListItemLink.js" />
       <jump line="26" column="18" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/ListItemSelect.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -437,10 +439,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lQ29sb3JcPg==</text>
