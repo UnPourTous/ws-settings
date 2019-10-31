@@ -161,7 +161,7 @@
         <mark key="^" line="154" column="9" />
         <mark key="." line="154" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/scripts/checkEnv.sh" timestamp="1572512709227">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/scripts/checkEnv.sh" timestamp="1572531108632">
         <mark key="[" line="37" column="24" />
         <mark key="]" line="37" column="24" />
         <mark key="." line="37" column="24" />
@@ -276,7 +276,12 @@
         <mark key="." line="270" column="18" />
         <mark key="^" line="270" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1572529659972" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1572530967515">
+        <mark key="[" line="114" column="49" />
+        <mark key="]" line="114" column="51" />
+        <mark key="." line="114" column="51" />
+        <mark key="^" line="114" column="51" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.d.ts" timestamp="1572342929799">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -405,11 +410,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGZsZXhEaXJlY3Rpb25NYXAsIHN0eWxlLCBwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Rldk1vZGVcPg==</text>
