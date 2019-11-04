@@ -6,11 +6,11 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1572868073178">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="116" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1572870252072">
+        <mark key="[" line="104" column="8" />
+        <mark key="]" line="105" column="22" />
+        <mark key="." line="105" column="22" />
+        <mark key="^" line="105" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/AppNavigator.d.ts.tpl" timestamp="1572355531066">
         <mark key="[" line="2" column="0" />
@@ -42,9 +42,6 @@
         <mark key="^" line="5" column="102" />
         <mark key="." line="5" column="102" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ReducerManager.js" timestamp="1572529946650">
-        <mark key="^" line="13" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Layout/Layout.js" timestamp="1572530166203">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -61,6 +58,11 @@
         <mark key="]" line="37" column="24" />
         <mark key="." line="37" column="24" />
         <mark key="^" line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/.babelrc" timestamp="1572870579611">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/TransactionRecordDetailScene/TransactionRecordDetailScene.js" timestamp="1572856986668" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1572515616043">
@@ -86,12 +88,6 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="28" />
         <mark key="^" line="36" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1572529952730">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/package-lock.json" timestamp="1572857455979" />
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1572529233837">
@@ -298,8 +294,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>。</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicHJlc2V0cyI6IFsiZW52IiwgInJlYWN0Il0K</text>
       </register>
       <register name="-" type="4">
         <text>。</text>
@@ -311,22 +307,22 @@
         <text encoding="base64">dGR0IHBhY2thZ2VyIHN0YXJ0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicHJlc2V0cyI6IFsiZW52IiwgInJlYWN0Il0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YGBgCm1hdmVueyB1cmwnaHR0cDovL21hdmVuLmFsaXl1bi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLycgfQptYXZlbnsgdXJsJ2h0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXInfQptYXZlbnsgdXJsICdodHRwczovL21hdmVuLmdvb2dsZS5jb20nIH0KYGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXZlbnsgdXJsJ2h0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8nIH0KICAgICAgICBtYXZlbnsgdXJsJ2h0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXInfQogICAgICAgIG1hdmVueyB1cmwgJ2h0dHBzOi8vbWF2ZW4uZ29vZ2xlLmNvbScgfQo=</text>
+        <text encoding="base64">YGBgCm1hdmVueyB1cmwnaHR0cDovL21hdmVuLmFsaXl1bi5jb20vbmV4dXMvY29udGVudC9ncm91cHMvcHVibGljLycgfQptYXZlbnsgdXJsJ2h0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXInfQptYXZlbnsgdXJsICdodHRwczovL21hdmVuLmdvb2dsZS5jb20nIH0KYGBgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXZlbnsgdXJsJ2h0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvZ3JvdXBzL3B1YmxpYy8nIH0KICAgICAgICBtYXZlbnsgdXJsJ2h0dHA6Ly9tYXZlbi5hbGl5dW4uY29tL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL2pjZW50ZXInfQogICAgICAgIG1hdmVueyB1cmwgJ2h0dHBzOi8vbWF2ZW4uZ29vZ2xlLmNvbScgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -335,7 +331,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5oGt5Zac5L2g77yM5Yiw6L+Z6YeM5L2g5bey57uP5oiQ5Yqf5Yiw5Yib5bu65bm26L+Q6KGM5LqG5LiA5Liq5paw55qEVHJpZGVudOW3peeoi+OAguiwg+ivleebtOaOpeS9v+eUqFJlYWN0IE5hdGl2ZeWumOaWueiwg+ivleW3peWFt+WNs+WPr++8jArlhbfkvZPkvb/nlKjmlrnms5Xop4HvvJogW1JlYWN0IE5hdGl26LCD6K+V5pa55rOVXShodHRwczovL2ZhY2Vib29rLmdpdGh1Yi5pby9yZWFjdC1uYXRpdmUvZG9jcy8wLjUxL2RlYnVnZ2luZykKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
