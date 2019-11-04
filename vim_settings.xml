@@ -12,29 +12,22 @@
         <mark key="." line="105" column="22" />
         <mark key="^" line="105" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/release/index.js" timestamp="1572873008053">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/libraryDev/android/app/src/main/java/io/unpourtous/trident/MainActivity.java" timestamp="1572874507070" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/release/index.js" timestamp="1572874520044">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="2" column="134" />
+        <mark key="]" line="2" column="142" />
+        <mark key="^" line="2" column="142" />
+        <mark key="." line="2" column="142" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/android/build.gradle" timestamp="1572858480104" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/List/index.js" timestamp="1572512971265">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="6" />
-        <mark key="." line="24" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Layout/Layout.js" timestamp="1572530166203">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/libraryDev/android/build.gradle" timestamp="1572874375497" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/.babelrc" timestamp="1572870579611">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/plugin/publish.js" timestamp="1572874918867" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/TransactionRecordDetailScene/TransactionRecordDetailScene.js" timestamp="1572856986668" />
       <file name="$USER_HOME$/WeBookStore/android/build.gradle" timestamp="1572858864766">
         <mark key="[" line="12" column="0" />
@@ -43,27 +36,28 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/dyRouters.js" timestamp="1572856929440" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/package-lock.json" timestamp="1572857455979" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/polyfills/rn-console-pollyfill.js" timestamp="1572507413583">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/npmConfig.js" timestamp="1572874899820">
+        <mark key="'" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1572615561097">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/libraryDev/node_modules/react-native/react.gradle" timestamp="1572874433931" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/install/index.js" timestamp="1572874944183">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/global-cli/index.js" timestamp="1572872808774" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/index.js" timestamp="1572873002302">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="48" column="10" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/index.js" timestamp="1572875377980">
+        <mark key="'" line="81" column="0" />
+        <mark key="[" line="52" column="6" />
+        <mark key="]" line="52" column="5" />
+        <mark key="." line="52" column="5" />
+        <mark key="^" line="52" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/.babelrc" timestamp="1572868993182" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1572850636856" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/init/index.js" timestamp="1572872872479">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/index.js" timestamp="1572875091613" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/init/index.js" timestamp="1572874852507">
         <mark key="'" line="142" column="8" />
         <mark key="[" line="167" column="38" />
         <mark key="]" line="167" column="50" />
@@ -72,13 +66,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="32" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
-      <jump line="11" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
-      <jump line="15" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
-      <jump line="30" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" />
-      <jump line="17" column="39" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
-      <jump line="44" column="96" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
       <jump line="38" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
       <jump line="36" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/DTSGenarator.js" />
@@ -172,6 +159,13 @@
       <jump line="73" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/index.js" />
       <jump line="20" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/index.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/index.js" />
+      <jump line="13" column="60" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/release/index.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/release/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/install/index.js" />
+      <jump line="13" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/install/index.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/install/index.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/npmConfig.js" />
+      <jump line="17" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/npmConfig.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -190,44 +184,44 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IHsK</text>
+      <register name="&quot;" type="4">
+        <text>release</text>
       </register>
       <register name="-" type="4">
-        <text>Android</text>
+        <text>release</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Rldk1vZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbGVhc2UucmVsZWFzZUFuZHJvaWQoKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVsZWFzZSA9IHJlcXVpcmUoJy4vcmVsZWFzZScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVsZWFzZUlPUyA9ICgpID0+IHsKICBleGVjU3luYygnbm9kZSAuL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUvbG9jYWwtY2xpL2NsaS5qcyBidW5kbGUgLS1lbnRyeS1maWxlIGluZGV4LmpzIC0tcGxhdGZvcm0gaW9zIC0tZGV2IGZhbHNlIC0tcmVzZXQtY2FjaGUgLS1idW5kbGUtb3V0cHV0IC4vaW9zL21haW4uanNidW5kbGUgLS1hc3NldHMtZGVzdCAiLi9pb3MiJykKICBleGVjU3luYygnYnVuZGxlIGV4ZWMgZmFzdGxhbmUgaW9zIHJlbGVhc2UgLS12ZXJib3NlJykKCn0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWxlYXNlID0gcmVxdWlyZSgnLi9yZWxlYXNlJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHJlbGVhc2UgPSByZXF1aXJlKCcuL3JlbGVhc2UnKQo=</text>
+        <text encoding="base64">ICBleGVjU3luYygnJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnICA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBleGVjU3luYyA9IChjbWQpID0+IHJlcXVpcmUoJ2NoaWxkX3Byb2Nlc3MnKS5leGVjU3luYyhjbWQsIHtzdGRpbzogJ2luaGVyaXQnfSkK</text>
+        <text encoding="base64">ICBleGVjU3luYygnYnVuZGxlIGV4ZWMgZmFzdGxhbmUgYW5kcm9pZCByZWxlYXNlIC0tdmVyYm9zZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBleGVjU3luYygnbm9kZSAuL25vZGVfbW9kdWxlcy9yZWFjdC1uYXRpdmUvbG9jYWwtY2xpL2NsaS5qcyBidW5kbGUgLS1wbGF0Zm9ybSBhbmRyb2lkIC0tZW50cnktZmlsZSBpbmRleC5qcyAtLWJ1bmRsZS1vdXRwdXQgYW5kcm9pZC9hcHAvbWFpbi9hc3NldHMvbWFpbi5qc2J1bmRsZSAtLWFzc2V0cy1kZXN0IGFuZHJvaWQvcmVzLyAtLWRldiBmYWxzZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZXhlY1N5bmMgPSAoY21kKSA9PiByZXF1aXJlKCdjaGlsZF9wcm9jZXNzJykuZXhlY1N5bmMoY21kLCB7c3RkaW86ICdpbmhlcml0J30pCg==</text>
+        <text encoding="base64">ICByZWxlYXNlQW5kcm9pZCwKICByZWxlYXNlSU9TCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
