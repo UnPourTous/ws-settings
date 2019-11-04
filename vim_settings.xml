@@ -168,7 +168,6 @@
         <mark key="." line="36" column="17" />
         <mark key="^" line="36" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/register/RegisterHomeScene/RegisterHomeScene.js" timestamp="1572615503636" />
       <file name="$USER_HOME$/Projects/WeBookStore/node_modules/@webank/trident/library/base/WeBaseScene.js" timestamp="1572529233837">
         <mark key="[" line="41" column="2" />
         <mark key="]" line="41" column="1" />
@@ -182,7 +181,6 @@
         <mark key="." line="129" column="58" />
         <mark key="^" line="129" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeGrayNotice.js" timestamp="1572615514181" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ActionCard.js" timestamp="1572205202103">
         <mark key="[" line="66" column="38" />
         <mark key="]" line="66" column="38" />
@@ -273,11 +271,10 @@
         <mark key="." line="5" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/index.js" timestamp="1572443894883">
-        <mark key="'" line="52" column="4" />
-        <mark key="[" line="270" column="15" />
-        <mark key="]" line="270" column="18" />
-        <mark key="." line="270" column="18" />
-        <mark key="^" line="270" column="18" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/base/WeBaseScene.js" timestamp="1572533811814">
         <mark key="[" line="114" column="49" />
@@ -291,6 +288,7 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1572850636856" />
     </filemarks>
     <jumps>
       <jump line="0" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.ts" />
