@@ -6,7 +6,11 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1572615455265" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1572855400737">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/codeTemplate/AppNavigator.d.ts.tpl" timestamp="1572355531066">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -410,25 +414,25 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPFRoZW1lUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9UaGVtZVByb3ZpZGVyPg==</text>
+        <text>angular2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0Rldk1vZGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgIGxhYmVsOiAn6K+m57uG5Lqk5piT6KeE5YiZJywKICAgICAgICAgICAgICBzdGF0dXM6ICfkuqTmmJPmtYHnqIvjgIHotLnnjocnLAogICAgICAgICAgICAgIG9uUHJlc3M6ICgpID0+IHt9CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">dGR0IHBhY2thZ2VyIHN0YXJ0Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPFRoZW1lUHJvdmlkZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGZsZXhEaXJlY3Rpb25NYXAsIHN0eWxlLCBwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRhcmdldFtfX1NUWUxFX19dKQo=</text>
+        <text encoding="base64">ICAgICAgPFRoZW1lUHJvdmlkZXI+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGZsZXhEaXJlY3Rpb25NYXAsIHN0eWxlLCBwKQo=</text>
@@ -437,16 +441,16 @@
         <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRhcmdldFtfX1NUWUxFX19dKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGZsZXhEaXJlY3Rpb25NYXAsIHN0eWxlLCBwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGVDaGFuZ2VMaXN0ZW5lcgo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKHRhcmdldFtfX1NUWUxFX19dKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGVDaGFuZ2VMaXN0ZW5lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KQo=</text>
+        <text encoding="base64">ICAgICAgc3RhdGVDaGFuZ2VMaXN0ZW5lcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
