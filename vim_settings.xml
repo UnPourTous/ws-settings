@@ -211,12 +211,12 @@
         <mark key="^" line="51" column="25" />
         <mark key="." line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/Button/index.js" timestamp="1573200812580">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/Button/index.js" timestamp="1573204728137">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/WeBookStore/android/gradle.properties" timestamp="1572925612555">
         <mark key="[" line="24" column="0" />
@@ -416,10 +416,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Button</text>
+        <text>getDefaultDefaultProps</text>
       </register>
       <register name="-" type="4">
-        <text>Button</text>
+        <text>getDefaultDefaultProps</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBvcnRcPg==</text>
