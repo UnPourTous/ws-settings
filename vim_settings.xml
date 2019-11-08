@@ -13,7 +13,8 @@
         <mark key="." line="29" column="23" />
         <mark key="^" line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1573135755203">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1573182882373">
+        <mark key="'" line="73" column="21" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -213,7 +214,6 @@
       <file name="$USER_HOME$/Projects/chanshila/app/package.json" timestamp="1572970117149" />
     </filemarks>
     <jumps>
-      <jump line="46" column="2" filename="$USER_HOME$/Projects/chanshila/app/rn-console-pollyfill.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/chanshila/app/index.js" />
       <jump line="6" column="9" filename="$USER_HOME$/Projects/chanshila/app/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/chanshila/app/index.js" />
@@ -313,6 +313,7 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/run/index.js" />
       <jump line="18" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/run/index.js" />
       <jump line="15" column="96" filename="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/run/index.js" />
+      <jump line="73" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
