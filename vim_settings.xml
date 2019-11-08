@@ -6,6 +6,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1573195680214" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/packager/index.js" timestamp="1573116356242" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/Tag.js" timestamp="1572973013065">
         <mark key="[" line="29" column="24" />
@@ -39,6 +40,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1573196275277" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/record/dyRouters.js" timestamp="1572856929440" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Theme.js" timestamp="1572976373818">
         <mark key="'" line="68" column="19" />
@@ -112,6 +114,12 @@
         <mark key="^" line="147" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/libraryDev/android/app/src/main/java/io/unpourtous/trident/MainActivity.java" timestamp="1572874507070" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1573196213532">
+        <mark key="[" line="159" column="4" />
+        <mark key="]" line="159" column="5" />
+        <mark key="^" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident-1.2/local-cli/release/index.js" timestamp="1573116350863">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="0" column="0" />
@@ -167,6 +175,11 @@
         <mark key="." line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/ios/Podfile" timestamp="1573132787169" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1573195709252">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/HistoryTab.js" timestamp="1572976656246">
         <mark key="[" line="103" column="97" />
         <mark key="]" line="103" column="97" />
@@ -333,7 +346,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFNjZW5lLnN1YlNjZW5lTGlzdCkgewogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIOWinuWKoOS4gOWxgu+8jOWKqOaAgeWIhuWMuu+8jOaUr+aMgeavj+S4gOS4qlNjZW5l5a6e5L6L5pyJ6Ieq5bex55qEc3RhdGXvvIzkuI3opobnm5YK</text>
       </register>
       <register name="-" type="4">
         <text>runAndroid</text>
@@ -345,31 +358,31 @@
         <text encoding="base64">ICAgICAgICAgIHJ1bi5ydW5BbmRyb2lkKG9wdGlvbnMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKFNjZW5lLnN1YlNjZW5lTGlzdCkgewogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIOWinuWKoOS4gOWxgu+8jOWKqOaAgeWIhuWMuu+8jOaUr+aMgeavj+S4gOS4qlNjZW5l5a6e5L6L5pyJ6Ieq5bex55qEc3RhdGXvvIzkuI3opobnm5YK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTY2VuZS5zdWJTY2VuZUxpc3QuZm9yRWFjaCh0YWIgPT4gewogICAgICAgICAgY29ubmVjdCh0YWIsICkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGNhc2UgJ3J1bi1pb3MnOiB7CiAgICAgIHJ1bi5ydW5JT1Mob3B0aW9ucykKICAgICAgYnJlYWsKICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKFNjZW5lLnN1YlNjZW5lTGlzdCkgewogICAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcnVuID0gcmVxdWlyZSgnLi9ydW4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBTY2VuZS5zdWJTY2VuZUxpc3QuZm9yRWFjaCh0YWIgPT4gewogICAgICAgICAgY29ubmVjdCh0YWIsICkKICAgICAgICB9KQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbGVhc2UucmVsZWFzZUlPUyhvcHRpb25zKQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGNhc2UgJ3J1bi1pb3MnOiB7CiAgICAgIHJ1bi5ydW5JT1Mob3B0aW9ucykKICAgICAgYnJlYWsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcnVuID0gcmVxdWlyZSgnLi9ydW4nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3ViQ21kCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlbGVhc2UucmVsZWFzZUlPUyhvcHRpb25zKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3MuZW52LnVzZUxvY2FsID0gcHJvY2Vzcy5lbnYudXNlTG9jYWwgPT09IHVuZGVmaW5lZCA/ICdmYWxzZScgOiBwcm9jZXNzLmVudi51c2VMb2NhbAo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcnVuID0gcmVxdWlyZSgnLi9ydW4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjbWQpCg==</text>
+        <text encoding="base64">ICAgICAgc3ViQ21kCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -420,11 +433,11 @@
         <entry>230</entry>
         <entry>ws</entry>
         <entry>1</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:w</entry>
         <entry>d</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
