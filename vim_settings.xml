@@ -47,11 +47,22 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DefaultTheme.js" timestamp="1573303726435">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppContainer.d.ts" timestamp="1573292302027">
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/dts/AppNavigator.d.ts" timestamp="1573292047914">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-redux/src/connect/connect.js" timestamp="1573300035159" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeProvider.js" timestamp="1573288512277">
@@ -116,7 +127,12 @@
         <mark key="^" line="393" column="3" />
         <mark key="." line="393" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" timestamp="1573302686790">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1573303610356">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" timestamp="1573303451623">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -169,6 +185,12 @@
         <mark key="." line="103" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/ext/WeTouchable.js" timestamp="1573296972258" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/index.js" timestamp="1573303688881">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeableComponent.js" timestamp="1573288462065">
         <mark key="'" line="18" column="39" />
         <mark key="[" line="7" column="37" />
@@ -184,6 +206,7 @@
         <mark key="^" line="56" column="19" />
         <mark key="." line="56" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme.js" timestamp="1573303578644" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1573297261977">
         <mark key="'" line="13" column="26" />
         <mark key="[" line="10" column="17" />
@@ -311,44 +334,44 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBnZXRDaGlsZENvbnRleHQoKSB7CiAgICByZXR1cm4gewogICAgICBuYXZpZ2F0aW9uOiB0aGlzLnByb3BzLm5hdmlnYXRpb24sCiAgICB9OwogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>LightTheme</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>LightTheme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnJvbSAnLi9MaWdodFRoZW1lJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZXRDaGlsZENvbnRleHQoKSB7CiAgICByZXR1cm4gewogICAgICBuYXZpZ2F0aW9uOiB0aGlzLnByb3BzLm5hdmlnYXRpb24sCiAgICB9OwogIH0K</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgZnJvbSAnLi9UaGVtZWFibGVDb21wb25lbnQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXh0Q29udGV4dC50aGVtZSAhPT0gdGhpcy5jb250ZXh0LnRoZW1lJywgbmV4dENvbnRleHQudGhlbWUgIT09IHRoaXMuY29udGV4dC50aGVtZSwgbmV4dENvbnRleHQudGhlbWUsIHRoaXMuY29udGV4dC50aGVtZSkK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoZW1lOiBwcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQK</text>
+        <text encoding="base64">ICAvKioKICAgKiBAcmV0dXJucyB7VGhlbWVhYmxlQ29tcG9uZW50LnByb3BzIHwgKFJlYWRvbmx5PHtjaGlsZHJlbj86IFJlYWN0LlJlYWN0Tm9kZX0+ICYgUmVhZG9ubHk8UD4pfHt9fQogICAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnMK</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgLy8gc2hvdWxkQ29tcG9uZW50VXBkYXRlIChuZXh0UHJvcHMsIG5leHRTdGF0ZSwgbmV4dENvbnRleHQpIHsKICAvLyAgIGNvbnNvbGUubG9nKCduZXh0Q29udGV4dCcsIG5leHRDb250ZXh0KQogIC8vIH0KCg==</text>
+        <text encoding="base64">ICBnZXRDaGlsZENvbnRleHQoKSB7CiAgICByZXR1cm4gewogICAgICBuYXZpZ2F0aW9uOiB0aGlzLnByb3BzLm5hdmlnYXRpb24sCiAgICB9OwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCAoKSB7CiAgICBzZXRJbnRlcnZhbCgoKSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKHRoaXMuY29udGV4dCkKICAgIH0sIDEwMDApCiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXh0Q29udGV4dC50aGVtZSAhPT0gdGhpcy5jb250ZXh0LnRoZW1lJywgbmV4dENvbnRleHQudGhlbWUgIT09IHRoaXMuY29udGV4dC50aGVtZSwgbmV4dENvbnRleHQudGhlbWUsIHRoaXMuY29udGV4dC50aGVtZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHRoZW1lOiBwcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWUKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CiAgLy8gc2hvdWxkQ29tcG9uZW50VXBkYXRlIChuZXh0UHJvcHMsIG5leHRTdGF0ZSwgbmV4dENvbnRleHQpIHsKICAvLyAgIGNvbnNvbGUubG9nKCduZXh0Q29udGV4dCcsIG5leHRDb250ZXh0KQogIC8vIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
