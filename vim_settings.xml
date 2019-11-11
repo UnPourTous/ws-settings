@@ -13,11 +13,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1573309432381">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="28" column="7" />
-        <mark key="^" line="28" column="7" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1573439693865">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="21" />
+        <mark key="." line="15" column="21" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DarkTheme/Font.js" timestamp="1573307280400">
         <mark key="[" line="2" column="17" />
@@ -33,11 +33,12 @@
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-ui-kitten-master/src/framework/theme/style/styleProvider.component.tsx" timestamp="1573285161280" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/react-navigation-ext/DyStackNavigator.js" timestamp="1573297909477" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" timestamp="1573309366975">
-        <mark key="[" line="2" column="73" />
-        <mark key="]" line="2" column="72" />
-        <mark key="^" line="2" column="72" />
-        <mark key="." line="2" column="72" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" timestamp="1573439679636">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DarkTheme.js" timestamp="1573307008633">
         <mark key="'" line="67" column="0" />
@@ -117,12 +118,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" timestamp="1573309699484">
-        <mark key="'" line="24" column="6" />
-        <mark key="[" line="23" column="103" />
-        <mark key="]" line="23" column="104" />
-        <mark key="." line="23" column="103" />
-        <mark key="^" line="23" column="102" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" timestamp="1573439710975">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/react-native-ui-kitten-master/src/framework/theme/application/application.spec.tsx" timestamp="1573285020293" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/Color.js" timestamp="1573307822860">
@@ -204,7 +204,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1573306717164" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1573438984489" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/combineAppReducers.js" timestamp="1573294695061" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/biz/WeShare.js" timestamp="1573296439325" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1573294443688" />
@@ -255,10 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/DefaultTheme.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/DefaultTheme.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/createTheme.js" />
-      <jump line="18" column="39" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeableComponent.js" />
       <jump line="14" column="40" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/Button/index.js" />
       <jump line="17" column="33" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeProvider.js" />
       <jump line="2" column="27" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeProvider.js" />
@@ -355,6 +351,10 @@
       <jump line="13" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/createTheme.js" />
       <jump line="16" column="67" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
       <jump line="22" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
+      <jump line="24" column="19" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" />
+      <jump line="11" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -377,11 +377,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVRoZW1lIGZyb20gJy4vY3JlYXRlVGhlbWUnCmltcG9ydCBMaWdodFRoZW1lIGZyb20gJy4vTGlnaHRUaGVtZScK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>onst</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb3VudFw+</text>
@@ -390,31 +390,31 @@
         <text encoding="base64">ICAgIFRoZW1lUHJvdmlkZXIuVGhlbWUgPSB0aGlzLnByb3BzLnRoZW1lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sCg==</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVRoZW1lIGZyb20gJy4vY3JlYXRlVGhlbWUnCmltcG9ydCBMaWdodFRoZW1lIGZyb20gJy4vTGlnaHRUaGVtZScK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnLCBUaGVtZVByb3ZpZGVyLlRoZW1lKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnLCBUaGVtZVByb3ZpZGVyLlRoZW1lKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRoZW1lUHJvdmlkZXIuVGhlbWUgPSBjcmVhdGVUaGVtZShMaWdodFRoZW1lLmNyZWF0ZUNvbXBvbmVudFRoZW1lKExpZ2h0VGhlbWUuVGhlbWVDb25zdCksIHt9KQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGVtZSgpLlRoZW1lQ29uc3QuQ29sb3IuYmFja2dyb3VuZFByaW1hcnknLCB0aGVtZSgpLlRoZW1lQ29uc3QuQ29sb3IuYmFja2dyb3VuZFByaW1hcnkpCg==</text>
+        <text encoding="base64">ICAgIFRoZW1lUHJvdmlkZXIuVGhlbWUgPSBjcmVhdGVUaGVtZShMaWdodFRoZW1lLmNyZWF0ZUNvbXBvbmVudFRoZW1lKExpZ2h0VGhlbWUuVGhlbWVDb25zdCksIHt9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IExpZ2h0VGhlbWUgZnJvbSAnLi9MaWdodFRoZW1lJwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aGVtZSgpLlRoZW1lQ29uc3QuQ29sb3IuYmFja2dyb3VuZFByaW1hcnknLCB0aGVtZSgpLlRoZW1lQ29uc3QuQ29sb3IuYmFja2dyb3VuZFByaW1hcnkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExpZ2h0VGhlbWUgZnJvbSAnLi9MaWdodFRoZW1lJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IFRoZW1lID0gTGlnaHRUaGVtZS5jcmVhdGVDb21wb25lbnRUaGVtZShMaWdodFRoZW1lLlRoZW1lQ29uc3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gVGhlbWUK</text>
+        <text encoding="base64">bGV0IFRoZW1lID0gTGlnaHRUaGVtZS5jcmVhdGVDb21wb25lbnRUaGVtZShMaWdodFRoZW1lLlRoZW1lQ29uc3QpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -468,8 +468,8 @@
         <entry>q</entry>
         <entry>ew</entry>
         <entry>wq</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
