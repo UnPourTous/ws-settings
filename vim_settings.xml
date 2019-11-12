@@ -6,34 +6,20 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1573543501278" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1573472184660">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="^" line="5" column="42" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/button/NavBackButton.js" timestamp="1573554989875" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchable.js" timestamp="1573554502901">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="9" />
+        <mark key="^" line="56" column="9" />
+        <mark key="." line="56" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1573478154887">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" timestamp="1573463913409">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="56" />
-        <mark key="." line="2" column="56" />
-        <mark key="^" line="2" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/index.js" timestamp="1573442190263">
-        <mark key="'" line="70" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="50" column="30" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1573555046614">
+        <mark key="'" line="64" column="11" />
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="31" />
+        <mark key="^" line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1573545158964">
         <mark key="[" line="31" column="93" />
@@ -49,6 +35,12 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/library/TianYan.js" timestamp="1573549824942" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" timestamp="1573554673821">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1573548864040">
         <mark key="[" line="50" column="7" />
         <mark key="]" line="50" column="7" />
@@ -70,19 +62,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="68" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavCScene/NavCScene.js" timestamp="1573444407609">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="28" column="8" />
-        <mark key="^" line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/setupJest.js" timestamp="1573476161015">
-        <mark key="'" line="13" column="10" />
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchableHighlight.js" timestamp="1573554546813">
+        <mark key="[" line="59" column="78" />
+        <mark key="]" line="59" column="77" />
+        <mark key="^" line="59" column="77" />
+        <mark key="." line="59" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/ContainerService.js" timestamp="1573544920092" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DarkTheme/index.js" timestamp="1573545624426">
@@ -99,32 +83,12 @@
         <mark key="." line="68" column="22" />
         <mark key="^" line="68" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavAScene/NavAScene.js" timestamp="1573444362526">
-        <mark key="'" line="34" column="6" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" timestamp="1573460203372">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
-        <mark key="^" line="19" column="32" />
-      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1573554871459" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeRect/index.js" timestamp="1573545682971">
         <mark key="'" line="17" column="38" />
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="38" />
         <mark key="." line="13" column="38" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" timestamp="1573444456485">
-        <mark key="'" line="5" column="12" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/library/plugins/console/Log.js" timestamp="1573550540967">
         <mark key="'" line="171" column="2" />
@@ -140,13 +104,6 @@
         <mark key="." line="7" column="99" />
         <mark key="^" line="7" column="99" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/index.js" timestamp="1573441435419">
-        <mark key="'" line="0" column="27" />
-        <mark key="[" line="0" column="39" />
-        <mark key="]" line="0" column="38" />
-        <mark key="^" line="0" column="38" />
-        <mark key="." line="0" column="38" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DarkTheme/Color.js" timestamp="1573545588990">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="3" column="4" />
@@ -160,50 +117,8 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" timestamp="1573444430202">
-        <mark key="'" line="22" column="7" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1573444094582">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1573543501278" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.config.js" timestamp="1573477977944">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="23" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
-        <mark key="^" line="27" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" timestamp="1573543530652">
-        <mark key="'" line="20" column="24" />
-        <mark key="k" line="12" column="40" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/network/APIClient.js" timestamp="1573481857868">
-        <mark key="'" line="59" column="23" />
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="17" />
-        <mark key="^" line="22" column="9" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavAScene/NavAScene.js" />
-      <jump line="17" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
-      <jump line="33" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
-      <jump line="21" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavCScene/NavCScene.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavCScene/NavCScene.js" />
       <jump line="8" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavCScene/NavCScene.js" />
       <jump line="23" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" />
       <jump line="28" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" />
@@ -299,6 +214,11 @@
       <jump line="24" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="46" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" />
       <jump line="171" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/library/plugins/console/Log.js" />
+      <jump line="56" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchable.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchable.js" />
+      <jump line="91" column="24" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" />
+      <jump line="16" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" />
+      <jump line="62" column="11" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -321,60 +241,58 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Vertical</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Vertical</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVuZGVyQ29weUJ0blw+</text>
+        <text encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3llbGxvdycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgICAgICAgIDxOYXZNb3JlQnV0dG9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3llbGxvdycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3llbGxvdycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3llbGxvdycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZENvbG9yOiAnYmx1ZScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">MDk5OTk2MDAzNjczOTk0MSAgIDA5OTk5NjAwMjIwMTc4ODMK</text>
+        <text encoding="base64">ICAgICAgICAgIDwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVuZGVyQ29weUJ0blw+</last-search>
+      <last-search encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVuZGVyQ29weUJ0blw+</last-pattern>
+      <last-pattern encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXZU5hdmlnYXRvclw+</entry>
-        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxjb25uZWN0XD4=</entry>
         <entry encoding="base64">XDxOYXZCYXJcPg==</entry>
         <entry encoding="base64">XDxMXD4=</entry>
@@ -393,6 +311,8 @@
         <entry encoding="base64">XDxkZWZhdWx0c1w+</entry>
         <entry encoding="base64">XDxBeGlvc0FkYXB0ZXJcPg==</entry>
         <entry encoding="base64">XDxfcmVuZGVyQ29weUJ0blw+</entry>
+        <entry encoding="base64">XDxhY3RpdmVPcGFjaXR5XD4=</entry>
+        <entry encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
