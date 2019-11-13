@@ -28,7 +28,7 @@
         <mark key="^" line="31" column="12" />
         <mark key="." line="31" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" timestamp="1573642443066">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" timestamp="1573645062749">
         <mark key="'" line="189" column="2" />
         <mark key="[" line="145" column="4" />
         <mark key="]" line="145" column="3" />
@@ -79,9 +79,16 @@
         <mark key="." line="59" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusHoldingListScene/MonetaryFundPlusHoldingListScene.js" timestamp="1573641928790" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" timestamp="1573642420786" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" timestamp="1573645490497">
+        <mark key="'" line="419" column="4" />
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="5" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="48" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/_xinge@1.1.3@xinge/lib/Xinge.js" timestamp="1573558227640" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/ContainerService.js" timestamp="1573544920092" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/netWorth/NetWorthHoldingProductDetailScene/NetWorthHoldingProductDetailService.js" timestamp="1573645307311" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DarkTheme/index.js" timestamp="1573545624426">
         <mark key="'" line="10" column="30" />
         <mark key="[" line="11" column="44" />
@@ -121,8 +128,6 @@
       <file name="$USER_HOME$/Projects/chanshila/server/pushkeys/LiYin/production-push.pem" timestamp="1573614554080" />
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" />
-      <jump line="9" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" />
       <jump line="22" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" />
       <jump line="21" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="36" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
@@ -221,6 +226,8 @@
       <jump line="145" column="10" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" />
       <jump line="146" column="27" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" />
       <jump line="189" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" />
+      <jump line="40" column="56" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
+      <jump line="419" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -250,7 +257,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVuZGVyQmFubmVyXD4=</text>
+        <text encoding="base64">XDx0b3RhbF9pbmNvbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
@@ -287,15 +294,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVuZGVyQmFubmVyXD4=</last-search>
+      <last-search encoding="base64">XDx0b3RhbF9pbmNvbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVuZGVyQmFubmVyXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx0b3RhbF9pbmNvbWVcPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMXD4=</entry>
         <entry encoding="base64">XDxMaXN0XD4=</entry>
         <entry encoding="base64">XDxUaGVtZWFibGVDb21wb25lbnRcPg==</entry>
         <entry encoding="base64">XDxDb2x1bW5cPg==</entry>
@@ -315,6 +321,7 @@
         <entry encoding="base64">XDxOYXZCYWNrQnV0dG9uXD4=</entry>
         <entry encoding="base64">XDxoalByb2ZpdFw+</entry>
         <entry encoding="base64">XDxfcmVuZGVyQmFubmVyXD4=</entry>
+        <entry encoding="base64">XDx0b3RhbF9pbmNvbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>&quot;w</entry>
