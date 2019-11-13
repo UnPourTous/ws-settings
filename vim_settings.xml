@@ -23,6 +23,7 @@
         <mark key="^" line="66" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1573642525145" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/AppEntry.js" timestamp="1573651655239" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1573545158964">
         <mark key="[" line="31" column="93" />
         <mark key="]" line="31" column="12" />
@@ -50,6 +51,12 @@
         <mark key="^" line="34" column="28" />
         <mark key="." line="34" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" timestamp="1573652950238">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="32" />
+        <mark key="^" line="1" column="32" />
+        <mark key="." line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/dyRouters.js" timestamp="1573642447821" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1573548864040">
         <mark key="[" line="50" column="7" />
@@ -64,7 +71,12 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/lab/xg-test.js" timestamp="1573648026896" />
+      <file name="$USER_HOME$/Projects/chanshila/server/lab/xg-test.js" timestamp="1573662818715">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="69" />
+        <mark key="." line="16" column="69" />
+        <mark key="^" line="16" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1573545560209" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchableHighlight.js" timestamp="1573554546813">
         <mark key="[" line="59" column="78" />
@@ -83,6 +95,14 @@
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/_xinge@1.1.3@xinge/lib/Xinge.js" timestamp="1573646226833" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/ContainerService.js" timestamp="1573544920092" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/netWorth/NetWorthHoldingProductDetailScene/NetWorthHoldingProductDetailService.js" timestamp="1573645307311" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/.npmignore" timestamp="1573651554851">
+        <mark key="'" line="3" column="22" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/index.js" timestamp="1573652806492" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/DarkTheme/index.js" timestamp="1573545624426">
         <mark key="'" line="10" column="30" />
         <mark key="[" line="11" column="44" />
@@ -99,6 +119,7 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryIncomeListScene/MonetaryIncomeListScene.js" timestamp="1573642470873" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1573554871459" />
+      <file name="$USER_HOME$/Projects/chanshila/server/config/app-config.js" timestamp="1573652732083" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/tianyan-react-native/library/plugins/console/Log.js" timestamp="1573550540967">
         <mark key="'" line="171" column="2" />
         <mark key="[" line="191" column="17" />
@@ -126,10 +147,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Demo.js" timestamp="1573651643196" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tridentPluginWebView/index.js" timestamp="1573652850921" />
       <file name="$USER_HOME$/Projects/chanshila/server/pushkeys/LiYin/production-push.pem" timestamp="1573614554080" />
+      <file name="$USER_HOME$/Projects/chanshila/server/node_modules/xinge/lib/Xinge.js" timestamp="1573652690278" />
     </filemarks>
     <jumps>
-      <jump line="21" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="36" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="7" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="37" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
@@ -229,6 +252,7 @@
       <jump line="40" column="56" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
       <jump line="419" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
       <jump line="461" column="24" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
+      <jump line="4" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/.npmignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -251,11 +275,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC90cmlkZW50LXVpL3BvcHVwL1RvYXN0JwppbXBvcnQgQXhpb3NNb2NrZXIgZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvbmV0d29yay9BeGlvc01vY2tlcicK</text>
+      <register name="&quot;" type="4">
+        <text>PRO</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>PRO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3RhbF9pbmNvbWVcPg==</text>
@@ -264,31 +288,31 @@
         <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC90cmlkZW50LXVpL3BvcHVwL1RvYXN0JwppbXBvcnQgQXhpb3NNb2NrZXIgZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvbmV0d29yay9BeGlvc01vY2tlcicK</text>
+        <text encoding="base64">d2Vic2l0ZTIvCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC90cmlkZW50LXVpL3BvcHVwL1RvYXN0JwppbXBvcnQgQXhpb3NNb2NrZXIgZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvbmV0d29yay9BeGlvc01vY2tlcicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxOYXZNb3JlQnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxOYXZNb3JlQnV0dG9uCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
