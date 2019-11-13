@@ -66,13 +66,6 @@
       </file>
       <file name="$USER_HOME$/Projects/chanshila/server/lab/xg-test.js" timestamp="1573648026896" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1573545560209" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1573549529108">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="68" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WeTouchableHighlight.js" timestamp="1573554546813">
         <mark key="[" line="59" column="78" />
         <mark key="]" line="59" column="77" />
@@ -80,8 +73,8 @@
         <mark key="." line="59" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusHoldingListScene/MonetaryFundPlusHoldingListScene.js" timestamp="1573641928790" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" timestamp="1573645490497">
-        <mark key="'" line="419" column="4" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" timestamp="1573650381197">
+        <mark key="'" line="461" column="24" />
         <mark key="[" line="48" column="6" />
         <mark key="]" line="48" column="5" />
         <mark key="^" line="48" column="5" />
@@ -126,10 +119,16 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" timestamp="1573650046642">
+        <mark key="'" line="43" column="27" />
+        <mark key="k" line="41" column="40" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/server/pushkeys/LiYin/production-push.pem" timestamp="1573614554080" />
     </filemarks>
     <jumps>
-      <jump line="22" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/StateShareScene/StateShareScene.js" />
       <jump line="21" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="36" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
       <jump line="7" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavBScene/NavBScene.js" />
@@ -229,6 +228,7 @@
       <jump line="189" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" />
       <jump line="40" column="56" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
       <jump line="419" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
+      <jump line="461" column="24" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -252,7 +252,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC90cmlkZW50LXVpL3BvcHVwL1RvYXN0JwppbXBvcnQgQXhpb3NNb2NrZXIgZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvbmV0d29yay9BeGlvc01vY2tlcicK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -264,31 +264,31 @@
         <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC90cmlkZW50LXVpL3BvcHVwL1RvYXN0JwppbXBvcnQgQXhpb3NNb2NrZXIgZnJvbSAnQHdlYmFuay90cmlkZW50L2xpYnJhcnkvbmV0d29yay9BeGlvc01vY2tlcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxOYXZNb3JlQnV0dG9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmF2aWdhdG9yCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxOYXZNb3JlQnV0dG9uCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnc3BhY2UtYXJvdW5kJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
