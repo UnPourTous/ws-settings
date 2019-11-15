@@ -77,7 +77,14 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1573824542252" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1573825856638">
+        <mark key="[" line="340" column="57" />
+        <mark key="]" line="340" column="63" />
+        <mark key="." line="340" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/server/cloud/push/PushManager.js" timestamp="1573825886331">
+        <mark key="'" line="15" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1573548864040">
         <mark key="[" line="50" column="7" />
         <mark key="]" line="50" column="7" />
@@ -223,7 +230,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1573731568019" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/package.json" />
       <jump line="72" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
       <jump line="15" column="77" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" />
       <jump line="61" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" />
@@ -323,6 +329,7 @@
       <jump line="19" column="23" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
       <jump line="3" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/XGBindRecord.js" />
       <jump line="0" column="43" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="15" column="21" filename="$USER_HOME$/Projects/chanshila/server/cloud/push/PushManager.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
