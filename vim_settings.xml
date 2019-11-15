@@ -26,6 +26,13 @@
         <mark key="." line="63" column="26" />
         <mark key="^" line="63" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/XGBindRecord.js" timestamp="1573823791489">
+        <mark key="'" line="3" column="2" />
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="28" />
+        <mark key="^" line="33" column="28" />
+        <mark key="." line="33" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1573545158964">
         <mark key="[" line="31" column="93" />
         <mark key="]" line="31" column="12" />
@@ -70,6 +77,7 @@
         <mark key="^" line="1" column="32" />
         <mark key="." line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1573824542252" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1573548864040">
         <mark key="[" line="50" column="7" />
         <mark key="]" line="50" column="7" />
@@ -95,11 +103,12 @@
         <mark key="^" line="5" column="14" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1573735543730">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1573824461017">
+        <mark key="'" line="0" column="43" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/container/AppContainer.js" timestamp="1573670671087">
         <mark key="[" line="43" column="0" />
@@ -139,7 +148,7 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" timestamp="1573822437747">
+      <file name="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" timestamp="1573824119221">
         <mark key="'" line="52" column="2" />
         <mark key="[" line="11" column="11" />
         <mark key="]" line="12" column="9" />
@@ -214,14 +223,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1573731568019" />
     </filemarks>
     <jumps>
-      <jump line="12" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/index.js" />
-      <jump line="6" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/index.js" />
-      <jump line="3" column="24" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/index.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/index.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeableComponent.js" />
-      <jump line="24" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" />
-      <jump line="10" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/NavigationUtils.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/package.json" />
       <jump line="72" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/Statistics.js" />
       <jump line="15" column="77" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" />
@@ -314,6 +315,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" />
       <jump line="9" column="1" filename="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" />
       <jump line="46" column="2" filename="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="29" column="29" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="17" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="37" column="17" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="19" column="23" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/XGBindRecord.js" />
+      <jump line="0" column="43" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -337,43 +346,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>userId</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcK</text>
+      <register name="0" type="4">
+        <text>unbindAccount</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgWGluZ2UgPSByZXF1aXJlKCd4aW5nZScpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LnRoZW4ocmVzcG9uc2UgPT4gewogICAgICAgIAogICAgICB9LCBlcm9ycik=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYWNjZXNzSWQgPSAyMjAwMzA4NzYzCmNvbnN0IHNlY3JldEtleSA9ICczNTM1YWRhM2NkMTcyNDgzOGE1ZDRhZGUzNWM3OGY1MCcKY29uc3QgWGluZ2VBcHAgPSBuZXcgWGluZ2UuWGluZ2VBcHAoYWNjZXNzSWQsIHNlY3JldEtleSkKCi8vIElPUyBtZXNzYWdlIHN0YXJ0Lgpjb25zdCBpT1NNZXNzYWdlID0gbmV3IFhpbmdlLklPU01lc3NhZ2UoKQppT1NNZXNzYWdlLmFsZXJ0ID0gJ+aWsOW5tOW/q+S5kO+8jOaBreWWnOWPkei0ouOAguOAkOmTsuWxjuWVpuOAkScgKyBuZXcgRGF0ZSgpLmdldFRpbWUoKQppT1NNZXNzYWdlLmJhZGdlID0gMQppT1NNZXNzYWdlLnNvdW5kID0gJ1VJTG9jYWxOb3RpZmljYXRpb25EZWZhdWx0U291bmROYW1lJwovLyDmjInluJDlj7fmjqjkuI3mlK/mjIHov5kKLy8gaU9TTWVzc2FnZS5zZW5kVGltZSA9IHBhcnNlSW50KG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMCArIDYwICogNjAgKiAyNCkKaU9TTWVzc2FnZS5hY2NlcHRUaW1lLnB1c2gobmV3IFhpbmdlLlRpbWVJbnRlcnZhbCgwLCAwLCAyMywgMCkpCgovLyDmjqjpgIHmtojmga/nu5nmibnph4/otKblj7cKWGluZ2VBcHAucHVzaEJ5QWNjb3VudHMoWyczMTJKQzFxT0NQJ10sIGlPU01lc3NhZ2UsIFhpbmdlLklPU19FTlZfUFJPLCAoZXJyLCByZXN1bHQpID0+IHsKICBjb25zb2xlLmxvZyhyZXN1bHQpCn0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgey8qe3RoaXMucHJvcHMuY2hpbGRyZW59Ki99Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwb2QgJ0J1Z3NuYWdSZWFjdE5hdGl2ZScsIDpwYXRoID0+ICcuLi9ub2RlX21vZHVsZXMvYnVnc25hZy1yZWFjdC1uYXRpdmUnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxQcm92aWRlciBzdG9yZT17c3RvcmV9PgogICAgICAgIDxBcHBDb250YWluZXIKICAgICAgICAgIGluaXRQcm9wcz17ewogICAgICAgICAgICAuLi50aGlzLnByb3BzCiAgICAgICAgICB9fT4KICAgICAgICAgIDxXZU5hdmlnYXRvciAvPgogICAgICAgIDwvQXBwQ29udGFpbmVyPgogICAgICA8L1Byb3ZpZGVyPgogICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnYmluZEFjY291bnQgc3VjY2VzcycsIHJlc3BvbnNlKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh4Z3IpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBvY29uCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdOYXRpdmVNb2R1bGVzLkFsaXl1blB1c2gnLCBOYXRpdmVNb2R1bGVzLkFsaXl1blB1c2gpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXt7IHdpZHRoOiA1MiB9fSAvPgo=</text>
+        <text encoding="base64">Y29uc3QgWGluZ2UgPSByZXF1aXJlKCd4aW5nZScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">Y29uc3QgYWNjZXNzSWQgPSAyMjAwMzA4NzYzCmNvbnN0IHNlY3JldEtleSA9ICczNTM1YWRhM2NkMTcyNDgzOGE1ZDRhZGUzNWM3OGY1MCcKY29uc3QgWGluZ2VBcHAgPSBuZXcgWGluZ2UuWGluZ2VBcHAoYWNjZXNzSWQsIHNlY3JldEtleSkKCi8vIElPUyBtZXNzYWdlIHN0YXJ0Lgpjb25zdCBpT1NNZXNzYWdlID0gbmV3IFhpbmdlLklPU01lc3NhZ2UoKQppT1NNZXNzYWdlLmFsZXJ0ID0gJ+aWsOW5tOW/q+S5kO+8jOaBreWWnOWPkei0ouOAguOAkOmTsuWxjuWVpuOAkScgKyBuZXcgRGF0ZSgpLmdldFRpbWUoKQppT1NNZXNzYWdlLmJhZGdlID0gMQppT1NNZXNzYWdlLnNvdW5kID0gJ1VJTG9jYWxOb3RpZmljYXRpb25EZWZhdWx0U291bmROYW1lJwovLyDmjInluJDlj7fmjqjkuI3mlK/mjIHov5kKLy8gaU9TTWVzc2FnZS5zZW5kVGltZSA9IHBhcnNlSW50KG5ldyBEYXRlKCkuZ2V0VGltZSgpIC8gMTAwMCArIDYwICogNjAgKiAyNCkKaU9TTWVzc2FnZS5hY2NlcHRUaW1lLnB1c2gobmV3IFhpbmdlLlRpbWVJbnRlcnZhbCgwLCAwLCAyMywgMCkpCgovLyDmjqjpgIHmtojmga/nu5nmibnph4/otKblj7cKWGluZ2VBcHAucHVzaEJ5QWNjb3VudHMoWyczMTJKQzFxT0NQJ10sIGlPU01lc3NhZ2UsIFhpbmdlLklPU19FTlZfUFJPLCAoZXJyLCByZXN1bHQpID0+IHsKICBjb25zb2xlLmxvZyhyZXN1bHQpCn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgey8qe3RoaXMucHJvcHMuY2hpbGRyZW59Ki99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
