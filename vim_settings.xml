@@ -20,6 +20,13 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" timestamp="1574049775368">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="87" />
+        <mark key="^" line="19" column="87" />
+        <mark key="." line="19" column="87" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" timestamp="1573872688123">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="0" column="0" />
@@ -81,6 +88,8 @@
         <mark key="^" line="7" column="99" />
         <mark key="." line="7" column="99" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/TabContainerScene.js" timestamp="1574049360865" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react/cjs/react.development.js" timestamp="1574049760623" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1573824461017">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="37" column="31" />
@@ -110,7 +119,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1574004406713" />
     </filemarks>
     <jumps>
-      <jump line="25" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" />
       <jump line="18" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" />
@@ -210,6 +218,7 @@
       <jump line="5" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
       <jump line="20" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
       <jump line="47" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -233,10 +242,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>Pure</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Pure</text>
       </register>
       <register name="/" type="4">
         <text>w</text>
