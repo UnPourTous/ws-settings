@@ -6,13 +6,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1574053998843">
-        <mark key="[" line="16" column="41" />
-        <mark key="]" line="16" column="41" />
-        <mark key="^" line="16" column="41" />
-        <mark key="." line="16" column="41" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1574133750190" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1574134578284" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/reduxUtils/index.js" timestamp="1574067270640">
         <mark key="[" line="409" column="49" />
         <mark key="]" line="409" column="71" />
@@ -25,11 +19,8 @@
         <mark key="]" line="121" column="0" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/utils/RTArgsUtils.js" timestamp="1573873732063">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="1" />
-        <mark key="^" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/memory.js" timestamp="1574135383109">
+        <mark key="'" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" timestamp="1574053748516">
         <mark key="[" line="7" column="0" />
@@ -37,21 +28,11 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/XGBindRecord.js" timestamp="1573823791489">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="28" />
-        <mark key="." line="33" column="28" />
-      </file>
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/config.js" timestamp="1574135241227" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1574004660972" />
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/response.js" timestamp="1574134864462" />
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/request.js" timestamp="1574135420448" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1574047356526" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/LoginScene/LoginScene.js" timestamp="1573876573868">
-        <mark key="[" line="415" column="2" />
-        <mark key="]" line="415" column="2" />
-        <mark key="." line="415" column="2" />
-        <mark key="^" line="415" column="2" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" timestamp="1574089188020">
         <mark key="'" line="29" column="28" />
         <mark key="[" line="29" column="29" />
@@ -60,68 +41,34 @@
         <mark key="." line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/_tdt.sh" timestamp="1574071478590" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574136310048">
+        <mark key="[" line="116" column="6" />
+        <mark key="]" line="116" column="5" />
+        <mark key="^" line="116" column="5" />
+        <mark key="." line="116" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/TabContainerScene.js" timestamp="1574054364076">
         <mark key="[" line="28" column="6" />
         <mark key="]" line="28" column="5" />
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" timestamp="1574053615927">
-        <mark key="'" line="6" column="21" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="39" />
-        <mark key="^" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react/cjs/react.development.js" timestamp="1574049760623" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1573824461017">
-        <mark key="'" line="0" column="43" />
-        <mark key="[" line="37" column="31" />
-        <mark key="]" line="37" column="31" />
-        <mark key="." line="37" column="31" />
-        <mark key="^" line="39" column="13" />
-      </file>
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/package.json" timestamp="1574135467261" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1574130206102">
         <mark key="[" line="301" column="0" />
         <mark key="]" line="301" column="0" />
         <mark key="." line="301" column="0" />
         <mark key="^" line="308" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/cloud/schedule/tasks/dailyPushTaskGenTask.js" timestamp="1573873750116">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="4" column="42" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="/package.json" timestamp="1574047466767" />
-      <file name="$USER_HOME$/Projects/chanshila/server/lab/aliyun-push-test.js" timestamp="1573872688123">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="11" column="9" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/server/package.json" timestamp="1573873786408">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-      </file>
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/limit.js" timestamp="1574135396619" />
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/serialize.js" timestamp="1574134916602" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/qualityTools/SceneTraversal.js" timestamp="1574047384744" />
-      <file name="$USER_HOME$/Projects/chanshila/server/config/dev/parse-config.json" timestamp="1573876944141">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-        <mark key="^" line="5" column="31" />
-      </file>
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/cache.js" timestamp="1574134906141" />
+      <file name="$USER_HOME$/Projects/axios-cache-adapter/test/spec/cache.spec.js" timestamp="1574135295530" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/createTheme.js" timestamp="1574053669835" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/traversal-server/bin/www" timestamp="1574006611612" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" timestamp="1574004529133">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeRect/index.js" timestamp="1574053579852">
         <mark key="[" line="15" column="79" />
         <mark key="]" line="15" column="78" />
@@ -129,20 +76,7 @@
         <mark key="." line="15" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/auto-tab-bash.sh" timestamp="1574071348731" />
-      <file name="$USER_HOME$/Projects/chanshila/server/config/dashboard-config.json" timestamp="1573877283419">
-        <mark key="[" line="22" column="60" />
-        <mark key="]" line="22" column="78" />
-        <mark key="^" line="22" column="78" />
-        <mark key="." line="22" column="78" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1574089046371" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" timestamp="1574048055517">
-        <mark key="'" line="47" column="12" />
-        <mark key="[" line="7" column="100" />
-        <mark key="]" line="7" column="99" />
-        <mark key="^" line="7" column="99" />
-        <mark key="." line="7" column="99" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/ext/WeTouchable.js" timestamp="1574047342981">
         <mark key="[" line="76" column="10" />
         <mark key="]" line="76" column="9" />
@@ -163,12 +97,6 @@
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/parse/lib/react-native/ParseUser.js" timestamp="1573876490054">
-        <mark key="[" line="854" column="28" />
-        <mark key="]" line="854" column="27" />
-        <mark key="^" line="854" column="27" />
-        <mark key="." line="854" column="27" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1574089600474">
         <mark key="[" line="89" column="48" />
         <mark key="]" line="89" column="48" />
@@ -178,8 +106,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1574053563483" />
     </filemarks>
     <jumps>
-      <jump line="59" column="23" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/network/APIClient.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="36" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="34" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="3" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
@@ -278,6 +204,8 @@
       <jump line="29" column="28" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" />
       <jump line="110" column="24" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" />
       <jump line="317" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
+      <jump line="6" column="2" filename="$USER_HOME$/Projects/axios-cache-adapter/src/memory.js" />
+      <jump line="1" column="27" filename="$USER_HOME$/Projects/axios-cache-adapter/src/memory.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -301,10 +229,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>oh-my-zsh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>oh-my-zsh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXJkXD4=</text>
