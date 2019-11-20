@@ -60,12 +60,12 @@
         <mark key="^" line="96" column="34" />
         <mark key="." line="96" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1574243817057">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1574245214172">
         <mark key="'" line="57" column="27" />
-        <mark key="[" line="21" column="6" />
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="21" column="6" />
-        <mark key="^" line="20" column="0" />
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/_tdt.sh" timestamp="1574071478590" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574242259652">
@@ -304,10 +304,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>strin</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>strin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZ2VuVXJsV2l0aFF1ZXJ5XD4=</text>
