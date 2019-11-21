@@ -93,6 +93,11 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/Tplus1HistoryTenThousandIncomeScene/actionsReducer.js" timestamp="1574223695449" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/adapters/http.js" timestamp="1574223659784" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/@types/babel__core/index.d.ts" timestamp="1574231373498" />
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/layouts/BasicLayout.jsx" timestamp="1574325520299">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" timestamp="1574230287168" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/defaults.js" timestamp="1574156974282">
         <mark key="[" line="22" column="41" />
@@ -106,6 +111,12 @@
         <mark key="]" line="301" column="0" />
         <mark key="." line="301" column="0" />
         <mark key="^" line="308" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/locales/zh-CN/menu.js" timestamp="1574325492452">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="27" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosMocker.js" timestamp="1574241881579">
         <mark key="[" line="12" column="16" />
@@ -325,11 +336,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>sh</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cHM6Ly93d3cud2ViYW5rLmNvbSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciI+CiAgICAgICAgQ29weXJpZ2h0IMKpIEhKCiAgICAgIDwvYT4K</text>
       </register>
       <register name="-" type="4">
-        <text>sh</text>
+        <text>欢迎使用天眼</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29tYmluZUZ1bGxVUkxcPg==</text>
@@ -338,33 +349,33 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KGVycm9yKS50b0VxdWFsKG51bGwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3ZXgK</text>
+        <text encoding="base64">ICAgICAgPGEgaHJlZj0iaHR0cHM6Ly93d3cud2ViYW5rLmNvbSIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIgbm9yZWZlcnJlciI+CiAgICAgICAgQ29weXJpZ2h0IMKpIEhKCiAgICAgIDwvYT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgIGV4cGVjdChlICkKICAgIH0K</text>
+        <text encoding="base64">ICAnbWVudS7mrKLov47kvb/nlKjlpKnnnLwnOiAn5qyi6L+O5L2/55So5aSp55y8JywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAnbWVudS7mrKLov47kvb/nlKjlpKnnnLwnOiAn5qyi6L+O5L2/55So5aSp55y8JywKICAnbWVudS7ml6Xlv5for6bmg4UnOiAn5pel5b+X6K+m5oOFJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3ZXgK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgIGV4cGVjdChlICkKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRyeSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGF3YWl0IEFQSUNsaWVudC5yZXF1ZXN0KCkK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>{
         data: 'mockdata'
       }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBeGlvc01vY2tlci5zdWNjZXNzKHsgZGF0YTogJ21vY2tkYXRhJyB9KQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbW9ja2FibGU6IHRydWUsCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBzZXRSZXF1ZXN0VGltZW91dEluTXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
