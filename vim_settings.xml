@@ -6,6 +6,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/scripts/setup.sh" timestamp="1574321522941" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1574134578284" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.setup.js" timestamp="1574253105127">
         <mark key="[" line="5" column="21" />
@@ -33,6 +34,7 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/__tests__/services/ProdInfo-test.js" timestamp="1574231907241">
         <mark key="'" line="36" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/package.json" timestamp="1574321279377" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1574223715693" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1574004660972" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574241855162">
@@ -47,6 +49,12 @@
       </file>
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/request.js" timestamp="1574135420448" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1574047356526" />
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/app.js" timestamp="1574321580746">
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="96" column="3" />
+        <mark key="." line="96" column="3" />
+        <mark key="^" line="96" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" timestamp="1574089188020">
         <mark key="'" line="29" column="28" />
         <mark key="[" line="29" column="29" />
@@ -68,12 +76,12 @@
         <mark key="^" line="48" column="95" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/_tdt.sh" timestamp="1574071478590" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574255413459">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574320550958">
         <mark key="'" line="62" column="3" />
-        <mark key="[" line="145" column="17" />
-        <mark key="]" line="145" column="21" />
-        <mark key="." line="145" column="21" />
-        <mark key="^" line="145" column="21" />
+        <mark key="[" line="159" column="6" />
+        <mark key="]" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+        <mark key="^" line="159" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/TabContainerScene.js" timestamp="1574054364076">
         <mark key="[" line="28" column="6" />
@@ -156,6 +164,12 @@
         <mark key="]" line="36" column="16" />
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/CNAME" timestamp="1574321156268">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1574089600474">
         <mark key="[" line="89" column="48" />
@@ -312,10 +326,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>undefined</text>
+        <text>sh</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>sh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY29tYmluZUZ1bGxVUkxcPg==</text>
