@@ -252,12 +252,12 @@
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/serialize.js" timestamp="1574134916602" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/qualityTools/SceneTraversal.js" timestamp="1574047384744" />
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/cache.js" timestamp="1574134906141" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" timestamp="1574392507844">
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" timestamp="1574409734049">
         <mark key="'" line="8" column="7" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="108" column="34" />
+        <mark key="[" line="107" column="29" />
+        <mark key="]" line="49" column="25" />
+        <mark key="." line="49" column="25" />
+        <mark key="^" line="49" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1574089046371" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/ext/WeTouchable.js" timestamp="1574047342981">
@@ -414,10 +414,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</text>
