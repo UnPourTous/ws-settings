@@ -40,11 +40,11 @@
         <mark key="." line="96" column="3" />
         <mark key="^" line="96" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/config.js" timestamp="1574330469215">
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/config.js" timestamp="1574407594696">
         <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="17" />
-        <mark key="." line="75" column="17" />
-        <mark key="^" line="75" column="17" />
+        <mark key="]" line="75" column="22" />
+        <mark key="." line="75" column="22" />
+        <mark key="^" line="75" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574404998528">
         <mark key="'" line="62" column="3" />
@@ -414,10 +414,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGF2aWdhdGlvbg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGF2aWdhdGlvbg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</text>
