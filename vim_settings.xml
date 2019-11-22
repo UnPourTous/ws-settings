@@ -26,11 +26,11 @@
         <mark key="^" line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1574004660972" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574392742298">
-        <mark key="[" line="44" column="24" />
-        <mark key="]" line="44" column="24" />
-        <mark key="^" line="44" column="27" />
-        <mark key="." line="44" column="24" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574393738057">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/request.js" timestamp="1574135420448" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1574047356526" />
@@ -71,11 +71,11 @@
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/limit.js" timestamp="1574135396619" />
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/components/GlobalHeader/RightContent.jsx" timestamp="1574329187932" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryIncomeListScene/MonetaryIncomeListScene.js" timestamp="1574223827309" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1574231159930">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1574394873987">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="15" />
+        <mark key="." line="70" column="15" />
+        <mark key="^" line="70" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/axios-cache-adapter/test/spec/cache.spec.js" timestamp="1574135295530" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/createTheme.js" timestamp="1574053669835" />
@@ -249,7 +249,13 @@
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" timestamp="1574231099612" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" timestamp="1574394892424">
+        <mark key="'" line="70" column="35" />
+        <mark key="[" line="70" column="14" />
+        <mark key="]" line="70" column="11" />
+        <mark key="^" line="70" column="11" />
+        <mark key="." line="70" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1574053563483" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.config.js" timestamp="1574250586937">
         <mark key="'" line="3" column="16" />
@@ -261,8 +267,6 @@
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/cancel/CancelToken.js" timestamp="1574156950171" />
     </filemarks>
     <jumps>
-      <jump line="88" column="23" filename="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" />
       <jump line="104" column="0" filename="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" />
       <jump line="5" column="12" filename="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" />
       <jump line="33" column="127" filename="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" />
@@ -361,6 +365,8 @@
       <jump line="46" column="22" filename="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" />
       <jump line="51" column="10" filename="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" />
       <jump line="8" column="7" filename="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" />
+      <jump line="69" column="40" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" />
+      <jump line="71" column="35" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -384,10 +390,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZXNcPg==</text>
@@ -396,31 +402,31 @@
         <text encoding="base64">ICAgICAgZXhwZWN0KGVycm9yKS50b0VxdWFsKG51bGwpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGVUeXBlIH0gZnJvbSAnLi9tb2RlbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9maWxlQmFzaWMvZmV0Y2hCYXNpYwogICAgICAgIGlmICghbG9nTGlzdCkgewogICAgICAgIHJldHVybiA8ZGl2PgogICAgICAgIExvYWRpbmcuLi4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmZyb21DYWNoZSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9nTGlzdCkgewogICAgICByZXR1cm4gPGRpdj4KICAgICAgICBMb2FkaW5nLi4uCiAgICAgIDwvZGl2PgogICAgfQo=</text>
+        <text encoding="base64">ICAgIG1vY2thYmxlOiBmYWxzZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
+        <text encoding="base64">ICByZXF1ZXN0VXNlTW9jazogewogICAgYmFzZVVSTDogJ2h0dHBzOi8vd3d3Lm1vY2t5LmlvLycsCiAgICBtZXRob2Q6ICdnZXQnLAogICAgdXJsOiAnL3YyLzVkYzk2NDYzMmYwMDAwNzYwMDczZWM0YicsCiAgICBkZXNjOiAn6K+35rGC5Lmm57GN5YiX6KGoJywKICAgIHJlcXVlc3Q6IHt9LAogICAgbW9ja2FibGU6IHRydWUsCiAgICByZXNwb25zZTogWwogICAgICBBeGlvc01vY2tlci5zdWNjZXNzKHsKICAgICAgICBoZWxsbzogJ3dvcmxkJwogICAgICB9KSwKICAgICAgQXhpb3NNb2NrZXIubmV0d29ya0Vycm9yKHsKICAgICAgICBoZWxsbzogJ3dvcmxkJwogICAgICB9KSwKICAgICAgQXhpb3NNb2NrZXIudGltZW91dCgpCiAgICBdCiAgfSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ0xpc3QKICAgIGFueQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU3RhdGVUeXBlIH0gZnJvbSAnLi9tb2RlbCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFsb2dMaXN0KSB7CiAgICAgICAgcmV0dXJuIG51bGwKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcm9maWxlQmFzaWMvZmV0Y2hCYXNpYwogICAgICAgIGlmICghbG9nTGlzdCkgewogICAgICAgIHJldHVybiA8ZGl2PgogICAgICAgIExvYWRpbmcuLi4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9nTGlzdCkgewogICAgICByZXR1cm4gbnVsbAogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmICghbG9nTGlzdCkgewogICAgICByZXR1cm4gPGRpdj4KICAgICAgICBMb2FkaW5nLi4uCiAgICAgIDwvZGl2PgogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHJvZmlsZUJhc2ljLAo=</text>
+        <text encoding="base64">ICAgIGxvZ0xpc3QKICAgIGFueQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
