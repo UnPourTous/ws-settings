@@ -26,11 +26,11 @@
         <mark key="^" line="3" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1574004660972" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574241855162">
-        <mark key="[" line="45" column="6" />
-        <mark key="]" line="45" column="5" />
-        <mark key="^" line="45" column="5" />
-        <mark key="." line="45" column="5" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574392742298">
+        <mark key="[" line="44" column="24" />
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="44" column="27" />
+        <mark key="." line="44" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/request.js" timestamp="1574135420448" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1574047356526" />
@@ -228,7 +228,7 @@
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/serialize.js" timestamp="1574134916602" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/qualityTools/SceneTraversal.js" timestamp="1574047384744" />
       <file name="$USER_HOME$/Projects/axios-cache-adapter/src/cache.js" timestamp="1574134906141" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" timestamp="1574331468774">
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" timestamp="1574392507844">
         <mark key="'" line="8" column="7" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -383,11 +383,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU3RhdGVUeXBlIH0gZnJvbSAnLi9tb2RlbCc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdHlsZXNcPg==</text>
