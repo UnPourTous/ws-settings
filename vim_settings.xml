@@ -113,6 +113,7 @@
         <mark key="." line="159" column="5" />
         <mark key="^" line="159" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/githooks/pre-commit" timestamp="1574662082067" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/TabContainerScene.js" timestamp="1574054364076">
         <mark key="[" line="28" column="6" />
         <mark key="]" line="28" column="5" />
@@ -140,7 +141,13 @@
         <mark key="^" line="194" column="56" />
         <mark key="." line="194" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" timestamp="1574654329744" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" timestamp="1574662152364">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="1" />
+        <mark key="." line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/defaults.js" timestamp="1574156974282">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="40" />
@@ -278,11 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="28" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" />
-      <jump line="110" column="24" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" />
-      <jump line="317" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/Projects/axios-cache-adapter/src/memory.js" />
-      <jump line="1" column="27" filename="$USER_HOME$/Projects/axios-cache-adapter/src/memory.js" />
       <jump line="112" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/axios.js" />
       <jump line="39" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
@@ -378,6 +380,11 @@
       <jump line="2" column="299" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
       <jump line="220" column="58" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="25" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
+      <jump line="4" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
+      <jump line="3" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
+      <jump line="6" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -400,64 +407,60 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</text>
+        <text encoding="base64">XDxzaGVsbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGR0IHJ1biBpb3MgLS12ZXJib3NlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dGR0IHJlbGVhc2UgaW9zIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAoKSB7fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGR0IHJlbGVhc2UgaW9zIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cm0gLXJmIC4vV2VCb29rU3RvcmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YnVuZGxlIGV4ZWMgZmFzdGxhbmUgYW5kcm9pZCByZWxlYXNlIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm0gLXJmIC4vV2VCb29rU3RvcmUiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnVuZGxlIGV4ZWMgZmFzdGxhbmUgYW5kcm9pZCByZWxlYXNlIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyDmqKHmi5/lhbbku5YK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-search>
+      <last-search encoding="base64">XDxzaGVsbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzaGVsbFw+</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxfZ2VuVXJsV2l0aFF1ZXJ5XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxheGlvc0NvbmZpZ1w+</entry>
-        <entry encoding="base64">XDx0ZXN0RW52aXJvbm1lbnRcPg==</entry>
-        <entry encoding="base64">XDxqc29uXD4=</entry>
-        <entry encoding="base64">XDxDYWNoZVw+</entry>
         <entry encoding="base64">XDxjYWNoZVw+</entry>
         <entry encoding="base64">XDxjb25zdFw+</entry>
         <entry encoding="base64">XDxfZ2VuVXJsV2l0aFF1ZXJ5XD4=</entry>
@@ -474,6 +477,10 @@
         <entry encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxlc2xpbnRcPg==</entry>
         <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
+        <entry encoding="base64">XDxlbnZcPg==</entry>
+        <entry encoding="base64">XDxjaGFsa1w+</entry>
+        <entry encoding="base64">XDxyZXBsYWNlSW5GaWxlXD4=</entry>
+        <entry encoding="base64">XDxzaGVsbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
