@@ -73,12 +73,12 @@
         <mark key="." line="75" column="22" />
         <mark key="^" line="75" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574653557738">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574664414699">
         <mark key="'" line="220" column="58" />
-        <mark key="[" line="110" column="6" />
-        <mark key="]" line="110" column="5" />
-        <mark key="^" line="110" column="5" />
-        <mark key="." line="110" column="5" />
+        <mark key="[" line="125" column="2" />
+        <mark key="]" line="125" column="1" />
+        <mark key="^" line="125" column="1" />
+        <mark key="." line="125" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" timestamp="1574089188020">
         <mark key="'" line="29" column="28" />
@@ -172,12 +172,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574652791095">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574665206643">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.server.js" timestamp="1574247334806">
         <mark key="[" line="22" column="17" />
@@ -285,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/axios.js" />
       <jump line="39" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="19" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
@@ -385,6 +383,7 @@
       <jump line="4" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
       <jump line="3" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
       <jump line="6" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
+      <jump line="20" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -408,10 +407,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGVsbFw+</text>
@@ -420,28 +419,28 @@
         <text encoding="base64">dGR0IHJ1biBpb3MgLS12ZXJib3NlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoKSB7fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGR0IHJlbGVhc2UgaW9zIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">ICBpZiAoKSB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGR0IHJlbGVhc2UgaW9zIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cm0gLXJmIC4vV2VCb29rU3RvcmUiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YnVuZGxlIGV4ZWMgZmFzdGxhbmUgYW5kcm9pZCByZWxlYXNlIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">cm0gLXJmIC4vV2VCb29rU3RvcmUiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YnVuZGxlIGV4ZWMgZmFzdGxhbmUgYW5kcm9pZCByZWxlYXNlIC0tdmVyYm9zZQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
