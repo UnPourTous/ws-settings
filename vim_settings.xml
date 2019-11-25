@@ -13,6 +13,7 @@
         <mark key="^" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1574410221279" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1574670504568" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1574652127193" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.setup.js" timestamp="1574253105127">
         <mark key="[" line="5" column="21" />
@@ -73,7 +74,7 @@
         <mark key="." line="75" column="22" />
         <mark key="^" line="75" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574664414699">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574669973389">
         <mark key="'" line="220" column="58" />
         <mark key="[" line="125" column="2" />
         <mark key="]" line="125" column="1" />
@@ -172,11 +173,12 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574665206643">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574669805440">
         <mark key="'" line="20" column="31" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.server.js" timestamp="1574247334806">
         <mark key="[" line="22" column="17" />
