@@ -73,8 +73,8 @@
         <mark key="." line="75" column="22" />
         <mark key="^" line="75" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574651910593">
-        <mark key="'" line="143" column="30" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574653557738">
+        <mark key="'" line="220" column="58" />
         <mark key="[" line="110" column="6" />
         <mark key="]" line="110" column="5" />
         <mark key="^" line="110" column="5" />
@@ -277,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/README.md" />
       <jump line="29" column="28" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" />
       <jump line="110" column="24" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" />
       <jump line="317" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" />
@@ -377,6 +376,7 @@
       <jump line="143" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
       <jump line="2" column="299" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
+      <jump line="220" column="58" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
