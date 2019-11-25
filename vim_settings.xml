@@ -12,140 +12,7 @@
         <mark key="." line="26" column="20" />
         <mark key="^" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/ClosedEndFundMyDetailScene/ClosedEndFundMyDetailService.js" timestamp="1574223887915" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/locales/zh-CN/globalHeader.js" timestamp="1574329170019">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="1" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/public/view/log.viewer.html" timestamp="1574329449426">
-        <mark key="[" line="3" column="55" />
-        <mark key="]" line="3" column="56" />
-        <mark key="." line="3" column="55" />
-        <mark key="^" line="3" column="59" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/ModuleManager.js" timestamp="1574004660972" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574393738057">
-        <mark key="[" line="42" column="4" />
-        <mark key="]" line="42" column="3" />
-        <mark key="^" line="42" column="3" />
-        <mark key="." line="42" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/request.js" timestamp="1574135420448" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1574047356526" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/app.js" timestamp="1574321580746">
-        <mark key="[" line="96" column="4" />
-        <mark key="]" line="96" column="3" />
-        <mark key="." line="96" column="3" />
-        <mark key="^" line="96" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/config.js" timestamp="1574407594696">
-        <mark key="[" line="75" column="17" />
-        <mark key="]" line="75" column="22" />
-        <mark key="." line="75" column="22" />
-        <mark key="^" line="75" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574404998528">
-        <mark key="'" line="62" column="3" />
-        <mark key="[" line="159" column="6" />
-        <mark key="]" line="159" column="5" />
-        <mark key="." line="159" column="5" />
-        <mark key="^" line="159" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1574406651826">
-        <mark key="'" line="58" column="12" />
-        <mark key="[" line="87" column="104" />
-        <mark key="]" line="87" column="104" />
-        <mark key="^" line="87" column="104" />
-        <mark key="." line="87" column="104" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/layouts/BasicLayout.jsx" timestamp="1574330064205">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/package.json" timestamp="1574135467261" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosMocker.js" timestamp="1574241881579">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="16" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="12" column="16" />
-      </file>
-      <file name="/package.json" timestamp="1574047466767" />
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/limit.js" timestamp="1574135396619" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryIncomeListScene/MonetaryIncomeListScene.js" timestamp="1574223827309" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1574394873987">
-        <mark key="[" line="70" column="13" />
-        <mark key="]" line="70" column="15" />
-        <mark key="." line="70" column="15" />
-        <mark key="^" line="70" column="15" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultReduxConfig.js" timestamp="1574406701762">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="34" />
-        <mark key="^" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/test/spec/cache.spec.js" timestamp="1574135295530" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/createTheme.js" timestamp="1574053669835" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/traversal-server/bin/www" timestamp="1574006611612" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeRect/index.js" timestamp="1574053579852">
-        <mark key="[" line="15" column="79" />
-        <mark key="]" line="15" column="78" />
-        <mark key="^" line="15" column="78" />
-        <mark key="." line="15" column="78" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/auto-tab-bash.sh" timestamp="1574071348731" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/defaultSettings.js" timestamp="1574329461150">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="25" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1574088710363">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="30" column="4" />
-        <mark key="]" line="30" column="3" />
-        <mark key="." line="30" column="3" />
-        <mark key="^" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/coverage/lcov-report/AxiosAdapter.js.html" timestamp="1574405088676">
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/CNAME" timestamp="1574321156268">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1574089600474">
-        <mark key="[" line="89" column="48" />
-        <mark key="]" line="89" column="48" />
-        <mark key="^" line="89" column="48" />
-        <mark key="." line="89" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/Cache.js" timestamp="1574250861783">
-        <mark key="'" line="1" column="14" />
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" timestamp="1574255352326">
-        <mark key="'" line="316" column="0" />
-        <mark key="[" line="26" column="61" />
-        <mark key="]" line="26" column="63" />
-        <mark key="." line="26" column="63" />
-        <mark key="^" line="26" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/node_modules/@ant-design/pro-layout/lib/BasicLayout.d.ts" timestamp="1574329597657" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/scripts/setup.sh" timestamp="1574321522941" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1574134578284" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1574410221279" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.setup.js" timestamp="1574253105127">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -164,21 +31,53 @@
         <mark key="." line="7" column="16" />
         <mark key="^" line="7" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/List/List.js" timestamp="1574406439612" />
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/locales/zh-CN/globalHeader.js" timestamp="1574329170019">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" timestamp="1574053748516">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="3" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/config.js" timestamp="1574135241227" />
-      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/package.json" timestamp="1574321279377" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1574223715693" />
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/response.js" timestamp="1574134864462" />
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/public/view/log.viewer.html" timestamp="1574329449426">
+        <mark key="[" line="3" column="55" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="55" />
+        <mark key="^" line="3" column="59" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1574393738057">
+        <mark key="[" line="42" column="4" />
+        <mark key="]" line="42" column="3" />
+        <mark key="^" line="42" column="3" />
+        <mark key="." line="42" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Layout/Layout.js" timestamp="1574406476244">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/app.js" timestamp="1574321580746">
+        <mark key="[" line="96" column="4" />
+        <mark key="]" line="96" column="3" />
+        <mark key="." line="96" column="3" />
+        <mark key="^" line="96" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/config.js" timestamp="1574407594696">
+        <mark key="[" line="75" column="17" />
+        <mark key="]" line="75" column="22" />
+        <mark key="." line="75" column="22" />
+        <mark key="^" line="75" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574650142628">
+        <mark key="'" line="494" column="32" />
+        <mark key="[" line="269" column="0" />
+        <mark key="]" line="269" column="0" />
+        <mark key="^" line="269" column="0" />
+        <mark key="." line="269" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" timestamp="1574089188020">
         <mark key="'" line="29" column="28" />
@@ -206,24 +105,40 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/_tdt.sh" timestamp="1574071478590" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" timestamp="1574404998528">
+        <mark key="'" line="62" column="3" />
+        <mark key="[" line="159" column="6" />
+        <mark key="]" line="159" column="5" />
+        <mark key="." line="159" column="5" />
+        <mark key="^" line="159" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/TabContainerScene.js" timestamp="1574054364076">
         <mark key="[" line="28" column="6" />
         <mark key="]" line="28" column="5" />
         <mark key="^" line="28" column="5" />
         <mark key="." line="28" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react/cjs/react.development.js" timestamp="1574049760623" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/tplus1/Tplus1HistoryTenThousandIncomeScene/actionsReducer.js" timestamp="1574223695449" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/adapters/http.js" timestamp="1574223659784" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/@types/babel__core/index.d.ts" timestamp="1574231373498" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/npmConfig.js" timestamp="1574649758118" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" timestamp="1574406651826">
+        <mark key="'" line="58" column="12" />
+        <mark key="[" line="87" column="104" />
+        <mark key="]" line="87" column="104" />
+        <mark key="^" line="87" column="104" />
+        <mark key="." line="87" column="104" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/layouts/BasicLayout.jsx" timestamp="1574330064205">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/list/basic-list/index.tsx" timestamp="1574329358789">
         <mark key="[" line="194" column="52" />
         <mark key="]" line="194" column="56" />
         <mark key="^" line="194" column="56" />
         <mark key="." line="194" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/MonetaryFundService.js" timestamp="1574230287168" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/defaults.js" timestamp="1574156974282">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="40" />
@@ -242,16 +157,31 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1574405185149" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosMocker.js" timestamp="1574241881579">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.server.js" timestamp="1574247334806">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/serialize.js" timestamp="1574134916602" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/qualityTools/SceneTraversal.js" timestamp="1574047384744" />
-      <file name="$USER_HOME$/Projects/axios-cache-adapter/src/cache.js" timestamp="1574134906141" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1574394873987">
+        <mark key="[" line="70" column="13" />
+        <mark key="]" line="70" column="15" />
+        <mark key="." line="70" column="15" />
+        <mark key="^" line="70" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultReduxConfig.js" timestamp="1574648979317">
+        <mark key="'" line="41" column="16" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/src/pages/profile/basic/index.tsx" timestamp="1574409734049">
         <mark key="'" line="8" column="7" />
         <mark key="[" line="107" column="29" />
@@ -259,12 +189,30 @@
         <mark key="." line="49" column="25" />
         <mark key="^" line="49" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/PetCard.js" timestamp="1574089046371" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/ThemeRect/index.js" timestamp="1574053579852">
+        <mark key="[" line="15" column="79" />
+        <mark key="]" line="15" column="78" />
+        <mark key="^" line="15" column="78" />
+        <mark key="." line="15" column="78" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/defaultSettings.js" timestamp="1574329461150">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="^" line="12" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/ext/WeTouchable.js" timestamp="1574047342981">
         <mark key="[" line="76" column="10" />
         <mark key="]" line="76" column="9" />
         <mark key="^" line="76" column="9" />
         <mark key="." line="76" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/index.js" timestamp="1574088710363">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="3" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/auto-tab/README.md" timestamp="1574130943219">
         <mark key="'" line="9" column="0" />
@@ -273,6 +221,23 @@
         <mark key="^" line="36" column="16" />
         <mark key="." line="36" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/coverage/lcov-report/AxiosAdapter.js.html" timestamp="1574405088676">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/CNAME" timestamp="1574321156268">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1574089600474">
+        <mark key="[" line="89" column="48" />
+        <mark key="]" line="89" column="48" />
+        <mark key="^" line="89" column="48" />
+        <mark key="." line="89" column="48" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" timestamp="1574405639162">
         <mark key="'" line="70" column="35" />
         <mark key="[" line="76" column="32" />
@@ -280,7 +245,14 @@
         <mark key="^" line="74" column="22" />
         <mark key="." line="76" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1574053563483" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1574410221279" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/Cache.js" timestamp="1574250861783">
+        <mark key="'" line="1" column="14" />
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.config.js" timestamp="1574250586937">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="8" column="41" />
@@ -288,16 +260,15 @@
         <mark key="." line="8" column="40" />
         <mark key="^" line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/cancel/CancelToken.js" timestamp="1574156950171" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" timestamp="1574255352326">
+        <mark key="'" line="316" column="0" />
+        <mark key="[" line="26" column="61" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="63" />
+        <mark key="^" line="26" column="63" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" />
-      <jump line="8" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
-      <jump line="9" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/index.js" />
-      <jump line="5" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
-      <jump line="20" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/index.js" />
-      <jump line="47" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@unpourtous/react-navigation/src/views/SceneView.js" />
       <jump line="6" column="21" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/ThemeProvider.js" />
@@ -391,6 +362,13 @@
       <jump line="83" column="25" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="5" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="58" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
+      <jump line="41" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultReduxConfig.js" />
+      <jump line="202" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="205" column="54" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="242" column="70" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="286" column="62" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="266" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="494" column="32" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -414,13 +392,13 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</text>
+        <text encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBtc2cgPSAn6K+75Y+W57yT5a2Y5oiQ5YqfJwo=</text>
@@ -457,18 +435,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxfZ2VuVXJsV2l0aFF1ZXJ5XD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxicmV3XD4=</entry>
-        <entry encoding="base64">XDxDYXJkXD4=</entry>
         <entry encoding="base64">XDxheGlvc0NvbmZpZ1w+</entry>
         <entry encoding="base64">XDx0ZXN0RW52aXJvbm1lbnRcPg==</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
@@ -487,6 +463,8 @@
         <entry encoding="base64">XDxzdHlsZXNcPg==</entry>
         <entry encoding="base64">XDxXVENvbnNvbGVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxlc2xpbnRcPg==</entry>
+        <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
