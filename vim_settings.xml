@@ -13,7 +13,12 @@
         <mark key="^" line="26" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1574410221279" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1574670504568" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1574734897117">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1574652127193" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.setup.js" timestamp="1574253105127">
         <mark key="[" line="5" column="21" />
