@@ -67,12 +67,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/android/app/build.gradle" timestamp="1574741172352">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/android/app/build.gradle" timestamp="1574742347875">
         <mark key="'" line="160" column="52" />
         <mark key="[" line="160" column="52" />
         <mark key="]" line="160" column="52" />
         <mark key="." line="160" column="52" />
-        <mark key="^" line="160" column="52" />
+        <mark key="^" line="160" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/app.js" timestamp="1574321580746">
         <mark key="[" line="96" column="4" />
@@ -86,12 +86,12 @@
         <mark key="." line="75" column="22" />
         <mark key="^" line="75" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574669973389">
-        <mark key="'" line="220" column="58" />
-        <mark key="[" line="125" column="2" />
-        <mark key="]" line="125" column="1" />
-        <mark key="^" line="125" column="1" />
-        <mark key="." line="125" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" timestamp="1574742982812">
+        <mark key="'" line="274" column="9" />
+        <mark key="[" line="275" column="2" />
+        <mark key="]" line="275" column="1" />
+        <mark key="^" line="275" column="1" />
+        <mark key="." line="275" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" timestamp="1574089188020">
         <mark key="'" line="29" column="28" />
@@ -185,18 +185,25 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574741104878">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="16" column="11" />
-        <mark key="]" line="16" column="11" />
-        <mark key="." line="16" column="11" />
-        <mark key="^" line="13" column="1" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src2/modules/index.js" timestamp="1574743226736" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574743606899">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="21" column="98" />
+        <mark key="]" line="21" column="108" />
+        <mark key="." line="21" column="108" />
+        <mark key="^" line="21" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.server.js" timestamp="1574247334806">
         <mark key="[" line="22" column="17" />
         <mark key="]" line="22" column="16" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1574742835392">
+        <mark key="[" line="7" column="199" />
+        <mark key="]" line="7" column="199" />
+        <mark key="^" line="7" column="199" />
+        <mark key="." line="7" column="199" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1574394873987">
         <mark key="[" line="70" column="13" />
@@ -225,6 +232,12 @@
         <mark key="." line="15" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/run/index.js" timestamp="1574741079401" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/android/app/build.gradle" timestamp="1574742675454">
+        <mark key="[" line="132" column="12" />
+        <mark key="]" line="132" column="11" />
+        <mark key="." line="132" column="11" />
+        <mark key="^" line="132" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/defaultSettings.js" timestamp="1574329461150">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
@@ -299,12 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
-      <jump line="19" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
-      <jump line="61" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="36" column="5" filename="$USER_HOME$/Projects/webank_hj_app/pro/__tests__/services/ProdInfo-test.js" />
       <jump line="70" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
@@ -399,6 +406,12 @@
       <jump line="6" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
       <jump line="20" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
       <jump line="160" column="52" filename="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/android/app/build.gradle" />
+      <jump line="291" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="288" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="274" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/index.js" />
+      <jump line="16" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
+      <jump line="21" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -422,52 +435,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGVsbFw+</text>
+        <text encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGR0IHJ1biBpb3MgLS12ZXJib3NlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5mbyAiU3RhcnQgdGhlIHBhY2thZ2VyIGluIGFub3RoZXIgdGVybWluYWwgYnkgcnVubmluZyAndGR0ICcgZnJvbSB0aGUgcm9vdCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoKSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGR0IHJlbGVhc2UgaW9zIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gVE9ETyA9PT09PT09PT09PT09PT09PT09PT09PT095paw54mI5ZG95Luk6KGMPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cm0gLXJmIC4vV2VCb29rU3RvcmUiCg==</text>
+        <text encoding="base64">Ly8gVE9ETyA9PT09PT09PT09PT09PT09PT09PT09PT09PT1lbmQ9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnVuZGxlIGV4ZWMgZmFzdGxhbmUgYW5kcm9pZCByZWxlYXNlIC0tdmVyYm9zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGVsbFw+</last-search>
+      <last-search encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGVsbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -490,18 +503,17 @@
         <entry encoding="base64">XDxXVENvbnNvbGVcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVMb2dnZXJcPg==</entry>
         <entry encoding="base64">XDxlc2xpbnRcPg==</entry>
-        <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
         <entry encoding="base64">XDxlbnZcPg==</entry>
         <entry encoding="base64">XDxjaGFsa1w+</entry>
         <entry encoding="base64">XDxyZXBsYWNlSW5GaWxlXD4=</entry>
         <entry encoding="base64">XDxzaGVsbFw+</entry>
+        <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
         <entry>we</entry>
         <entry>230</entry>
         <entry>1</entry>
-        <entry>d</entry>
         <entry>wq</entry>
         <entry>g</entry>
         <entry>103</entry>
@@ -516,6 +528,7 @@
         <entry>88</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>ew</entry>
+        <entry>d</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
