@@ -67,6 +67,13 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/android/app/build.gradle" timestamp="1574741172352">
+        <mark key="'" line="160" column="52" />
+        <mark key="[" line="160" column="52" />
+        <mark key="]" line="160" column="52" />
+        <mark key="." line="160" column="52" />
+        <mark key="^" line="160" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/app.js" timestamp="1574321580746">
         <mark key="[" line="96" column="4" />
         <mark key="]" line="96" column="3" />
@@ -178,11 +185,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574669805440">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" timestamp="1574741104878">
         <mark key="'" line="20" column="31" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="1" />
-        <mark key="." line="13" column="1" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="11" />
         <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.server.js" timestamp="1574247334806">
@@ -217,6 +224,7 @@
         <mark key="^" line="15" column="78" />
         <mark key="." line="15" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/run/index.js" timestamp="1574741079401" />
       <file name="$USER_HOME$/Projects/UnPourTous/tianyan-server/dist/config/defaultSettings.js" timestamp="1574329461150">
         <mark key="[" line="12" column="19" />
         <mark key="]" line="12" column="19" />
@@ -291,7 +299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/axios.js" />
       <jump line="39" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="19" column="5" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
       <jump line="61" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.test.js" />
@@ -391,6 +398,7 @@
       <jump line="3" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
       <jump line="6" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/local-cli/plugin/eslint.js" />
       <jump line="20" column="31" filename="$USER_HOME$/Projects/UnPourTous/trident/scripts/test-manual-e2e.sh" />
+      <jump line="160" column="52" filename="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/android/app/build.gradle" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -413,11 +421,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGVsbFw+</text>
