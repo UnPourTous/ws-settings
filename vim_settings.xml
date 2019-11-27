@@ -54,6 +54,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="153" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-cli/index.js" timestamp="1574828464701" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/jest.setup.js" timestamp="1574823318382">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -175,11 +176,11 @@
         <mark key="]" line="134" column="42" />
         <mark key="." line="134" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/scripts/test-manual-e2e.sh" timestamp="1574824751989">
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="38" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/scripts/test-manual-e2e.sh" timestamp="1574828485180">
+        <mark key="[" line="33" column="107" />
+        <mark key="]" line="33" column="110" />
+        <mark key="^" line="33" column="110" />
+        <mark key="." line="33" column="110" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/lib/WeTouchable.js" timestamp="1574825936464" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/.npmignore" timestamp="1574825774764">
