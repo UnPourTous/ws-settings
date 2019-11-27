@@ -38,7 +38,7 @@
         <mark key="^" line="160" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1574835052756">
-        <mark key="'" line="15" column="9" />
+        <mark key="'" line="6" column="9" />
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
@@ -203,12 +203,6 @@
         <mark key="]" line="13" column="53" />
         <mark key="." line="13" column="53" />
         <mark key="^" line="13" column="53" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/run/index.js" timestamp="1574750021535">
-        <mark key="'" line="8" column="71" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/index.js" timestamp="1574768747138">
         <mark key="'" line="88" column="8" />
