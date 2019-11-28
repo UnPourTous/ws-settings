@@ -6,12 +6,6 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1574863615962">
-        <mark key="[" line="7" column="36" />
-        <mark key="]" line="7" column="46" />
-        <mark key="." line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1574734897117">
         <mark key="[" line="31" column="4" />
         <mark key="]" line="31" column="3" />
@@ -74,11 +68,7 @@
         <mark key="." line="18" column="5" />
         <mark key="^" line="18" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/codeEdit.js" timestamp="1574755827919">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-cli/env/index.js" timestamp="1574936078127" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/android/app/build.gradle" timestamp="1574742347875">
         <mark key="'" line="160" column="52" />
         <mark key="[" line="160" column="52" />
@@ -139,11 +129,6 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/jest.setup.js" timestamp="1574823318382">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" timestamp="1574863880177">
         <mark key="'" line="184" column="23" />
         <mark key="[" line="209" column="0" />
@@ -197,6 +182,12 @@
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/navigation.md" timestamp="1574936376237">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/README.md" timestamp="1574762747540">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -208,11 +199,6 @@
         <mark key="]" line="25" column="24" />
         <mark key="^" line="25" column="24" />
         <mark key="." line="25" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/lib/WeTouchable.js" timestamp="1574845993043">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/gen/AppNavigatorDSTGenarator.js" timestamp="1574768753414">
         <mark key="[" line="5" column="0" />
@@ -234,22 +220,12 @@
         <mark key="." line="24" column="46" />
         <mark key="^" line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1574762349658">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1574935876794">
         <mark key="'" line="27" column="33" />
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="10" />
-        <mark key="." line="27" column="10" />
-        <mark key="^" line="27" column="10" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/.tridentTemp/WeBookStore/README.md" timestamp="1574762653381">
-        <mark key="[" line="20" column="43" />
-        <mark key="]" line="20" column="43" />
-        <mark key="." line="20" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/state-management.md" timestamp="1574846604894">
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
+        <mark key="[" line="11" column="71" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
+        <mark key="^" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/release-ios.md" timestamp="1574863912281">
         <mark key="'" line="4" column="0" />
@@ -326,11 +302,6 @@
         <mark key="]" line="132" column="11" />
         <mark key="." line="132" column="11" />
         <mark key="^" line="132" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/api/AppNavigator.md" timestamp="1574859573690">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/NetworkScene.js" timestamp="1574847138027">
         <mark key="'" line="23" column="0" />
@@ -506,10 +477,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>航</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>航</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxLZXlib2FyZEF2b2lkaW5nVmlld1w+</text>
