@@ -25,9 +25,12 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example-tab/TabContainerScene/tabs/HomeTab/HomeTab.js" timestamp="1574954495839">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example-tab/TabContainerScene/tabs/HomeTab/HomeTab.js" timestamp="1574958760730">
         <mark key="'" line="7" column="30" />
-        <mark key="^" line="7" column="35" />
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/PluginStoreScene/PluginStoreScene.js" timestamp="1574951632712">
         <mark key="'" line="13" column="0" />
@@ -57,10 +60,10 @@
         <mark key="." line="77" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/SettingTab/SettingTab.js" timestamp="1574953397708">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="7" column="27" />
-        <mark key="." line="9" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1574926836471">
         <mark key="'" line="23" column="0" />
@@ -127,7 +130,8 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/HomeTab/HomeTab.js" timestamp="1574956354870">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/HomeTab/HomeTab.js" timestamp="1574958771851">
+        <mark key="'" line="24" column="17" />
         <mark key="[" line="8" column="47" />
         <mark key="]" line="8" column="47" />
         <mark key="^" line="5" column="23" />
@@ -353,7 +357,6 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1574946666387" />
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/APIClient.md" />
       <jump line="6" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/APIClient.md" />
       <jump line="15" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/APIClient.md" />
       <jump line="17" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/website/sidebars.json" />
@@ -453,6 +456,7 @@
       <jump line="22" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/library/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/APIClient.js" />
       <jump line="51" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/dimens.js" />
+      <jump line="24" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/HomeTab/HomeTab.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -476,10 +480,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/trident-ui</text>
+        <text encoding="base64">QnV0dG9uLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>/trident-ui</text>
+        <text encoding="base64">QnV0dG9uLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcHBOYXZpZ2F0b3JcPg==</text>
