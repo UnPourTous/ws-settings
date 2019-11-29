@@ -12,11 +12,11 @@
         <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1574945300775">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="3" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/package.json" timestamp="1575023228231">
+        <mark key="[" line="41" column="20" />
+        <mark key="]" line="42" column="0" />
         <mark key="^" line="31" column="3" />
-        <mark key="." line="31" column="3" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavigationScene/NavigationScene.js" timestamp="1574951577614">
         <mark key="'" line="11" column="52" />
@@ -186,6 +186,12 @@
         <mark key="." line="187" column="22" />
         <mark key="^" line="187" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1575023235364">
+        <mark key="[" line="58" column="20" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="57" column="31" />
+        <mark key="." line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example-tab/TabContainerScene/tabs/SettingTab/SettingTab.js" timestamp="1574953454748">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -291,10 +297,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1574942223720">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/package.json" timestamp="1575023244059">
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
         <mark key="^" line="17" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/qualityTools/SceneTraversal.js" timestamp="1574956297964">
@@ -336,9 +342,6 @@
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
         <mark key="^" line="10" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1574955610196">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/HomeTab/index.js" timestamp="1574954938867">
         <mark key="[" line="7" column="20" />
@@ -499,7 +502,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">fCBtYXRjaCB8IFJlZ0V4cCB8IOeUqOS6juWMuemFjVVSTOeahOato+WIme+8jOehruS/neWPquaciea7oei2s+inhOWImeeahOivt+axguaJjeS8mua3u+WKoOWvueW6lOeahEhlYWRlcgo=</text>
+        <text encoding="base64">ICAgICJ1cmwtc2VhcmNoLXBhcmFtcyI6ICIxLjEuMCIK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -511,31 +514,31 @@
         <text encoding="base64">aW1wb3J0IHsgV2VCYXNlU2NlbmUsIEJ1dHRvbiwgZGltZW5zIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fCBtYXRjaCB8IFJlZ0V4cCB8IOeUqOS6juWMuemFjVVSTOeahOato+WIme+8jOehruS/neWPquaciea7oei2s+inhOWImeeahOivt+axguaJjeS8mua3u+WKoOWvueW6lOeahEhlYWRlcgo=</text>
+        <text encoding="base64">ICAgICJ1cmwtc2VhcmNoLXBhcmFtcyI6ICIxLjEuMCIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
+        <text encoding="base64">ICAgICJ1cmwtc2VhcmNoLXBhcmFtcyI6ICIxLjEuMCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ1cmwtc2VhcmNoLXBhcmFtcyI6ICIxLjEuMCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgXSwK</text>
+        <text encoding="base64">fCBtYXRjaCB8IFJlZ0V4cCB8IOeUqOS6juWMuemFjVVSTOeahOato+WIme+8jOehruS/neWPquaciea7oei2s+inhOWImeeahOivt+axguaJjeS8mua3u+WKoOWvueW6lOeahEhlYWRlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBwTmF2aWdhdG9yIH0gZnJvbSAnQHdlYmFuay90cmlkZW50Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIm1vZHVsZTptZXRyby1yZWFjdC1uYXRpdmUtYmFiZWwtcHJlc2V0Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kdWxlOm1ldHJvLXJlYWN0LW5hdGl2ZS1iYWJlbC1wcmVzZXQiCg==</text>
+        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIm1vZHVsZTptZXRyby1yZWFjdC1uYXRpdmUtYmFiZWwtcHJlc2V0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
