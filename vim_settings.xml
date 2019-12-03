@@ -191,7 +191,8 @@
         <mark key="^" line="47" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-highcharts/package.json" timestamp="1575190403642" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1575000499609">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1575364337890">
+        <mark key="'" line="3" column="22" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="0" column="70" />
@@ -296,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/TridentApp.md" />
       <jump line="19" column="15" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/TridentApp.md" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/TridentApp.md" />
       <jump line="87" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
@@ -396,6 +396,7 @@
       <jump line="313" column="1" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" />
       <jump line="49" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/HistoryTab.js" />
       <jump line="191" column="30" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
+      <jump line="7" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -418,8 +419,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Small</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gbW9ja2FibGUgKGIpIHsKCn0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>Small</text>
@@ -431,31 +432,31 @@
         <text encoding="base64">ICAgICAgICAgIHBhZGRpbmdIb3Jpem9udGFsOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogVGhlbWUuU2l6ZS5zcGFjZVhNaWRkbGUsCg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gbW9ja2FibGUgKGIpIHsKCn0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogVGhlbWUuU2l6ZS5zcGFjZVhNaWRkbGUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBUaGVtZS5TaXplLnJvd0hlaWdodE1pZGRsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBUaGVtZS5TaXplLnJvd0hlaWdodE1pZGRsZQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFRoZW1lLlNpemUuc3BhY2VYTWlkZGxlLAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHN0eWxlPXt7CiAgICAgICAgICAgIH19</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2ZsZXgtc3RhcnQnLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
