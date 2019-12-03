@@ -34,12 +34,12 @@
         <mark key="." line="74" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1575184170656" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1575379253901">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="11" />
-        <mark key="^" line="15" column="18" />
-        <mark key="." line="15" column="11" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1575381742036">
+        <mark key="'" line="21" column="17" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="18" />
+        <mark key="^" line="8" column="18" />
+        <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1575187063143" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" timestamp="1575195126739">
@@ -124,7 +124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/api/TridentApp.md" />
       <jump line="213" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" />
       <jump line="208" column="1" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" />
@@ -224,6 +223,7 @@
       <jump line="7" column="22" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" />
       <jump line="11" column="38" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" />
       <jump line="73" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" />
+      <jump line="21" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -247,43 +247,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>books</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>books</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhZGRpbmdIb3Jpem9udGFsOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
+        <text encoding="base64">ICAgIHVybDogJy9ib29rcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbW9ja2FibGUgKGIpIHsKCn0KCg==</text>
+        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogVGhlbWUuU2l6ZS5zcGFjZVhNaWRkbGUsCg==</text>
+        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywK</text>
+        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
+        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBUaGVtZS5TaXplLnJvd0hlaWdodE1pZGRsZQo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gbW9ja2FibGUgKGIpIHsKCn0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFRoZW1lLlNpemUuc3BhY2VYTWlkZGxlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogVGhlbWUuU2l6ZS5zcGFjZVhNaWRkbGUsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHN0eWxlPXt7CiAgICAgICAgICAgIH19</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmbGV4RGlyZWN0aW9uOiAncm93JywKICAgICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2ZsZXgtc3RhcnQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBUaGVtZS5TaXplLnJvd0hlaWdodE1pZGRsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
