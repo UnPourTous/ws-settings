@@ -36,8 +36,8 @@
         <mark key="." line="8" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1575187063143" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1575431385161">
-        <mark key="'" line="0" column="7" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" timestamp="1575433866380">
+        <mark key="'" line="19" column="17" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -85,12 +85,26 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/components/NetValueChart.js" timestamp="1575190722778" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/components/CSLButton.js" timestamp="1575193962569" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1575431377539" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/config/defaultNavigationConfig.js" timestamp="1575434067679">
+        <mark key="'" line="23" column="3" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="116" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1575433643391">
+        <mark key="'" line="26" column="6" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1575183890553">
         <mark key="[" line="484" column="4" />
         <mark key="]" line="484" column="3" />
         <mark key="." line="484" column="3" />
         <mark key="^" line="484" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" timestamp="1575434107715">
+        <mark key="'" line="8" column="89" />
+        <mark key="[" line="49" column="58" />
+        <mark key="]" line="49" column="64" />
+        <mark key="." line="49" column="64" />
+        <mark key="^" line="49" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/HistoryTab.js" timestamp="1575195247337">
         <mark key="'" line="49" column="10" />
@@ -134,12 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="23" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" />
-      <jump line="12" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/release-ios.md" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/release-ios.md" />
-      <jump line="7" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/docs/release-android.md" />
-      <jump line="10" column="24" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" />
       <jump line="33" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Demo.js" />
       <jump line="30" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Demo.js" />
       <jump line="6" column="45" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/Demo.js" />
@@ -234,6 +242,12 @@
       <jump line="168" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-navigation/src/views/CardStack/CardStackStyleInterpolator.js" />
       <jump line="11" column="26" filename="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" />
       <jump line="0" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" />
+      <jump line="40" column="14" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" />
+      <jump line="26" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" />
+      <jump line="19" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/library/config/defaultNavigationConfig.js" />
+      <jump line="23" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/config/defaultNavigationConfig.js" />
+      <jump line="50" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
+      <jump line="8" column="89" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -257,16 +271,16 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXJkU3RhY2tTdHlsZUludGVycG9sYXRvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybDogJy9ib29rcycsCg==</text>
+        <text encoding="base64">aW1wb3J0IENhcmRTdGFja1N0eWxlSW50ZXJwb2xhdG9yIGZyb20gJ0B1bnBvdXJ0b3VzL3JlYWN0LW5hdmlnYXRpb24vc3JjL3ZpZXdzL0NhcmRTdGFjay9DYXJkU3RhY2tTdHlsZUludGVycG9sYXRvcicK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
@@ -310,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXBsYWNlSW5GaWxlXD4=</entry>
         <entry encoding="base64">XDxzaGVsbFw+</entry>
         <entry encoding="base64">XDxnZXRJbnN0YWxsUGFja2FnZVw+</entry>
         <entry encoding="base64">XDxfZ2VuZXJhdG9yU2NlbmVcPg==</entry>
@@ -329,6 +342,7 @@
         <entry encoding="base64">XDxjb2xvclw+</entry>
         <entry encoding="base64">XDxGbGF0TGlzdFw+</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDx0b29iYXJIZWlnaHRcPg==</entry>
         <entry encoding="base64">XDxDYXJkU3RhY2tTdHlsZUludGVycG9sYXRvclw+</entry>
       </history-search>
       <history-cmd>
