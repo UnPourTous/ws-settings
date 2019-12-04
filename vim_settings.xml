@@ -34,7 +34,7 @@
         <mark key="." line="74" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1575184170656" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1575381742036">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NetworkScene/cgi/CGI.js" timestamp="1575429357276">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="18" />
@@ -54,6 +54,11 @@
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/getting-started.md" timestamp="1575429366009">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="36" />
+        <mark key="." line="62" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/node_modules/react-native-tab-view/src/TabView.js" timestamp="1575192499460" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/library/network/APIClient.server.js" timestamp="1575372853301" />
@@ -247,10 +252,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>books</text>
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>books</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25zXD4=</text>
