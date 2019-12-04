@@ -7,12 +7,17 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGrid.js" timestamp="1575183894352" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" timestamp="1575193814941" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1575196459860">
-        <mark key="[" line="165" column="20" />
-        <mark key="]" line="165" column="26" />
-        <mark key="^" line="165" column="26" />
-        <mark key="." line="165" column="26" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" timestamp="1575438053925">
+        <mark key="[" line="225" column="28" />
+        <mark key="]" line="226" column="22" />
+        <mark key="." line="226" column="22" />
+        <mark key="^" line="226" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/HistoryTabBody.js" timestamp="1575438029236">
+        <mark key="[" line="186" column="28" />
+        <mark key="]" line="187" column="22" />
+        <mark key="^" line="187" column="22" />
+        <mark key="." line="187" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/ios/build/Build/Intermediates.noindex/RNGestureHandler.build/Debug-iphonesimulator/RNGestureHandler.build/Objects-normal/x86_64/RNPinchHandler.d" timestamp="1575353459727">
         <mark key="[" line="3" column="2" />
@@ -90,6 +95,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="116" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/MainTab.js" timestamp="1575437613226">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="42" column="6" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1575433643391">
         <mark key="'" line="26" column="6" />
       </file>
@@ -134,12 +145,12 @@
         <mark key="^" line="39" column="7" />
         <mark key="." line="39" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1575195774542">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/GrowingTabBody.js" timestamp="1575437865972">
         <mark key="'" line="313" column="1" />
-        <mark key="[" line="146" column="29" />
-        <mark key="]" line="146" column="36" />
-        <mark key="." line="146" column="36" />
-        <mark key="^" line="146" column="36" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="51" />
+        <mark key="." line="159" column="0" />
+        <mark key="^" line="159" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/package.json" timestamp="1575193168097">
         <mark key="[" line="40" column="0" />
@@ -271,43 +282,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>标记完成</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>标记完成</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYXJkU3RhY2tTdHlsZUludGVycG9sYXRvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IENhcmRTdGFja1N0eWxlSW50ZXJwb2xhdG9yIGZyb20gJ0B1bnBvdXJ0b3VzL3JlYWN0LW5hdmlnYXRpb24vc3JjL3ZpZXdzL0NhcmRTdGFjay9DYXJkU3RhY2tTdHlsZUludGVycG9sYXRvcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luVmVydGljYWw6IFRoZW1lLlNpemUuc3BhY2VNaWRkbGUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybDogJy92Mi81ZGM5NjQ2MzJmMDAwMDc2MDA3M2VjNGInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gbW9ja2FibGUgKGIpIHsKCn0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogVGhlbWUuU2l6ZS5zcGFjZVhNaWRkbGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmxleERpcmVjdGlvbjogJ3JvdycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZENvbG9yOiAncmVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nOiBUaGVtZS5TaXplLnNwYWNlWE1pZGRsZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiBUaGVtZS5TaXplLnJvd0hlaWdodE1pZGRsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
