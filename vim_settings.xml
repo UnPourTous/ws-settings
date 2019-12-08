@@ -19,10 +19,11 @@
         <mark key="." line="13" column="6" />
         <mark key="^" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/button/NavBackButton.js" timestamp="1575510320215">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/button/NavBackButton.js" timestamp="1575785293011">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="26" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/values/pro.js" timestamp="1575546453301">
         <mark key="[" line="143" column="0" />
@@ -43,7 +44,7 @@
         <mark key="." line="267" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/UIScene.js" timestamp="1575535088741" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/RecordEditBody.js" timestamp="1575781884131">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/RecordEditBody.js" timestamp="1575784930673">
         <mark key="'" line="37" column="6" />
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="35" />
@@ -116,12 +117,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="6" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1575693119696">
-        <mark key="'" line="202" column="27" />
-        <mark key="[" line="191" column="4" />
-        <mark key="]" line="191" column="3" />
-        <mark key="^" line="191" column="3" />
-        <mark key="." line="191" column="3" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" timestamp="1575784910948">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="127" column="29" />
+        <mark key="]" line="127" column="29" />
+        <mark key="^" line="123" column="34" />
+        <mark key="." line="127" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/index.js" timestamp="1575532360270">
         <mark key="'" line="1" column="54" />
@@ -165,9 +166,6 @@
         <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/uiComponent/Theme.js" timestamp="1575528571304" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/models/History.js" timestamp="1575691270080">
-        <mark key="'" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Colors.js" timestamp="1575782253618">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="19" />
@@ -240,17 +238,11 @@
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/navigation/ModuleManager.js" timestamp="1574954630209">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/recordBox/WeightInput.js" timestamp="1575780177971">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="47" />
         <mark key="." line="33" column="45" />
         <mark key="^" line="33" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/dimens.js" timestamp="1574956234417">
-        <mark key="'" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/index.js" timestamp="1575529313778">
         <mark key="'" line="2" column="0" />
@@ -265,23 +257,17 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/utils/Device.js" timestamp="1575440101221">
-        <mark key="'" line="21" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1575541645284">
         <mark key="[" line="12" column="30" />
         <mark key="]" line="12" column="30" />
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/library/index.js" timestamp="1575531806658">
-        <mark key="'" line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1575510361513">
-        <mark key="[" line="65" column="40" />
-        <mark key="]" line="65" column="41" />
-        <mark key="." line="65" column="41" />
-        <mark key="^" line="65" column="41" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1575785230675">
+        <mark key="[" line="65" column="61" />
+        <mark key="]" line="65" column="66" />
+        <mark key="." line="65" column="66" />
+        <mark key="^" line="65" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1575778747972">
         <mark key="'" line="79" column="0" />
@@ -299,9 +285,6 @@
         <mark key="^" line="28" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" timestamp="1575509987691" />
-      <file name="$USER_HOME$/Projects/chanshila/app/node_modules/@unpourtous/react-native-search-list/library/SearchList.js" timestamp="1575440041944">
-        <mark key="'" line="452" column="58" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tridentPluginWebView/services/WebViewService.js" timestamp="1575531235782">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -362,9 +345,6 @@
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1575433643391">
-        <mark key="'" line="26" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/index.js" timestamp="1575530717112">
         <mark key="[" line="12" column="0" />
@@ -454,9 +434,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-navigation/src/views/CardStack/CardStackStyleInterpolator.js" timestamp="1575431373596">
-        <mark key="'" line="168" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/PetTab.js" timestamp="1575509086223">
         <mark key="[" line="70" column="49" />
         <mark key="]" line="70" column="50" />
@@ -517,7 +494,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/index.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/index.js" />
       <jump line="1" column="54" filename="$USER_HOME$/Projects/UnPourTous/trident/library/network/index.js" />
       <jump line="27" column="24" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
@@ -617,6 +593,7 @@
       <jump line="51" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="196" column="6" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="21" column="10" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/recordBox/RecordDatePicker.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -639,11 +616,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Color.Palette.white</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nTGVmdDogMzAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Color.Palette.white</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoaXN0b3J5VG9FZGl0XD4=</text>
@@ -652,31 +629,31 @@
         <text encoding="base64">ICAgIHRoaXMucmVmcmVzaFBldERldGFpbERhdGEoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nTGVmdDogMzAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgUGFyc2UgPSByZXF1aXJlKCdwYXJzZS9yZWFjdC1uYXRpdmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwYWRkaW5nUmlnaHQ6IDE1LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFJlY29yZFR5cGUgZnJvbSAnLi4vY29uc3RhbnRzL1JlY29yZFR5cGUnCmltcG9ydCB7IEhpc3RvcnkgfSBmcm9tICcuLi9tb2RlbHMnCmltcG9ydCB7IEN1c3RvbVJlY29yZCB9IGZyb20gJy4uL21vZGVscy9DdXN0b21SZWNvcmQnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBoZWlnaHQ6IDI0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBwZXQgfSA9IHRoaXMucGFyYW1zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDI0LAogICAgICAgICAgaGVpZ2h0OiAyNCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3IuZ29CYWNrKCkK</text>
+        <text encoding="base64">ICBUb2FzdCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21SZWNvcmQuc2V0KCdmaW5pc2hEYXRlJywgZGF0ZS50b0RhdGUoKSkKICAgICAgICBjdXN0b21SZWNvcmQuc2V0KCdyZW1hcmsnLCByZW1hcmspCiAgICAgICAgd2VpZ2h0ICYmIGN1c3RvbVJlY29yZC5zZXQoJ3dlaWdodCcsIHdlaWdodCkKICAgICAgICBxaXRhVGl0bGUgJiYgY3VzdG9tUmVjb3JkLnNldCgncWl0YVRpdGxlJywgcWl0YVRpdGxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8g5Y+v5Lul55CG6Kej5Li65piv5YiG57uELCDkvovlpoLvvIzmiJDplb/lkozlvILluLgKICAgICAgY3VzdG9tUmVjb3JkLnNldCgncmVjb3JkVHlwZScsIHJlY29yZEl0ZW0ucmF3LmN1c3RvbVJlY29yZFR5cGUpCiAgICAgIC8vIOivpue7huWIsOexu+WeiwogICAgICBjdXN0b21SZWNvcmQuc2V0KCdkZXRhaWxUeXBlJywgcmVjb3JkSXRlbS52YWx1ZSkKICAgICAgY3VzdG9tUmVjb3JkLnNldCgncGV0JywgcGV0KQogICAgICBjdXN0b21SZWNvcmQuc2V0KCd1c2VyJywgUGFyc2UuVXNlci5jdXJyZW50KCkpCg==</text>
+        <text encoding="base64">Y29uc3QgUGFyc2UgPSByZXF1aXJlKCdwYXJzZS9yZWFjdC1uYXRpdmUnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IExvYWRpbmcgZnJvbSAnYXBwcy9tYWluL2JpekNvbXBvbmVudHMvcG9wdXAvTG9hZGluZycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ3VzdG9tUmVjb3JkIH0gZnJvbSAnLi4vbW9kZWxzL0N1c3RvbVJlY29yZCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -731,9 +708,9 @@
         <entry>lw</entry>
         <entry>w':w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w:w</entry>
         <entry>Lw</entry>
         <entry>q</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
