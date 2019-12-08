@@ -59,11 +59,12 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" timestamp="1575790060844">
-        <mark key="[" line="225" column="28" />
-        <mark key="]" line="226" column="22" />
-        <mark key="." line="226" column="22" />
-        <mark key="^" line="226" column="22" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" timestamp="1575791592996">
+        <mark key="'" line="159" column="19" />
+        <mark key="[" line="159" column="82" />
+        <mark key="]" line="159" column="84" />
+        <mark key="." line="159" column="84" />
+        <mark key="^" line="159" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/popup/ActionGridItem.js" timestamp="1575510568499">
         <mark key="'" line="44" column="27" />
@@ -181,11 +182,11 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1575790033232">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="26" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/HomeScene.js" timestamp="1575791045373">
+        <mark key="[" line="233" column="25" />
+        <mark key="]" line="233" column="25" />
+        <mark key="." line="233" column="25" />
+        <mark key="^" line="232" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/HomeTab/HomeTab.js" timestamp="1575531177951">
         <mark key="[" line="9" column="0" />
@@ -266,12 +267,13 @@
         <mark key="." line="12" column="30" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1575790131788" />
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1575788347175">
-        <mark key="[" line="70" column="38" />
-        <mark key="]" line="71" column="43" />
-        <mark key="." line="71" column="43" />
-        <mark key="^" line="71" column="43" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1575791006260" />
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" timestamp="1575791794526">
+        <mark key="'" line="71" column="13" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="68" column="37" />
+        <mark key="^" line="68" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1575778747972">
         <mark key="'" line="79" column="0" />
@@ -300,6 +302,12 @@
         <mark key="]" line="1" column="38" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AdvanceSettingScene/AdvanceSettingScene.js" timestamp="1575791711239">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="55" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/gold/GoldMoreDetailScene/GoldMoreDetailScene.js" timestamp="1575531668574">
         <mark key="'" line="22" column="51" />
@@ -429,8 +437,9 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/PetTab.js" timestamp="1575509086223">
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/PetTab.js" timestamp="1575791703522">
         <mark key="[" line="70" column="49" />
+        <mark key="k" line="119" column="23" />
         <mark key="]" line="70" column="50" />
         <mark key="." line="70" column="50" />
         <mark key="^" line="70" column="50" />
@@ -489,8 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/button/Button.js" />
-      <jump line="24" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/index.js" />
       <jump line="68" column="18" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/button/Button.js" />
       <jump line="24" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/button/Button.js" />
       <jump line="28" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/button/Button.js" />
@@ -589,6 +596,8 @@
       <jump line="166" column="23" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/PetDetailScene.js" />
       <jump line="138" column="18" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
       <jump line="27" column="7" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/AddRecordScene.js" />
+      <jump line="159" column="19" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/RemindCard/index.js" />
+      <jump line="73" column="13" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/navigation/WeNavigator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -612,63 +621,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3Byb3BzID0gcHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfXD4=</text>
+        <text encoding="base64">XDxzY2VuZURldGFpbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuY2hhbmdlVGFiKDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3Byb3BzID0gcHJvcHMK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoXy5nZXQocmVjb3JkSXRlbSwgJ3Jhdy5jdXN0b21SZWNvcmRUeXBlJykgPT09IEN1c3RvbVJlY29yZFR5cGUud2VpZ2h0KSB7CiAgICAgICAgICAgICAgICB0aGlzLnByb3BzLmNoYW5nZVRhYigxKQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aGlzLnByb3BzLmNoYW5nZVRhYigxKQogICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbVJlY29yZFR5cGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuY2hhbmdlVGFiKDEpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRQYXJhbXMoewogICAgICAgIGhlYWRlclJpZ2h0OiBpbmRleCA9PT0gMSA/IDxWaWV3CiAgICAgICAgICBzdHlsZT17W3sKICAgICAgICAgICAgcGFkZGluZ0hvcml6b250YWw6IFRoZW1lLlNpemUuc3BhY2VNaWRkbGUsCiAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicKICAgICAgICAgIH1dfT4KICAgICAgICAgIDxXZVRvdWNoYWJsZQogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgICAgYWxpZ25TZWxmOiAnc3RyZXRjaCcsCiAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInCiAgICAgICAgICAgIH19CiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IEFwcE5hdmlnYXRvci5wZXQuRWRpdFBldFNjZW5lKCl9PgogICAgICAgICAgICA8VGV4dAogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogVGhlbWUuU2l6ZS5zcGFjZU1pZGRsZSwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiBUaGVtZS5TaXplLmZvbnRNaWRkbGUsCiAgICAgICAgICAgICAgICBjb2xvcjogJyNGRkYnCiAgICAgICAgICAgICAgfX0+5re75YqgPC9UZXh0PgogICAgICAgICAgPC9XZVRvdWNoYWJsZT4KICAgICAgICA8L1ZpZXc+IDogbnVsbAogICAgICB9KQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5zZXRQYXJhbXMoewogICAgICAgIGhlYWRlclJpZ2h0OiBpbmRleCA9PT0gMSA/IDxWaWV3CiAgICAgICAgICBzdHlsZT17W3sKICAgICAgICAgICAgcGFkZGluZ0hvcml6b250YWw6IFRoZW1lLlNpemUuc3BhY2VNaWRkbGUsCiAgICAgICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicKICAgICAgICAgIH1dfT4KICAgICAgICAgIDxXZVRvdWNoYWJsZQogICAgICAgICAgICBzdHlsZT17ewogICAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgICAgYWxpZ25TZWxmOiAnc3RyZXRjaCcsCiAgICAgICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICAgICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInCiAgICAgICAgICAgIH19CiAgICAgICAgICAgIG9uUHJlc3M9eygpID0+IEFwcE5hdmlnYXRvci5wZXQuRWRpdFBldFNjZW5lKCl9PgogICAgICAgICAgICA8VGV4dAogICAgICAgICAgICAgIHN0eWxlPXt7CiAgICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogVGhlbWUuU2l6ZS5zcGFjZU1pZGRsZSwKICAgICAgICAgICAgICAgIGZvbnRTaXplOiBUaGVtZS5TaXplLmZvbnRNaWRkbGUsCiAgICAgICAgICAgICAgICBjb2xvcjogJyNGRkYnCiAgICAgICAgICAgICAgfX0+5re75YqgPC9UZXh0PgogICAgICAgICAgPC9XZVRvdWNoYWJsZT4KICAgICAgICA8L1ZpZXc+IDogbnVsbAogICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX3Byb3BzID0gcHJvcHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnByb3BzLmNoYW5nZVRhYih7CgogICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoXy5nZXQocmVjb3JkSXRlbSwgJ3Jhdy5jdXN0b21SZWNvcmRUeXBlJykgPT09IEN1c3RvbVJlY29yZFR5cGUud2VpZ2h0KSB7CiAgICAgICAgICAgICAgICB0aGlzLnByb3BzLmNoYW5nZVRhYigxKQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICB0aGlzLnByb3BzLmNoYW5nZVRhYigxKQogICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN1c3RvbVJlY29yZFR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0ucmF3KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMucHJvcHMuY2hhbmdlVGFiKDEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfXD4=</last-search>
+      <last-search encoding="base64">XDxzY2VuZURldGFpbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzY2VuZURldGFpbFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZVdpdGhJY29uXD4=</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxJbWFnZVw+</entry>
         <entry encoding="base64">XDxSZWNvcmRFZGl0Qm9keVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVDdXN0b21SZWNvcmRCeVBldFw+</entry>
@@ -687,6 +692,8 @@
         <entry encoding="base64">XDxwbGFuSW5zdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxwZXRcPg==</entry>
         <entry encoding="base64">XDxfXD4=</entry>
+        <entry encoding="base64">XDxEYXRlVXRpbHNcPg==</entry>
+        <entry encoding="base64">XDxzY2VuZURldGFpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>103</entry>
