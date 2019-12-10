@@ -507,12 +507,12 @@
         <mark key="." line="37" column="109" />
         <mark key="^" line="37" column="109" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/TridentUIDemo.js" timestamp="1575896041415">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/ui/UIScene/components/TridentUIDemo.js" timestamp="1575945312901">
         <mark key="'" line="245" column="58" />
-        <mark key="[" line="143" column="21" />
-        <mark key="]" line="143" column="22" />
-        <mark key="^" line="143" column="22" />
-        <mark key="." line="143" column="22" />
+        <mark key="[" line="170" column="30" />
+        <mark key="]" line="170" column="30" />
+        <mark key="^" line="170" column="30" />
+        <mark key="." line="170" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/AddRecordScene/components/recordBox/RecordDatePicker.js" timestamp="1575780922798">
         <mark key="'" line="21" column="10" />
@@ -773,10 +773,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>告</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>告</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWFkZXJJdGVtXD4=</text>
