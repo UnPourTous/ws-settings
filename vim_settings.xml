@@ -565,6 +565,12 @@
         <mark key="^" line="3" column="34" />
         <mark key="." line="3" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1575958624352">
+        <mark key="[" line="41" column="32" />
+        <mark key="]" line="41" column="35" />
+        <mark key="^" line="41" column="35" />
+        <mark key="." line="41" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/UITab/UITab.js" timestamp="1575950819370">
         <mark key="[" line="16" column="27" />
         <mark key="]" line="16" column="26" />
@@ -777,11 +783,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCIuL3RhYkV4YW1wbGUiKS5kZWZhdWx0KCJ0YWJFeGFtcGxlIiksCg==</text>
+      <register name="&quot;" type="4">
+        <text>源码库</text>
       </register>
       <register name="-" type="4">
-        <text>SettingTab</text>
+        <text>源码库</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXR0aW5nVGFiXD4=</text>
