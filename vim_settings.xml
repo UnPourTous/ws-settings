@@ -353,11 +353,10 @@
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeableComponent.js" timestamp="1575890625928">
-        <mark key="'" line="44" column="13" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="19" column="8" />
-        <mark key="." line="43" column="0" />
+        <mark key="'" line="28" column="13" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/AboutTab.js" timestamp="1575793784644">
         <mark key="[" line="99" column="62" />
@@ -379,13 +378,6 @@
         <mark key="^" line="68" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/ext/WePropTypes.js" timestamp="1575880391156" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/checkbox/Checkbox.js" timestamp="1575891862322">
-        <mark key="'" line="16" column="5" />
-        <mark key="[" line="16" column="14" />
-        <mark key="]" line="16" column="15" />
-        <mark key="^" line="16" column="15" />
-        <mark key="." line="16" column="15" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/PetDetailScene/components/PlanTabBody.js" timestamp="1575778747972">
         <mark key="'" line="79" column="0" />
         <mark key="[" line="79" column="0" />
@@ -394,13 +386,6 @@
         <mark key="^" line="80" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/constants/RecordType.js" timestamp="1575692873773" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/index.js" timestamp="1575535417907">
-        <mark key="'" line="24" column="12" />
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="54" />
-        <mark key="^" line="28" column="54" />
-      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/Card.js" timestamp="1575509987691" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tridentPluginWebView/services/WebViewService.js" timestamp="1575531235782">
         <mark key="[" line="6" column="0" />
@@ -462,11 +447,10 @@
         <mark key="^" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" timestamp="1575895802019">
-        <mark key="'" line="85" column="55" />
-        <mark key="[" line="117" column="26" />
-        <mark key="]" line="117" column="25" />
-        <mark key="^" line="117" column="25" />
-        <mark key="." line="117" column="25" />
+        <mark key="[" line="111" column="26" />
+        <mark key="]" line="111" column="25" />
+        <mark key="^" line="111" column="25" />
+        <mark key="." line="111" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/Color.js" timestamp="1575895880725">
         <mark key="'" line="19" column="0" />
@@ -482,10 +466,10 @@
         <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/Dialog.js" timestamp="1575894087860">
-        <mark key="[" line="153" column="4" />
-        <mark key="]" line="153" column="2" />
-        <mark key="." line="153" column="2" />
-        <mark key="^" line="153" column="2" />
+        <mark key="[" line="168" column="4" />
+        <mark key="]" line="168" column="2" />
+        <mark key="." line="168" column="2" />
+        <mark key="^" line="168" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/HomeScene/components/MainTab.js" timestamp="1575508893016">
         <mark key="[" line="123" column="0" />
