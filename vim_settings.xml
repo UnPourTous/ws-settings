@@ -132,6 +132,13 @@
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/CONTRIBUTING.md" timestamp="1576059081435">
+        <mark key="'" line="156" column="5" />
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="38" />
+        <mark key="^" line="6" column="38" />
+        <mark key="." line="6" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/ios/Podfile" timestamp="1576049970887">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -361,7 +368,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1575960557093">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1576058523311">
         <mark key="[" line="41" column="83" />
         <mark key="]" line="41" column="81" />
         <mark key="^" line="41" column="81" />
