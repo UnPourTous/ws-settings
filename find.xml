@@ -13,5 +13,6 @@
     <mask>*.mxml</mask>
     <mask>Loading.js</mask>
     <mask>*.js</mask>
+    <mask>package.json</mask>
   </component>
 </application>
