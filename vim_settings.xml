@@ -114,11 +114,11 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1576069110520">
-        <mark key="[" line="26" column="15" />
-        <mark key="]" line="26" column="15" />
-        <mark key="^" line="26" column="15" />
-        <mark key="." line="26" column="15" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1576070415072">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="38" column="15" />
+        <mark key="^" line="38" column="15" />
+        <mark key="." line="38" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/run/index.js" timestamp="1576068114396">
         <mark key="'" line="8" column="2" />
@@ -147,6 +147,7 @@
         <mark key="^" line="33" column="34" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/website/node_modules/docusaurus/lib/server/config.js" timestamp="1576070328981" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/packager/index.js" timestamp="1576038597461">
         <mark key="'" line="16" column="4" />
         <mark key="[" line="4" column="0" />
@@ -278,11 +279,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFRvYXN0IGZyb20gJ0B3ZWJhbmsvdHJpZGVudC9saWJyYXJ5L3VpQ29tcG9uZW50L3BvcHVwL1RvYXN0Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>Makr</text>
       </register>
       <register name="-" type="4">
-        <text>/library/network/AxiosMocker</text>
+        <text>Makr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjUk5DbWRcPg==</text>
