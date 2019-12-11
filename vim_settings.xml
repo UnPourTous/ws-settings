@@ -102,12 +102,12 @@
         <mark key="." line="62" column="12" />
         <mark key="^" line="62" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-cli/index.js" timestamp="1576040307601">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-cli/index.js" timestamp="1576044370088">
         <mark key="'" line="167" column="9" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="75" column="30" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/WeBookStore/node_modules/@webank/trident/library/navigation/AppNavigator.js" timestamp="1575991781044">
         <mark key="[" line="296" column="13" />
@@ -917,43 +917,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAndmVyc2lvbic6CiAgICAgICAgcHJpbnRWZXJzaW9uc0FuZEV4aXQoKQogICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.option('init', 'init trident project', { executableFile: '' }).alias('i')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFZlcnNpb25zQW5kRXhpdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cmlkZW50OiBuL2EgLSBub3QgaW5zaWRlIGEgVHJpZGVudCBwcm9qZWN0IGRpcmVjdG9yeScpCg==</text>
+        <text encoding="base64">ICAvLy5jb21tYW5kKCdpbml0JywgJ2luaXQgdHJpZGVudCBwcm9qZWN0JywgeyBleGVjdXRhYmxlRmlsZTogJycgfSkuYWxpYXMoJ2knKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAndmVyc2lvbic6CiAgICAgICAgcHJpbnRWZXJzaW9uc0FuZEV4aXQoKQogICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkc2Zhc2RmICcpCg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAndmVyc2lvbic6CiAgICAgICAgcHJpbnRWZXJzaW9uc0FuZEV4aXQoKQogICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkc2Zhc2RmICcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpZGVudDogJyArIHZlcnNpb25JblBhY2thZ2UpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpZGVudDogJyArIHZlcnNpb25JblBhY2thZ2UpCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cmlkZW50OiAnICsgcmVxdWlyZShSRUFDVF9OQVRJVkVfUEFDS0FHRV9KU09OX1BBVEgoKSkudmVyc2lvbikK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpZGVudDogJyArIHZlcnNpb25JblBhY2thZ2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChSRUFDVF9OQVRJVkVfUEFDS0FHRV9KU09OX1BBVEgoKSkgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0cmlkZW50OiAnICsgcmVxdWlyZShSRUFDVF9OQVRJVkVfUEFDS0FHRV9KU09OX1BBVEgoKSkudmVyc2lvbikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChSRUFDVF9OQVRJVkVfUEFDS0FHRV9KU09OX1BBVEgoKSkgewogICAgICAKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
