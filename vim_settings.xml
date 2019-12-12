@@ -175,10 +175,10 @@
         <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/.npmignore" timestamp="1576116544914">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/utils/WePropTypes.js" timestamp="1575880585315">
         <mark key="[" line="20" column="22" />
@@ -381,6 +381,12 @@
         <mark key="]" line="372" column="17" />
         <mark key="." line="372" column="17" />
         <mark key="^" line="372" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-cli/env/index.js" timestamp="1576122067829">
+        <mark key="[" line="41" column="55" />
+        <mark key="]" line="41" column="54" />
+        <mark key="." line="41" column="54" />
+        <mark key="^" line="41" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/README.md" timestamp="1576118021582">
         <mark key="[" line="192" column="2" />
@@ -624,10 +630,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>hjdata@hjdata:/data/trident.webank.com/website</text>
+        <text>1.4.0</text>
       </register>
       <register name="-" type="4">
-        <text>hjdata@hjdata:/data/trident.webank.com/website</text>
+        <text>1.4.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjUk5DbWRcPg==</text>
