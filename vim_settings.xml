@@ -524,12 +524,12 @@
         <mark key="." line="47" column="5" />
         <mark key="^" line="47" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1576118221873">
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/README.md" timestamp="1576225349336">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="1" />
-        <mark key="." line="92" column="1" />
-        <mark key="^" line="92" column="1" />
+        <mark key="[" line="51" column="36" />
+        <mark key="]" line="51" column="36" />
+        <mark key="." line="51" column="36" />
+        <mark key="^" line="51" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/traversal/README.md" timestamp="1576222306895">
         <mark key="[" line="20" column="2" />
@@ -730,10 +730,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjUk5DbWRcPg==</text>
@@ -745,30 +745,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CuS9v+eUqOaWh+aho+ingSBb5b+r6YCf5byA5aeLXShodHRwczovL3dlYmFua2ZpbnRlY2guZ2l0aHViLmlvL1dlVHJpZGVudC9kb2NzL2dldHRpbmctc3RhcnRlZCkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">5qC55o2u5ZG95Luk6KGM5o+Q56S66L6T5YWl55u45bqU5L+h5oGv5p2l5Yib5bu66aG555uu77yM5aaC5p6c5piv6K+V6aqMZGVtb++8jOWPr+S7pei/nue7reWbnui9puS9v+eUqOm7mOiupOS/oeaBrwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">5L2/55So5paH5qGj6KeBIFvlv6vpgJ/lvIDlp4tdKGh0dHBzOi8vd2ViYW5rZmludGVjaC5naXRodWIuaW8vV2VUcmlkZW50L2RvY3MvZ2V0dGluZy1zdGFydGVkKQoK</text>
+        <text encoding="base64">5Lmf5Y+v5Lul55u05o6l6L6T5YWlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YXBwLXNlZWQvaW9zL1BvZGZpbGUubG9jawo=</text>
+        <text encoding="base64">dGR0IGluaXQK</text>
       </register>
-      <register name="6" type="4">
-        <text>, {
-      type: 'input',
-      message: '请输入远程调试端口(Please enter remote debug port):',
-      name: 'port',
-      default: 8082
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIyBgLS1wb3J0IFtudW1iZXJdYAoKPiBkZWZhdWx0OiA4MDgxCgrosIPor5Xnq6/lj6PjgIIK</text>
+        <text encoding="base64">CuS9v+eUqOaWh+aho+ingSBb5b+r6YCf5byA5aeLXShodHRwczovL3dlYmFua2ZpbnRlY2guZ2l0aHViLmlvL1dlVHJpZGVudC9kb2NzL2dldHRpbmctc3RhcnRlZCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
