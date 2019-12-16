@@ -86,6 +86,9 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1576493100725">
+        <mark key="'" line="37" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" timestamp="1576069098147">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -147,6 +150,12 @@
         <mark key="]" line="7" column="23" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/chanshila/server/cloud/schedule/tasks/dailyPushTaskGenTask.js" timestamp="1576493001161">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/polyfills/index.js" timestamp="1575537536171">
         <mark key="[" line="1" column="38" />
@@ -640,7 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="8" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
       <jump line="39" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
@@ -740,6 +748,7 @@
       <jump line="29" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
+      <jump line="37" column="27" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
