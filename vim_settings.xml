@@ -239,6 +239,13 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" timestamp="1576485743576">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="41" />
+        <mark key="^" line="5" column="41" />
+        <mark key="." line="5" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1576335804944">
         <mark key="[" line="169" column="23" />
         <mark key="]" line="169" column="44" />
@@ -518,6 +525,14 @@
         <mark key="." line="57" column="36" />
         <mark key="^" line="57" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/TridentStat.js" timestamp="1576485738196">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/AppNavigator.md" timestamp="1576485583535" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/run/index.js" timestamp="1576068114396">
         <mark key="'" line="8" column="2" />
         <mark key="[" line="8" column="76" />
@@ -625,11 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="7" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/index.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/container/AppContainer.js" />
-      <jump line="9" column="11" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/index.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="100" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/TridentApp.js" />
       <jump line="8" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
       <jump line="39" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/ThemeProvider.js" />
@@ -725,6 +735,11 @@
       <jump line="27" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
       <jump line="35" column="4" filename="$USER_HOME$/Projects/chanshila/app/src/apps/main/values/Theme.js" />
       <jump line="9" column="14" filename="$USER_HOME$/Projects/UnPourTous/trident/README.md" />
+      <jump line="3" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/TridentStat.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
+      <jump line="29" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -748,10 +763,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>360</text>
+        <text>）</text>
       </register>
       <register name="-" type="4">
-        <text>360</text>
+        <text>）</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjUk5DbWRcPg==</text>
@@ -760,7 +775,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiBUaGVtZS5Db2xvci5sYWJlbAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VHJpZGVudEFwcOS4reWujOaIkOS6hlRyaWRlbnTnmoTkuLvopoHlip/og73vvIzlr7zoiKrlkoznirbmgIHmlbDmja7nrqHnkIbpg73nlLHlroPlrozmiJDvvIzlkIzml7ZUcmlkZW50QXBw5Lmf5L+d55WZ5LqG5LiA5Lqb5omp5bGV5oCn77yM5pSv5oyB6YOo5YiG5bGe5oCn55qE55So5oi36Ieq5a6a5LmJ44CCCgp8IOWPguaVsOWQjSB8IOexu+WeiyB8IOaPj+i/sCB8IAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgbmF2aWdhdGlvbkNvbmZpZyB8IG9iamVjdCB8IOmFjee9ruWvvOiIquebuOWFs+eahOWPguaVsO+8jOmFjee9ruWPguingVtyZWFjdC1uYXZpZ2F0aW9uIDEueOWvvOiIqumFjee9rl0oaHR0cHM6Ly9yZWFjdG5hdmlnYXRpb24ub3JnL2RvY3MvZW4vMS54L2hlYWRlci1idXR0b25zLmh0bWwpCnwgbW9kdWxlcyB8IGFycmF5IHwg6YCa5bi45oOF5Ya15L+d5oyB5Yib5bu66aG555uu5Lul5ZCO55qE5YC85Y2z5Y+v77yM5peg6ZyA5pS55YqoCnwgZHlNb2R1bGVzIHwgYXJyYXkgfCDpgJrluLjmg4XlhrXkv53mjIHliJvlu7rpobnnm67ku6XlkI7nmoTlgLzljbPlj6/vvIzml6DpnIDmlLnliqgKfCBzaG93V1RDb25zb2xlIHwgYm9vbCB8IOaYr+WQpumcgOimgeaYvuekuldUQ29uc29sZe+8jFdUQ29uc29sZeWPr+eUqOS6jkFwcOWGheaXpeW/l+mHh+mbhuWSjOS4iuS8oAp8IHd0Q29uc29sZU9wdGlvbnMgfCBvYmplY3QgfCDop4EgW3d0Q29uc29sZU9wdGlvbnMg5a6a5LmJXSgvV2VUcmlkZW50L2RvY3MvYXBpL1RyaWRlbnRBcHAjd3Rjb25zb2xlb3B0aW9ucykKCiMjIyMjIHd0Q29uc29sZU9wdGlvbnMKfCDlj4LmlbDlkI0gfCDnsbvlnosgfCDmj4/ov7AgfCAKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IGxvZ1NlcnZlclVybCB8IHN0cmluZyB8IHd0LWNvbnNvbGUtc2VydmVy6YOo572y5Lul5ZCO5Y+v5L6b5LiK5Lyg55qE5pyN5Yqh5Zmo5Zyw5Z2ACnwgbWF4TG9nTGluZSB8IG51bWJlciB8IOacrOWcsOe8k+WtmOeahOaXpeW/l+adoeaVsOacgOWkp+WAvAp8IGlnbm9yZUZpbHRlciB8IGZ1bmN0aW9uIHwg6Ieq5a6a5LmJ55qE5pel5b+X5a6a5LmJ6KeE5YiZ77yM55So5oi35Y+v5Lul5qC55o2u5Lyg5YWl55qE5pel5b+X5p2l56Gu5a6a5piv5ZCm5bGV56S65YiwV1RDb25zb2xlCgoK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -769,22 +784,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">5qC55o2u5ZG95Luk6KGM5o+Q56S66L6T5YWl55u45bqU5L+h5oGv5p2l5Yib5bu66aG555uu77yM5aaC5p6c5piv6K+V6aqMZGVtb++8jOWPr+S7pei/nue7reWbnui9puS9v+eUqOm7mOiupOS/oeaBrwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">5Lmf5Y+v5Lul55u05o6l6L6T5YWlCg==</text>
+        <text encoding="base64">5qC55o2u5ZG95Luk6KGM5o+Q56S66L6T5YWl55u45bqU5L+h5oGv5p2l5Yib5bu66aG555uu77yM5aaC5p6c5piv6K+V6aqMZGVtb++8jOWPr+S7pei/nue7reWbnui9puS9v+eUqOm7mOiupOS/oeaBrwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGR0IGluaXQK</text>
+        <text encoding="base64">5Lmf5Y+v5Lul55u05o6l6L6T5YWlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGR0IGluaXQK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CuS9v+eUqOaWh+aho+ingSBb5b+r6YCf5byA5aeLXShodHRwczovL3dlYmFua2ZpbnRlY2guZ2l0aHViLmlvL1dlVHJpZGVudC9kb2NzL2dldHRpbmctc3RhcnRlZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
