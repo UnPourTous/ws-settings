@@ -200,11 +200,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/index.js" timestamp="1576034666864">
-        <mark key="[" line="277" column="6" />
-        <mark key="]" line="277" column="4" />
-        <mark key="." line="277" column="4" />
-        <mark key="^" line="277" column="4" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/index.js" timestamp="1576548258387">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/@webank/trident/trident-ui/theme/LightTheme/index.js" timestamp="1575530496563">
         <mark key="[" line="15" column="16" />
@@ -743,10 +743,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3R5bGU9e3sgbWFyZ2luVG9wOiAxMCB9fSA=</text>
+        <text>'#050505'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3R5bGU9e3sgbWFyZ2luVG9wOiAxMCB9fSA=</text>
+        <text>'#050505'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleGVjUk5DbWRcPg==</text>
