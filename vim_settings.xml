@@ -79,10 +79,10 @@
         <mark key="." line="46" column="5" />
         <mark key="^" line="46" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1576647162959">
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="4" />
-        <mark key="." line="34" column="4" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/wrapLogInterceptor.js" timestamp="1576652138828">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/tabExample/TabContainerScene/tabs/SettingTab/SettingTab.js" timestamp="1575531164682">
         <mark key="[" line="8" column="0" />
@@ -90,6 +90,7 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/lib/core/Axios.js" timestamp="1576651813097" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/Size.js" timestamp="1575547109392">
         <mark key="[" line="26" column="11" />
         <mark key="]" line="26" column="11" />
@@ -391,7 +392,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/dependParser.js" timestamp="1576646931397" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/local-cli/utils/dependParser.js" timestamp="1576651412369">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/.eslintrc.json" timestamp="1576573882717" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/TabContainerScene/components/Sidebar.js" timestamp="1576574512296">
         <mark key="[" line="2" column="9" />
@@ -476,11 +482,10 @@
         <mark key="." line="27" column="24" />
         <mark key="^" line="27" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1576575110721">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="13" column="2" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/AxiosAdapter.js" timestamp="1576652207429">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/Size.js" timestamp="1575890737715">
         <mark key="[" line="61" column="0" />
@@ -547,6 +552,7 @@
         <mark key="^" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/node_modules/axios/index.d.ts" timestamp="1576651681138" />
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPlanScene/EditPlanScene.js" timestamp="1575788093090">
         <mark key="[" line="47" column="6" />
         <mark key="]" line="47" column="5" />
@@ -919,44 +925,44 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgRXJyb3IoKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1aXJlUmVnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBub2RlL25vLWRlcHJlY2F0ZWQtYXBpCg==</text>
+        <text encoding="base64">ICBheGlvc0luc3RhbmNlLmludGVyY2VwdG9ycy5yZXF1ZXN0LnVzZShmdW5jdGlvbiAoY29uZmlnKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgRXJyb3IoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogIH0KCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGVHcm91cChgJWPwn4yQWyR7Y29uZmlnLmRlc2N9XSgke2NvbmZpZy5fcmVxSWR9KSBSZXF1ZXN0IEVycm9yYCwgJyMwMEEnLCBbJ2Vycm9yJ10sIHsgZXJyb3IgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vZGUvbm8tZGVwcmVjYXRlZC1hcGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBub2RlL25vLWRlcHJlY2F0ZWQtYXBpCg==</text>
+        <text encoding="base64">ICBheGlvc0luc3RhbmNlLmludGVyY2VwdG9ycy5yZXF1ZXN0LnVzZShmdW5jdGlvbiAoY29uZmlnKSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobmV3IEVycm9yKCkpCiAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBub2RlL25vLWRlcHJlY2F0ZWQtYXBpCg==</text>
+        <text encoding="base64">ICBheGlvc0luc3RhbmNlLmludGVyY2VwdG9ycy5yZXF1ZXN0LnVzZShmdW5jdGlvbiAoY29uZmlnKSB7CiAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobmV3IEVycm9yKCkpCiAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcmVxdWlyZVJlZyA9IC9yZXF1aXJlXChbIiddKFteXC5cL11bXiInXSo/KVsiJ11cKS9nCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcmVxdWlyZVJlZyA9IC9yZXF1aXJlXChbIiddKFteXC5cL11bXiInXSo/KVsiJ11cKS9nCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAocHJvcHMpIHsKICAgIHN1cGVyKHByb3BzKQogIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">Ly8gZXNsaW50LWRpc2FibGUtbmV4dC1saW5lIG5vZGUvbm8tZGVwcmVjYXRlZC1hcGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZSBub2RlL25vLWRlcHJlY2F0ZWQtYXBpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
