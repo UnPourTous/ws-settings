@@ -34,6 +34,12 @@
         <mark key="]" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/library/network/APIClient.test.js" timestamp="1576653487892">
+        <mark key="[" line="150" column="58" />
+        <mark key="]" line="150" column="58" />
+        <mark key="^" line="150" column="58" />
+        <mark key="." line="150" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/bizComponents/button/NavBackButton.js" timestamp="1575785293011">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -925,11 +931,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgRXJyb3IoKSkK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1aXJlUmVnXD4=</text>
