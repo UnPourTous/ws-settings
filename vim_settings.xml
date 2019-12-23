@@ -310,11 +310,12 @@
       <file name="/NavBar.js" timestamp="1576666860556">
         <mark key="'" line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" timestamp="1577002208982">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="104" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" timestamp="1577081914083">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/EditPetScene/EditPetScene.js" timestamp="1576335804944">
         <mark key="[" line="169" column="23" />
@@ -618,6 +619,7 @@
         <mark key="^" line="63" column="61" />
         <mark key="." line="63" column="61" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/library/navigation/stateChangeListener.js" timestamp="1577081833877" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/DemoScene/DemoScene.js" timestamp="1575951026437">
         <mark key="[" line="42" column="8" />
         <mark key="]" line="42" column="7" />
@@ -637,7 +639,6 @@
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/AppNavigator.md" timestamp="1577001519670" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/native-modules.md" timestamp="1576118315638">
         <mark key="[" line="60" column="49" />
         <mark key="]" line="60" column="83" />
@@ -760,8 +761,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/index.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/index.js" />
       <jump line="42" column="62" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/TabContainerScene/tabs/HomeTab/HomeTab.js" />
       <jump line="12" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/app-seed/src/modules/example/index.js" />
@@ -860,6 +859,8 @@
       <jump line="34" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/library/statistics/TridentStat.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
+      <jump line="18" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
+      <jump line="27" column="12" filename="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/api/TridentStat.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -882,44 +883,44 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiB0aGlzLl9nZXRCdXR0b25EZXNjKCksCiAgICAgICAgICBjdXJyZW50VVJMOiBOYXZpZ2F0aW9uVXRpbHMuZ2VuZXJhdGVSb3V0ZU5hbWUodGhpcy5jb250ZXh0Lm1vZHVsZU5hbWUsIHRoaXMuY29udGV4dC5zY2VuZU5hbWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>stat</text>
       </register>
       <register name="-" type="4">
-        <text>sceneChange</text>
+        <text>stat</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVuZGVyV2ViYW5rQ2FyZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIyMgc2NlbmVDaGFuZ2UK</text>
+        <text encoding="base64">fCDlj4LmlbDlkI3np7AgfCDmj4/ov7AgfCAKfCAtLS0gfCAtLS0gfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlkOiB0aGlzLl9nZXRCdXR0b25EZXNjKCksCiAgICAgICAgICBjdXJyZW50VVJMOiBOYXZpZ2F0aW9uVXRpbHMuZ2VuZXJhdGVSb3V0ZU5hbWUodGhpcy5jb250ZXh0Lm1vZHVsZU5hbWUsIHRoaXMuY29udGV4dC5zY2VuZU5hbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tOiBsYXN0U2NlbmVVUkwsCiAgICAgICAgdG86IGN1cnJlbnRTY2VuZVVSTAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlkOiB0aGlzLl9nZXRCdXR0b25EZXNjKCksCiAgICAgICAgICBjdXJyZW50VVJMOiBOYXZpZ2F0aW9uVXRpbHMuZ2VuZXJhdGVSb3V0ZU5hbWUodGhpcy5jb250ZXh0Lm1vZHVsZU5hbWUsIHRoaXMuY29udGV4dC5zY2VuZU5hbWUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gfCAnaHR0cFJlcXVlc3QnIHwg5o6l5Y+j6K+35rGC5LqL5Lu277yM5L2/55SoQVBJQ2xpZW505Lya6Ieq5Yqo5LiK5oql5o6l5Y+j5oiQ5Yqf5oiW6ICF5aSx6LSlIHwgCg==</text>
+        <text encoding="base64">fCBpZCB8IOS4iuaKpUlE77yM5q2kSUToh6rliqjmir3lj5bnu4Tku7blhoXnmoTmiJHmlofmnKzlkozlm77niYflnLDlnYDlvaLmiJDvvIzlvIDlj5HogIXorr7lrprkuoboh6rmnInnmoRJROWImeS4jeS8muWGjeeUn+aIkOm7mOiupElEIHwgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlkOiB0aGlzLl9nZXRCdXR0b25EZXNjKCksCiAgICAgICAgICBjdXJyZW50VVJMOiBOYXZpZ2F0aW9uVXRpbHMuZ2VuZXJhdGVSb3V0ZU5hbWUodGhpcy5jb250ZXh0Lm1vZHVsZU5hbWUsIHRoaXMuY29udGV4dC5zY2VuZU5hbWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fCAndXNlckFjdGlvbicgfCDnlKjmiLfooYzkuLrkuovku7bvvIzpu5jorqTkvJroh6rliqjkuIrmiqXnlKjmiLfooYzkuLosIOS9v+eUqFdlVG91Y2hhYmxl57uE5Lu255qE5Y+v6Kem5pG45YWD57Sg5pSv5oyB5q2k57G75LiK5oqlIHwgCnwgJ2h0dHBSZXF1ZXN0JyB8IOaOpeWPo+ivt+axguS6i+S7tu+8jOS9v+eUqEFQSUNsaWVudOS8muiHquWKqOS4iuaKpeaOpeWPo+aIkOWKn+aIluiAheWksei0pSB8IAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c3RhdEV2ZW50SGFuZGxlcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">c2V0T25TdGF0RXZlbnRIYW5kbGVyKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gfCAnaHR0cFJlcXVlc3QnIHwg5o6l5Y+j6K+35rGC5LqL5Lu277yM5L2/55SoQVBJQ2xpZW505Lya6Ieq5Yqo5LiK5oql5o6l5Y+j5oiQ5Yqf5oiW6ICF5aSx6LSlIHwgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">fCAndXNlckFjdGlvbicgfCDnlKjmiLfooYzkuLrkuovku7bvvIzpu5jorqTkvJroh6rliqjkuIrmiqXnlKjmiLfooYzkuLosIOS9v+eUqFdlVG91Y2hhYmxl57uE5Lu255qE5Y+v6Kem5pG45YWD57Sg5pSv5oyB5q2k57G75LiK5oqlIHwgCnwgJ2h0dHBSZXF1ZXN0JyB8IOaOpeWPo+ivt+axguS6i+S7tu+8jOS9v+eUqEFQSUNsaWVudOS8muiHquWKqOS4iuaKpeaOpeWPo+aIkOWKn+aIluiAheWksei0pSB8IAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjZW5lQ2hhbmdlOiAnc2NlbmVDaGFuZ2UnLAogICAgdXNlckFjdGlvbjogJ3VzZXJBY3Rpb24nLAo=</text>
+        <text encoding="base64">c3RhdEV2ZW50SGFuZGxlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
