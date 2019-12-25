@@ -697,11 +697,11 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/TabContainerScene/tabs/UITab/components/TridentUIDemo.js" timestamp="1577176103131">
-        <mark key="[" line="139" column="23" />
-        <mark key="]" line="139" column="33" />
-        <mark key="." line="139" column="33" />
-        <mark key="^" line="139" column="33" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/TabContainerScene/tabs/UITab/components/TridentUIDemo.js" timestamp="1577240784473">
+        <mark key="[" line="156" column="32" />
+        <mark key="]" line="156" column="32" />
+        <mark key="." line="156" column="32" />
+        <mark key="^" line="156" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundSubjectDetailScene/components/TrendChart.js" timestamp="1575190883546">
         <mark key="[" line="39" column="8" />
@@ -869,11 +869,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICIvKiIK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lQ29sb3JcPg==</text>
@@ -882,31 +882,31 @@
         <text encoding="base64">ICAgICAgYm9yZGVyVG9wV2lkdGg6IFRoZW1lLlNpemUuYm9yZGVyV2lkdGhTCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIvKiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YlRleHQ6ICdzdWIgaGVhZCcsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgWwogICAgICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiLAogICAgICAgIHsKICAgICAgICAgICJsb29zZSI6IHRydWUKICAgICAgICB9CiAgICAgIF0K</text>
+        <text encoding="base64">ICAgICIvKiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInBsdWdpbnMiOiBbCiAgICAgICAgWwogICAgICAgICAgIkBiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcyIsCiAgICAgICAgICB7CiAgICAgICAgICAgICJsb29zZSI6IHRydWUKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIF0K</text>
+        <text encoding="base64">ICAgICAgWwogICAgICAgICJAYmFiZWwvcGx1Z2luLXByb3Bvc2FsLWNsYXNzLXByb3BlcnRpZXMiLAogICAgICAgIHsKICAgICAgICAgICJsb29zZSI6IHRydWUKICAgICAgICB9CiAgICAgIF0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgInBsdWdpbnMiOiBbCiAgICAgICAgWwogICAgICAgICAgIkBiYWJlbC9wbHVnaW4tcHJvcG9zYWwtY2xhc3MtcHJvcGVydGllcyIsCiAgICAgICAgICB7CiAgICAgICAgICAgICJsb29zZSI6IHRydWUKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxvb3NlIjogdHJ1ZQogICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBbCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImxvb3NlIjogdHJ1ZQogICAgICAgICAgfQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
