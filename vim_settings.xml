@@ -783,11 +783,11 @@
         <mark key="." line="156" column="32" />
         <mark key="^" line="156" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAreaScene/FundAreaScene.js" timestamp="1577418391312">
-        <mark key="[" line="104" column="12" />
-        <mark key="]" line="104" column="11" />
-        <mark key="^" line="104" column="11" />
-        <mark key="." line="104" column="11" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAreaScene/FundAreaScene.js" timestamp="1577427531649">
+        <mark key="[" line="98" column="17" />
+        <mark key="]" line="98" column="35" />
+        <mark key="^" line="98" column="35" />
+        <mark key="." line="98" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundSubjectDetailScene/components/TrendChart.js" timestamp="1575190883546">
         <mark key="[" line="39" column="8" />
@@ -973,11 +973,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGl4ZWxSYXRpbyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+      <register name="&quot;" type="4">
+        <text>Thgeme</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Thgeme</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQaXhlbFJhdGlvXD4=</text>
@@ -1052,7 +1052,6 @@
         <entry>373</entry>
         <entry>w:w</entry>
         <entry>288</entry>
-        <entry>34</entry>
         <entry>qw</entry>
         <entry>102</entry>
         <entry>51</entry>
@@ -1068,6 +1067,7 @@
         <entry>81</entry>
         <entry>109</entry>
         <entry>136</entry>
+        <entry>34</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
