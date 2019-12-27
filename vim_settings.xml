@@ -140,6 +140,10 @@
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1576493100725">
         <mark key="'" line="37" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/DepositAreaScene/DepositAreaScene.js" timestamp="1577428160953">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docs/network.md" timestamp="1576069098147">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
@@ -783,11 +787,12 @@
         <mark key="." line="156" column="32" />
         <mark key="^" line="156" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAreaScene/FundAreaScene.js" timestamp="1577427531649">
-        <mark key="[" line="98" column="17" />
-        <mark key="]" line="98" column="35" />
-        <mark key="^" line="98" column="35" />
-        <mark key="." line="98" column="35" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAreaScene/FundAreaScene.js" timestamp="1577428820411">
+        <mark key="'" line="96" column="26" />
+        <mark key="[" line="97" column="8" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundSubjectDetailScene/components/TrendChart.js" timestamp="1575190883546">
         <mark key="[" line="39" column="8" />
@@ -851,7 +856,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="55" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/Toast.js" />
       <jump line="82" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/Toast.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/Toast.js" />
       <jump line="1" column="29" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/Size.js" />
@@ -951,6 +955,7 @@
       <jump line="120" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/Dialog.js" />
       <jump line="149" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/Dialog.js" />
       <jump line="3" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/index.js" />
+      <jump line="96" column="26" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAreaScene/FundAreaScene.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -974,52 +979,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Thgeme</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Thgeme</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQaXhlbFJhdGlvXD4=</text>
+        <text encoding="base64">XDx3cmFwcGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyVG9wV2lkdGg6IFRoZW1lLlNpemUuYm9yZGVyV2lkdGhTCg==</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OiAxLCBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLnBhZ2VCYWNrZ3JvdW5kfX0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGl4ZWxSYXRpbyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogUHJvVUkuY29sb3IucGFnZUJhY2tncm91bmQsCiAgICAgICAgICB3aWR0aDogZGltZW5zLldJTkRPV19XSURUSAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlZERvdFNlcnZpY2UuanMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGhlbWUsIFRoZW1lYWJsZUNvbXBvbmVudCB9IGZyb20gJ0B3ZWJhbmsvdHJpZGVudCcK</text>
+        <text encoding="base64">ICAgICAgICBSZWREb3RTZXJ2aWNlLmpzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGhlbWUgfSBmcm9tICcuLi9UaGVtZVByb3ZpZGVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGl4ZWxSYXRpbyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlbWUsIFRoZW1lYWJsZUNvbXBvbmVudCB9IGZyb20gJ0B3ZWJhbmsvdHJpZGVudCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGhlbWUgfSBmcm9tICcuLi8uLi90aGVtZS9UaGVtZVByb3ZpZGVyJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlbWUgfSBmcm9tICcuLi9UaGVtZVByb3ZpZGVyJwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1YlRleHQ6ICdzdWIgaGVhZCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQaXhlbFJhdGlvXD4=</last-search>
+      <last-search encoding="base64">XDx3cmFwcGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQaXhlbFJhdGlvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx3cmFwcGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,7 +1032,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFsT25lUGl4ZWxcPg==</entry>
         <entry encoding="base64">XDx0b2FzdFhcPg==</entry>
         <entry encoding="base64">XDx0b2FzdEljb25cPg==</entry>
         <entry encoding="base64">XDxQcm9VSVw+</entry>
@@ -1047,6 +1051,7 @@
         <entry encoding="base64">XDxsaW5lQ29sb3JcPg==</entry>
         <entry encoding="base64">XDxkaW1lbnNcPg==</entry>
         <entry encoding="base64">XDxQaXhlbFJhdGlvXD4=</entry>
+        <entry encoding="base64">XDx3cmFwcGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>373</entry>
