@@ -272,6 +272,11 @@
         <mark key="^" line="30" column="33" />
         <mark key="." line="30" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/node_modules/react-native/ReactAndroid/release.gradle" timestamp="1578246750349">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/index.js" timestamp="1577259215847">
         <mark key="'" line="3" column="7" />
         <mark key="[" line="3" column="0" />
@@ -979,8 +984,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -992,31 +997,31 @@
         <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3tmbGV4OiAxLCBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLnBhZ2VCYWNrZ3JvdW5kfX0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogUHJvVUkuY29sb3IucGFnZUJhY2tncm91bmQsCiAgICAgICAgICB3aWR0aDogZGltZW5zLldJTkRPV19XSURUSAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFJlZERvdFNlcnZpY2UuanMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVwb3NpdG9yeSh1cmw6IGdldFJlcG9zaXRvcnlVcmwoKSkgewogICAgICAgICAgICAgICAgYXV0aGVudGljYXRpb24oCiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJOYW1lOiBnZXRSZXBvc2l0b3J5VXNlcm5hbWUoKSwKICAgICAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGdldFJlcG9zaXRvcnlQYXNzd29yZCgpKQoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSZWREb3RTZXJ2aWNlLmpzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmRDb2xvcjogUHJvVUkuY29sb3IucGFnZUJhY2tncm91bmQsCiAgICAgICAgICB3aWR0aDogZGltZW5zLldJTkRPV19XSURUSAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGl4ZWxSYXRpbyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
+        <text encoding="base64">ICAgICAgICAgIFJlZERvdFNlcnZpY2UuanMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWREb3RTZXJ2aWNlLmpzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGhlbWUsIFRoZW1lYWJsZUNvbXBvbmVudCB9IGZyb20gJ0B3ZWJhbmsvdHJpZGVudCcK</text>
+        <text encoding="base64">aW1wb3J0IHsgUGl4ZWxSYXRpbyB9IGZyb20gJ3JlYWN0LW5hdGl2ZScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVGhlbWUgfSBmcm9tICcuLi9UaGVtZVByb3ZpZGVyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlbWUsIFRoZW1lYWJsZUNvbXBvbmVudCB9IGZyb20gJ0B3ZWJhbmsvdHJpZGVudCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVGhlbWUgfSBmcm9tICcuLi9UaGVtZVByb3ZpZGVyJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
