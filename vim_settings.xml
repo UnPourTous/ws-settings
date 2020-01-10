@@ -852,10 +852,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="53" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.config.js" timestamp="1578641017305">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="14" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.config.js" timestamp="1578645612752">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
         <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/icon/Icon.js" timestamp="1577171677285">
@@ -995,10 +995,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAidGVzdCI6IHsKICAgICAgICAgICJwcmVzZXRzIjogW10KICAgICAgICB9</text>
+        <text>, 'trident-ui/'</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;es2015&quot;, &quot;react&quot;, &quot;stage-0&quot;</text>
+        <text>, 'trident-ui/'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cmFwcGVyXD4=</text>
