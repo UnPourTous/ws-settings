@@ -397,6 +397,7 @@
         <mark key="." line="88" column="9" />
         <mark key="^" line="88" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAipManagementScene/FundAipManagementService.js" timestamp="1581594967166" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/library/network/Cache.js" timestamp="1576575157681">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -852,7 +853,6 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/dyRouters.js" timestamp="1581589137335" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1577417097744" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/scripts/githooks/pre-commit.sh" timestamp="1576573610835">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="11" column="140" />
