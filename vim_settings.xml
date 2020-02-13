@@ -140,6 +140,7 @@
       <file name="$USER_HOME$/Projects/chanshila/app/src/apps/main/modules/pet/services/XGService.js" timestamp="1576493100725">
         <mark key="'" line="37" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/components/FinanceFilter.js" timestamp="1581577078622" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/DepositAreaScene/DepositAreaScene.js" timestamp="1577428160953">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="75" />
@@ -659,6 +660,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/FinanceHomeMoreScene/FinanceHomeMoreScene.js" timestamp="1581577499480">
+        <mark key="[" line="154" column="12" />
+        <mark key="]" line="154" column="16" />
+        <mark key="^" line="154" column="16" />
+        <mark key="." line="154" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/website/siteConfig.js" timestamp="1576070415072">
         <mark key="[" line="23" column="10" />
         <mark key="]" line="38" column="15" />
@@ -729,7 +736,6 @@
       <file name="/Dummy.txt" timestamp="1578639813836">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/package-lock.json" timestamp="1578639304716" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/docsSrc/native-modules.md" timestamp="1576118315638">
         <mark key="[" line="60" column="49" />
         <mark key="]" line="60" column="83" />
@@ -995,10 +1001,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>, 'trident-ui/'</text>
+        <text>FIXME</text>
       </register>
       <register name="-" type="4">
-        <text>, 'trident-ui/'</text>
+        <text>FIXME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3cmFwcGVyXD4=</text>
