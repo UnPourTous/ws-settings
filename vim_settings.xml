@@ -806,12 +806,12 @@
         <mark key="." line="19" column="21" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package.json" timestamp="1577187634408">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package.json" timestamp="1581648169070">
         <mark key="'" line="30" column="26" />
-        <mark key="[" line="12" column="54" />
-        <mark key="]" line="12" column="53" />
-        <mark key="^" line="12" column="53" />
-        <mark key="." line="12" column="53" />
+        <mark key="[" line="75" column="49" />
+        <mark key="]" line="75" column="49" />
+        <mark key="^" line="75" column="49" />
+        <mark key="." line="75" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/TabContainerScene/tabs/UITab/components/TridentUIDemo.js" timestamp="1577240784473">
         <mark key="[" line="156" column="32" />
@@ -1018,11 +1018,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>zmxv</text>
       </register>
       <register name="-" type="4">
-        <text>.parsedAipList</text>
+        <text>zmxv</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnb1RvUHJvZHVjdFw+</text>
