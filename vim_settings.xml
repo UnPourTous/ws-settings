@@ -11,11 +11,10 @@
         <mark key="^" line="17" column="5" />
         <mark key="." line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1581946135772">
-        <mark key="[" line="156" column="23" />
-        <mark key="]" line="156" column="21" />
-        <mark key="." line="156" column="21" />
-        <mark key="^" line="156" column="21" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1582460872016">
+        <mark key="]" line="156" column="32" />
+        <mark key="^" line="156" column="32" />
+        <mark key="." line="156" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/ChooseProductScene.js" timestamp="1581836751188">
         <mark key="[" line="98" column="0" />
@@ -186,10 +185,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVuZGVyTGlzdFw+</text>
