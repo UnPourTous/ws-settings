@@ -5,20 +5,24 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1582525387166" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/.babelrc" timestamp="1582628305672">
+        <mark key="'" line="9" column="2" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assetAndIncome/services/assetIncomeService.js" timestamp="1581832223346">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="5" />
         <mark key="^" line="17" column="5" />
         <mark key="." line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/FinancialV2Tab.js" timestamp="1582513935659" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1582460872016">
         <mark key="]" line="156" column="32" />
         <mark key="^" line="156" column="32" />
         <mark key="." line="156" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/index.js" timestamp="1582529882003" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/ChooseProductScene.js" timestamp="1581836751188">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="99" column="20" />
@@ -72,7 +76,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/index.js" />
       <jump line="9" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
       <jump line="29" column="33" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
       <jump line="30" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
@@ -172,6 +175,7 @@
       <jump line="18" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/dyRouters.js" />
       <jump line="210" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HoldingAssetsScene/HoldingAssetsScene.js" />
       <jump line="1" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/packager/moduleNames.js" />
+      <jump line="9" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/.babelrc" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -195,10 +199,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVuZGVyTGlzdFw+</text>
