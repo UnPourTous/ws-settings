@@ -60,12 +60,18 @@
         <mark key="." line="108" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1582460156577" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/packager/moduleNames.js" timestamp="1582605778086">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="93905" />
+        <mark key="]" line="0" column="93904" />
+        <mark key="^" line="0" column="93904" />
+        <mark key="." line="0" column="93904" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/FinancialType.js" timestamp="1581836506342">
         <mark key="." line="29" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="3" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/WeUITheme/index.js" />
       <jump line="127" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/theme/LightTheme/index.js" />
       <jump line="9" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
       <jump line="29" column="33" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
@@ -165,6 +171,7 @@
       <jump line="62" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HoldingAssetsScene/HoldingAssetsScene.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/dyRouters.js" />
       <jump line="210" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HoldingAssetsScene/HoldingAssetsScene.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/packager/moduleNames.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
