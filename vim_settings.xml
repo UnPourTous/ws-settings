@@ -19,6 +19,7 @@
         <mark key="^" line="17" column="5" />
         <mark key="." line="17" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/popup/Loading.js" timestamp="1582775820895" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1582460872016">
         <mark key="]" line="156" column="32" />
         <mark key="^" line="156" column="32" />
@@ -70,6 +71,12 @@
         <mark key="." line="108" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1582460156577" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HoldingAssetsScene/HoldingAssetsService.js" timestamp="1582776461263">
+        <mark key="[" line="254" column="16" />
+        <mark key="]" line="254" column="15" />
+        <mark key="^" line="254" column="15" />
+        <mark key="." line="254" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/packager/moduleNames.js" timestamp="1582605778086">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="93905" />
@@ -80,6 +87,7 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/FinancialType.js" timestamp="1581836506342">
         <mark key="." line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundPurchaseResultScene/FundPurchaseResultScene.js" timestamp="1582775812425" />
     </filemarks>
     <jumps>
       <jump line="9" column="30" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
