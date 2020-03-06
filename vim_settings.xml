@@ -5,6 +5,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/chanshila/server/cloud/schedule/tasks/dailyPushTaskGenTask.js" timestamp="1583496458979" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/card/ProductCard.js" timestamp="1583491075091">
         <mark key="'" line="197" column="6" />
         <mark key="[" line="196" column="9" />
@@ -47,7 +48,7 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/list/ProductItem.js" timestamp="1583490711845" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/TransferHelper.js" timestamp="1583478415736" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1583494545229">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1583496307608">
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
         <mark key="." line="152" column="0" />
