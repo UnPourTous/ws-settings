@@ -12,6 +12,33 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/card/ProductCard.js" timestamp="1583491075091">
+        <mark key="'" line="197" column="6" />
+        <mark key="[" line="196" column="9" />
+        <mark key="]" line="196" column="9" />
+        <mark key="." line="196" column="9" />
+        <mark key="^" line="196" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAipSetPlanScene/FundAipSetPlanScene.js" timestamp="1583396277242">
+        <mark key="[" line="81" column="13" />
+        <mark key="]" line="81" column="13" />
+        <mark key="." line="81" column="13" />
+        <mark key="^" line="82" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/TransferInService.js" timestamp="1583478715689">
+        <mark key="[" line="169" column="6" />
+        <mark key="]" line="169" column="5" />
+        <mark key="^" line="169" column="5" />
+        <mark key="." line="169" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/actionsReducer.js" timestamp="1583478529996" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/packager/moduleNames.js" timestamp="1582605778086">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="93905" />
+        <mark key="]" line="0" column="93904" />
+        <mark key="^" line="0" column="93904" />
+        <mark key="." line="0" column="93904" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingAssetScene/FundHoldingAssetService.js" timestamp="1583395877732">
         <mark key="'" line="212" column="12" />
         <mark key="[" line="218" column="9" />
@@ -19,11 +46,7 @@
         <mark key="." line="218" column="8" />
         <mark key="^" line="218" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/ChooseProductScene/actionsReducer.js" timestamp="1582460872016">
-        <mark key="]" line="156" column="32" />
-        <mark key="^" line="156" column="32" />
-        <mark key="." line="156" column="32" />
-      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/list/ProductItem.js" timestamp="1583490711845" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/TransferHelper.js" timestamp="1583478415736" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusSingleDetailScene/MonetaryFundPlusSingleDetailScene.js" timestamp="1583478425526">
         <mark key="[" line="285" column="32" />
@@ -35,12 +58,6 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundAipSetPlanScene/FundAipSetPlanScene.js" timestamp="1583396277242">
-        <mark key="[" line="81" column="13" />
-        <mark key="]" line="81" column="13" />
-        <mark key="." line="81" column="13" />
-        <mark key="^" line="82" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/TransferInScene.js" timestamp="1583478622440">
         <mark key="'" line="116" column="19" />
@@ -55,27 +72,16 @@
         <mark key="^" line="75" column="49" />
         <mark key="." line="75" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/TransferInService.js" timestamp="1583478715689">
-        <mark key="[" line="169" column="6" />
-        <mark key="]" line="169" column="5" />
-        <mark key="^" line="169" column="5" />
-        <mark key="." line="169" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/actionsReducer.js" timestamp="1583478529996" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1582460156577" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/packager/moduleNames.js" timestamp="1582605778086">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="0" column="93905" />
-        <mark key="]" line="0" column="93904" />
-        <mark key="^" line="0" column="93904" />
-        <mark key="." line="0" column="93904" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1583491614548" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialProdItem.js" timestamp="1583492161358">
+        <mark key="'" line="87" column="33" />
+        <mark key="[" line="85" column="24" />
+        <mark key="]" line="85" column="33" />
+        <mark key="^" line="85" column="33" />
+        <mark key="." line="85" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="16" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
-      <jump line="34" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
-      <jump line="33" column="8" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/bizComponents/EntryList.js" />
-      <jump line="110" column="17" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Item.js" />
       <jump line="11" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Item.js" />
       <jump line="109" column="2" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Item.js" />
       <jump line="93" column="73" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Item.js" />
@@ -172,6 +178,10 @@
       <jump line="9" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/.babelrc" />
       <jump line="213" column="12" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingAssetScene/FundHoldingAssetService.js" />
       <jump line="116" column="19" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/TransferInScene.js" />
+      <jump line="195" column="8" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/card/ProductCard.js" />
+      <jump line="197" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/card/ProductCard.js" />
+      <jump line="85" column="59" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialProdItem.js" />
+      <jump line="87" column="33" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialProdItem.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -194,55 +204,55 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>beforeTimeDesc</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYgKCkg</text>
+        <text>beforeTimeDesc</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVuZGVyTGlzdFw+</text>
+        <text encoding="base64">XDxzdGFydE1vbWVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXllckFjY291bnQgPSBCYW5rQ2FyZFNlcnZpY2UuZ2V0Q3VycmVudFBsdXNBY2NvdW50KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChiZWZvcmVUaW1lKSB7CiAgICAgIHN0YXJ0TW9tZW50ID0gbW9tZW50KGJlZm9yZVRpbWVEZXNjLCAnWVlZWU1NREQnKSAvLyDlj6rlj5bml6XmnJ8KICAgIH0K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vIGNvbnN0IHtwYXllZUFjY291bnRUeXBlLCBzaW5nbGVUcmFuc30gPSB0aGlzLnBhcmFtcwogICAgLy8gY29uc3Qge3BheWVyQmFua0NhcmR9ID0gdGhpcy5wcm9wcwogICAgLy8gcmV0dXJuICh0aGlzLnByb3BzLmlzVXBncmFkZU1vbmV0YXJ5UGx1cyAmJiBwYXllZUFjY291bnRUeXBlID09PSBBY2NvdW50VHlwZS5DVVJSRU5UX1BMVVMgJiYgIXNpbmdsZVRyYW5zKSA/ICgKICAgIC8vICAgPFdlVG91Y2hhYmxlIG9uUHJlc3M9eygpID0+IHsKICAgIC8vICAgICBpZiAoZGlzYWJsZWQpIHsKICAgIC8vICAgICAgIFRvYXN0LnNob3coJ+ivt+i+k+WFpeato+ehrueahOmHkeminScpCiAgICAvLyAgICAgICByZXR1cm4KICAgIC8vICAgICB9CiAgICAvLyAgICAgQXBwTmF2aWdhdG9yLm1vbmV0YXJ5RnVuZC5Nb25ldGFyeUZ1bmRQbHVzUHJvZHVjdExpc3RTY2VuZSh7CiAgICAvLyAgICAgICBhbW91bnQsCiAgICAvLyAgICAgICB0cmFuc1R5cGU6ICcyJywgLy8g6L2s5YWlCiAgICAvLyAgICAgICB0YXJnZXRTY2VuZTogQXBwTmF2aWdhdG9yLnRyYW5zZmVyLlRyYW5zZmVySW5TY2VuZSwKICAgIC8vICAgICAgIHRhcmdldFNjZW5lUGFyYW1zOiB7CiAgICAvLyAgICAgICAgIC4uLnRoaXMucGFyYW1zLAogICAgLy8gICAgICAgICBwYXllckFjY291bnRUeXBlOiBwYXllckJhbmtDYXJkICYmIHBheWVyQmFua0NhcmQuYWNjb3VudFR5cGUsCiAgICAvLyAgICAgICAgIHBheWVyQ2FyZEluZm86IHBheWVyQmFua0NhcmQKICAgIC8vICAgICAgIH0KICAgIC8vICAgICB9KQogICAgLy8gICB9fSBzdHlsZT17c3R5bGVzLnJ1bGVXcmFwcGVyfT4KICAgIC8vICAgICA8RGVmYXVsdExpc3RJdGVtIGRhdGE9e3tsYWJlbDogJ+i9rOWFpea0u+acnyvln7rph5HliJfooagnLCBzdGF0dXM6ICcnfX0gbGFiZWxTdHlsZT17e2ZvbnRTaXplOiBQcm9VSS5mb250U2l6ZS5sYXJnZX19IC8+CiAgICAvLyAgIDwvV2VUb3VjaGFibGU+CiAgICAvLyApIDogbnVsbAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>if () {
         payerAccount = BankCardServicel()
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBWCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGVsc2UgewogICAgICAgICAgLy8gcmF3SXRlbS5yZWRlZW1faW5fdHJhbnNfY29uZmlybWVkIDw9IHJhd0l0ZW0uY2FzaF9kaXZfaW5fdHJhbnMsIOivtOaYjiByYXdJdGVtLnJlZGVlbV9pbl90cmFuc19jb25maXJtZWQg5ZKM5YiG57qi5peg5YWz77yMCiAgICAgICAgICAvLyDkvYbmmK/lrp7pmYXkuIrov5nkuKrliIbmlK/kuI3kuIDlrprog73otbDliLDvvIzlm6DkuLrmjInnkIbotKLnmoTlrprkuYnvvIzliIbnuqLmlbDmja7mmK/nm7TmjqXkvJrliqDliLAgcmF3SXRlbS5yZWRlZW1faW5fdHJhbnNfY29uZmlybWVkCiAgICAgICAgICBsZXQgcHVyY2hhc2VEZXNjID0gJ+aCqOaciScgKyBEZWNpbWFsKHJhd0l0ZW0ucmVkZWVtX2luX3RyYW5zX2NvbmZpcm1lZCkudG9GaXhlZCgyKSArICflhYPotYTph5HmraPlnKjotY7lm57kuK3vvIzlrozmiJDml7bpl7Tlj6/mn6XnnIvor6bmg4UnCiAgICAgICAgICBwcm9kdWN0Lm9uV2F5RGVzY0xpc3QucHVzaChwdXJjaGFzZURlc2MpCiAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKERlY2ltYWwocmF3SXRlbS5yZWRlZW1faW5fdHJhbnNfY29uZmlybWluZykubXVsKHJhd0l0ZW0ubmV0X3ZhbHVlKS5ncmVhdGVyVGhhbihyYXdJdGVtLmNhc2hfZGl2X2luX3RyYW5zKSkgeyAvLyDotY7lm57ph5Hpop3lpKfkuo7liIbnuqLph5Hpop0KICAgICAgICBjb25zdCBwdXJjaGFzZURlc2MgPSAn5oKo5pyJJyArIERlY2ltYWwocmF3SXRlbS5yZWRlZW1faW5fdHJhbnNfY29uZmlybWVkKS5taW51cyhyYXdJdGVtLmNhc2hfZGl2X2luX3RyYW5zKS50b0ZpeGVkKDIpICsgJ+WFg+i1hOmHkeato+WcqOi1juWbnuS4re+8jOWujOaIkOaXtumXtOWPr+afpeeci+ivpuaDhScKICAgICAgICBwcm9kdWN0Lm9uV2F5RGVzY0xpc3QucHVzaChwdXJjaGFzZURlc2MpCiAgICAgIH0gZWxzZSBpZiAoIXJhd0l0ZW0uY2FzaF9kaXZfaW5fdHJhbnMpIHsgLy8g5rKh5pyJ5YiG57qiCiAgICAgIH0gZWxzZSB7IC8vIOi1juWbnumHkemineetieS6juWIhue6oumHkeminQogICAgICAgIC8vIOS7gOS5iOmDveS4jeWBmgogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKERlY2ltYWwocmF3SXRlbS5yZWRlZW1faW5fdHJhbnNfY29uZmlybWluZykubXVsKHJhd0l0ZW0ubmV0X3ZhbHVlKS5ncmVhdGVyVGhhbihyYXdJdGVtLmNhc2hfZGl2X2luX3RyYW5zKSkgeyAvLyDotY7lm57ph5Hpop3lpKfkuo7liIbnuqLph5Hpop0KICAgICAgICBjb25zdCBwdXJjaGFzZURlc2MgPSAn5oKo5pyJJyArIERlY2ltYWwocmF3SXRlbS5yZWRlZW1faW5fdHJhbnNfY29uZmlybWVkKS5taW51cyhyYXdJdGVtLmNhc2hfZGl2X2luX3RyYW5zKS50b0ZpeGVkKDIpICsgJ+WFg+i1hOmHkeato+WcqOi1juWbnuS4re+8jOWujOaIkOaXtumXtOWPr+afpeeci+ivpuaDhScKICAgICAgICBwcm9kdWN0Lm9uV2F5RGVzY0xpc3QucHVzaChwdXJjaGFzZURlc2MpCiAgICAgIH0gZWxzZSBpZiAoIXJhd0l0ZW0uY2FzaF9kaXZfaW5fdHJhbnMpIHsgLy8g5rKh5pyJ5YiG57qiCiAgICAgIH0gZWxzZSB7IC8vIOi1juWbnumHkemineetieS6juWIhue6oumHkeminQogICAgICAgIC8vIOS7gOS5iOmDveS4jeWBmgogICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>132</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVuZGVyTGlzdFw+</last-search>
+      <last-search encoding="base64">XDxzdGFydE1vbWVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVuZGVyTGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydE1vbWVudFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -250,7 +260,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtcjEwXD4=</entry>
         <entry encoding="base64">XDx0aXRsZVw+</entry>
         <entry encoding="base64">XDxUaGVtZVw+</entry>
         <entry encoding="base64">XDxpdGVtVGV4dFw+</entry>
@@ -270,10 +279,9 @@
         <entry encoding="base64">XDxfZ29Ub1Byb2R1Y3RcPg==</entry>
         <entry encoding="base64">XDxnb1RvUHJvZHVjdFw+</entry>
         <entry encoding="base64">XDxfcmVuZGVyTGlzdFw+</entry>
+        <entry encoding="base64">XDxzdGFydE1vbWVudFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>373</entry>
-        <entry>w:w</entry>
         <entry>288</entry>
         <entry>qw</entry>
         <entry>102</entry>
@@ -292,6 +300,8 @@
         <entry>136</entry>
         <entry>34</entry>
         <entry>w</entry>
+        <entry>133</entry>
+        <entry>132</entry>
       </history-cmd>
       <history-expr />
       <history-input />
