@@ -42,18 +42,6 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingProductDetailScene/actionsReducer.js" timestamp="1583493396070" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/actionsReducer.js" timestamp="1583478529996" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/ShortTermHoldingAssetsScene/ShortTermHoldingAssetsService.js" timestamp="1583501427684" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HoldingAssetsScene/HoldingAssetsService.js" timestamp="1583492912420">
-        <mark key="[" line="142" column="8" />
-        <mark key="]" line="142" column="8" />
-        <mark key="." line="142" column="8" />
-        <mark key="^" line="142" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailService.js" timestamp="1583494530669">
-        <mark key="[" line="442" column="53" />
-        <mark key="]" line="442" column="56" />
-        <mark key="." line="442" column="56" />
-        <mark key="^" line="442" column="56" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/FinanceService.js" timestamp="1583557806534" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingAssetScene/FundHoldingAssetService.js" timestamp="1583500718002">
         <mark key="'" line="212" column="12" />
@@ -64,11 +52,6 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/list/ProductItem.js" timestamp="1583490711845" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/TransferHelper.js" timestamp="1583478415736" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/FundProductDetailScene.js" timestamp="1583499427933">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusSingleDetailScene/MonetaryFundPlusSingleDetailScene.js" timestamp="1583478425526">
         <mark key="[" line="285" column="32" />
         <mark key="]" line="285" column="31" />
@@ -82,7 +65,6 @@
         <mark key="^" line="293" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1583491614548" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingProductDetailScene/FundHoldingProductDetailScene.js" timestamp="1583493363610" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/TimeService.js" timestamp="1583493140485" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialProdItem.js" timestamp="1583492161358">
         <mark key="'" line="87" column="33" />
