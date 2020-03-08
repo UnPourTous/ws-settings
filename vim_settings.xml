@@ -39,6 +39,7 @@
         <mark key="." line="14" column="59" />
         <mark key="^" line="14" column="59" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/APP_FIXME.txt" timestamp="1583690313133" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/HomeBannerService.js" timestamp="1583683564417" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/dyRouters.js" timestamp="1583670015948" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusDetailScene/MonetaryFundPlusDetailScene.js" timestamp="1583678160854">
@@ -230,6 +231,7 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/AgreementUrl.js" timestamp="1583689003104" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/ShortTermHoldingAssetsScene/ShortTermHoldingAssetsService.js" timestamp="1583501427684" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/URLUtils.js" timestamp="1583683712089" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/ext/PropTypes.js" timestamp="1583683611596" />
