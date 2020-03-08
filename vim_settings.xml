@@ -28,17 +28,6 @@
         <mark key="." line="47" column="24" />
         <mark key="^" line="46" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/TransferInService.js" timestamp="1583478715689">
-        <mark key="[" line="169" column="6" />
-        <mark key="]" line="169" column="5" />
-        <mark key="^" line="169" column="5" />
-        <mark key="." line="169" column="5" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1583666077208">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingProductDetailScene/actionsReducer.js" timestamp="1583493396070" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionService.js" timestamp="1583668755458">
         <mark key="'" line="10" column="17" />
@@ -48,31 +37,21 @@
         <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/actionsReducer.js" timestamp="1583478529996" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/dyRouters.js" timestamp="1583664425205">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="9" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/physicalCard/ReapplyCardFormScene/ReapplyCardFormScene.js" timestamp="1583668783014" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/dyRouters.js" timestamp="1583670015948" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/FinanceService.js" timestamp="1583557806534" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1583662689828">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/TransferHelper.js" timestamp="1583478415736" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/setting/EditPhoneNumberScene/Scene.js" timestamp="1583669255916" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1583667513677" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1583491614548" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/register/RegisterHomeScene/RegisterHomeScene.js" timestamp="1583668444857" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/TimeService.js" timestamp="1583493140485" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1583669294175">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="160" column="5" />
-        <mark key="^" line="160" column="5" />
-        <mark key="." line="160" column="5" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1583670352923">
+        <mark key="'" line="115" column="13" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="102" column="33" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeSceneView.js" timestamp="1583667839175" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/button/NavMoreButton.js" timestamp="1583667950145" />
@@ -81,26 +60,13 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/phoneNumberTransfer/PhoneNumberTransferOutHomeScene/PhoneNumberTransferOutHomeScene.js" timestamp="1583668014882" />
       <file name="$USER_HOME$/Projects/chanshila/server/cloud/schedule/tasks/dailyPushTaskGenTask.js" timestamp="1583496458979" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundProductDetailScene/actionsReducer.js" timestamp="1583494109999" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fundPortfolio/ProductDetailScene/ProductDetailScene.js" timestamp="1583557512463">
-        <mark key="[" line="142" column="4" />
-        <mark key="]" line="142" column="3" />
-        <mark key="^" line="142" column="3" />
-        <mark key="." line="142" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/dyRouters.js" timestamp="1583662581345">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="11" />
-        <mark key="." line="5" column="11" />
-        <mark key="^" line="5" column="11" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/ShortTermHoldingAssetsScene/ShortTermHoldingAssetsService.js" timestamp="1583501427684" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/button/SimpleButton.js" timestamp="1583665289365" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/corporateLoan/dyRouters.js" timestamp="1583664396879">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
-        <mark key="^" line="164" column="0" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/StructureDepositProductDetailScene/StructureDepositProductDetailScene.js" timestamp="1583670038741">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/URLUtils.js" timestamp="1583670052308" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/button/SimpleButton.js" timestamp="1583665289365" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingAssetScene/FundHoldingAssetService.js" timestamp="1583500718002">
         <mark key="'" line="212" column="12" />
         <mark key="[" line="218" column="9" />
@@ -110,12 +76,6 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/list/ProductItem.js" timestamp="1583490711845" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1583667872843" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusSingleDetailScene/MonetaryFundPlusSingleDetailScene.js" timestamp="1583478425526">
-        <mark key="[" line="285" column="32" />
-        <mark key="]" line="285" column="31" />
-        <mark key="^" line="285" column="31" />
-        <mark key="." line="285" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/PreferencesKey.js" timestamp="1583668512610">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="91" column="28" />
@@ -123,24 +83,9 @@
         <mark key="^" line="91" column="28" />
         <mark key="." line="91" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/finance/HoldingAssetsScene/HoldingAssetsScene.js" timestamp="1583493024294">
-        <mark key="[" line="293" column="6" />
-        <mark key="]" line="293" column="6" />
-        <mark key="." line="293" column="6" />
-        <mark key="^" line="293" column="6" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/cgi/index.js" timestamp="1583665949190">
-        <mark key="'" line="2" column="1" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/Device.js" timestamp="1583666854425">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="58" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/GuestTabs/unLoginHome/UnLoginHomeTab.js" timestamp="1583666098494">
-        <mark key="[" line="87" column="23" />
-        <mark key="]" line="87" column="39" />
-        <mark key="." line="87" column="39" />
-        <mark key="^" line="87" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/webankCard/WebankCardScene/WebankCardScene.js" timestamp="1583668984493" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1583669053235" />
@@ -153,9 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
-      <jump line="86" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
-      <jump line="22" column="49" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Indicator.js" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Indicator.js" />
       <jump line="12" column="20" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Indicator.js" />
       <jump line="7" column="9" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/Indicator.js" />
@@ -237,7 +179,6 @@
       <jump line="24" column="3" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/EarningDescMap.js" />
       <jump line="46" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/EarningDescMap.js" />
       <jump line="50" column="4" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/LoadingScene/LoadingScene.js" />
-      <jump line="43" column="15" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
       <jump line="53" column="11" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
       <jump line="10" column="18" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionService.js" />
       <jump line="9" column="17" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionService.js" />
@@ -252,7 +193,11 @@
       <jump line="18" column="2" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
       <jump line="5" column="21" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/PreferencesKey.js" />
       <jump line="159" column="30" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
+      <jump line="28" column="17" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
+      <jump line="25" column="9" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
+      <jump line="43" column="21" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
+      <jump line="147" column="6" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
+      <jump line="115" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -275,53 +220,53 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.then()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.then()</text>
+        <text>'../images/intro.png'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMb2NhbFN0b3JhZ2VcPg==</text>
+        <text encoding="base64">XDxsYW5kaW5nUGFnZVVSTFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBoakNvcmVTdG9yZTogJ2hqQ29yZVN0b3JlJwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVycywgVVJMVXRpbHMsIFN0cmluZ1V0aWxzIH0gZnJvbSAndXRpbHMnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG1kNSBmcm9tICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBBcHBOYXZpZ2F0b3Iudmlld2VyLldlYlZpZXdQcm9TY2VuZSh7CgogICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2FsdGVkRWNpZiA9IGVjaWZOby5zbGljZSgwLCAzKSArIHNhbHQudGV4dCArIHR4dDEuc2xpY2UoMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgVVJMVXRpbHMuYXBwZW5kUGFyYW1zKHsKICAgICAgICB1aWQ6IHNhbHRlZEVjaWZNZDUsCiAgICAgICAgYXBwaWQ6ICdIakFwcCcsCiAgICAgICAgY2hhbm5lbF9pZDogdGhpcy5wYXJhbXMuY2hhbm5lbElkIHx8ICd1bmtub3duX2NoYW5uZWwnLAogICAgICAgIHByb21vdGlvbl9pZDogJycKICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2FsdGVkRWNpZiA9IGVjaWZOby5zbGljZSgwLCAzKSArIHNhbHQudGV4dCArIHR4dDEuc2xpY2UoMyk7CiAgICAgIExvY2FsU3RvcmFnZS5zYXZlRGF0YShQcmVmZXJlbmNlc0tleS5lY2lmTWQ1U2FsdEZvclVCUywgSlNPTi5zdHJpbmdpZnkoc2FsdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXBwTmF2aWdhdG9yLnZpZXdlci5XZWJWaWV3UHJvU2NlbmUoewogICAgICAgIHVybDogdGhpcy4KICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIOi/memHjOWPr+iDvemcgOimgeS7juWklumDqOS8oOi/m+adpQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2FsdC50ZXh0Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgU2VydmVyRW52LCBTZXJ2ZXJQcmVmaXhUeXBlIH0gZnJvbSAnLi4vLi4vLi4vYXBpJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZWNpZiA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMb2NhbFN0b3JhZ2VcPg==</last-search>
+      <last-search encoding="base64">XDxsYW5kaW5nUGFnZVVSTFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMb2NhbFN0b3JhZ2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxsYW5kaW5nUGFnZVVSTFw+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -329,7 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmbGV4Um93XD4=</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry encoding="base64">XDxzdWJoZWFkXD4=</entry>
         <entry encoding="base64">XDxmb290ZXJTdHlsZVw+</entry>
@@ -349,6 +293,7 @@
         <entry encoding="base64">XDxiYW5uZXJXaWR0aFw+</entry>
         <entry encoding="base64">XDxXZVRvdWNoYWJsZVw+</entry>
         <entry encoding="base64">XDxMb2NhbFN0b3JhZ2VcPg==</entry>
+        <entry encoding="base64">XDxsYW5kaW5nUGFnZVVSTFw+</entry>
       </history-search>
       <history-cmd>
         <entry>288</entry>
