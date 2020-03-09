@@ -35,11 +35,11 @@
         <mark key="." line="159" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInScene/actionsReducer.js" timestamp="1583478529996" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/dyRouters.js" timestamp="1583686868146">
-        <mark key="[" line="14" column="59" />
-        <mark key="]" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-        <mark key="^" line="14" column="59" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/dyRouters.js" timestamp="1583751200215">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="6" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/APP_FIXME.txt" timestamp="1583736435795">
         <mark key="[" line="11" column="0" />
@@ -66,6 +66,7 @@
         <mark key="^" line="122" column="29" />
         <mark key="." line="221" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/universalInsurance/dyRouters.js" timestamp="1583751191536" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/TimeService.js" timestamp="1583493140485" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/faceverify/compents/FaceVerifyFailed.js" timestamp="1583688140668" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeSceneView.js" timestamp="1583667839175" />
@@ -98,6 +99,7 @@
         <mark key="." line="33" column="1" />
         <mark key="^" line="33" column="1" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/actionsReducer.js" timestamp="1583750214766" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/button/SimpleButton.js" timestamp="1583665289365" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fund/FundHoldingAssetScene/FundHoldingAssetService.js" timestamp="1583500718002">
         <mark key="'" line="212" column="12" />
@@ -133,7 +135,7 @@
         <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/webankCard/WebankCardScene/WebankCardScene.js" timestamp="1583668984493" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1583684280907">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1583750197445">
         <mark key="[" line="546" column="0" />
         <mark key="]" line="546" column="0" />
         <mark key="^" line="545" column="14" />
@@ -213,7 +215,12 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/values/pro.js" timestamp="1583667513677" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1583491614548" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/register/RegisterHomeScene/RegisterHomeScene.js" timestamp="1583668444857" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" timestamp="1583679316233" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" timestamp="1583750740482">
+        <mark key="[" line="341" column="8" />
+        <mark key="]" line="341" column="7" />
+        <mark key="^" line="341" column="7" />
+        <mark key="." line="341" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/monetaryFund/MonetaryFundPlusIntroScene/actionsReducer.js" timestamp="1583677773135" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/button/NavMoreButton.js" timestamp="1583667950145" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/RedDotService.js" timestamp="1583735926593">
@@ -387,7 +394,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
+        <text encoding="base64">ICAgIGxvZ2luT3B0aW9uczogewogICAgICBuZWVkTG9naW46IGZhbHNlCiAgICB9LAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC8vIEZJWE1FIOi/memHjOWPr+iDveS4uuepug==</text>
@@ -396,7 +403,7 @@
         <text encoding="base64">XDxncm91cENvbGxhcHNlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5ncm91cEVuZCgpCg==</text>
+        <text encoding="base64">ICAgIGxvZ2luT3B0aW9uczogewogICAgICBuZWVkTG9naW46IGZhbHNlCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
