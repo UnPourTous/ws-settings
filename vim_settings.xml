@@ -5,7 +5,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/LoadingScene/LoadingScene.js" timestamp="1583909537488">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/LoadingScene/LoadingScene.js" timestamp="1583930179073">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="72" column="31" />
@@ -17,9 +17,6 @@
         <mark key="]" line="54" column="35" />
         <mark key="." line="54" column="35" />
         <mark key="^" line="54" column="35" />
-      </file>
-      <file name="/fragment.js" timestamp="1583676188711">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/plan/PlanResultScene/PlanResultScene.js" timestamp="1583687219842">
         <mark key="[" line="251" column="0" />
@@ -98,11 +95,11 @@
         <mark key="." line="37" column="33" />
         <mark key="^" line="37" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/ProdNavArea.js" timestamp="1583925690615">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="158" column="12" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/ProdNavArea.js" timestamp="1583930040730">
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="99" column="7" />
+        <mark key="^" line="99" column="7" />
+        <mark key="." line="99" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/dyRouters.js" timestamp="1583751200215">
         <mark key="]" line="13" column="6" />
@@ -138,9 +135,6 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
         <mark key="^" line="164" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1583687998110">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1583687651357">
         <mark key="[" line="212" column="0" />
@@ -221,6 +215,7 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="149" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/button/NavImageButtonGroupFixedNum.js" timestamp="1583929775811" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/RedDotService.js" timestamp="1583735926593">
         <mark key="[" line="46" column="10" />
         <mark key="]" line="46" column="10" />
@@ -357,8 +352,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD48L1RleHQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCB7CiAgICAgICAgcmlkOiBSZXBvcnRLZXlzLkZpbmFuY2lhbEhpZ2hlbmQsCiAgICAgICAgaWNvbjogJ2ZpbmFuY2VfaGlnaGVuZCcsCiAgICAgICAgdGl0bGU6ICfpq5jnq6/nkIbotKInLAogICAgICAgIG1hcmtJZDogJ2NmeS1nZGxjJywKICAgICAgICBvblByZXNzOiAoKSA9PiBBcHBOYXZpZ2F0b3IuZmluYW5jZS5IaWdoZW5kQXJlYVNjZW5lKCkKICAgICAgfQ==</text>
       </register>
       <register name="-" type="4">
         <text>源自瑞银的专业财富管理经验</text>
@@ -369,32 +364,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8VGV4dCBzdHlsZT17ewogICAgICAgICAgbWFyZ2luQm90dG9tOiBQcm9VSS5zcGFjZVgubGFyZ2UsCiAgICAgICAgICBmb250U2l6ZTogUHJvVUkuZm9udFNpemUuc21hbGwsCiAgICAgICAgICBjb2xvcjogUHJvVUkuYnRuU3R5bGVSdWxlLmhvbGxvd0dyYXkuZm9udENvbG9yCiAgICAgICAgfX0+5rqQ6Ieq55Ge6ZO255qE5LiT5Lia6LSi5a+M566h55CG57uP6aqMPC9UZXh0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD48L1RleHQ+Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LCB7CiAgICAgICAgcmlkOiBSZXBvcnRLZXlzLkZpbmFuY2lhbEhpZ2hlbmQsCiAgICAgICAgaWNvbjogJ2ZpbmFuY2VfaGlnaGVuZCcsCiAgICAgICAgdGl0bGU6ICfpq5jnq6/nkIbotKInLAogICAgICAgIG1hcmtJZDogJ2NmeS1nZGxjJywKICAgICAgICBvblByZXNzOiAoKSA9PiBBcHBOYXZpZ2F0b3IuZmluYW5jZS5IaWdoZW5kQXJlYVNjZW5lKCkKICAgICAgfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD48L1RleHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PuW+ruS8l+mTtuihjOWuouaIt+Wwiui0teS4k+S6qyAg55Ge5a+M5LyX5LiT5Lia6LSi5a+M6LWE6K6vPC9UZXh0Pgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0PuW+ruS8l+mTtuihjOWuouaIt+Wwiui0teS4k+S6qyAg55Ge5a+M5LyX5LiT5Lia6LSi5a+M6LWE6K6vPC9UZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YzEwMzdmMzA2MjkgKGVyaWNodWEo5Y2O5oy6KSAyMDE4LTAzLTA1IDIyOjQyOjAwICswODAwIDUwOCkgICAgICAgICAgICAgLy8gRklYTUUgZGlzcGxheSBvciBub3QK</text>
+        <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MTQ0Y2UwMWQzYjQgKGVyaWNodWEgICAgICAgICAgIDIwMTktMDktMDYgMDA6MzA6NDQgKzA4MDAgIDc0KSAgICAgLy8gRklYTUUg6L+Z6YeM6KaB5Yi35paw5Zu65pS25Zyo6YCU5YiX6KGo5oiW6ICF6auY56uv55CG6LSi5Zyo6YCU5YiX6KGo77yfCg==</text>
+        <text encoding="base64">YzEwMzdmMzA2MjkgKGVyaWNodWEo5Y2O5oy6KSAyMDE4LTAzLTA1IDIyOjQyOjAwICswODAwIDUwOCkgICAgICAgICAgICAgLy8gRklYTUUgZGlzcGxheSBvciBub3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWZkNTc2MmZhZTggcHJvL3NyYy9hcHBzL3dlYmFua1Byby9iaXpDb21wb25lbnRzL2Jpei9XZUFjY291bnRTZWxlY3RvclBvcHVwLmpzIChlcmljaHVhKOWNjuaMuikgMjAxOC0wMS0zMCAxNTo0MzoyNyArMDgwMCAyOCkgICAgICAgLy8gRklYTUUgVE9ETwo=</text>
+        <text encoding="base64">MTQ0Y2UwMWQzYjQgKGVyaWNodWEgICAgICAgICAgIDIwMTktMDktMDYgMDA6MzA6NDQgKzA4MDAgIDc0KSAgICAgLy8gRklYTUUg6L+Z6YeM6KaB5Yi35paw5Zu65pS25Zyo6YCU5YiX6KGo5oiW6ICF6auY56uv55CG6LSi5Zyo6YCU5YiX6KGo77yfCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
