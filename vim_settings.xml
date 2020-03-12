@@ -14,9 +14,20 @@
       </file>
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/parse/lib/browser/ParseQuery.js" timestamp="1584008658051" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assetAndIncome/IncomeAccumulateListScene/IncomeAccumulateListScene.js" timestamp="1584030435098" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/InterestListScene/InterestListScene.js" timestamp="1584031697875">
+        <mark key="[" line="61" column="97" />
+        <mark key="]" line="61" column="96" />
+        <mark key="^" line="61" column="96" />
+        <mark key="." line="61" column="96" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/components/PredictTransferDialogBody.js" timestamp="1583988338497" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/services/PersonalInsuranceService.js" timestamp="1583993384864" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/services/SmartCDepositService.js" timestamp="1584018634075" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1584031734198">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/services/SmartCDepositService.js" timestamp="1584031899238" />
       <file name="$USER_HOME$/Projects/hj-wm-res/op/app/personalInsurance/js/productFeature.js" timestamp="1583993288492" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionService.js" timestamp="1584030202453" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/HomeCard.js" timestamp="1584018680936" />
