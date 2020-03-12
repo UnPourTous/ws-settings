@@ -13,10 +13,12 @@
         <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/parse/lib/browser/ParseQuery.js" timestamp="1584008658051" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/assetAndIncome/IncomeAccumulateListScene/IncomeAccumulateListScene.js" timestamp="1584030435098" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/components/PredictTransferDialogBody.js" timestamp="1583988338497" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/services/PersonalInsuranceService.js" timestamp="1583993384864" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/services/SmartCDepositService.js" timestamp="1584018634075" />
       <file name="$USER_HOME$/Projects/hj-wm-res/op/app/personalInsurance/js/productFeature.js" timestamp="1583993288492" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionService.js" timestamp="1584030202453" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/HomeCard.js" timestamp="1584018680936" />
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/parse/lib/react-native/ParseQuery.js" timestamp="1584008737195" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/RedeemScene/RedeemScene.js" timestamp="1584014538543" />
@@ -56,6 +58,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/FinancialV2Tab.js" timestamp="1584030277990">
+        <mark key="[" line="290" column="8" />
+        <mark key="]" line="290" column="8" />
+        <mark key="^" line="290" column="3" />
+        <mark key="." line="290" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1584018697292">
         <mark key="[" line="71" column="47" />
@@ -198,10 +206,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>EarningsText</text>
+        <text encoding="base64">ZmluYW5jZUxpc3QgJiYg</text>
       </register>
       <register name="-" type="4">
-        <text>EarningsText</text>
+        <text encoding="base64">ZmluYW5jZUxpc3QgJiYg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cENvbGxhcHNlZFw+</text>
@@ -210,31 +218,31 @@
         <text encoding="base64">ICAgIGFzc2V0Q29uZmlnOiBzdGF0ZS5hc3NldENvbmZpZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNhY2hlTWF4QWdlSW5Ncwo=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCB7CiAgICAgICAgcmlkOiBSZXBvcnRLZXlzLkZpbmFuY2lhbEhpZ2hlbmQsCiAgICAgICAgaWNvbjogJ2ZpbmFuY2VfaGlnaGVuZCcsCiAgICAgICAgdGl0bGU6ICfpq5jnq6/nkIbotKInLAogICAgICAgIG1hcmtJZDogJ2NmeS1nZGxjJywKICAgICAgICBvblByZXNzOiAoKSA9PiBBcHBOYXZpZ2F0b3IuZmluYW5jZS5IaWdoZW5kQXJlYVNjZW5lKCkKICAgICAgfQ==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dD48L1RleHQ+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRQcm9kVHlwZUxpc3QgPSBmaW5hbmNlTGlzdC5wcm9kdWN0VHlwZUxpc3QuZmlsdGVyKGl0ZW0gPT4gaXRlbS5wcm9kdWN0VHlwZSA9PT0gRGlzcGxheUFyZWFUeXBlLlVCU19FTlRSWV9DT05GSUcpCiAgICBjb25zdCB1YnNDb25maWcgPSBfLmdldChtYXRjaGVkUHJvZFR5cGVMaXN0LCAnWzBdW3Byb2R1Y3RMaXN0XVswXScsIHVuZGVmaW5lZCkKICAgIHJldHVybiAhIXVic0NvbmZpZwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNhY2hlTWF4QWdlSW5Ncwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">LCB7CiAgICAgICAgcmlkOiBSZXBvcnRLZXlzLkZpbmFuY2lhbEhpZ2hlbmQsCiAgICAgICAgaWNvbjogJ2ZpbmFuY2VfaGlnaGVuZCcsCiAgICAgICAgdGl0bGU6ICfpq5jnq6/nkIbotKInLAogICAgICAgIG1hcmtJZDogJ2NmeS1nZGxjJywKICAgICAgICBvblByZXNzOiAoKSA9PiBBcHBOYXZpZ2F0b3IuZmluYW5jZS5IaWdoZW5kQXJlYVNjZW5lKCkKICAgICAgfQ==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICA8VGV4dD48L1RleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0PuW+ruS8l+mTtuihjOWuouaIt+Wwiui0teS4k+S6qyAg55Ge5a+M5LyX5LiT5Lia6LSi5a+M6LWE6K6vPC9UZXh0Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0PuW+ruS8l+mTtuihjOWuouaIt+Wwiui0teS4k+S6qyAg55Ge5a+M5LyX5LiT5Lia6LSi5a+M6LWE6K6vPC9UZXh0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YzEwMzdmMzA2MjkgKGVyaWNodWEo5Y2O5oy6KSAyMDE4LTAzLTA1IDIyOjQyOjAwICswODAwIDUwOCkgICAgICAgICAgICAgLy8gRklYTUUgZGlzcGxheSBvciBub3QK</text>
+        <text encoding="base64">ICAvLyBbRGVtb1NjZW5lXTogRGVtb1NjZW5lLnJlZHVjZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
