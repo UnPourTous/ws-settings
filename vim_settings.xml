@@ -15,12 +15,16 @@
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/parse/lib/browser/ParseQuery.js" timestamp="1584008658051" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/components/PredictTransferDialogBody.js" timestamp="1583988338497" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/services/PersonalInsuranceService.js" timestamp="1583993384864" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/services/SmartCDepositService.js" timestamp="1584018634075" />
       <file name="$USER_HOME$/Projects/hj-wm-res/op/app/personalInsurance/js/productFeature.js" timestamp="1583993288492" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/HomeCard.js" timestamp="1584018680936" />
       <file name="$USER_HOME$/Projects/chanshila/server/node_modules/parse/lib/react-native/ParseQuery.js" timestamp="1584008737195" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/RedeemScene/RedeemScene.js" timestamp="1584014538543" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/ProductDetailScene/ProductDetailScene.js" timestamp="1584007536587" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/depositPledgeLoan/DepositPledgeLoanInputMoneyScene/DepositPledgeLoanInputMoneyScene.js" timestamp="1584013629469" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/KVService.js" timestamp="1584018608677" />
       <file name="$USER_HOME$/Projects/chanshila/server/cloud/AliyunPushManager.js" timestamp="1584010797568" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/ToggleAssets.js" timestamp="1584018832539" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1583988350515">
         <mark key="[" line="93" column="14" />
         <mark key="]" line="93" column="13" />
@@ -43,6 +47,7 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/components/FooterArea.js" timestamp="1583993299140" />
       <file name="$USER_HOME$/Projects/chanshila/server/src/Push/PushQueue.js" timestamp="1584008687715" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/HolidayService.js" timestamp="1584018840662" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/Enviroment.js" timestamp="1583993360671" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/ProductDetailScene/actionsReducer.js" timestamp="1583993332162" />
       <file name="$USER_HOME$/Projects/chanshila/server/package.json" timestamp="1584009611331" />
@@ -52,6 +57,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1584018697292">
+        <mark key="[" line="71" column="47" />
+        <mark key="]" line="71" column="46" />
+        <mark key="." line="71" column="46" />
+        <mark key="^" line="71" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/personalInsurance/actionsReducer.js" timestamp="1583993321751" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/DepositAreaV2Scene/DepositAreaV2Scene.js" timestamp="1584007468170" />
       <file name="$USER_HOME$/Projects/webank_hj_op/src/app/personalInsurance/js/productFeature.js" timestamp="1583993482499">
@@ -60,6 +71,7 @@
         <mark key="^" line="121" column="60" />
         <mark key="." line="121" column="60" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1584018674779" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/ServerPrefixType.js" timestamp="1583993343795" />
     </filemarks>
     <jumps>
@@ -186,10 +198,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>input</text>
+        <text>EarningsText</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>EarningsText</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxncm91cENvbGxhcHNlZFw+</text>
