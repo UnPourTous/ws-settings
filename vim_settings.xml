@@ -17,6 +17,7 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/ServerEnv.js" timestamp="1584154976253" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/InterestListScene/InterestListScene.js" timestamp="1584031697875">
         <mark key="[" line="61" column="97" />
         <mark key="]" line="61" column="96" />
@@ -34,7 +35,7 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" timestamp="1584101951605">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" timestamp="1584154917644">
         <mark key="'" line="257" column="9" />
         <mark key="[" line="186" column="30" />
         <mark key="]" line="186" column="29" />
