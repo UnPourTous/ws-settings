@@ -11,6 +11,7 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/LoadingScene/LoadingScene.js" timestamp="1584368004427" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" timestamp="1584154917644">
         <mark key="'" line="257" column="9" />
         <mark key="[" line="186" column="30" />
@@ -36,9 +37,6 @@
         <mark key="." line="71" column="46" />
         <mark key="^" line="71" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/highend/HighendExperienceConfirmScene/HighendExperienceConfirmScene.js" timestamp="1584162693330">
-        <mark key="." line="52" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/InterestListScene/InterestListScene.js" timestamp="1584031697875">
         <mark key="[" line="61" column="97" />
         <mark key="]" line="61" column="96" />
@@ -51,7 +49,7 @@
         <mark key="^" line="121" column="60" />
         <mark key="." line="121" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1584346571164" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1584367917450" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1584031734198">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -65,7 +63,7 @@
         <mark key="^" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1584081965942" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1584084016196">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1584367923986">
         <mark key="[" line="93" column="14" />
         <mark key="]" line="93" column="13" />
         <mark key="." line="93" column="13" />
