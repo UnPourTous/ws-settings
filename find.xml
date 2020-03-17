@@ -12,11 +12,11 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>Loading.js</mask>
-    <mask>*.js</mask>
     <mask>package.json</mask>
     <mask>*.md</mask>
     <mask>*.gradle</mask>
     <mask>*Scene.js</mask>
     <mask>*js</mask>
+    <mask>*.js</mask>
   </component>
 </application>
