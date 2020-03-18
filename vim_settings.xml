@@ -6,6 +6,7 @@
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/LoadingScene/LoadingScene.js" timestamp="1584417906921" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaaa/HomeScene/components/PopupsContainer.js" timestamp="1584500315546" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/ext/WeTouchable.js" timestamp="1584431534729" />
       <file name="$USER_HOME$/Projects/hj-wm-res/op/app/personalInsurance/js/productFeature.js" timestamp="1584345680413" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/TimeDepositProductDetailScene/TimeDepositProductDetailScene.js" timestamp="1584449975282" />
@@ -15,14 +16,8 @@
         <mark key="^" line="145" column="52" />
         <mark key="." line="145" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" timestamp="1584154917644">
-        <mark key="'" line="257" column="9" />
-        <mark key="[" line="186" column="30" />
-        <mark key="]" line="186" column="29" />
-        <mark key="^" line="186" column="29" />
-        <mark key="." line="186" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/rate/RatePicker.js" timestamp="1584451455816">
+      <file name="$USER_HOME$/Downloads/pro/src/apps/webankPro/bizComponents/rate/RatePicker.js" timestamp="1584499850038" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/rate/RatePicker.js" timestamp="1584499843696">
         <mark key="[" line="292" column="8" />
         <mark key="]" line="292" column="8" />
         <mark key="." line="292" column="8" />
@@ -30,7 +25,7 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/ext/WeTouchable.js" timestamp="1584427226888" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/financialV2/components/FinancialArea.js" timestamp="1584367917450" />
-      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1584081965942" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaaa/HomeScene/HostTabs/home/HomeTab.js" timestamp="1584500339896" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/uiComponents/ext/WeTouchableHighlight.js" timestamp="1584427392192" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/TimeDepositProductDetailScene/actionsReducer.js" timestamp="1584450141921" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1584367923986">
@@ -39,6 +34,7 @@
         <mark key="." line="93" column="13" />
         <mark key="^" line="93" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaaa/HomeScene/actionsReducer.js" timestamp="1584500415046" />
     </filemarks>
     <jumps>
       <jump line="83" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
