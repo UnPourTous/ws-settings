@@ -5,6 +5,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/wrapCommands.js" timestamp="1585144191447" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/TrustMyDetailScene/TrustMyDetailScene.js" timestamp="1584710132780">
         <mark key="[" line="648" column="8" />
         <mark key="]" line="648" column="7" />
@@ -23,6 +24,13 @@
         <mark key="^" line="145" column="52" />
         <mark key="." line="145" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/findPlugins.js" timestamp="1585144810011">
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="86" column="15" />
+        <mark key="]" line="86" column="21" />
+        <mark key="." line="86" column="21" />
+        <mark key="^" line="86" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/rate/RatePicker.js" timestamp="1584499843696">
         <mark key="[" line="292" column="8" />
         <mark key="]" line="292" column="8" />
@@ -37,7 +45,13 @@
         <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1584956428227" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/index.js" timestamp="1585140947309" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/index.js" timestamp="1585145305549">
+        <mark key="'" line="61" column="24" />
+        <mark key="[" line="62" column="13" />
+        <mark key="]" line="62" column="20" />
+        <mark key="^" line="62" column="20" />
+        <mark key="." line="62" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1584367923986">
         <mark key="[" line="93" column="14" />
         <mark key="]" line="93" column="13" />
@@ -46,8 +60,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
-      <jump line="38" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
       <jump line="139" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
       <jump line="5" column="47" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
       <jump line="3" column="33" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
@@ -146,6 +158,8 @@
       <jump line="26" column="25" filename="$USER_HOME$/Projects/webank_hj_app/pro/package.json" />
       <jump line="48" column="68" filename="$USER_HOME$/Projects/webank_hj_app/pro/package.json" />
       <jump line="55" column="5" filename="$USER_HOME$/Projects/webank_hj_app/pro/package.json" />
+      <jump line="61" column="24" filename="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/index.js" />
+      <jump line="66" column="8" filename="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/findPlugins.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -168,11 +182,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiZ2l0K2h0dHBzOi8vZ2l0ZWUuY29tL1VuUG91clRvdXMvcmVhY3QtbmF0aXZlLTAuNTEuMC5naXQjdjAuNTEuNSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Amount</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>react-native</text>
@@ -181,31 +195,31 @@
         <text encoding="base64">ICAgICAgICBlbmROdW0gPSBOdW1iZXIucGFyc2VJbnQobWluUmF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiZ2l0K2h0dHBzOi8vZ2l0ZWUuY29tL1VuUG91clRvdXMvcmVhY3QtbmF0aXZlLTAuNTEuMC5naXQjdjAuNTEuNSIsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLm1vZHVsZUJhY2tncm91bmQsCiAgICAgICAgICAgICAgLi4uUHJvVUkuYm9yZGVyLnRvcCwKICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFByb1VJLnNwYWNlWS5sYXJnZSwKICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogUHJvVUkuc3BhY2VYLmxhcmdlLAogICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogZGltZW5zLlBPUlRSQUlUX1VOU0FGRV9BUkVBX0JPVFRPTV9IRUlHSFQKICAgICAgICAgICAgfX0+Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncGpzb24nLCBwanNvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWFkUGFja2FnZSAnICsgZm9sZGVyKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcnNlRmxvYXQobGFzdENob29zZVJhdGUpID09PSBwYXJzZUZsb2F0KGxhc3RNYXhSYXRlKSkgewogICAgICAgIHN0YXJ0TnVtID0gTnVtYmVyLnBhcnNlSW50KG1heFJhdGUpCiAgICAgIH0KICAgICAgaWYgKHBhcnNlRmxvYXQobGFzdENob29zZVJhdGUpID09PSBwYXJzZUZsb2F0KGxhc3RNaW5SYXRlKSkgewogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWFkUGFja2FnZSAnICsgZm9sZGVyKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmb2xkZXJzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2Z1Y2snKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiZ2l0K2h0dHBzOi8vZ2l0ZWUuY29tL1VuUG91clRvdXMvcmVhY3QtbmF0aXZlLTAuNTEuMC5naXQjdjAuNTEuNSIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRQcm9kVHlwZUxpc3QgPSBmaW5hbmNlTGlzdC5wcm9kdWN0VHlwZUxpc3QuZmlsdGVyKGl0ZW0gPT4gaXRlbS5wcm9kdWN0VHlwZSA9PT0gRGlzcGxheUFyZWFUeXBlLlVCU19FTlRSWV9DT05GSUcpCiAgICBjb25zdCB1YnNDb25maWcgPSBfLmdldChtYXRjaGVkUHJvZFR5cGVMaXN0LCAnWzBdW3Byb2R1Y3RMaXN0XVswXScsIHVuZGVmaW5lZCkKICAgIHJldHVybiAhIXVic0NvbmZpZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLm1vZHVsZUJhY2tncm91bmQsCiAgICAgICAgICAgICAgLi4uUHJvVUkuYm9yZGVyLnRvcCwKICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFByb1VJLnNwYWNlWS5sYXJnZSwKICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogUHJvVUkuc3BhY2VYLmxhcmdlLAogICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogZGltZW5zLlBPUlRSQUlUX1VOU0FGRV9BUkVBX0JPVFRPTV9IRUlHSFQKICAgICAgICAgICAgfX0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhY2hlTWF4QWdlSW5Ncwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -244,7 +258,6 @@
         <entry>react-native</entry>
       </history-search>
       <history-cmd>
-        <entry>102</entry>
         <entry>51</entry>
         <entry>322</entry>
         <entry>67</entry>
@@ -263,6 +276,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>296</entry>
+        <entry>64</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
