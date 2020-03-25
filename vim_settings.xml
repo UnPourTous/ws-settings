@@ -5,6 +5,7 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/link/link.js" timestamp="1585147414912" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/wrapCommands.js" timestamp="1585144191447" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/TrustMyDetailScene/TrustMyDetailScene.js" timestamp="1584710132780">
         <mark key="[" line="648" column="8" />
@@ -12,17 +13,33 @@
         <mark key="^" line="648" column="7" />
         <mark key="." line="648" column="7" />
       </file>
+      <file name="events.js" timestamp="1585147459258">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1585147467201">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="internal/modules/cjs/loader.js" timestamp="1585147895049">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fundPortfolio/PurchaseScene/PurchaseScene.js" timestamp="1584708033365">
         <mark key="[" line="345" column="0" />
         <mark key="]" line="345" column="0" />
         <mark key="^" line="344" column="81" />
         <mark key="." line="345" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/link/getDependencyConfig.js" timestamp="1585147029652" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/button/SimpleButton.js" timestamp="1584427192861">
         <mark key="[" line="145" column="42" />
         <mark key="]" line="145" column="52" />
         <mark key="^" line="145" column="52" />
         <mark key="." line="145" column="52" />
+      </file>
+      <file name="internal/modules/cjs/helpers.js" timestamp="1585147924069">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/findPlugins.js" timestamp="1585144810011">
         <mark key="'" line="66" column="8" />
@@ -30,6 +47,12 @@
         <mark key="]" line="86" column="21" />
         <mark key="." line="86" column="21" />
         <mark key="^" line="86" column="21" />
+      </file>
+      <file name="internal/bootstrap/node.js" timestamp="1585147886976">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="^" line="271" column="0" />
+        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/rate/RatePicker.js" timestamp="1584499843696">
         <mark key="[" line="292" column="8" />
