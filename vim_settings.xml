@@ -30,9 +30,14 @@
         <mark key="^" line="292" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/windows/index.js" timestamp="1585138534671" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package.json" timestamp="1585125734276" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package.json" timestamp="1585140962156">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="87" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1584956428227" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/index.js" timestamp="1585138727470" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native/local-cli/core/index.js" timestamp="1585140947309" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1584367923986">
         <mark key="[" line="93" column="14" />
         <mark key="]" line="93" column="13" />
@@ -41,9 +46,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
-      <jump line="91" column="26" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
       <jump line="82" column="0" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
       <jump line="38" column="28" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
       <jump line="139" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/popup/ActionSheet.js" />
@@ -141,6 +143,9 @@
       <jump line="187" column="36" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" />
       <jump line="256" column="25" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" />
       <jump line="257" column="9" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/services/CDepositService.js" />
+      <jump line="26" column="25" filename="$USER_HOME$/Projects/webank_hj_app/pro/package.json" />
+      <jump line="48" column="68" filename="$USER_HOME$/Projects/webank_hj_app/pro/package.json" />
+      <jump line="55" column="5" filename="$USER_HOME$/Projects/webank_hj_app/pro/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -164,52 +169,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLm1vZHVsZUJhY2tncm91bmQsCiAgICAgICAgICAgICAgLi4uUHJvVUkuYm9yZGVyLnRvcCwKICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFByb1VJLnNwYWNlWS5sYXJnZSwKICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogUHJvVUkuc3BhY2VYLmxhcmdlLAogICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogZGltZW5zLlBPUlRSQUlUX1VOU0FGRV9BUkVBX0JPVFRPTV9IRUlHSFQKICAgICAgICAgICAgfX0+Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiZ2l0K2h0dHBzOi8vZ2l0ZWUuY29tL1VuUG91clRvdXMvcmVhY3QtbmF0aXZlLTAuNTEuMC5naXQjdjAuNTEuNSIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>Amount</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyYXdQcm9kSW5mb1w+</text>
+        <text>react-native</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbmROdW0gPSBOdW1iZXIucGFyc2VJbnQobWluUmF0ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLm1vZHVsZUJhY2tncm91bmQsCiAgICAgICAgICAgICAgLi4uUHJvVUkuYm9yZGVyLnRvcCwKICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFByb1VJLnNwYWNlWS5sYXJnZSwKICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogUHJvVUkuc3BhY2VYLmxhcmdlLAogICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogZGltZW5zLlBPUlRSQUlUX1VOU0FGRV9BUkVBX0JPVFRPTV9IRUlHSFQKICAgICAgICAgICAgfX0+Cg==</text>
+        <text encoding="base64">ICAgICJyZWFjdC1uYXRpdmUiOiAiZ2l0K2h0dHBzOi8vZ2l0ZWUuY29tL1VuUG91clRvdXMvcmVhY3QtbmF0aXZlLTAuNTEuMC5naXQjdjAuNTEuNSIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3sKICAgICAgICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6IFByb1VJLmNvbG9yLm1vZHVsZUJhY2tncm91bmQsCiAgICAgICAgICAgICAgLi4uUHJvVUkuYm9yZGVyLnRvcCwKICAgICAgICAgICAgICBwYWRkaW5nVmVydGljYWw6IFByb1VJLnNwYWNlWS5sYXJnZSwKICAgICAgICAgICAgICBwYWRkaW5nSG9yaXpvbnRhbDogUHJvVUkuc3BhY2VYLmxhcmdlLAogICAgICAgICAgICAgIG1hcmdpbkJvdHRvbTogZGltZW5zLlBPUlRSQUlUX1VOU0FGRV9BUkVBX0JPVFRPTV9IRUlHSFQKICAgICAgICAgICAgfX0+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcnNlRmxvYXQobGFzdENob29zZVJhdGUpID09PSBwYXJzZUZsb2F0KGxhc3RNYXhSYXRlKSkgewogICAgICAgIHN0YXJ0TnVtID0gTnVtYmVyLnBhcnNlSW50KG1heFJhdGUpCiAgICAgIH0KICAgICAgaWYgKHBhcnNlRmxvYXQobGFzdENob29zZVJhdGUpID09PSBwYXJzZUZsb2F0KGxhc3RNaW5SYXRlKSkgewogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHBhcnNlRmxvYXQobGFzdENob29zZVJhdGUpID09PSBwYXJzZUZsb2F0KGxhc3RNYXhSYXRlKSkgewogICAgICAgIHN0YXJ0TnVtID0gTnVtYmVyLnBhcnNlSW50KG1heFJhdGUpCiAgICAgIH0KICAgICAgaWYgKHBhcnNlRmxvYXQobGFzdENob29zZVJhdGUpID09PSBwYXJzZUZsb2F0KGxhc3RNaW5SYXRlKSkgewogICAgICAgIGVuZE51bSA9IE51bWJlci5wYXJzZUludChtaW5SYXRlKQogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydE51bSA9IE51bWJlci5wYXJzZUludChtYXhSYXRlKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRQcm9kVHlwZUxpc3QgPSBmaW5hbmNlTGlzdC5wcm9kdWN0VHlwZUxpc3QuZmlsdGVyKGl0ZW0gPT4gaXRlbS5wcm9kdWN0VHlwZSA9PT0gRGlzcGxheUFyZWFUeXBlLlVCU19FTlRSWV9DT05GSUcpCiAgICBjb25zdCB1YnNDb25maWcgPSBfLmdldChtYXRjaGVkUHJvZFR5cGVMaXN0LCAnWzBdW3Byb2R1Y3RMaXN0XVswXScsIHVuZGVmaW5lZCkKICAgIHJldHVybiAhIXVic0NvbmZpZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhY2hlTWF4QWdlSW5Ncwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1hdGNoZWRQcm9kVHlwZUxpc3QgPSBmaW5hbmNlTGlzdC5wcm9kdWN0VHlwZUxpc3QuZmlsdGVyKGl0ZW0gPT4gaXRlbS5wcm9kdWN0VHlwZSA9PT0gRGlzcGxheUFyZWFUeXBlLlVCU19FTlRSWV9DT05GSUcpCiAgICBjb25zdCB1YnNDb25maWcgPSBfLmdldChtYXRjaGVkUHJvZFR5cGVMaXN0LCAnWzBdW3Byb2R1Y3RMaXN0XVswXScsIHVuZGVmaW5lZCkKICAgIHJldHVybiAhIXVic0NvbmZpZwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LCB7CiAgICAgICAgcmlkOiBSZXBvcnRLZXlzLkZpbmFuY2lhbEhpZ2hlbmQsCiAgICAgICAgaWNvbjogJ2ZpbmFuY2VfaGlnaGVuZCcsCiAgICAgICAgdGl0bGU6ICfpq5jnq6/nkIbotKInLAogICAgICAgIG1hcmtJZDogJ2NmeS1nZGxjJywKICAgICAgICBvblByZXNzOiAoKSA9PiBBcHBOYXZpZ2F0b3IuZmluYW5jZS5IaWdoZW5kQXJlYVNjZW5lKCkKICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNhY2hlTWF4QWdlSW5Ncwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyYXdQcm9kSW5mb1w+</last-search>
+      <last-search>react-native</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyYXdQcm9kSW5mb1w+</last-pattern>
+      <last-pattern>react-native</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxlbnZcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -217,7 +222,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaW5lQ29sb3JcPg==</entry>
         <entry encoding="base64">XDxkaW1lbnNcPg==</entry>
         <entry encoding="base64">XDxQaXhlbFJhdGlvXD4=</entry>
         <entry encoding="base64">XDx3cmFwcGVyXD4=</entry>
@@ -237,6 +241,7 @@
         <entry encoding="base64">XDxncm91cENvbGxhcHNlZFw+</entry>
         <entry encoding="base64">XDxnZXRQcm9kSW5mb1w+</entry>
         <entry encoding="base64">XDxyYXdQcm9kSW5mb1w+</entry>
+        <entry>react-native</entry>
       </history-search>
       <history-cmd>
         <entry>102</entry>
