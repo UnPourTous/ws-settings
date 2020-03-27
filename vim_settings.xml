@@ -27,79 +27,30 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/actionsReducer.js" timestamp="1585297100388" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/TrustMyDetailScene/TrustMyDetailScene.js" timestamp="1584710132780">
-        <mark key="[" line="648" column="8" />
-        <mark key="]" line="648" column="7" />
-        <mark key="^" line="648" column="7" />
-        <mark key="." line="648" column="7" />
-      </file>
-      <file name="events.js" timestamp="1585147459258">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1585147467201">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="internal/modules/cjs/loader.js" timestamp="1585147895049">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/actionsReducer.js" timestamp="1585297174509" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/@unpourtous/mocker/src/Mocker.js" timestamp="1585294528752" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaafund/index.js" timestamp="1585295258958" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/dyReducerRequire.js" timestamp="1585295331821" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/fundPortfolio/PurchaseScene/PurchaseScene.js" timestamp="1584708033365">
-        <mark key="[" line="345" column="0" />
-        <mark key="]" line="345" column="0" />
-        <mark key="^" line="344" column="81" />
-        <mark key="." line="345" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/button/SimpleButton.js" timestamp="1584427192861">
-        <mark key="[" line="145" column="42" />
-        <mark key="]" line="145" column="52" />
-        <mark key="^" line="145" column="52" />
-        <mark key="." line="145" column="52" />
-      </file>
-      <file name="internal/modules/cjs/helpers.js" timestamp="1585147924069">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="4" />
-        <mark key="^" line="27" column="4" />
-        <mark key="." line="27" column="4" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/@unpourtous/mocker/src/Types.js" timestamp="1585294555544">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
-      </file>
-      <file name="internal/bootstrap/node.js" timestamp="1585147886976">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="271" column="0" />
-        <mark key="^" line="271" column="0" />
-        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" timestamp="1585297068648">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/rate/RatePicker.js" timestamp="1584499843696">
-        <mark key="[" line="292" column="8" />
-        <mark key="]" line="292" column="8" />
-        <mark key="." line="292" column="8" />
-        <mark key="^" line="292" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/package.json" timestamp="1585140962156">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="55" column="87" />
-        <mark key="." line="55" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1585298336211" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/customerService/cgi/index.js" timestamp="1585294758069" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1585298299432" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/AccountService.js" timestamp="1585294239973" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaafund/dyRouters.js" timestamp="1585295389693" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/ubs/IntroductionScene/IntroductionScene.js" timestamp="1584367923986">
-        <mark key="[" line="93" column="14" />
-        <mark key="]" line="93" column="13" />
-        <mark key="." line="93" column="13" />
-        <mark key="^" line="93" column="13" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" timestamp="1585297265466">
+        <mark key="[" line="546" column="54" />
+        <mark key="]" line="546" column="54" />
+        <mark key="^" line="546" column="59" />
+        <mark key="." line="546" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeSceneView.js" timestamp="1585294863363" />
     </filemarks>
@@ -226,11 +177,11 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZnVjazogYWN0aW9uLnBheWxvYWQsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text encoding="base64">ZnVjazogYWN0aW9uLnBheWxvYWQsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb29raWVJbnRlcmNlcHRvclw+</text>
