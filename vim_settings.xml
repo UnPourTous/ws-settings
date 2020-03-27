@@ -5,54 +5,33 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaService.js" timestamp="1585294314745" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaafund/BuyScene/BuyScene.js" timestamp="1585295296672" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" timestamp="1585294521961">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="195" column="10" />
-        <mark key="]" line="195" column="9" />
-        <mark key="^" line="195" column="9" />
-        <mark key="." line="195" column="9" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/actionsReducer.js" timestamp="1585296523987" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/cgi/index.js" timestamp="1585294381348">
-        <mark key="[" line="125" column="15" />
-        <mark key="]" line="125" column="14" />
-        <mark key="^" line="125" column="14" />
-        <mark key="." line="125" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/dyRouterRequire.js" timestamp="1585295382836" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1585295611215">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/actionsReducer.js" timestamp="1585297174509" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/@unpourtous/mocker/src/Mocker.js" timestamp="1585294528752" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaafund/index.js" timestamp="1585295258958" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dynamic/dyReducerRequire.js" timestamp="1585295331821" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/@unpourtous/mocker/src/Types.js" timestamp="1585294555544">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1585295611215">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" timestamp="1585297068648">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/components/TotalAssetCard.js" timestamp="1585298336211" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/customerService/cgi/index.js" timestamp="1585294758069" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1585298299432" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/AccountService.js" timestamp="1585294239973" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/aaaafund/dyRouters.js" timestamp="1585295389693" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/container/actionsReducer.js" timestamp="1585297265466">
-        <mark key="[" line="546" column="54" />
-        <mark key="]" line="546" column="54" />
-        <mark key="^" line="546" column="59" />
-        <mark key="." line="546" column="54" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/DepositAreaScene/DepositAreaScene.js" timestamp="1585318065370">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeSceneView.js" timestamp="1585294863363" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositProductTransferListScene/CDepositProductTransferListScene.js" timestamp="1585318485208">
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="0" />
+        <mark key="." line="238" column="0" />
+        <mark key="^" line="239" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1585317882716" />
     </filemarks>
     <jumps>
       <jump line="18" column="35" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
@@ -178,10 +157,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVjazogYWN0aW9uLnBheWxvYWQsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVjazogYWN0aW9uLnBheWxvYWQsIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb29raWVJbnRlcmNlcHRvclw+</text>
@@ -190,31 +169,31 @@
         <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvclt4eHhdCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVycyB9IGZyb20gJ3V0aWxzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvZGUgIC0+ICd3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEnCg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvZGUgCg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvclt4eHhdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCiAgICB3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEK</text>
+        <text encoding="base64">ICAgIGNvZGUgIC0+ICd3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQogICAgICAgIHt0aGlzLnJlbmRlclRyYW5zZmVyT3JkZXJMaXN0KCl9CiAgICAgICAge3RoaXMucmVuZGVyVHJhbnNmZXJPcmRlckxpc3QoKX0KICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQo=</text>
+        <text encoding="base64">ICAgIGNvZGUgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfCg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCiAgICB3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBNb2NrZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQogICAgICAgIHt0aGlzLnJlbmRlclRyYW5zZmVyT3JkZXJMaXN0KCl9CiAgICAgICAge3RoaXMucmVuZGVyVHJhbnNmZXJPcmRlckxpc3QoKX0KICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICBfCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -253,7 +232,6 @@
         <entry encoding="base64">XDxDb29raWVJbnRlcmNlcHRvclw+</entry>
       </history-search>
       <history-cmd>
-        <entry>51</entry>
         <entry>322</entry>
         <entry>67</entry>
         <entry>ww:w</entry>
@@ -272,6 +250,7 @@
         <entry>qw</entry>
         <entry>296</entry>
         <entry>64</entry>
+        <entry>239</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
