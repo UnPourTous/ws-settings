@@ -14,6 +14,7 @@
         <mark key="^" line="195" column="9" />
         <mark key="." line="195" column="9" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/actionsReducer.js" timestamp="1585296523987" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/cgi/index.js" timestamp="1585294381348">
         <mark key="[" line="125" column="15" />
         <mark key="]" line="125" column="14" />
@@ -26,6 +27,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/actionsReducer.js" timestamp="1585297100388" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/revenue/TrustMyDetailScene/TrustMyDetailScene.js" timestamp="1584710132780">
         <mark key="[" line="648" column="8" />
         <mark key="]" line="648" column="7" />
@@ -73,7 +75,7 @@
         <mark key="^" line="271" column="0" />
         <mark key="." line="271" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" timestamp="1585295202395">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" timestamp="1585297068648">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
