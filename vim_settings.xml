@@ -51,7 +51,12 @@
         <mark key="^" line="137" column="7" />
         <mark key="." line="137" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1585575581991" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/CGI.js" timestamp="1585577072764">
+        <mark key="[" line="275" column="22" />
+        <mark key="]" line="275" column="21" />
+        <mark key="^" line="275" column="21" />
+        <mark key="." line="275" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/LinkingHelper.js" timestamp="1585564172623" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/AgreementConstants.js" timestamp="1585549719973" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1585317882716" />
