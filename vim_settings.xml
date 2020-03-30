@@ -5,16 +5,39 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/DepositAreaScene/DepositAreaScene.js" timestamp="1585318065370">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/@unpourtous/mocker/src/Types.js" timestamp="1585294555544">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeBaseNotice.js" timestamp="1585550211187">
+        <mark key="'" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/services/NoticeDataService.js" timestamp="1585549846222" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1585295611215">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" timestamp="1585297068648">
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeYellowNotice.js" timestamp="1585550240849">
+        <mark key="'" line="50" column="12" />
+        <mark key="[" line="21" column="58" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositTransferScene/CDepositTransferService.js" timestamp="1585545930716" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/DepositAreaScene/DepositAreaScene.js" timestamp="1585318065370">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/ProductDetailScene/ProductDetailScene.js" timestamp="1585550205242" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositProductTransferListScene/CDepositProductTransferListScene.js" timestamp="1585318485208">
         <mark key="[" line="238" column="0" />
         <mark key="]" line="238" column="0" />
@@ -27,22 +50,10 @@
         <mark key="^" line="137" column="7" />
         <mark key="." line="137" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1585295611215">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" timestamp="1585297068648">
-        <mark key="[" line="174" column="0" />
-        <mark key="]" line="174" column="0" />
-        <mark key="." line="174" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/AgreementConstants.js" timestamp="1585549719973" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1585317882716" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositTransferScene/CDepositTransferService.js" timestamp="1585545930716" />
     </filemarks>
     <jumps>
-      <jump line="18" column="35" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
-      <jump line="22" column="13" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/NavigationStackView.js" />
       <jump line="30" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/List.js" />
       <jump line="55" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/List.js" />
       <jump line="17" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/NavigationScene/NavigationScene.js" />
@@ -141,6 +152,8 @@
       <jump line="4" column="7" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/api/WeApi.js" />
       <jump line="80" column="17" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/customerService/cgi/index.js" />
       <jump line="180" column="13" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositAreaScene/CDepositAreaScene.js" />
+      <jump line="22" column="31" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeBaseNotice.js" />
+      <jump line="50" column="12" filename="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeYellowNotice.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
