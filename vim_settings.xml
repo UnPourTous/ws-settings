@@ -25,8 +25,15 @@
         <mark key="^" line="403" column="3" />
         <mark key="." line="403" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/reduxUtil.js" timestamp="1585743400365" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeBaseNotice.js" timestamp="1585550211187">
         <mark key="'" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Scene.js" timestamp="1585743076102">
+        <mark key="[" line="75" column="11" />
+        <mark key="]" line="75" column="10" />
+        <mark key="." line="75" column="10" />
+        <mark key="^" line="75" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/CDepositProductTransferListScene/CDepositProductTransferListScene.js" timestamp="1585318485208">
         <mark key="[" line="238" column="0" />
@@ -174,10 +181,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>forceRefresh</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>forceRefresh</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb29raWVJbnRlcmNlcHRvclw+</text>
