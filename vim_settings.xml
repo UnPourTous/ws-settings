@@ -8,8 +8,11 @@
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeBaseNotice.js" timestamp="1585550211187">
         <mark key="'" line="22" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1586346404016" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/index.js" timestamp="1586400455054" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1586687139157">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Scene.js" timestamp="1585743076102">
         <mark key="[" line="75" column="11" />
         <mark key="]" line="75" column="10" />
@@ -54,7 +57,12 @@
         <mark key="." line="403" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1585901851867" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1586346515455" />
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/jest.config.js" timestamp="1586686756788">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="30" />
+        <mark key="." line="10" column="30" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native-webview/index.js" timestamp="1585734989737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -66,6 +74,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/UnPourTous/trident/__tests__/trident-ui/Button.test.js" timestamp="1586686955296" />
     </filemarks>
     <jumps>
       <jump line="30" column="4" filename="$USER_HOME$/Projects/UnPourTous/trident/trident-ui/components/list/List.js" />
@@ -191,10 +200,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVjawo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1qZXN0IjogIl4yMS4yLjAiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>forceRefresh</text>
+        <text>, ''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb29raWVJbnRlcmNlcHRvclw+</text>
@@ -203,31 +212,31 @@
         <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVjawo=</text>
+        <text encoding="base64">ICAgICJiYWJlbC1qZXN0IjogIl4yMS4yLjAiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlsdGVycyB9IGZyb20gJ3V0aWxzJwo=</text>
+        <text encoding="base64">ZnVjawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvclt4eHhdCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlsdGVycyB9IGZyb20gJ3V0aWxzJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvZGUgIC0+ICd3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEnCg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvZGUgCg==</text>
+        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvclt4eHhdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFwcE5hdmlnYXRvci5hYWFhZnVuZC5CdXlTY2VuZSh7CiAgICAgIGE6IDEKICAgIH0pCiAgICB3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEK</text>
+        <text encoding="base64">ICAgIGNvZGUgIC0+ICd3ZWJhbms6Ly9hYWFhZnVuZC9CdXlTY2VuZT9hPTEnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQogICAgICAgIHt0aGlzLnJlbmRlclRyYW5zZmVyT3JkZXJMaXN0KCl9CiAgICAgICAge3RoaXMucmVuZGVyVHJhbnNmZXJPcmRlckxpc3QoKX0KICAgICAgICB7dGhpcy5yZW5kZXJUcmFuc2Zlck9yZGVyTGlzdCgpfQo=</text>
+        <text encoding="base64">ICAgIGNvZGUgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
