@@ -37,7 +37,7 @@
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/SelfCenterScene/SelfCenterScene.js" timestamp="1586833471712" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Common/components/HomeV2ShortcutList.js" timestamp="1586833449296" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Scene.js" timestamp="1585743076102">
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Scene.js" timestamp="1586848743689">
         <mark key="[" line="75" column="11" />
         <mark key="]" line="75" column="10" />
         <mark key="." line="75" column="10" />
@@ -70,6 +70,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HostTabs/home/HomeTab.js" timestamp="1586848687551" />
       <file name="$USER_HOME$/Projects/UnPourTous/trident/babel.config.js" timestamp="1586767068778">
         <mark key="'" line="5" column="3" />
         <mark key="[" line="0" column="18" />
