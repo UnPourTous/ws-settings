@@ -5,14 +5,13 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/notice/WeBaseNotice.js" timestamp="1585550211187">
-        <mark key="'" line="22" column="31" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/package.json" timestamp="1586766857806">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/SelfCenterScene/SelfCenterScene.js" timestamp="1586833471712" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Common/components/HomeV2ShortcutList.js" timestamp="1586833449296" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Scene.js" timestamp="1585743076102">
         <mark key="[" line="75" column="11" />
         <mark key="]" line="75" column="10" />
@@ -26,6 +25,7 @@
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Service.js" timestamp="1586834005092" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/transfer/TransferInputMoneyScene/TransferInputMoneyScene.js" timestamp="1586772185100" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/smartCDeposit/ProductDetailScene/ProductDetailScene.js" timestamp="1585905750021">
         <mark key="[" line="306" column="6" />
@@ -78,6 +78,7 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/LifeScene/LifeScene.js" timestamp="1586833795745" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-native-webview/index.js" timestamp="1585734989737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
