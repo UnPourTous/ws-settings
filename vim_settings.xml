@@ -5,6 +5,38 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1587026755648">
+        <mark key="'" line="631" column="55" />
+        <mark key="j" line="24" column="15" />
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/serviceHelper/ClassTwoAccountDiffNameTransChecker.js" timestamp="1587049812865" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/dyRouters.js" timestamp="1586936176148">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2UnloginScene/HomeV2UnloginScene.js" timestamp="1586855899984">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="3" />
+        <mark key="^" line="52" column="3" />
+        <mark key="." line="52" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/URLUtils.js" timestamp="1586942770382">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1586942279508">
+        <mark key="[" line="286" column="12" />
+        <mark key="]" line="286" column="13" />
+        <mark key="." line="286" column="13" />
+        <mark key="^" line="286" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1587026737186">
+        <mark key="'" line="187" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1587026282936">
         <mark key="[" line="118" column="6" />
         <mark key="]" line="118" column="17" />
@@ -17,25 +49,6 @@
         <mark key="." line="90" column="3" />
         <mark key="^" line="90" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/AppNavigator.js" timestamp="1587026755648">
-        <mark key="'" line="631" column="55" />
-        <mark key="j" line="24" column="15" />
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="32" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/dyRouters.js" timestamp="1586936176148">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2UnloginScene/HomeV2UnloginScene.js" timestamp="1586855899984">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="3" />
-        <mark key="^" line="52" column="3" />
-        <mark key="." line="52" column="3" />
-      </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1587005857563" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1587026226053">
         <mark key="[" line="112" column="73" />
@@ -43,29 +56,17 @@
         <mark key="^" line="112" column="73" />
         <mark key="." line="112" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/URLUtils.js" timestamp="1586942770382">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/constants/GrayBiz.js" timestamp="1586942708024">
         <mark key="[" line="165" column="20" />
         <mark key="]" line="166" column="1" />
         <mark key="." line="166" column="1" />
         <mark key="^" line="166" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/components/PopupsContainer.js" timestamp="1586942279508">
-        <mark key="[" line="286" column="12" />
-        <mark key="]" line="286" column="13" />
-        <mark key="." line="286" column="13" />
-        <mark key="^" line="286" column="13" />
-      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/viewer/WebViewProScene/WebViewProScene.js" timestamp="1586869359959">
         <mark key="[" line="589" column="2" />
         <mark key="]" line="589" column="1" />
         <mark key="." line="589" column="1" />
         <mark key="^" line="589" column="1" />
-      </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/bizComponents/base/WeBaseScene.js" timestamp="1587026737186">
-        <mark key="'" line="187" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1587026466333">
         <mark key="[" line="60" column="6" />
