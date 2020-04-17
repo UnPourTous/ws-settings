@@ -11,6 +11,13 @@
         <mark key="^" line="118" column="17" />
         <mark key="." line="118" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1587112299859" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/highend/HighendExperienceConfirmScene/HighendExperienceConfirmScene.js" timestamp="1587112531735">
+        <mark key="[" line="45" column="4" />
+        <mark key="]" line="45" column="4" />
+        <mark key="." line="45" column="4" />
+        <mark key="^" line="45" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2Scene/HomeV2Scene.js" timestamp="1586856016731">
         <mark key="[" line="90" column="4" />
         <mark key="]" line="90" column="3" />
@@ -70,12 +77,13 @@
         <mark key="^" line="589" column="1" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/dyConfig.json" timestamp="1587107043971" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1587026466333">
-        <mark key="[" line="60" column="6" />
-        <mark key="]" line="60" column="5" />
-        <mark key="^" line="60" column="5" />
-        <mark key="." line="60" column="5" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1587112310830">
+        <mark key="[" line="58" column="89" />
+        <mark key="]" line="58" column="88" />
+        <mark key="^" line="58" column="88" />
+        <mark key="." line="58" column="88" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/wepay/dyRouters.js" timestamp="1587112716034" />
     </filemarks>
     <jumps>
       <jump line="28" column="6" filename="$USER_HOME$/Projects/UnPourTous/trident/libraryDev/src/modules/example/components/ObjectView.js" />
@@ -201,43 +209,43 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>nullb</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>nullb</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb29raWVJbnRlcmNlcHRvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmF2aWdhdG9yID0gbmF2Cg==</text>
+        <text encoding="base64">ICAgICAgICAnQSc6ICd4eHjor4HmmI4nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG9uWFhSZXN1bWU6IHt9Cg==</text>
+        <text encoding="base64">aGlnaGVuZC9IaWdoZW5kRXhwZXJpZW5jZUNvbmZpcm1TY2VuZT9wcm9kQ29kZT0wMDEyMzQmdHlwZT0xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGlnaGVuZC9IaWdoZW5kRXhwZXJpZW5jZUNvbmZpcm1TY2VuZT9wcm9kQ29kZT0wMDEyMzQmdHlwZT0xCiAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwZW5kaW5nVGFzawo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QXBwbmF2aWdhdG9yLnh4eC55eXl5U2NlbmUoewogIHByb2RDb2RlOiAxCn0pCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBbbG9naW5dOiBsb2dpbi5yb3V0ZXJzLAo=</text>
+        <text encoding="base64">ICAgIG9uWFhSZXN1bWU6IHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBbbG9naW5dOiBsb2dpbi5yb3V0ZXJzLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAiQGJhYmVsL3ByZXNldC1lbnYiLAogICAgICAiQGJhYmVsL3ByZXNldC1yZWFjdCIsCiAgICAgICJAYmFiZWwvcHJlc2V0LWZsb3ciCiAgICBdLAogICAgInBsdWdpbnMiOiBbCiAgICAgIFsKICAgICAgICAiQGJhYmVsL3BsdWdpbi1wcm9wb3NhbC1jbGFzcy1wcm9wZXJ0aWVzIiwKICAgICAgICB7CiAgICAgICAgICAibG9vc2UiOiB0cnVlCiAgICAgICAgfQogICAgICBdCiAgICBdCg==</text>
+        <text encoding="base64">ICBwZW5kaW5nVGFzawo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
