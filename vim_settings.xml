@@ -17,8 +17,6 @@
         <mark key="^" line="118" column="17" />
         <mark key="." line="118" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/deposit/constants/ReportKeys.js" timestamp="1588147768504" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/plugins/Statistics.js" timestamp="1588147804298" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/highend/HighendExperienceConfirmScene/HighendExperienceConfirmScene.js" timestamp="1587112531735">
         <mark key="[" line="45" column="4" />
         <mark key="]" line="45" column="4" />
@@ -45,7 +43,6 @@
         <mark key="^" line="208" column="19" />
         <mark key="." line="208" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-navigation/src/views/CardStack/CardStack.js" timestamp="1588152459735" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2UnloginScene/HomeV2UnloginScene.js" timestamp="1586855899984">
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="3" />
@@ -81,6 +78,12 @@
         <mark key="]" line="589" column="1" />
         <mark key="." line="589" column="1" />
         <mark key="^" line="589" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-navigation/src/views/Header/HeaderTitle.js" timestamp="1588168920877">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/reducer.js" timestamp="1587112310830">
         <mark key="[" line="58" column="89" />
