@@ -5,6 +5,12 @@
       <mark key="I" line="30" column="10" filename="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-navigation/src/views/Header/Header.js" timestamp="1588152100522">
+        <mark key="[" line="483" column="0" />
+        <mark key="]" line="483" column="0" />
+        <mark key="^" line="483" column="31" />
+        <mark key="." line="483" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/home/HomeScene/HomeScene.js" timestamp="1587026282936">
         <mark key="[" line="118" column="6" />
         <mark key="]" line="118" column="17" />
@@ -39,6 +45,7 @@
         <mark key="^" line="208" column="19" />
         <mark key="." line="208" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/node_modules/react-navigation/src/views/CardStack/CardStack.js" timestamp="1588152459735" />
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/modules/informationAccessibility/HomeV2UnloginScene/HomeV2UnloginScene.js" timestamp="1586855899984">
         <mark key="[" line="52" column="4" />
         <mark key="]" line="52" column="3" />
@@ -46,11 +53,10 @@
         <mark key="." line="52" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/UnPourTous/trident/global-cli/env/index.js" timestamp="1587005857563" />
-      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1587026226053">
-        <mark key="[" line="112" column="73" />
-        <mark key="]" line="112" column="73" />
-        <mark key="^" line="112" column="73" />
-        <mark key="." line="112" column="73" />
+      <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/apps/webankPro/navigation/WeNavigator.js" timestamp="1588152661205">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/webank_hj_app/pro/src/utils/URLUtils.js" timestamp="1586942770382">
         <mark key="'" line="0" column="0" />
@@ -206,8 +212,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -219,31 +225,31 @@
         <text encoding="base64">ICAgICAgICAnQSc6ICd4eHjor4HmmI4nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGlnaGVuZC9IaWdoZW5kRXhwZXJpZW5jZUNvbmZpcm1TY2VuZT9wcm9kQ29kZT0wMDEyMzQmdHlwZT0xCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aGlnaGVuZC9IaWdoZW5kRXhwZXJpZW5jZUNvbmZpcm1TY2VuZT9wcm9kQ29kZT0wMDEyMzQmdHlwZT0xCiAgCg==</text>
+        <text encoding="base64">ICAgIHJlbm5kZXJIZWFkZXI6ICgpID0+IFB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICByZWY9eygpID0+IHt0aGlzLnJlZj1yZWZ9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aGlnaGVuZC9IaWdoZW5kRXhwZXJpZW5jZUNvbmZpcm1TY2VuZT9wcm9kQ29kZT0wMDEyMzQmdHlwZT0xCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9uWFhSZXN1bWU6IHt9Cg==</text>
+        <text encoding="base64">aGlnaGVuZC9IaWdoZW5kRXhwZXJpZW5jZUNvbmZpcm1TY2VuZT9wcm9kQ29kZT0wMDEyMzQmdHlwZT0xCiAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwZW5kaW5nVGFzawo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
