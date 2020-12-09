@@ -1,9 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="RecordDatePicker" type="JavaScript" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="getRNCliPath" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
     </extensionMap>
